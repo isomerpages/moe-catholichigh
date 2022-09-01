@@ -1,4 +1,5 @@
 collections:
   contact-and-outreach:
     output: true
-    order: []
+    order:
+      - Upcoming Events.md
