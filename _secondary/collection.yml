@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Talent Development/.keep
       - Awards & Achievements/Overview.md
       - Awards & Achievements/Academic Achievements (Sec).md
       - Awards & Achievements/CCA Achievements (Sec).md
