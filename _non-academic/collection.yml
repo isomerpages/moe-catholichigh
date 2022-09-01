@@ -2,6 +2,7 @@ collections:
   non-academic:
     output: true
     order:
+      - Character Education/Values in Action (VIA).md
       - Character Education/Character HeroeS.md
       - Character Education/Environmental Education.md
       - Character Education/Teach Me to Fish (TM2F).md
