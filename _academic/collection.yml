@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Science/Signature Programmes.md
       - Science/Highlights.md
       - Science/Achievements.md
       - Science/.keep
