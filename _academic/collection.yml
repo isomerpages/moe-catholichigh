@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - 华文部 Chinese Language/.keep
       - SAP/Overview.md
       - SAP/特别课程 Signature Programmes.md
       - SAP/.keep
