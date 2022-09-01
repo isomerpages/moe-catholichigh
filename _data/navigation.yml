@@ -62,7 +62,17 @@ links:
         url: /secondary/staff-contact/
   - title: Prospective Students
     url: /prospective-students/prospectus-sec/overview/
-    sublinks: []
+    sublinks:
+      - title: Prospectus (Sec)
+        url: /prospective-students/prospectus-sec/overview/
+      - title: Sec Admission
+        url: /prospective-students/sec-admission/overview/
+      - title: Admission to IP Year 3
+        url: /prospective-students/admission-to-ip-year-3/
+      - title: Open House
+        url: /prospective-students/open-house/
+      - title: P1 Registration
+        url: /prospective-students/p-1-registration/
   - title: Contact & Outreach
     url: /permalink
     sublinks: []
