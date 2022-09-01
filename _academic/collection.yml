@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Science/Overview.md
       - Science/Teaching and Learning Approaches.md
       - Science/Signature Programmes.md
       - Science/Highlights.md
