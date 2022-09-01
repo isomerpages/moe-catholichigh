@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Awards & Achievements/.keep
       - Joint Integrated Programme.md
       - Partnerships.md
       - Pictorial Tour of CHS.md
