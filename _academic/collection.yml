@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - English Language/Recommended Reading lists for English Language.md
       - English Language/.keep
       - 华文部 Chinese Language/Overview.md
       - 华文部 Chinese Language/理念与原则 Teaching & Learning Model and Approach.md
