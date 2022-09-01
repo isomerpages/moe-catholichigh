@@ -2,6 +2,7 @@ collections:
   non-academic:
     output: true
     order:
+      - Character Education/National Education.md
       - Character Education/The Form Teacher Guidance Period.md
       - Character Education/Cyber Wellness.md
       - Character Education/Education and Career Guidance.md
