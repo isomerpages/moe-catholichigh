@@ -2,6 +2,7 @@ collections:
   non-academic:
     output: true
     order:
+      - Physical Education/.keep
       - Character Education/Overview.md
       - Character Education/National Education.md
       - Character Education/The Form Teacher Guidance Period.md
