@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Distinctive Programmes/SAP Flagship Programme 特选学校旗舰计划.md
       - Distinctive Programmes/Space and Flight Science Programme.md
       - Distinctive Programmes/Passion Pursuit (Elective) (OP & IP).md
       - Distinctive Programmes/Passion Pursuit (Independent) (IP).md
