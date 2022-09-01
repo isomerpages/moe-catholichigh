@@ -2,4 +2,5 @@ collections:
   dual-track-curriculum:
     output: true
     order:
+      - Integrated Programme/About Eunoia JC.md
       - Integrated Programme/.keep
