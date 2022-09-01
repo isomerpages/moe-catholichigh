@@ -1,6 +1,6 @@
 title: Catholic High School
 url: https://www.open.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/chslogo1.png
 colors:
   primary-color: "#0a4d93"
   secondary-color: "#000000"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d26k7rl81eo6rb.amplifyapp.com
 prod: https://master.d26k7rl81eo6rb.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/chslogo1.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
