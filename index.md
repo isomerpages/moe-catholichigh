@@ -18,7 +18,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/
-      title: Catholic High  School 公教中学
+      title: "Catholic High  School "
   - infopic:
       title: Open House 2022
       subtitle: Latest News
