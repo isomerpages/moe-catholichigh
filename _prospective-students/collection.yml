@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Sec Admission/Direct School Admission (DSA).md
       - Sec Admission/Admission to IP Year 3.md
       - Sec Admission/FAQs (Secondary Section).md
       - Sec Admission/.keep
