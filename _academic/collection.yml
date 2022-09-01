@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - 华文部 Chinese Language/理念与原则 Teaching & Learning Model and Approach.md
       - 华文部 Chinese Language/特别课程 Signature Programmes.md
       - 华文部 Chinese Language/小学华文课外读物参考书目.md
       - 华文部 Chinese Language/.keep
