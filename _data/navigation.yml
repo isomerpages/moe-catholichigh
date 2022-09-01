@@ -30,3 +30,15 @@ links:
         url: /news/secondary-school-news/
       - title: Upcoming Events
         url: /news/upcoming-events/
+  - title: Primary
+    url: /primary/news/
+    sublinks: []
+  - title: Secondary
+    url: /secondary/blablabla
+    sublinks: []
+  - title: Prospective Students
+    url: /prospective-students/blabla
+    sublinks: []
+  - title: Contact & Outreach
+    url: /permalink
+    sublinks: []
