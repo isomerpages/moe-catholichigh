@@ -2,4 +2,5 @@ collections:
   non-academic:
     output: true
     order:
+      - Health Education.md
       - IT & Media.md
