@@ -2,6 +2,7 @@ collections:
   non-academic:
     output: true
     order:
+      - CCA/CCA Framework.md
       - CCA/CCA Schedule.md
       - CCA/CCA Department Teacher's Email Contact.md
       - CCA/Singapore Primary School Sports Council Website.md
