@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Mathematics/Mathematical Framework.md
       - Mathematics/.keep
       - Science/Overview.md
       - Science/Teaching and Learning Approaches.md
