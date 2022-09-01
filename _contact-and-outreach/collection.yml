@@ -2,5 +2,6 @@ collections:
   contact-and-outreach:
     output: true
     order:
+      - Dads@CHS.md
       - Parent Support Group.md
       - Upcoming Events.md
