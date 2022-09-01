@@ -2,4 +2,5 @@ collections:
   contact-and-outreach:
     output: true
     order:
+      - Parent Support Group.md
       - Upcoming Events.md
