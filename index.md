@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/chslogo.png
+      background: /images/chsbanner.png
       key_highlights:
         - title: Announcements
           description: ""
@@ -18,6 +18,8 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/
+      title: Catholic High  School
+      subtitle: 公教中学
   - infopic:
       title: Open House 2022
       subtitle: Latest News
