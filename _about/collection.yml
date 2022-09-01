@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - About CHS/History & Philosophy.md
       - About CHS/Tradition of Excellence.md
       - About CHS/Values & Purpose.md
       - About CHS/Our Crest, Our Flag.md
