@@ -2,5 +2,6 @@ collections:
   secondary:
     output: true
     order:
+      - Awards & Achievements/.keep
       - FAQs (Secondary Section).md
       - Staff Contact.md
