@@ -2,5 +2,6 @@ collections:
   non-academic:
     output: true
     order:
+      - Character Education/.keep
       - Health Education.md
       - IT & Media.md
