@@ -74,5 +74,27 @@ links:
       - title: P1 Registration
         url: /prospective-students/p-1-registration/
   - title: Contact & Outreach
-    url: /permalink
-    sublinks: []
+    url: /contact-and-outreach/contact-school-and-services/overview/
+    sublinks:
+      - title: Contact School & Services
+        url: /contact-and-outreach/contact-school-and-services/overview/
+      - title: Family Day & Homecoming
+        url: /contact-and-outreach/family-day-and-homecoming/
+      - title: Our B.I.G. Newsletter
+        url: /contact-and-outreach/our-big-newsletter/
+      - title: Parents Bulletin (Sec)
+        url: /contact-and-outreach/parents-bulletin-sec/
+      - title: CH Alumni
+        url: /contact-and-outreach/ch-alumni/
+      - title: CHS Catholic Parents
+        url: /contact-and-outreach/chs-catholic-parents/
+      - title: Dads@CHS
+        url: /contact-and-outreach/dads-at-chs/
+      - title: Parent Support Group
+        url: /contact-and-outreach/parent-support-group/
+      - title: Upcoming Events
+        url: /contact-and-outreach/upcoming-events/
+      - title: Facebook
+        url: https://www.facebook.com/chs.gongjiao
+      - title: Instagram
+        url: http://www.instagram.com/chs.gongjiao
