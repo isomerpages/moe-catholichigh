@@ -2,6 +2,7 @@ collections:
   non-academic:
     output: true
     order:
+      - Character Education/Programme for Active Learning (PAL).md
       - Character Education/Values in Action (VIA).md
       - Character Education/Character HeroeS.md
       - Character Education/Environmental Education.md
