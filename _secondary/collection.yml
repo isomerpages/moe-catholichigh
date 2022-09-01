@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Talent Development/Bicultural Studies Programme 双文化课程.md
       - Talent Development/English Talent Development Programme.md
       - Talent Development/Coergy Programme.md
       - Talent Development/Humanities TDP.md
