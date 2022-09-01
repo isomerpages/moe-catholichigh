@@ -2,6 +2,7 @@ collections:
   non-academic:
     output: true
     order:
+      - CCA/Singapore Primary School Sports Council Website.md
       - CCA/.keep
       - Physical Education/Overview.md
       - Physical Education/Teacher & Learning Model and Approach.md
