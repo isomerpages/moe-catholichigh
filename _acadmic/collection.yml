@@ -1,4 +1,5 @@
 collections:
   acadmic:
     output: true
-    order: []
+    order:
+      - Gifted Education Programme/.keep
