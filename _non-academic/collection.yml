@@ -2,6 +2,7 @@ collections:
   non-academic:
     output: true
     order:
+      - Character Education/Cyber Wellness.md
       - Character Education/Education and Career Guidance.md
       - Character Education/Sexuality Education.md
       - Character Education/Programme for Active Learning (PAL).md
