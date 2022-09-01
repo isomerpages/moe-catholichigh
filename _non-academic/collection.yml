@@ -2,6 +2,7 @@ collections:
   non-academic:
     output: true
     order:
+      - Physical Education/NAPFA.md
       - Physical Education/.keep
       - Character Education/Overview.md
       - Character Education/National Education.md
