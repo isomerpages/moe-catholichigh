@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Prospectus (Sec).md
       - Sec Admission/Sec Admission.md
       - Sec Admission/Sec Admission & Fees.md
       - Sec Admission/Level 1 Registration.md
