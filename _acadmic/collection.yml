@@ -2,5 +2,6 @@ collections:
   acadmic:
     output: true
     order:
+      - Gifted Education Programme/Achievements.md
       - Gifted Education Programme/P3 GEP Parents' Briefing.md
       - Gifted Education Programme/.keep
