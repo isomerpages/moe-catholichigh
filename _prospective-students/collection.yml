@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Sec Admission/.keep
       - Admission to IP Year 3.md
       - Open House.md
       - P1 Registration.md
