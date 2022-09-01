@@ -31,11 +31,35 @@ links:
       - title: Upcoming Events
         url: /news/upcoming-events/
   - title: Primary
-    url: /primary/news/
-    sublinks: []
+    url: /primary-news/
+    sublinks:
+      - title: Academic
+        url: /academic/english-language/overview/
+      - title: Non-Academic
+        url: /non-acadmic/cca/overview/
+      - title: Primary News
+        url: /primary-news/
+      - title: Staff Contact
+        url: /primary/staff-contact/
   - title: Secondary
-    url: /secondary/blablabla
-    sublinks: []
+    url: /secondary/prospectus/
+    sublinks:
+      - title: Prospectus
+        url: /secondary/prospectus/
+      - title: Dual Track Curriculum
+        url: /dual-track-curriculum/comparing-ip-and-op/
+      - title: Distinctive Programme
+        url: /permalink
+      - title: Talent Development
+        url: /secondary/talent-development/bicultural-studies-programme/
+      - title: Student Development
+        url: /student-development/pe-and-cca/overview/
+      - title: Awards & Achievements
+        url: /secondary/awards-and-achievements/overview/
+      - title: FAQs (Secondary Section)
+        url: /secondary/faqs/
+      - title: Staff Contact
+        url: /secondary/staff-contact/
   - title: Quick Links
     url: /quick-links/
     sublinks: []
