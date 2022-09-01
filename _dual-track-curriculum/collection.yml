@@ -2,6 +2,7 @@ collections:
   dual-track-curriculum:
     output: true
     order:
+      - Integrated Programme/Overview.md
       - Integrated Programme/Passion Pursuit (Independent).md
       - Integrated Programme/World Readiness Programme.md
       - Integrated Programme/About Eunoia JC.md
