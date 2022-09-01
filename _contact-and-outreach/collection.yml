@@ -2,6 +2,7 @@ collections:
   contact-and-outreach:
     output: true
     order:
+      - Our BIG Newsletter.md
       - Parents Bulletin (Sec).md
       - CH Alumni.md
       - CHS Catholic Parents.md
