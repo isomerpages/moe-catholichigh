@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Distinctive Programmes/World Readiness Programme (IP).md
       - Distinctive Programmes/Overseas Immersion & Cultural Experience.md
       - Distinctive Programmes/.keep
       - Talent Development/Bicultural Studies Programme 双文化课程.md
