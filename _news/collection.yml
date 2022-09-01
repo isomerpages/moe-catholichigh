@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - Our BIG Newsletter.md
       - Parent Support Group.md
       - Primary School News.md
       - Secondary School News.md
