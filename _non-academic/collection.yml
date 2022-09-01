@@ -2,6 +2,7 @@ collections:
   non-academic:
     output: true
     order:
+      - Character Education/Teach Me to Fish (TM2F).md
       - Character Education/Friend of Singa (FOS).md
       - Character Education/.keep
       - Health Education.md
