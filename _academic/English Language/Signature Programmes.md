@@ -15,3 +15,27 @@ A wide variety of books are placed in class for pupils to borrow and read. Our i
 #### Speech and Drama
 
 Speech and Drama is a springboard for developing effective communication skills and building confidence in our lower primary pupils. This programme allows pupils to express themselves freely, explore their imagination and learn a variety of speech and drama skills through fun, creative and engaging activities. All our P2 pupils will be given the opportunity to perform for an audience in Semester 2.
+
+|  	|  	|
+|---	|---	|
+|<img src="/images/el9.png" style="width:80%">  	|  <img src="/images/el10.png" style="width:80%">	|
+|  <img src="/images/el11.png" style="width:80%">	|  <img src="/images/el12.png" style="width:80%">	|
+
+<img src="/images/el13.png" style="width:60%">
+
+#### English Language Week – S.T.A.G.E
+
+S.T.A.G.E., an acronym for Show Tell Act Gateway to Expressing your linguistic-self will be conducted in Term 2. The activities aim to promote the usage of standard English and experience the joy of acquiring the language in a fun and engaging manner.
+
+<img src="/images/el14.png" style="width:60%">
+<img src="/images/el15.png" style="width:60%">
+<img src="/images/el16.png" style="width:60%">
+
+|  	|  	|
+|---	|---	|
+|  <img src="/images/el17.png" style="width:60%">	|  <img src="/images/el18.png" style="width:60%">	|
+
+#### Philosophy for Children (P4C)
+
+Philosophy for Children (P4C) has, since its introduction to the UK in the 1990s, developed as a powerful pedagogical approach and met with ever-increasing popularity. Questions and dialogue are central to P4C, which helps to develop pupils’ thinking skills, their confidence to speak and listen to others, and their respect of other people’s viewpoints. In Catholic High School, the English curriculum is enriched by the strategies in the STELLAR programme, extended by our Explicit Instructional Programme (EIP in-house resources) and enhanced with the integration of P4C into English language lessons.  
+For more information on STELLAR, please visit [http://www.stellarliteracy.sg](http://www.stellarliteracy.sg/)
