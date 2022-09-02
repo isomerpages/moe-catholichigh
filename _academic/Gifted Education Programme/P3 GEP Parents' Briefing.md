@@ -14,7 +14,6 @@ third_nav_title: Gifted Education Programme
 |  **CHS brotherhood-Our blood is green.**	|  	|
 | **Voice of GEP Students and Parents** 	|  	|
 | **Individual Research Study Showcase** 	|  	|
-| **CHS history as a SAP school** 
-**《钟声响起时》** 	|  	|
+| **CHS history as a SAP school <br>《钟声响起时》** 	|  	|
 | **To understand what their big brother doing in secondary school, please visit our CHS Open House 2021**  	| <p><a href="web"><img style="width:25%" src="/images/gep15.png"></a></p> 	|
 | **To understand more about the school, PSG and Alumni, please LIKE our Facebook pages** 	| <p><a href="web"><img style="width:25%" src="/images/gep16.png"></a></p><p><a href="web"><img style="width:25%" src="/images/gep17.png"></a></p><p><a href="web"><img style="width:25%" src="/images/gep18.png"></a></p> 	|
