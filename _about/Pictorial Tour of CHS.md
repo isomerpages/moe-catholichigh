@@ -114,4 +114,4 @@ The Space Exploration Gallery captures important achievements or major events in
 *   Our key partners are Civil Aviation Authority of Singapore (CAAS), National University of Singapore (NUS), Singapore University of Technology and Design (SUTD), Defence Science & Technology Agency (DSTA), Singapore Science Centre and Singapore Youth Flying Club.
 
 <img src="/images/about59.png" style="width:60%">
-<img src="/images/about60png" style="width:60%">
+<img src="/images/about61.png" style="width:60%">
