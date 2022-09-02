@@ -13,4 +13,4 @@ _(i[n speech made at the Catholic High School’s 80th Anniversary Founder’s D
 
 We prepare our students – like the sturdy, yet flexible and highly adaptable bamboo – to thrive in a volatile, uncertain, complex and ambiguous world. We challenge our students to look beyond the local to the global, beyond problems to opportunities, beyond risks to possibilities, and beyond the functional and utilitarian to the emotive and cultural. In doing so, we nurture students who have the wisdom, the boldness and the drive to create and transform the future they desire.
 
-<img src="/images/about7.png" style="width:80%">
+<img src="/images/about10.png" style="width:80%">
