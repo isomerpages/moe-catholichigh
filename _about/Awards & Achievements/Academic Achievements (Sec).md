@@ -14,9 +14,12 @@ Some of our recent winners of MOE Special Awards and other scholarships:
 
 <img src="/images/about14.png" style="width:60%"> _(Above: 2019 Lee Kuan Yew All-Round Excellence Awardee Siauw Yu Chuan)_ 
 
-<img src="/images/about15.png" style="width:60%"> _(Above: 2018 Young Defence Scientist Programme (YDSP) Scholarship Awardees Tan Yi Xuan and Xavier Yeo Yi Hern, and_ _YDSP Academic Awardees Chiang Kai Jing Colin Adam and -absent from photo- Loh Zheng Lucas)_
+<img src="/images/about15.png" style="width:60%"> 
+
+_(Above: 2018 Young Defence Scientist Programme (YDSP) Scholarship Awardees Tan Yi Xuan and Xavier Yeo Yi Hern, and_ _YDSP Academic Awardees Chiang Kai Jing Colin Adam and -absent from photo- Loh Zheng Lucas)_
 
 <img src="/images/about16.png" style="width:60%"> 
+
 _(Above: Ong Chong Yu, IP/2017, who is the 2018 Prime Minister’s Book Prize winner)_
 
 ([Click here if you are looking for a list of our students’ recent co-curricular achievements](https://staging.d26k7rl81eo6rb.amplifyapp.com/about/awards-and-achievements/cca-achievements/)
