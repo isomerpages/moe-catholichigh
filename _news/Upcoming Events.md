@@ -75,6 +75,104 @@ Tickets are going at only $18 each. You can buy the tickets from any CHS Perform
 
 **Our end-of-year Open House (Information Day) will be held on 18 Nov 2017, from 8.30am to 12.30pm**. This second Open House of the year is targeted at prospective students and parents, for them to visit us before the release of the PSLE results and learn more about our model of education and what we offer our students in terms of learning and development opportunities.
 
-Please go to this link to learn more and download the programme sheet: **[/open-house-secondary/](https://catholichigh.moe.edu.sg/open-house-secondary/)** .
+Please go to this link to learn more and download the programme sheet: **[/open-house-secondary/](https://staging.d26k7rl81eo6rb.amplifyapp.com/prospective-students/open-house/)** .
 
 Do register at **[http://tinyurl.com/CHS-open-house-2017](http://tinyurl.com/CHS-open-house-2017)** . You can also scan this QR code to go to the registration link:
+
+<img src="/images/news9.png" style="width:30%">
+
+#### CH8 Tuesday Report 星期二特写 《钟声响起时》22 Aug 8.30pm
+
+Mediacorp Channel 8 is presently featuring schools with established Chinese culture and background in its series **_Tuesday Report 星期二特写 《钟声响起时_** on Tuesday nights.
+
+**Catholic High School will be featured in our own episode on 22 Aug 2017, 8.30pm**: watch it on TV, Toggle or Facebook.
+
+Learn more at:  
+[https://www.facebook.com/TuesdayReportCh8/?hc\_ref=ARRF2pejP4\_LKm\_15p9rCq4Xuih7d08lniyTJSCeiXjnQj9slBlNBZLnd-FG9Gmkj4k&fref=nf](https://www.facebook.com/TuesdayReportCh8/?hc_ref=ARRF2pejP4_LKm_15p9rCq4Xuih7d08lniyTJSCeiXjnQj9slBlNBZLnd-FG9Gmkj4k&fref=nf)
+
+<img src="/images/news10.png" style="width:60%"> CH8 Tuesday Report about CHS 星期二特写 <钟声响起时> (22 Aug 2017)
+
+Our sister school, CHIJ St Nicholas Girls’ School, will have their episode screened on 15 Aug.
+
+#### “City Of Dreams”concert @ Singapore Botanic Garden (6 Aug)
+
+
+The newly established Eunoia Junior College Symphonic Band presents “City Of Dreams”, a concert that also features the bands from Catholic High School, Singapore Chinese Girls’ School and CHIJ St Nicholas Girls’ School.
+
+The collaboration between these schools marks the first time the 4 schools, all of which are now connected, are working synergistically towards a realisation of an artistic dream.
+
+“City of Dreams” is derived from Benjamin Yeo’s composition of the same name. Mr Yeo is a well sought after local composer who is internationally notable for his original wind band works. “City of Dreams” symbolises and celebrates Singapore’s vibrant band scene while remembering our nation’s history, especially as National Day comes around.
+
+Experience nostalgia as the bands present a variety of uniquely Singaporean songs, from National Day songs such as ‘Home’ and ‘Where I Belong’, to classics such as ‘Kopi-O’ and Bunga ‘Sayang’. Come join us with family and friends and have an enchanting time of singing, dancing and simply reliving the good old days while celebrating our Nation’s 52nd birthday!
+
+Learn more at:  
+[https://www.sbg.org.sg/index.php?option=com\_k2&view=item&layout=item&id=1290&Itemid=25](https://www.sbg.org.sg/index.php?option=com_k2&view=item&layout=item&id=1290&Itemid=25)
+
+<img src="/images/news10.png" style="width:60%">
+
+#### Support Our JIP team at 新空下 National Xinyao Competition Grand Finals
+
+
+Our student, Jackie Lau, along with our EJC student Damien Teo (from CHS IP class of 2016) and EJC, SNGS and SCGS students participated as a team “J.I.P 小组” in the “新空下-新谣歌唱与创作比赛” and have made it into the grand finals! Their team is in fact the only combined school team with members from more than one school.
+
+**The grand finals will be held on 12 August 2017, 6.30pm, at the Singapore Polytechnic convention centre**.
+
+Do show them your support, and vote for the group on [http://xinyao.zaobao.com/2017/voting-2017.php](http://xinyao.zaobao.com/2017/voting-2017.php)**
+
+You can vote once a day, so give them your daily encouragement!
+
+You can read more about this at:
+
+*   [http://xinyao.zaobao.com/2017/](http://xinyao.zaobao.com/2017/)
+*   [https://www.facebook.com/Xinyaocompetition/](https://www.facebook.com/Xinyaocompetition/)
+
+Here’s a photo of the team “J.I.P 小组” at the semi-finals:
+
+<img src="/images/news11.png" style="width:60%">
+
+#### [Family Day and Homecoming 2017](https://staging.d26k7rl81eo6rb.amplifyapp.com/news/upcoming-events/) (1 July 2017)
+
+
+##### ‘Building Our Future’
+
+<img src="/images/news12.png" style="width:80%">
+
+We would like to extend our invitation to all old boys, students’ families, school partners and community members to our annual Catholic High School’s Family Day & Homecoming which will be held on **Saturday 1st July 2017 from 8.30 am to 3.00 pm**. It will be a fun-filled and meaningful event where our students, parents, teachers, old boys and school partners come together as one big family to mingle and build bonds. The theme for this year’s Family Day and Homecoming is ‘Building Our Future’.
+
+Visit our Facebook page for this event to receive the latest information: **[https://www.facebook.com/chsfamily](https://www.facebook.com/chsfamily)**
+
+#### Limelight 2017 @ The Esplanade Concert Hall
+
+by Catholic High School Edward Becheras Choir
+
+<img src="/images/news13.png" style="width:80%">
+
+Our **Edward Becheras Choir** has been invited by The Esplanade to perform on 22 May 2017 as part of their signature Limelight series**.**
+
+Our Edward Becheras Choir is a premier, multi-award winning Soprano Alto Tenor and Bass (SATB) choir under the guidance and instruction of internationally-acclaimed choral director and conductor, Professor Nelson Kwei and Mr Kane Teo. Well regarded in the local choral community and acknowledged as one of the top Secondary School choirs in Singapore, the Edward Becheras Choir hail from humble origins almost half a century ago. The choir has evolved to become a sophisticated group known for producing quality music.
+
+This rare choir showcases male sopranos and altos – usually sung by female voices. Through months of rigorous practising of technique, the choir has honed the skill of singing with a falsetto, creating a beautiful tone quality unique to male upper voices. They pride themselves with a prodigious repertoire of choral songs, ranging from the classics to modern selections, from timely to dynamic pieces, providing choristers with exposure towards the various styles of choral music. Holding a multitude of awards to its name, the choir is also often invited to participate in workshops and masterclasses.
+
+Join them at their debut **performance at** _**Limelight on 22 May 2017**!_
+
+You can buy the tickets at:
+
+**[https://www.sistic.com.sg/events/cchs0517](https://www.sistic.com.sg/events/cchs0517)**
+
+### Open House (27 May 2017) for secondary section
+
+<img src="/images/news14.png" style="width:80%">
+
+Join us at our Open House 2017 on 27 May 2017, 8.30am to 12.30pm, to learn more about our school and what we can offer to nurture students that become part of our family.
+
+You can learn more about our 2017 DSA-Sec as well, and have your questions answered by our team and students.
+
+At our Open House, there will also be:
+
+1.  Principal’s Talk
+2.  Subject Booths
+3.  School Tour
+4.  CCA Showcase
+5.  … and more.
+
+**[Register now and join us on 27 May!](https://docs.google.com/forms/d/e/1FAIpQLSe-MaIE4ffLWU4JrC-d2iq5qPBmW-6kGC2thKuaRwV0-1ZeMg/viewform?c=0&w=1)** Registration will help us prepare for your visit and customise the experience. **([http://tinyurl.com/CHS-open-house-2017](http://tinyurl.com/CHS-open-house-2017))**
