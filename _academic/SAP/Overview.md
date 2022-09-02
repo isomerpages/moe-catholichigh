@@ -4,7 +4,7 @@ permalink: /academic/SAP/overview/
 description: ""
 third_nav_title: SAP
 ---
-#### Our Philosophy
+### Our Philosophy
 
 Deepening the Roots, Charting the Future  
 《深濡文化，驰骋神州》
