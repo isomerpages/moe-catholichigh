@@ -63,3 +63,55 @@ You can even find full-sized replicas of the Terracotta Army (兵马俑) around 
 <img src="/images/about43.png" style="width:60%">
 <img src="/images/about44.png" style="width:60%">
 <img src="/images/about45.png" style="width:60%">
+
+##### Aviation Milestones Gallery
+
+The Aviation Milestones Gallery celebrates the progression of flight in human history by showcasing the past, present and future of aviation. Th gallery serves to educate and inspire students with a strong interest in aviation and aerospace through the showcase of the history of aviation, science of aviation and the development of aviation in Singapore.
+
+<img src="/images/about46.png" style="width:60%">
+
+##### Space Exploration Gallery
+
+The Space Exploration Gallery captures important achievements or major events in humanity’s exploration of outer space. From the launching of the first artificial satellite in 1957 to the lunar landing by astronauts in 1969, the gallery provides an overview of how space exploration was launched by imagination, driven by science and powered by innovation. In this gallery, students use QR-code reader apps to find information about key events in the journey of space exploration. In 2019, we celebrated the 50th anniversary of the historic Apollo 11 lunar mission by constructing a mural mosaic of Neil Alden Armstrong, the first man to walk on Moon. This mural, together with other works of our student, are on display at the gallery.
+
+<img src="/images/about47.png" style="width:60%">
+<img src="/images/about48.png" style="width:60%">
+<img src="/images/about50.png" style="width:60%">
+<img src="/images/about51.png" style="width:60%">
+
+
+##### Media Resource Library and Bunker 图书楼与 <堡垒>
+
+*   Our Media Resource Library is a favourite place among students, housing a wide collection of books and multimedia resources. It is designed for not just reading, but also for seminars and group works.
+*   Our school encourages students to read widely, and we also have our weekly Morning Reading Programme. Students will read materials specially prepared by the teachers across all departments, with wide-ranging topics covering the arts to economics, from technology to politics.
+*   Another highly popular spot is the Bunker, a space designed and run by students leaders for students. This space has been home to many discussions amongst students on various school events and projects.
+
+<img src="/images/about52.png" style="width:60%">
+<img src="/images/about53.png" style="width:60%">
+
+##### Bamboo Garden and Lotus Pond 竹林与莲花池
+
+*   Our school is dotted with many areas of greenery and landscaping that serve to remind our students of the values that we would like them to imbibe and uphold.
+*   Located outside our music room is the Lotus Pond, where a saying in Chinese, “出污泥而不染”, is carved on a pillar. This phrase suggests that people, like lotus flower growing from mud, can learn to emerge from corrupting environment without being tainted. This is a metaphor, reminding all Catholic High students to uphold the highest level of moral integrity regardless of where they may be.
+*   In our Bamboo Garden on level 1, the bamboos stand unwavering in the open environment, signifying tenacity and an indomitable spirit. The uprightness of the bamboo serves as a reminder for our students to possess moral integrity and courage. These bamboos are also hollow in the middle, which sounds like “虚心” in Chinese, symbolising humility and the receptiveness to the advice and teachings of others.
+
+<img src="/images/about54.png" style="width:60%">
+<img src="/images/about55.png" style="width:60%">
+
+##### Sports and CCA Facilities 操场, 球场, 跑道,学生活动中心与课外活动室
+
+*   Our schools offers wide-ranging and varied student activities and CCAs, and we have a variety of facilities to support these on top of supporting our daily lessons. Our facilities -many of which you can find on level 1- include CCA rooms such as Symphonic Band and Chinese Orchestra rooms, Dance studio, auditorium and lecture theatre. As a full-school, we have two of most facilities, e.g. 2 Indoor Sports Halls, 2 Multi-purpose Halls, 2 tennis courts, even 2 canteens to support the primary and secondary sections. We also have a table tennis training centre,  an Outdoor Adventure Learning Centre and a 400-m full-size running tracks with facilities for track-and-field sports.
+*   As an all-boy school, our students often engage in rugged activities and sports, be it during their CCA, PE lessons, school-organised sports events (such as our [Passion Pursuit Elective](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/passion-pursuit/) modules, inter-class sports competitions and our whole-school spots carnival) or just unstructured play (e.g. frisbee games) during our 50-minute recess.
+*   Our school focuses on holistic education, with a strong emphasis on [Co-curricular Activities (CCAs)](https://staging.d26k7rl81eo6rb.amplifyapp.com/student-development/pe-and-cca/overview/). We have a wide range of CCAs for students to choose from, including Uniformed Groups, Sports, Performing Arts and a media and ICT club. Our [CCAs have also been performing well consistently](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/awards-and-achievements/cca-achievements/), clinching several awards throughout the year.
+
+<img src="/images/about56.png" style="width:60%">
+<img src="/images/about57.png" style="width:60%">
+<img src="/images/about58.png" style="width:60%">
+
+##### Science, Technology and Research Space (STARS)
+
+*   The STARS lab is the base of our school’s distinctive programme – Space and Flight Science.  The lab provides a versatile teaching laboratory space that can accommodate multidisciplinary experiments and demonstrations, especially in physical sciences. STARS is equipped with different types of drones, telescopes and electronic equipment to support students in authentic problem investigation and hands-on learning.
+*   Our key partners are Civil Aviation Authority of Singapore (CAAS), National University of Singapore (NUS), Singapore University of Technology and Design (SUTD), Defence Science & Technology Agency (DSTA), Singapore Science Centre and Singapore Youth Flying Club.
+
+<img src="/images/about59.png" style="width:60%">
+<img src="/images/about60png" style="width:60%">
