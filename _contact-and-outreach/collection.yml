@@ -2,7 +2,6 @@ collections:
   contact-and-outreach:
     output: true
     order:
-      - Contact School & Services/Overview.md
       - Contact School & Services/Sec Section Emails.md
       - Contact School & Services/Pri Section Emails.md
       - Contact School & Services/.keep
