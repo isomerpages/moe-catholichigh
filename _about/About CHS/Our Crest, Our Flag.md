@@ -8,7 +8,7 @@ third_nav_title: About CHS
 
 ##### Catholic High School – School Crest
 
-<img src="/images/about6.png" style="width:60%">
+<img src="/images/about6.png" style="width:40%">
 
 Blue Colour symbolizes the infinite and boundless universe in which Man is free to think and choose how best to spend his time to develop his character as an individual who does not wall man off from his community, and simultaneously does not suffocate his own individuality. His own entity in humanity is a lesson of good faith guided by trust in God.
 
