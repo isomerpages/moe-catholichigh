@@ -10,11 +10,11 @@ Every year, we encourage our students to participate, compete and excel in vario
 
 Some of our recent winners of MOE Special Awards and other scholarships:
 
-<img src="/images/about13.png" style="width:60%"> _(Above: 2020 Lee Kuan Yew All-Round Excellence Awardee Damien Kang Jun Heng)_
+<img src="/images/about13.png" style="width:50%"> _(Above: 2020 Lee Kuan Yew All-Round Excellence Awardee Damien Kang Jun Heng)_
 
-<img src="/images/about14.png" style="width:60%"> _(Above: 2019 Lee Kuan Yew All-Round Excellence Awardee Siauw Yu Chuan)_ 
+<img src="/images/about14.png" style="width:40%"> _(Above: 2019 Lee Kuan Yew All-Round Excellence Awardee Siauw Yu Chuan)_ 
 
-<img src="/images/about15.png" style="width:60%"> 
+<img src="/images/about15.png" style="width:50%"> 
 
 _(Above: 2018 Young Defence Scientist Programme (YDSP) Scholarship Awardees Tan Yi Xuan and Xavier Yeo Yi Hern, and_ _YDSP Academic Awardees Chiang Kai Jing Colin Adam and -absent from photo- Loh Zheng Lucas)_
 
