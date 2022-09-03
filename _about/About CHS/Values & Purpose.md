@@ -16,7 +16,7 @@ Our humble beginning, as a school in a hut on the premises of the Church of St P
 
 #### School Motto
 
-<img src="/images/about5.png" style="width:80%">
+<img src="/images/about5.png" style="width:60%">
 
 ##### 亲爱
 
