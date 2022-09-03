@@ -38,10 +38,10 @@ There are _**some photos from the 2017 Family Day & Homecoming Carnival:**_
 *   Catch up old boys from past cohorts
 *   … and more!
 
-<img src="/images/news3.png" style="width:60%">
-<img src="/images/news4.png" style="width:60%">
-<img src="/images/news5.png" style="width:60%">
-<img src="/images/news6.png" style="width:60%">
+<img src="/images/news3.png" style="width:40%">
+<img src="/images/news4.png" style="width:40%">
+<img src="/images/news5.png" style="width:40%">
+<img src="/images/news6.png" style="width:40%">
 
 #### Open House (Secondary Section) on 26 May 2018
 
@@ -51,7 +51,7 @@ You can [register for our 26 May Open House](http://tinyurl.com/chs-open-house-
 
 **[tinyurl.com/chs-open-house-2018](http://tinyurl.com/chs-open-house-2018)**
 
-<img src="/images/news7.png" style="width:60%">
+<img src="/images/news7.png" style="width:40%">
 
 Please click on the following link to access the PDF for the (1) **[Programme Sheet](https://catholichigh.moe.edu.sg/wp-content/uploads/2018/04/CHS-2018-May-Open-House-Programme-Sheet_2-May_Final.pdf)** and (2) [**Directions and Parking**](http://chs%202018%20-%20may%20open%20house%20-%20parking%20info%20sheet_17%20may_final/):
 
@@ -79,7 +79,7 @@ Please go to this link to learn more and download the programme sheet: **[/open
 
 Do register at **[http://tinyurl.com/CHS-open-house-2017](http://tinyurl.com/CHS-open-house-2017)** . You can also scan this QR code to go to the registration link:
 
-<img src="/images/news9.png" style="width:30%">
+<img src="/images/news9.png" style="width:10%">
 
 #### CH8 Tuesday Report 星期二特写 《钟声响起时》22 Aug 8.30pm
 
