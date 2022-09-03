@@ -77,3 +77,5 @@ These are some of the PE programmes we offer to students in IP and OP:
 5.  Sports Talent Development Programme 
     *   Student Health Ambassadors
      *   Co-curricular Activities Leaders
+
+<img src="/images/pe3.png" style="width:60%">
