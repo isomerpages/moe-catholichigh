@@ -108,7 +108,7 @@ Experience nostalgia as the bands present a variety of uniquely Singaporean song
 Learn more at:  
 [https://www.sbg.org.sg/index.php?option=com\_k2&view=item&layout=item&id=1290&Itemid=25](https://www.sbg.org.sg/index.php?option=com_k2&view=item&layout=item&id=1290&Itemid=25)
 
-<img src="/images/news10.png" style="width:60%">
+<img src="/images/news11.png" style="width:60%">
 
 #### Support Our JIP team at 新空下 National Xinyao Competition Grand Finals
 
@@ -128,14 +128,14 @@ You can read more about this at:
 
 Here’s a photo of the team “J.I.P 小组” at the semi-finals:
 
-<img src="/images/news11.png" style="width:60%">
+<img src="/images/news12.png" style="width:30%">
 
 #### [Family Day and Homecoming 2017](https://staging.d26k7rl81eo6rb.amplifyapp.com/news/upcoming-events/) (1 July 2017)
 
 
 ##### ‘Building Our Future’
 
-<img src="/images/news12.png" style="width:80%">
+<img src="/images/news13.png" style="width:80%">
 
 We would like to extend our invitation to all old boys, students’ families, school partners and community members to our annual Catholic High School’s Family Day & Homecoming which will be held on **Saturday 1st July 2017 from 8.30 am to 3.00 pm**. It will be a fun-filled and meaningful event where our students, parents, teachers, old boys and school partners come together as one big family to mingle and build bonds. The theme for this year’s Family Day and Homecoming is ‘Building Our Future’.
 
@@ -145,7 +145,7 @@ Visit our Facebook page for this event to receive the latest information: **[htt
 
 by Catholic High School Edward Becheras Choir
 
-<img src="/images/news13.png" style="width:80%">
+<img src="/images/news14.png" style="width:80%">
 
 Our **Edward Becheras Choir** has been invited by The Esplanade to perform on 22 May 2017 as part of their signature Limelight series**.**
 
@@ -161,7 +161,7 @@ You can buy the tickets at:
 
 ### Open House (27 May 2017) for secondary section
 
-<img src="/images/news14.png" style="width:80%">
+<img src="/images/news15.png" style="width:60%">
 
 Join us at our Open House 2017 on 27 May 2017, 8.30am to 12.30pm, to learn more about our school and what we can offer to nurture students that become part of our family.
 
@@ -169,10 +169,10 @@ You can learn more about our 2017 DSA-Sec as well, and have your questions answe
 
 At our Open House, there will also be:
 
-1.  Principal’s Talk
-2.  Subject Booths
-3.  School Tour
-4.  CCA Showcase
-5.  … and more.
+1\.  Principal’s Talk <br>
+2.  Subject Booths <br>
+3.  School Tour <Br>
+4.  CCA Showcase <br>
+5.  … and more.<br>
 
 **[Register now and join us on 27 May!](https://docs.google.com/forms/d/e/1FAIpQLSe-MaIE4ffLWU4JrC-d2iq5qPBmW-6kGC2thKuaRwV0-1ZeMg/viewform?c=0&w=1)** Registration will help us prepare for your visit and customise the experience. **([http://tinyurl.com/CHS-open-house-2017](http://tinyurl.com/CHS-open-house-2017))**
