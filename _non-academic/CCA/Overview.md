@@ -140,3 +140,63 @@ On-site training session
 
 Choir members learning the correct breathing technique and singing posture
 
+#### Modern Dance
+
+Established in 2004, Catholic High Modern Dance was set up to showcase the talent that our young gentlemen exude. It has since grown from strength to strength, achieving the highest accolades in the biennial SYF Arts Presentation each time.
+
+In the twice-weekly practice sessions, our gentlemen learn to execute rhythmic bodily movements with exemplary dance techniques, teamwork and showmanship through varied dance genres that encourage them to challenge their abilities and build their confidence.
+
+Apart from appreciating dance as a performing art, our gentlemen also develop values such as empathy, responsibility, resilience, self-discipline and the drive to succeed in whatever they attempt through the process of learning to dance with their peers and opportunities to perform both in school and public platforms.
+
+Modern Dance will endeavor to develop in our gentlemen a passion for dance and dance appreciation skills.
+
+<img src="/images/cca18.png" style="width:60%">
+
+Aspiring dancers
+
+<img src="/images/cca19.png" style="width:60%">
+
+Mesmerise the audience with their dance moves
+
+#### RADIUS
+
+Robo-Automation DesignIng Using STEM (RADIUS) is a club where aspiring Master Builders and Coding Wizards gather for their love of robotics and coding. In RADIUS, our gentlemen will acquire problem solving, logical thinking and coding skills, as well as teamwork so as to complete any given tasks.
+
+In order to ensure that they apply what they have learnt, RADIUS members will also take part in various competitions. Through all these various events and competitions, our members learn to work together as a team, developing confidence and honing their communication skills in the process. The members will take away fruitful learning points and unforgettable experiences
+
+<img src="/images/cca20.png" style="width:60%">
+
+RADIUS Pic1
+
+<img src="/images/cca21.png" style="width:60%">
+
+RADIUS Pic2
+
+#### CHSArt Club
+
+CHArt Club is a platform for gentlemen with an interest in the visual arts to come together to learn, appreciate and create. Our budding gentlemen artists will be offered opportunities to develop deeper understanding and passion for the arts through explorations of different art mediums and technology. There will also be learning opportunities to participate in arts activities outside of school, meet with practising artists, and work on collaborative projects with their peers.
+
+Visual Art is a fundamental component of the human experience, reflecting the world and the time in which we live in, and the ubiquity of images in our everyday lives has progressively transformed the way we learn and perceive the world. Collectively as a CCA group, we hope to build greater awareness and appreciation for the arts and the community and society we live in.
+
+<img src="/images/cca22.png" style="width:60%">
+
+Reuse, recycle, Redesign
+
+<img src="/images/cca23.png" style="width:60%">
+
+Art Learning Journey
+
+### Cub Scouts
+
+Cub Scouts CCA is about teamwork and learning important life skills. Scouting is a values based, educational movement willingly accepting a unique Scout Promise and Law as a guide of conduct. The Scouting’s principles are generally referred to as “Duty to Self”, “Duty to Others” and “Duty to Divine” which provide these guidelines. They are the basis of the value system which governs Scouting as a whole.
+
+  
+We strongly encourage our Cub Scouts to keep a Scouting journal to concretise their scouting experience through self-reflection thinking process so as to develop the maturity of perspective in life as they grow up.
+
+<img src="/images/cca24.png" style="width:60%">
+
+Spreading kindness to our community
+
+<img src="/images/cca25.png" style="width:60%">
+
+Using recyclable materials to make our “racing car” to compete for the longest distance!
