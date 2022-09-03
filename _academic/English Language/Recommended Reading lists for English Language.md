@@ -16,8 +16,9 @@ We hope our young gentlemen have fun as they immerse themselves in the magical w
 
 Happy Reading!
 
-<p><a href="https://drive.google.com/file/d/1RXZEEMtiXH8_D2Rgd_OjsuZc25tmr24A/view?usp=sharing"><img style="width:45%" src="/images/el19.png"></a></p>
+|  	|  	|  	|
+|---	|---	|---	|
+|  <a href="https://drive.google.com/file/d/1RXZEEMtiXH8_D2Rgd_OjsuZc25tmr24A/view?usp=sharing"><img style="width:45%" src="/images/el19.png"></a>	| <a href="https://drive.google.com/file/d/1hvi5Eu5sWlc-EE6se8XzfnagLON4Crr7/view?usp=sharing"><img style="width:45%" src="/images/el20.png"></a> 	| <a href="https://drive.google.com/file/d/11xS0ts80sMhhCrfY6rw3j_T-jbT8Soe6/view?usp=sharing"><img style="width:45%" src="/images/el21.png"></a> 	|
 
-<p><a href="https://drive.google.com/file/d/1hvi5Eu5sWlc-EE6se8XzfnagLON4Crr7/view?usp=sharing"><img style="width:45%" src="/images/el20.png"></a></p>
 
-<p><a href="https://drive.google.com/file/d/11xS0ts80sMhhCrfY6rw3j_T-jbT8Soe6/view?usp=sharing"><img style="width:45%" src="/images/el21.png"></a></p>
+
