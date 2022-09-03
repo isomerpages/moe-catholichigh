@@ -20,7 +20,7 @@ In this 21st century, all students in our OP and IP tracks continue to benefit f
 
 #### Our Committed, Capable and Caring Staff
 
-<img src="/images/about3.png" style="width:80%">
+<img src="/images/about3.png" style="width:60%">
 
 Our teaching and non-teaching staff are the **cornerstone of CHS’ quality education** and our efforts in achieving the desired student outcomes. They are people-oriented, selfless and sincere, exemplifying our school values of _Love, Creativity, Constancy of Purpose_ and _Continuous Improvement_.
 
