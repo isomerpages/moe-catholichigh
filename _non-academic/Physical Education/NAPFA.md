@@ -151,3 +151,104 @@ Equipment/Facilities
     *   Sit with your legs extended, hold on to the  
         toecap of your shoe and relax.
     *   Hold for 10 counts, stop and repeat.
+
+1.  Work on flexibility through gymnastics/stretching exercises
+2.  Rowing motion with legs straight
+3.  Elevated stretch 
+    *   Reach out to toes
+    *   Hold for 5 counts
+    *   Repeat with other leg
+
+#### Specific rules and procedures
+
+*   One teacher tester to observe and test one pupil at a time.
+*   Pupils should remove their shoes to reduce any disadvantage.
+
+#### Test Item No. 4
+
+**Inclined Pull-Up**
+
+Equipment/Facilities
+
+*   Stopwatch
+*   Inclined pull-up bars
+
+##### Description
+
+<img src="/images/napfa8.png" style="width:60%">
+
+1.  Lie supine (face up) under the horizontal bar with the chin bar directly over the eyes. (The outstretched hands should be about 5cm beyond reach of the horizontal bar).
+2.  Reach up to hang from the bar with an overhand grasp (palm forward), hands shoulder width apart and elbow straight (body should not bend at the hips) with heels resting on the floor. This is the starting position.
+3.  Pull up until the chin reaches the elastic band (not necessarily touching it), keeping the body straight at all times. This is one pull-up. Return to starting position. The pull up will not count if the chin fails to reach the elastic band or when any part of the body (other than heels) touches the floor.
+4.  Repeat, doing as many pull-ups as possible in 30 seconds or until no more complete pull-ups are possible, whichever comes first. The number of completed pull-ups is the performance score.
+5.  Rest between pull-ups is permitted.
+
+#### Suggestions to improve on Inclined Pull-Up
+
+1.  Push-ups
+2.  Arm-wrestling
+3.  Working on arm strength through ball games
+4.  Inclined hang 
+    *   Use overhand grip
+    *   Hang as long as you can on the bar in a rest position
+5.  Inclined pull-up hand 
+    *   Use overhand grip
+    *   Hang as long as you can on the bar in a pull-up position
+
+#### Specific rules and procedures
+
+*   One teacher tester to observe and test one pupil at a time.
+
+#### Test Item No. 5
+
+**4 x 10M Shuttle Run**
+
+Equipment/Facilities
+
+*   Stopwatch
+*   Inclined pull-up bars
+*   Two bean bags
+*   Firm, level, non-slip surface
+
+##### Description
+
+<img src="/images/napfa9.png" style="width:60%">
+
+1.  Two small objects (eg. bean bags) placed about 1 m apart behind one line.
+2.  Stand behind other line which should be 10 m. away from first line.
+3.  At start of timing, run, pick up first object, run back and place object behind second line; return to first line, pick up second object and run towards and across second line. No need to place down second object.
+4.  Time noted, to nearest tenth of second, to complete shuttle-run.
+5.  The better of two attempts shall count.
+
+#### Suggestion to improve on Shuttle Run
+
+1.  5m/ 10 m sprints
+2.  Agility runs
+3.  Work on picking up and placing down bean-bag technique
+4.  Side to side reach 
+    *   Turn and reach for line as quickly as you can
+5.  Zig-zag run
+
+#### Specific rules and procedures
+
+*   One teacher tester to observe and test one pupil at a time.
+*   Pupils are not allowed to throw/drop the first object behind the  
+    start/finish line.
+*   Tester is to position himself/herself at the start/finish line.
+*   Tester stops the timing when the torso of the pupil crosses the line.
+*   Rest is allowed between the runs.
+
+#### Test Item No. 6
+
+**1.6 km Run/Walk**
+
+Equipment/Facilities
+
+*   Stopwatch/Multi-timer
+*   Position Cards
+*   Firm, level, non-slip surface
+
+##### Description
+
+1.  Run, jog or walk on firm and level distance in the shortest time possible.
+2.  Resting during test permitted.
