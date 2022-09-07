@@ -4,7 +4,7 @@ permalink: /secondary/distinctive-programmes/overview/
 description: ""
 third_nav_title: Distinctive Programmes
 ---
-### Subjects Offered in Our Curriculum
+# NOT DONE ### Subjects Offered in Our Curriculum
 
 Catholic High School offers an extensive range of subjects in our core curriculum, special programmes and flagship programmes. Many of these are offered to our IP and OP students, while a few are IP-specific (and not offered to OP students due to time and difference in objectives of programme).
 
@@ -39,19 +39,3 @@ Click [here](https://staging.d26k7rl81eo6rb.amplifyapp.com/dual-track-curriculu
 
 *   Higher Art
 
-**Flagship Programmes for IP and OP**
-
-*   [Bilingual and Bicultural Enrichment](https://catholichigh.moe.edu.sg/secondary/o-level-programme/sap-flagship-programme/)
-*   [SAP Flagship Programme (with Appreciation Of Chinese Culture)](https://catholichigh.moe.edu.sg/secondary/o-level-programme/sap-flagship-programme/)
-*   [Overseas Immersion and Cross-cultural Experience](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/passion-pursuit/)
-*   [Passion Pursuit (Elective)](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/passion-pursuit/)
-
-**Flagship Programmes for IP**
-
-*   [Passion Pursuit (Independent)](https://catholichigh.moe.edu.sg/secondary/academic-programme/passion-pursuit-independent/)
-*   [World Readiness Programme](https://catholichigh.moe.edu.sg/secondary/academic-programme/world-readiness-programme/)
-
-**MOE Special Programmes**
-
-*   [Bicultural Studies Programme](https://catholichigh.moe.edu.sg/secondary/academic-programme/bicultural-studies-programme/) (from Year 3 onwards for IP students)
-*   [Music Elective Programme](https://catholichigh.moe.edu.sg/secondary/academic-programme/music-elective-programme/) (from Level 1 onwards for IP and OP students)
