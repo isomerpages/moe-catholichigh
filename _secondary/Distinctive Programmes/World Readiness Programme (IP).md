@@ -24,8 +24,8 @@ The table below gives a glimpse of how WRP unfolds over four years in CHS.
 
 |  	|  	|
 |---	|---	|
-| <img src="/images/wrp3.png" style="width:70%"> 	| <img src="/images/wrp4.png" style="width:70%"> 	|
-|  <img src="/images/wrp5.png" style="width:70%">	|  <img src="/images/wrp6.png" style="width:70%">	|
+| <img src="/images/wrp3.png" style="width:80%"> 	| <img src="/images/wrp4.png" style="width:70%"> 	|
+|  <img src="/images/wrp5.png" style="width:70%">	|  <img src="/images/wrp6.png" style="width:88%">	|
 |  	|  	|
 
 _Above left: JIP WRP symposium graced by the Ambassador from the New Zealand High Commission_  
