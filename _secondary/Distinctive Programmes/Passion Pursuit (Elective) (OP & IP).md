@@ -18,7 +18,7 @@ The **Passion Pursuit programme** in Catholic High School comprises an [**Ind
 
 #### Our Approach
 
-<img src="/images/ppe2.png" style="width:290px;height:200px;margin-right:15px;" align = "left"> Approach-wise, students will be offered a wide variety of activities after their end-of-year examinations, expanding their exposure in 3 categories of elective modules:
+<img src="/images/ppe2.png" style="width:290px;height:200px;margin-right:30px;" align = "left"> Approach-wise, students will be offered a wide variety of activities after their end-of-year examinations, expanding their exposure in 3 categories of elective modules:
 
 *   **Ruggedness Electives**
 *   **Creative Electives**
