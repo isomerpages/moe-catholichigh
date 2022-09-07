@@ -4,8 +4,6 @@ permalink: /secondary/Talent-Development/cnergy-programme/
 description: ""
 third_nav_title: Talent Development
 ---
-
-
 ### Science Talent Development Programme: CΩERGY Programme
 
 
@@ -20,3 +18,5 @@ Through the involvement and participation in external competitions and workshops
 In keeping up with our tradition of strong academic achievements, our talented students continue to achieve excellence in many areas like competitions and proficiency tests. In the recent Singapore Junior Biology Olympiad 2021, our school garnered a total of 5 Gold Medals, 6 Silver Medals and 15 Bronze Medals. We have also consistently done well in other competitions like the National Air Race and Drone Odyssey Challenge. We have also produced many A\*STAR and YDSP scholars over the years.
 
 [Click here for our Science Prospectus which provides in-depth information about our general science curriculum, research programmes, enrichment and talent development.] Upload pdf here.
+
+<figure><img src="/images/cnergy3.png" style="width:75%"><figcaption> Above: Students continue to achieve excellence in many areas, e.g. C. B. Paul Science Quiz, Singapore Junior Olympiad and National Science Challenge</figcaption></figure>
