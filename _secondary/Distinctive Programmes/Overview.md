@@ -43,8 +43,8 @@ Click [here](https://staging.d26k7rl81eo6rb.amplifyapp.com/dual-track-curriculu
 
 *   [Bilingual and Bicultural Enrichment](https://catholichigh.moe.edu.sg/secondary/o-level-programme/sap-flagship-programme/)
 *   [SAP Flagship Programme (with Appreciation Of Chinese Culture)](https://catholichigh.moe.edu.sg/secondary/o-level-programme/sap-flagship-programme/)
-*   [Overseas Immersion and Cross-cultural Experience](https://catholichigh.moe.edu.sg/secondary/o-level-programme/passion-pursuit-elective/)
-*   [Passion Pursuit (Elective)](https://catholichigh.moe.edu.sg/secondary/o-level-programme/passion-pursuit-elective/)
+*   [Overseas Immersion and Cross-cultural Experience](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/passion-pursuit/)
+*   [Passion Pursuit (Elective)](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/passion-pursuit/)
 
 **Flagship Programmes for IP**
 
