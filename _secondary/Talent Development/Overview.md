@@ -4,3 +4,46 @@ permalink: /secondary/Talent-Development/overview/
 description: ""
 third_nav_title: Talent Development
 ---
+### Transforming Gifts into Talents
+
+Catholic High School offers a spread of Talent Development Programmes (TDP) to help our  IP and OP students transform their gifts into talents. Under these TDP, selected IP and OP students are nurtured to take on challenging assignments that stretch them beyond their current competency and potential. These TDP are classified into two broad categories:
+
+1.  **Subject-Based Talent Development Programmes**
+2.  **MOE Special Programmes, e.g. Bicultural Studies Programme 双文化课程**
+
+Our **students in TDP have won numerous achievements** in their area of specialisation, for example, achieving top awards in:
+
+*   Singapore Secondary Schools Debate Championships
+*   全国中学编采比赛
+*   NUS Geography Challenge
+*   Singapore Mathematics Project Festival
+*   National Software Competition
+*   A\*STAR Science Scholarship Award
+*   National Science Challenge
+*   Young Defence Scientists Programme
+*   Singapore Junior Chemistry Olympiad
+*   International Biomedical Olympiad
+*   … and more.
+
+#### How Are Students Developed (via Subject-based TDPs / MOE Special Programmes)?
+
+DSA and high-performing students in talent areas are developed via:
+
+*   Unique specialised programmes and workshop conducted by university and industry experts/trainers
+*   Seminars and lecture conducted with university and industry experts
+*   Internal and external competitions such as Olympiads
+*   Class allocation by talent areas where relevant, e.g. for DSA students and students in TDP
+*   Research projects and mentorship with professors and staff from Institutes of High Learning
+*   Workshops, camps, seminars and research programmes with MOE, e.g. Gifted Education
+*   Overseas immersion trips (sometimes with conference, camp or school immersion)
+*   Job shadowing or work attachment, e.g. with research institute
+*   … and more.
+
+#### Subject-Based Talent Development Programmes
+
+CHS offers the following Subject-Based Talent Development Programmes:
+
+1\.  **[CΩERGY Programme](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Talent-Development/cnergy-programme/) (science talent development)** provides opportunities for high-performing students to further engage their interest and deepen their knowledge of science, technology and engineering, beyond striving for academic excellence. Students are trained for the Chemistry and Physics Olympiads, and they also participate in the Science Mentoring Programme (SMP) where they are mentored by researchers from A\*STAR, NUS and NTU.<br>
+2.  [**English Talent Development Programme**](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Talent-Development/english-talent-development-programme/) provides opportunities for high-performing students to develop their ability in English Language and Literature. Students attend seminars, workshops and theatre productions to learn from professional writers and performers, and to equip them with the skills to engage in speaking, creative writing, journalistic writing, and theatre appreciation. Students also participate in writing and debate training and competitions.<br>
+3.  [**Humanities Talent Development Programme**](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Talent-Development/humanities-tdp/) provides opportunities for high-performing students to broaden and deepen their understanding of the disciplines of Economics, Geography, History and Literature. Students attend seminars conducted by teachers, academics and leaders from the public and private sectors in order to develop their critical thinking and research skills. Students also participate in independent social science research projects and competitions such as the Model United Nations and NUS Geography Challenge.<br>
+4.  [**Mathematics Interest and Talent Development Programme**](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Talent-Development/maths-tdp/) provides opportunities for high-performing students to delve into mathematical research guided by teachers and external mentors. Students will attend lectures conducted by professors from local universities, participate in competitions such as Math Olympiad, and engage in problem-solving workshops where they will be challenged intellectually with advanced mathematical concepts and equipped with advanced problem-solving skills.
