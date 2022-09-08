@@ -87,3 +87,5 @@ Apart from the traditionally strong and rigorous academic teaching and learning 
 *   NUS Centre for Remote Imaging, Sensing and Processing
 *   Singapore Youth Flying Club
 *   .. and more.
+
+Click here for our [Space and Flight Science Programme](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/space-and-flight-science-programme/) !
