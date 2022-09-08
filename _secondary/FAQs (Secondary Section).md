@@ -147,7 +147,44 @@ You can scroll through the page or search for questions by typing “Ctrl-F” (
 
 <div>
 
-<p> text</p>
+<p> <b>(B1) Are there GAT and general academic selection tests (as in the past) for the 2021 CHS DSA?</b><br><br>
+
+*   No. There is no GAT or general academic selection tests for CHS’ 2021 DSA process. This has been the case since 2017. However, specific DSA category may have its own selection test for talent area, e.g. leadership interview rounds, sports trial, music audition.<br><br>
+
+<b>(B2) If my son accept(s) CHS’ offer for DSA-Sec (IP/OP-Performing Arts) / (IP/OP-Sports) based on my / his e-audition for “X” CCA, does he need to join this CCA?</b><br><Br>
+
+*   Yes. All students who have accepted our DSA-Sec (IP) offers in Performing Arts, Sports or MEP are committed to the development of their specified talents in the respective CCAs or MEP throughout their years at CHS. E.g., a trumpet player who accepts our DSA-Sec (IP-Performing Arts), with an audition for the Symphony Band, must join the Band for his CCA at CHS.<br>
+*   DSA-Sec (IP) academic talent students, however, can apply to join any CCA (Uniformed Groups, Sports, Performing Arts, ION), pending selection and trials conducted by the various CCAs. DSA-Sec (IP – Leadership) students may be admitted on condition of joining certain CCAs, e.g., Scout.<br>
+*   All students who have accepted our DSA-Sec (OP) offer are committed to the development of their specified talents for 4 years, from Sec 1 to Sec 4 at CHS. E.g., a dancer who accepts our DSA-Sec (OP-Performing Arts), with an audition for the Modern Dance CCA, must join Modern Dance for his CCA.<br><br>
+
+<b>(B3) Can my son who enters CHS via DSA join more than one CCA?</b><br><br>
+
+*   All successful DSA applicants are committed to the CCA that they have applied for, e.g., if he has trialled successfully for Wushu, then he is expected to join our Wushu CCA.<br>
+*   For DSA students, their expected commitment to their DSA CCA is high, and joining a 2nd CCA is not encouraged.<br><br>
+
+<b>(B4) Does my son need to have been offered Higher Chinese in PSLE (as a prerequisite) to apply for any of the DSA-Sec (IP) categories?</b><br><br>
+
+*   To be shortlisted for any CHS’ DSA-Sec (IP) categories, your son must be assessed to qualify to offer HCL in IP Years 1 and 2, even though he may not be offering HCL in PSLE. For example, he should have consistently good P5 and P6 CL results that indicate he has a strong language foundation to offer HCL in Years 1 and 2.<Br><br>
+
+<b>(B5) Is the Music Elective Programme (MEP) open to students only through DSA, and only to IP students?</b><br><br>
+
+*   MEP is offered to both IP and OP students. Students can apply to MEP when they have been posted to CHS via Sec 1 registration after PSLE. DSA via MEP is available to both IP and OP students.<br><br>
+
+<b>(B6) Can my son apply for the MEP using qualifications/certificates other than those issued by ABRSM?</b><Br><br>
+
+*   Students are expected to have at least a pass in the Grade 3 Practical AND Theory of the Associated Board of the Royal Schools of Music (ABRSM), or the equivalent standard from other examination boards. In the absence of the formal qualifications mentioned, students must pass a selection test and practical audition on an instrument (e.g., piano, erhu etc.) conducted by the school.<br><br>
+
+<b>(B7) What is this “Joseph Wallace Family Music Scholarship” that I read about on your website?</b><br><br>
+
+*   This is a scholarship for one outstanding CHS MEP student at each level. It carries a monetary award to support the musical journey of the awarded MEP student. This is a non-renewable 1-year scholarship. It is named after the first music director of CHS Symphony Band, whose family sponsored this award.<br><br>
+
+<b>(B8) For DSA-Sec (IP) for academic talent areas, what should the student ecommit/contribute to the school should he successfully gain entry by DSA?</b><br><br>
+
+*   A successful DSA-Sec (IP) applicant in an academic talent area will be expected to participate and contribute in that academic area in Year 1. Continued participation is subject to good attitude and performance. E.g., he may be invited to join Math Olympiad, English Debate, depending on his passion or talent.<br><br>
+
+<b>(B9) Must my son join Eunoia JC, should he enter CHS through DSA-Sec (IP)?</b><br><br>
+
+*   All successful DSA-Sec (IP) applicants are required to commit to a 6-year programme with CHS and EJC.</p>
 
 </div>
 
