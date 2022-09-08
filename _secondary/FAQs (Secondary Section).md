@@ -143,7 +143,7 @@ You can scroll through the page or search for questions by typing “Ctrl-F” (
 
 <input type="checkbox" id="accordion2">
 
-<label for="accordion2">Russia </label>
+<label for="accordion2"><b>(B) Questions about DSA-Sec Categories and Criteria</b></label>
 
 <div>
 
