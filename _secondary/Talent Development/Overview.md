@@ -58,3 +58,20 @@ CHS offers the following MOE Special Programmes:
 *   Students will have opportunities to carry out research studies, attend camps and symposiums organised by MOE and the school, as well as go for overseas immersion programmes in both China and Western countries.
 *   The **BSP(C) is only offered to qualifying IP students** who apply to join in Year 3.
 *   双文化课程旨在深化学生对中国历史、社会变迁、经济发展和国际外交的认识。学生将通过体验式学习和其他方式促进学习，培养他们了解东西方社会的兴趣。除了和中国有关的课题，双文化课程学生也将学习到中国的发展如何影响他们、新加坡和世界。学生也将有机会进行研究，参加由教育部和学校主办的一系列活动如学习营和研讨会，以及到中国和西方国家浸濡学习。
+
+<img src="/images/tdps.png" style="width:60%">
+
+(2) [**Music Elective Programme** (MEP)](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Talent-Development/music-elective-programme/) is a 4-year MOE Special Programme that offers a comprehensive music programme for students with the aptitude and passion for music.
+
+*   The MEP aims to nurture graduands who would be Scholars and Practitioners in the Arts and Advocates and Leaders for the Arts.  Building upon the components of Music Studies, Performing and Composing, MEP students study music of different cultures, including selected genres from Western Music and World Music.
+*   Students will also develop critical thinking skills through the analysis of music, and gain informed perspectives through the different musical contexts of the various historical and cultural periods.
+*   Interested students can apply to MEP through Direct School Admission or upon admission to CHS via the Secondary 1 posting.
+*   Outstanding CHS Level 1 MEP student enrolled in 2019 may be awarded CHS’ **Joseph Wallace Family Music Scholarship**. This is a non-renewable 1-year scholarship, i.e. the outstanding MEP student from each level will stand a chance of being awarded this scholarship.
+
+<img src="/images/tdps2.png" style="width:60%">
+
+#### Achievements by Students in Talent Areas
+
+<img src="/images/tdps3.png" style="width:60%">
+<img src="/images/tdps4.png" style="width:60%">
+<img src="/images/tdps5.png" style="width:60%">
