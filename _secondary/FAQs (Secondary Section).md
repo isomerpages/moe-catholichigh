@@ -227,11 +227,13 @@ You can scroll through the page or search for questions by typing “Ctrl-F” (
 
 <input type="checkbox" id="accordion5">
 
-<label for="accordion5"> United Kingdom</label>
+<label for="accordion5"> <b>(E) Frequently Asked Questions about Level 2 Subject Streaming</b></label>
 
 <div>
 
-<p> text</p>
+<p> You can read some of the frequently asked questions in the following downloadable PDF.<br><br>
+
+*   <a href="https://drive.google.com/file/d/17YfUXrfNuFOReoq-6LU35qjFTY0A1nRD/view?usp=sharing">FAQs for Level 2 Subject Streaming</a></p>
 
 
 
