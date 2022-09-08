@@ -194,11 +194,13 @@ You can scroll through the page or search for questions by typing “Ctrl-F” (
 
 <input type="checkbox" id="accordion3">
 
-<label for="accordion3">Japan</label>
+<label for="accordion3"><b>(C) Questions about DSA-Sec Application Process</b></label>
 
     <div>
 
-			<p>text</p>
+<p><b>(C) Where can I get information about the process?</b><br><br>
+
+*   Please refer to <a href="https://beta.moe.gov.sg/secondary/dsa/">https://beta.moe.gov.sg/secondary/dsa/</a></p>
 
     </div>
 
@@ -208,11 +210,13 @@ You can scroll through the page or search for questions by typing “Ctrl-F” (
 
 <input type="checkbox" id="accordion4">
 
-<label for="accordion4">South Korea</label>
+<label for="accordion4"><b>(D) Questions about DSA-Sec Confirmed Offer (CO)</b></label>
 
 <div>
 
-<p>text
+<p>You can read some of the frequently asked questions in the following downloadable PDF.<br><br>
+
+*   <a href="https://drive.google.com/file/d/1remsk68YbUVGRWRJ-QV8AkRCNgpNByaz/view?usp=sharing">FAQs from Successful DSA Applicants (Holding a Confirmed Offer)</a>
 </p>
 
 </div>
