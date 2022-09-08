@@ -60,38 +60,38 @@ You can scroll through the page or search for questions by typing “Ctrl-F” (
 *   Our school-based programmes, e.g. <a href="https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/passion-pursuit/elective/">Passion Pursuit (Elective)</a> , are generally offered to both IP and OP students. There is no segregation or exclusion for CCAs, character development and leadership development programmes. Some components of our IP curriculum are offered in the OP as well, e.g. World Readiness Reading Programme.<br>
 *   Our <a href="https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Talent-Development/overview/">talent development programmes</a> (e.g. <a href="https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Talent-Development/cnergy-programme/">CΩERGY</a>) and <a href="https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Talent-Development/music-elective-programme/">Music Elective Programme</a> are offered to both IP and OP students who meet the criteria. For example, Maths and Science Olympiads are open to both IP and OP students: criteria is based on students’ aptitude and interest for the talent area. Students in our talent development programmes will be involved in the relevant Olympiad.
 *   IP students are offered additional programmes such as the <a href="https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/passion-pursuit/independent/">Passion Pursuit (Independent)</a>, <a href="https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/world-readiness-programme/">World Readiness Programme</a> (WRP) and <a href="https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Talent-Development/bicultural-studies-programme/">Bicultural Studies Programme</a> (BSP) because of the differences in the objectives and curriculum design of OP and IP. With overall less allocated curriculum time due to the GCE O-Level examinations, OP students do not offer these programmes. <br>
-*   You can learn more about the similarities and differences of our IP and OP at: [Overview of the dual track](https://catholichigh.moe.edu.sg/overview-of-the-dual-track/)
+*   You can learn more about the similarities and differences of our IP and OP at: <a href="https://staging.d26k7rl81eo6rb.amplifyapp.com/dual-track-curriculum/comparing-ip-and-op/">Overview of the dual track</a><Br><br>
 
-_(A8) Can a student **transfer from the O-Level to the IP track**?_ 
+<b>(A8) Can a student transfer from the O-Level to the IP track?</b><br><br>
 
-*   Secondary 2 students in our O-Level track may apply to the IP at the end of Sec 2 and join IP Year 3 if he meets the school-based criteria.
-*   Students who transfer track will retain their CCA.
-*   Change of track for DSA student is subject to his performance and availability of places.
+*   Secondary 2 students in our O-Level track may apply to the IP at the end of Sec 2 and join IP Year 3 if he meets the school-based criteria.<Br>
+*   Students who transfer track will retain their CCA. <br>
+*   Change of track for DSA student is subject to his performance and availability of places.<br><br>
 
-_(A9) What is the **promotion criteria for IP****, including Higher Chinese**, for Year 1 to 4 within CHS?_
+<b>(A9) What is the promotion criteria for IP, including Higher Chinese, for Year 1 to 4 within CHS?</b><br><br>
 
-*   IP students are expected to obtain the following to promote from Year 1 to 4 within CHS: (1) Overall minimum average of 60%, (2) minimum of 50% for both English and Higher Chinese, and (3) meeting requirements for World Readiness Programme and Passion Pursuit.
+*   IP students are expected to obtain the following to promote from Year 1 to 4 within CHS: (1) Overall minimum average of 60%, (2) minimum of 50% for both English and Higher Chinese, and (3) meeting requirements for World Readiness Programme and Passion Pursuit.<br><br>
 
-_(A10) I am / my son is **exempted from CL/HCL in Primary** school. Can I / he apply to CHS?_
+<b>(A10) I am / my son is exempted from CL/HCL in Primary school. Can I / he apply to CHS?</b><Br><br>
 
-*   No. As with other SAP schools, we do not take in students who offer Mother Tongue Languages other than Chinese/ Higher Chinese.
-*   Students exempted from offering CL/ HCL for PSLE in Primary School cannot apply to SAP schools, including Catholic High.
+*   No. As with other SAP schools, we do not take in students who offer Mother Tongue Languages other than Chinese/ Higher Chinese.<br>
+*   Students exempted from offering CL/ HCL for PSLE in Primary School cannot apply to SAP schools, including Catholic High.<Br><br>
 
-_(A11) Can I **offer/don’t offer Higher Chinese** (HCL)?_
+<b>(A11) Can I offer/don’t offer Higher Chinese (HCL)?</b><br><br>
 
-*   CHS is a SAP school, and we aim to have students learn their mother tongue to the highest level possible for each individual student. **Our Integrated Programme (IP) students offer HCL in their first two years (Years 1 and 2)**, and they typically go on to offer HCL in Years 3 and 4. We encourage all our students to offer HCL as far as they could and if they qualify. On top of improving their cultural intelligence quotient and world readiness skill set, offering HCL will open opportunities and pathways for our students long after they have completed secondary education.
-*   **O-level Programme (OP) students can offer both CL or HCL throughout their 4 years with CHS**, so long as they qualify, i.e. they are offered HCL or CL by MOE upon receiving their PSLE results for Sec 1 registration.
-*   In addition, for OP students, a pass in HCL will provide 2 bonus points for admission to JCs; both OP and IP students who achieve at least a D7 in HCL will be exempted from offering H1 Chinese in JCs.
+*   CHS is a SAP school, and we aim to have students learn their mother tongue to the highest level possible for each individual student. <b>Our Integrated Programme (IP) students offer HCL in their first two years (Years 1 and 2)</b>, and they typically go on to offer HCL in Years 3 and 4. We encourage all our students to offer HCL as far as they could and if they qualify. On top of improving their cultural intelligence quotient and world readiness skill set, offering HCL will open opportunities and pathways for our students long after they have completed secondary education.<br>
+*   <b>O-level Programme (OP) students can offer both CL or HCL throughout their 4 years with CHS</b>, so long as they qualify, i.e. they are offered HCL or CL by MOE upon receiving their PSLE results for Sec 1 registration.<br>
+*   In addition, for OP students, a pass in HCL will provide 2 bonus points for admission to JCs; both OP and IP students who achieve at least a D7 in HCL will be exempted from offering H1 Chinese in JCs.<br><br>
 
-_(A12) What are the **available CCAs**? Can my son **join more than one CCA**?_
+<b>(A12) What are the available CCAs? Can my son join more than one CCA?</b><Br><br>
 
-*   CHS requires all students to choose a main CCA from either the Physical Sports, Uniformed Groups, Performing Arts or Club/Societies.
-*   Students are discouraged from joining more than one CCA, as students are expected to have a balanced and holistic development portfolio.
-*   CHS offers the following CCAs for 2021 Level 1 students (of which **all are core CCAs**, i.e. students’ main CCA): 
-    *   **_Physical Sports_**: Basketball, Floorball, Softball, Table Tennis, Track & Field (Including Cross-Country), Volleyball and Wushu
-    *   **_Uniformed Groups_**: National Cadet Corp (Air), National Cadet Corp (Land), National Police Cadet Corp, Scouts and St John Brigade
-    *   **_Performing Arts_**: Modern Dance , Chinese Drama , English Drama, Edward Becheras Choir, Chinese Orchestra and Symphony Band
-    *   **_Club/Society_**: I.O.N.(an IT club with various wings for Video/Photography, Programming and Robotics.
+*   CHS requires all students to choose a main CCA from either the Physical Sports, Uniformed Groups, Performing Arts or Club/Societies.<br>
+*   Students are discouraged from joining more than one CCA, as students are expected to have a balanced and holistic development portfolio.<br>
+*   CHS offers the following CCAs for 2021 Level 1 students (of which <b>all are core CCAs</b>, i.e. students’ main CCA): <br>
+	*   <b><i>Physical Sports</i></b>: Basketball, Floorball, Softball, Table Tennis, Track & Field (Including Cross-Country), Volleyball and Wushu<br>
+    *   <b><i>Uniformed Groups</i></b>: National Cadet Corp (Air), National Cadet Corp (Land), National Police Cadet Corp, Scouts and St John Brigade<br>
+    *   <b><i>Performing Arts</i></b>: Modern Dance , Chinese Drama , English Drama, Edward Becheras Choir, Chinese Orchestra and Symphony Band<br>
+    *   <b><i>Club/Society</i></b>: I.O.N.(an IT club with various wings for Video/Photography, Programming and Robotics.<Br><br>
 
 _(A13) How do I travel to CHS via **public transport**?_
 
