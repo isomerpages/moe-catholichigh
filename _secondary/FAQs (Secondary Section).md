@@ -39,23 +39,23 @@ You can scroll through the page or search for questions by typing “Ctrl-F” (
 	<b>(A4) Do I / does my son need to attend religious programmes?</b><br><br>
 
 *   As a government-aided SAP and also mission school (under the auspices of the Roman Catholic Archdiocese of Singapore), our school emphasises universal values such as love, compassion, integrity and humility in our curriculum and programmes. <br>
-*   There are <b>[spirituality development programmes for Catholic students](https://catholichigh.moe.edu.sg/secondary/departments-2/catholic-society/)</b>. These include Religious and Moral Education sessions, Young Christian Student Movement sessions, fortnightly masses, holy days of obligation masses, penitential services, Easter celebration, retreat, etc.
-*   **Non-Catholic students are not required but are welcome to attend these Catholic programmes.**
-*   Parents are welcome to attend the masses and join the CHS Prayer Parents and Catholic Parents Support Group.
+*   There are <b><a href="link here">spirituality development programmes for Catholic students</a></b>. These include Religious and Moral Education sessions, Young Christian Student Movement sessions, fortnightly masses, holy days of obligation masses, penitential services, Easter celebration, retreat, etc. <br>
+*   <b>Non-Catholic students are not required but are welcome to attend these Catholic programmes.</b><br>
+*   Parents are welcome to attend the masses and join the CHS Prayer Parents and Catholic Parents Support Group. <br><br>
 
-_(A5) What are the **_Achievement Level Cut-Off Point (AL COP)_** for your O-Level and IP tracks?_
+<b>(A5) What are the Achievement Level Cut-Off Point (AL COP) for your O-Level and IP tracks?</b> <br><Br>
 
-*   For 2022 Level 1 cohort, the AL COP for O-Level track is 9 with Merit for HCL (9M) ; the COP for the IP track is 8 with Merit for HCL (8M).
+*   For 2022 Level 1 cohort, the AL COP for O-Level track is 9 with Merit for HCL (9M) ; the COP for the IP track is 8 with Merit for HCL (8M). <br><br>
 
-_(A6) How do I know **which track (IP or OP) is more suitable** for me?_
+<b>(A6) How do I know which track (IP or OP) is more suitable for me?</b><br><br>
 
-*   The **IP track caters to students who prefer to forgo GCE O-Level to have more time to explore interconnections** in the curriculum content and concepts through projects and various independent-learning activities.
-*   The IP curriculum is designed to dovetail into the A-Level curriculum of Eunoia Junior College, not just for core academic subjects but also for talent development such as the MOE Special Programmes.
-*   No less rigorous, the **O-Level track follows a more structured curriculum** which specifically prepares the students for the GCE O-Level examinations at Secondary 4. With the GCE O-Level qualification, the students have access to diverse offerings in the post-secondary education landscape.
-*   In both tracks, rich and diverse student development and enrichment opportunities offered by CHS will complete our students’ education experience, e.g. Passion Pursuit (Elective) modules are offered to both IP and OP students.
-*   The more significant differentiation is that **IP students have more time than OP students for learning new skills and knowledge or participating in applied learning**, e.g. in the middle of each year, Year 4 students embark on work attachment while Sec 4 students complete coverage of the curriculum and start preparations for the O-Level examinations.
+*   The <b>IP track caters to students who prefer to forgo GCE O-Level to have more time to explore interconnections</b> in the curriculum content and concepts through projects and various independent-learning activities.<br>
+*   The IP curriculum is designed to dovetail into the A-Level curriculum of Eunoia Junior College, not just for core academic subjects but also for talent development such as the MOE Special Programmes. <br>
+*   No less rigorous, the <b>O-Level track follows a more structured curriculum</b> which specifically prepares the students for the GCE O-Level examinations at Secondary 4. With the GCE O-Level qualification, the students have access to diverse offerings in the post-secondary education landscape.<br>
+*   In both tracks, rich and diverse student development and enrichment opportunities offered by CHS will complete our students’ education experience, e.g. Passion Pursuit (Elective) modules are offered to both IP and OP students.<br>
+*   The more significant differentiation is that <b>IP students have more time than OP students for learning new skills and knowledge or participating in applied learning</b>, e.g. in the middle of each year, Year 4 students embark on work attachment while Sec 4 students complete coverage of the curriculum and start preparations for the O-Level examinations.<br><br>
 
-_(A7) Are students in **OP and IP given the same opportunities**, e.g. for talent development, participation in Olympiad etc.?_
+<b>(A7) Are students in OP and IP given the same opportunities, e.g. for talent development, participation in Olympiad etc.?</b><br><br>
 
 *   Our school-based programmes, e.g. [Passion Pursuit (Elective)](https://catholichigh.moe.edu.sg/secondary/o-level-programme/passion-pursuit-elective/), are generally offered to both IP and OP students. There is no segregation or exclusion for CCAs, character development and leadership development programmes. Some components of our IP curriculum are offered in the OP as well, e.g. World Readiness Reading Programme.
 *   Our [talent development programmes](https://catholichigh.moe.edu.sg/talent-development-programme-sec/) (e.g. [CΩERGY](https://catholichigh.moe.edu.sg/c%ce%a9ergy-programme/)) and [Music Elective Programme](https://catholichigh.moe.edu.sg/secondary/academic-programme/music-elective-programme/) are offered to both IP and OP students who meet the criteria. For example, Maths and Science Olympiads are open to both IP and OP students: criteria is based on students’ aptitude and interest for the talent area. Students in our talent development programmes will be involved in the relevant Olympiad.
