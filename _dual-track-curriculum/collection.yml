@@ -2,6 +2,7 @@ collections:
   dual-track-curriculum:
     output: true
     order:
+      - Overview.md
       - Comparing IP & OP.md
       - Subjects Offered (IP & OP)/Overview.md
       - Subjects Offered (IP & OP)/Aesthetics.md
