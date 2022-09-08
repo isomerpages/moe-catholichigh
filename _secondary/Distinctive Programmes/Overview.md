@@ -4,7 +4,7 @@ permalink: /secondary/distinctive-programmes/overview/
 description: ""
 third_nav_title: Distinctive Programmes
 ---
- ### Subjects Offered in Our Curriculum
+### Subjects Offered in Our Curriculum
 
 Catholic High School offers an extensive range of subjects in our core curriculum, special programmes and flagship programmes. Many of these are offered to our IP and OP students, while a few are IP-specific (and not offered to OP students due to time and difference in objectives of programme).
 
