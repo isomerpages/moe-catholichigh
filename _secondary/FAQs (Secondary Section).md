@@ -21,25 +21,25 @@ You can scroll through the page or search for questions by typing “Ctrl-F” (
 
 <div>
 
-<p> _(A1) What are the **school fees**?_
+<p> <b>(A1) What are the school fees? </b><br><br>
 
-*   As CHS is a government-aided school, regardless of the track admitted to, a Singaporean citizen pays $28 per month, including miscellaneous and other fees.
-*   Permanent Residents, International Students (ASEAN) and other International Students pay $403, $803 and $1423 per month respectively, including the miscellaneous fees.
-*   For most updated information on school fees, please refer to MOE website: [https://beta.moe.gov.sg/fees-assistance-awards-scholarships/fees/](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/fees/)
+*   As CHS is a government-aided school, regardless of the track admitted to, a Singaporean citizen pays $28 per month, including miscellaneous and other fees.<br>
+*   Permanent Residents, International Students (ASEAN) and other International Students pay $403, $803 and $1423 per month respectively, including the miscellaneous fees.<br>
+*   For most updated information on school fees, please refer to MOE website: [https://beta.moe.gov.sg/fees-assistance-awards-scholarships/fees/](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/fees/) <Br><br>
 
-_(A2) What is the **start-time for regular school days**?_
+<b>(A2) What is the start-time for regular school days?</b> <Br><br>
 
-*   Morning assembly **starts at 7.40am** on regular school days.
+*   Morning assembly <b>starts at 7.40am</b> on regular school days. <br><br>
 
-_(A3) What is the **cohort intake**?_
+<b>(A3) What is the cohort intake? </b> <br><br>
 
-*   In general, each cohort will have about 150 IP and 150 OP students, making up a total of around 300 students per cohort.
-*   CHS accepts students from a broad range of schools for both OP and IP, with students coming from more than 80 different primary schools.
+*   In general, each cohort will have about 150 IP and 150 OP students, making up a total of around 300 students per cohort.<br>
+*   CHS accepts students from a broad range of schools for both OP and IP, with students coming from more than 80 different primary schools.<br><br>
 
-_(A4) Do I / does my son need to attend **religious programmes?**_
+	<b>(A4) Do I / does my son need to attend religious programmes?</b><br><br>
 
-*   As a government-aided SAP and also mission school (under the auspices of the Roman Catholic Archdiocese of Singapore), our school emphasises universal values such as love, compassion, integrity and humility in our curriculum and programmes.
-*   There are **[spirituality development programmes for Catholic students](https://catholichigh.moe.edu.sg/secondary/departments-2/catholic-society/)**. These include Religious and Moral Education sessions, Young Christian Student Movement sessions, fortnightly masses, holy days of obligation masses, penitential services, Easter celebration, retreat, etc.
+*   As a government-aided SAP and also mission school (under the auspices of the Roman Catholic Archdiocese of Singapore), our school emphasises universal values such as love, compassion, integrity and humility in our curriculum and programmes. <br>
+*   There are <b>[spirituality development programmes for Catholic students](https://catholichigh.moe.edu.sg/secondary/departments-2/catholic-society/)</b>. These include Religious and Moral Education sessions, Young Christian Student Movement sessions, fortnightly masses, holy days of obligation masses, penitential services, Easter celebration, retreat, etc.
 *   **Non-Catholic students are not required but are welcome to attend these Catholic programmes.**
 *   Parents are welcome to attend the masses and join the CHS Prayer Parents and Catholic Parents Support Group.
 
