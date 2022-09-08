@@ -62,3 +62,5 @@ To equip and enable our students with the ability to:
 
 #### Skills Sets
 
+<img src="/images/english5.png" style="width:60%">
+
