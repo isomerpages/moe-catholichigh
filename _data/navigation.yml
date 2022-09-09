@@ -60,19 +60,21 @@ links:
         url: /secondary/faqs/
       - title: Staff Contact
         url: /secondary/staff-contact/
-  - title: Prospective Students
-    url: /prospective-students/prospectus-sec/overview/
+  - title: Quick Links
+    url: /dual-track-curriculum/Integrated-Programme/about-eunoia-jc/
     sublinks:
-      - title: Prospectus (Sec)
-        url: /prospective-students/prospectus-sec/overview/
-      - title: Sec Admission
-        url: /prospective-students/sec-admission/overview/
-      - title: Admission to IP Year 3
-        url: /prospective-students/admission-to-ip-year-3/
-      - title: Open House
-        url: /prospective-students/open-house/
-      - title: P1 Registration
-        url: /prospective-students/p-1-registration/
+      - title: "CHS(Pri) Waitlist Application "
+        url: https://form.gov.sg/#!/62a7e1abc2c844001256be5f
+      - title: School Fees
+        url: https://www.moe.gov.sg/financial-matters/fees
+      - title: Student Learning Space (SLS)
+        url: https://vle.learning.moe.edu.sg/login
+      - title: PE & CCA Safety Guidelines
+        url: /chs-safety-guidelines-for-pe-lessons-cca/
+      - title: GPA Insurance for Students
+        url: /group-personal-accident-gpa-insurance-for-students/
+      - title: MySkillsFuture Portal
+        url: https://www.myskillsfuture.sg/secondary
   - title: Contact & Outreach
     url: /contact-and-outreach/contact-school-and-services/overview/
     sublinks:
