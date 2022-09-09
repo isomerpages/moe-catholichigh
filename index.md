@@ -15,9 +15,9 @@ sections:
         - title: Latest News
           description: ""
           url: /latest-news/
-        - title: Quick Links
+        - title: Prospective Students
           description: ""
-          url: /quick-links/
+          url: /prospective-students/prospectus-sec/overview/
       title: "Catholic High  School "
   - infopic:
       title: Open House 2022
