@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Integrated Programme/Overview.md
-      - Integrated Programme/Passion Pursuit (Independent).md
       - Integrated Programme/.keep
