@@ -2,6 +2,7 @@ collections:
   dual-track-curriculum:
     output: true
     order:
+      - Subjects Offered (IP & OP)/Aesthetics.md
       - Subjects Offered (IP & OP)/Chinese Department 华文部门.md
       - Subjects Offered (IP & OP)/English and English Literature.md
       - Subjects Offered (IP & OP)/Humanities.md
