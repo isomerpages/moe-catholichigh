@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Prospectus (Sec).md
-      - Sec Admission/Sec Admission.md
+      - Sec Admission/Overview.md
       - Sec Admission/Sec Admission & Fees.md
       - Sec Admission/Level 1 Registration.md
       - Sec Admission/Direct School Admission (DSA).md
