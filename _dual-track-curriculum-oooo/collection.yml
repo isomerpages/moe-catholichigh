@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Subjects Offered (IP & OP)/Overview.md
-      - Subjects Offered (IP & OP)/Aesthetics.md
       - Subjects Offered (IP & OP)/.keep
       - Integrated Programme/Overview.md
       - Integrated Programme/Passion Pursuit (Independent).md
