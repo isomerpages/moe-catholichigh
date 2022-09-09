@@ -1,4 +1,5 @@
 collections:
   dual-track-curriculum:
     output: true
-    order: []
+    order:
+      - Overview.md
