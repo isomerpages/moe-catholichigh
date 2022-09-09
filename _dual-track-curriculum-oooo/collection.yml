@@ -2,7 +2,6 @@ collections:
   dual-track-curriculum-oooo:
     output: true
     order:
-      - Comparing IP & OP.md
       - Subjects Offered (IP & OP)/Overview.md
       - Subjects Offered (IP & OP)/Aesthetics.md
       - Subjects Offered (IP & OP)/Chinese Department 华文部门.md
