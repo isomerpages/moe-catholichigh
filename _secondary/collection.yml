@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Dual Track Programme.md
       - Prospectus.md
       - Distinctive Programmes/Overview.md
       - Distinctive Programmes/Bilingual and Bicultural Education.md
