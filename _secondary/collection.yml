@@ -2,8 +2,9 @@ collections:
   secondary:
     output: true
     order:
-      - Dual Track Programme.md
       - Prospectus.md
+      - Dual Track Programme.md
+      - Distinctive Programmes/.keep
       - Distinctive Programmes/Overview.md
       - Distinctive Programmes/Bilingual and Bicultural Education.md
       - Distinctive Programmes/SAP Flagship Programme 特选学校旗舰计划.md
@@ -12,7 +13,7 @@ collections:
       - Distinctive Programmes/Passion Pursuit (Independent) (IP).md
       - Distinctive Programmes/World Readiness Programme (IP).md
       - Distinctive Programmes/Overseas Immersion & Cultural Experience.md
-      - Distinctive Programmes/.keep
+      - Talent Development/.keep
       - Talent Development/Overview.md
       - Talent Development/Bicultural Studies Programme 双文化课程.md
       - Talent Development/English Talent Development Programme.md
@@ -20,10 +21,9 @@ collections:
       - Talent Development/Humanities TDP.md
       - Talent Development/Maths TDP.md
       - Talent Development/Music Elective Programme.md
-      - Talent Development/.keep
+      - Awards & Achievements/.keep
       - Awards & Achievements/Overview.md
       - Awards & Achievements/Academic Achievements (Sec).md
       - Awards & Achievements/CCA Achievements (Sec).md
-      - Awards & Achievements/.keep
       - FAQs (Secondary Section).md
       - Staff Contact.md
