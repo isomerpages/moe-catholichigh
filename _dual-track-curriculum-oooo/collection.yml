@@ -2,5 +2,4 @@ collections:
   dual-track-curriculum-oooo:
     output: true
     order:
-      - Integrated Programme/Overview.md
       - Integrated Programme/.keep
