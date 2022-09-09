@@ -27,3 +27,5 @@ Service to the community forms an important part of the Eunoia identity. Our stu
 <img src="/images/ejc1.png" style="width:60%">
 
 <img src="/images/ejc2.png" style="width:60%">
+
+_Above_: Eunoia Junior College permanent Bishan site
