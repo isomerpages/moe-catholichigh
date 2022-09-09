@@ -2,11 +2,9 @@ collections:
   dual-track-curriculum:
     output: true
     order:
-      - Integrated Programme/Overview.md
-      - Integrated Programme/Passion Pursuit (Independent).md
-      - Integrated Programme/World Readiness Programme.md
-      - Integrated Programme/About Eunoia JC.md
-      - Integrated Programme/.keep
+      - Overview.md
+      - Comparing IP & OP.md
+      - Subjects Offered (IP & OP)/.keep
       - Subjects Offered (IP & OP)/Overview.md
       - Subjects Offered (IP & OP)/Aesthetics.md
       - Subjects Offered (IP & OP)/Chinese Department 华文部门.md
@@ -14,6 +12,8 @@ collections:
       - Subjects Offered (IP & OP)/Humanities.md
       - Subjects Offered (IP & OP)/Mathematics.md
       - Subjects Offered (IP & OP)/Science.md
-      - Subjects Offered (IP & OP)/.keep
-      - Comparing IP & OP.md
-      - Overview.md
+      - Integrated Programme/.keep
+      - Integrated Programme/Overview.md
+      - Integrated Programme/Passion Pursuit (Independent).md
+      - Integrated Programme/World Readiness Programme.md
+      - Integrated Programme/About Eunoia JC.md
