@@ -28,12 +28,11 @@ Address: 9 Bishan Street 22, Singapore 579767
 
 Insert map here
 
-**Other School Services**
--------------------------
+### Other School Services
 
-### **SCHOOL BOOKSHOP**
+#### SCHOOL BOOKSHOP
 
-**Casco Educational Supplies**
+##### Casco Educational Supplies
 
 Person in-charge: Ms Agnes Heng  
 Tel: 64572101  
@@ -41,9 +40,9 @@ Opening Hours:
 Mondays to Fridays : 9am to 3pm  
 Saturdays : Closed
 
-### **SCHOOL UNIFORM & P.E. ATTIRE**
+#### SCHOOL UNIFORM & P.E. ATTIRE
 
-**Bibi & Baba Uniformsmart**
+##### Bibi & Baba Uniformsmart
 
 Retail shop (off-the-shelf only):  
 545 Orchard Road, #02-28,  
@@ -54,9 +53,9 @@ Head office/factory (made-to-measure):
 213 Henderson Road #01-12  
 Singapore 159553
 
-### **BUS SERVICE OPERATOR**
+#### BUS SERVICE OPERATOR
 
-**TONG TAR TRANSPORT SERVICE PTE LTD**  
+##### TONG TAR TRANSPORT SERVICE PTE LTD
 8 Soon Lee Road  
 Singapore 628073
 
@@ -65,9 +64,9 @@ Fax: (65) 6268 6620
 Email: transport@tongtar.com  
 Website: https://www.tongtar.com/
 
-### **BUS SERVICE OPERATOR**
+#### BUS SERVICE OPERATOR
 
-**TONG TAR TRANSPORT SERVICE PTE LTD**  
+##### TONG TAR TRANSPORT SERVICE PTE LTD
 8 Soon Lee Road  
 Singapore 628073
 
@@ -76,9 +75,9 @@ Fax: (65) 6268 6620
 Email: transport@tongtar.com  
 Website: https://www.tongtar.com/
 
-### **Dental Clinic**
+#### Dental Clinic
 
-**Catholic High School Dental Clinic**  
+##### Catholic High School Dental Clinic 
 HP: 8764 6507 (_WhatsApp call or text preferably or Audio call preferably after 4pm_)  
 Opening hours:  
 8 am to 1 pm & 2 pm to 5 pm ( Closed for lunch at 1pm to 2pm )
@@ -90,6 +89,7 @@ _\*Clinic is operating based on alternate week schedule. Kindly make an appointm
 
 **Dental Emergencies**  
 For dental emergencies on other days,  
+
 Please contact:  
 **Kuo Chuan Presbyterian Primary School Dental Clinic**  
 HP: 8764 8243 (_WhatsApp call or text preferably or Audio call preferably after 4pm_)
