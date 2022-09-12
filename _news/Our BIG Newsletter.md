@@ -22,3 +22,5 @@ B.I.G News is our way of connecting with the Green in our blood. In the newslett
 *   [Primary Section Semester 2 2018](https://catholichigh.moe.edu.sg/2018/12/14/e-news/)
 *   [Primary Section Semester 1 2019](https://catholichigh.moe.edu.sg/2019/06/13/our-b-i-g-news-issue-2019-6-semester-1/)
 *   [Primary Section Semester 2 2020](https://catholichigh.moe.edu.sg/2021/01/18/our-b-i-g-news-issue-2020-semester-2/)
+
+<img src="/images/print1.png" style="width:40%">
