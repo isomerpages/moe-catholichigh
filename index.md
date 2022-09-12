@@ -14,7 +14,7 @@ sections:
           url: /announcements/
         - title: Latest News
           description: ""
-          url: /latest-news/
+          url: resources/news/
         - title: Prospective Students
           description: ""
           url: /prospective-students/prospectus-sec/overview/
