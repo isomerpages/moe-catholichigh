@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Our BIG Newsletter.md
-      - Secondary School News.md
       - Upcoming Events.md
