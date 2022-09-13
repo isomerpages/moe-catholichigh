@@ -5,3 +5,18 @@ date: 2017-11-25
 layout: post
 description: ""
 ---
+Dear P6 Pupils and Parents,
+
+**Catholic High School offers both Integrated Programme and O-Level Programme**.
+
+We have been incidentally left out in the listing of IP schools in the MOE ECG Resource Kit given out to P6 pupils at this year’s PSLE results release.
+
+A **corrected copy of the above [MOE ECG Resource Kit](https://www.moe.gov.sg/whatsnextafterpsle)** is available at:
+
+*   [https://www.moe.gov.sg/whatsnextafterpsle](https://www.moe.gov.sg/whatsnextafterpsle)
+
+Please note the above when making your choice of secondary schools.
+
+**Click here to [learn more about our school](https://catholichigh.moe.edu.sg/2017/11/23/chs-info-quick-links/),** especially if you missed our Open House.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VldGfjKoI_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
