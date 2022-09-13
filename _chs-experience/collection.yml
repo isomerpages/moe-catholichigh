@@ -2,6 +2,7 @@ collections:
   chs-experience:
     output: true
     order:
+      - Talent Development Programmes.md
       - Uniformed Groups CCA.md
       - Sports CCA.md
       - Performing Arts CCA.md
