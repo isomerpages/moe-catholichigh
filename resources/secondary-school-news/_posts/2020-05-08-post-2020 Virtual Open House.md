@@ -5,3 +5,21 @@ date: 2020-05-08
 layout: post
 description: ""
 ---
+<img src="/images/sn1.png" style="width:80%">
+
+**2020 Virtual Open House (Secondary Section)**
+
+You are warmly invited to the 2020 Virtual Open House on 16 May from 8.30 am. at
+
+[https://catholichigh.moe.edu.sg/openhouse/](https://catholichigh.moe.edu.sg/openhouse)
+
+   
+No registration is needed.  
+   
+If you have a question that you would like addressed during the live chat scheduled at 10 am and 12.30 pm, please send your question here. 
+
+[https://go.gov.sg/chsoh2020qna](https://go.gov.sg/chsoh2020qna)
+
+<img src="/images/sn3.png" style="width:40%">
+
+Feel free to browse the rest of our website to explore further!
