@@ -2,6 +2,7 @@ collections:
   chs-experience:
     output: true
     order:
+      - Uniformed Groups CCA.md
       - Sports CCA.md
       - Performing Arts CCA.md
       - Club and Society CCA.md
