@@ -17,3 +17,13 @@ Please click on the following link to access the PDF for the (1) [**Programme S
 
 *   [CHS 2018 – May Open House – Programme Sheet\_15 May\_Final](/files/15may.pdf)
 *   [CHS 2018 – May Open House – Parking Info Sheet\_17 May\_Final](/files/17may.pdf)
+
+* * *
+
+There will be **other outreach channels**, e.g.
+
+*   Email address  ([chs@moe.edu.sg](mailto:chs@moe.edu.sg)) to answer your queries;
+*   Online information (For example, the links shown below under “Quick Links to Learn More about CHS (Secondary Section)” );
+*   Our [Prospectuses](https://staging.d26k7rl81eo6rb.amplifyapp.com/prospective-students/prospectus-sec/overview/);
+*   Physical information booths at our General Office during the period when PSLE results are to be released;
+*   And others that we will announce here over time.
