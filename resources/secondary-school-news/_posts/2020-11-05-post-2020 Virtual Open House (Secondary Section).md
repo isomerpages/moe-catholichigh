@@ -20,3 +20,5 @@ If you have a question that you would like addressed during the live chat schedu
 [https://go.gov.sg/chsoh2020qna](https://go.gov.sg/chsoh2020qna)
 
 <img src="/images/sn2.png" style="width:40%">
+
+Feel free to browse the rest of our website to explore further!
