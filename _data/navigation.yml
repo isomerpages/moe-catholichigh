@@ -25,9 +25,9 @@ links:
       - title: Parent Support Group
         url: https://www.facebook.com/psg.chs/
       - title: Primary School News
-        url: /resources/news/
+        url: /resources/primary-school-news/
       - title: Secondary School News
-        url: /resources/secondary-news/
+        url: /resources/secondary-school-news/
       - title: Upcoming Events
         url: /news/upcoming-events/
   - title: Primary
@@ -38,7 +38,7 @@ links:
       - title: Non-Academic
         url: /non-academic/cca/overview/
       - title: Primary News
-        url: /resources/news/
+        url: /resources/primary-school-news/
       - title: Staff Contact
         url: /primary/staff-contact/
   - title: Secondary
