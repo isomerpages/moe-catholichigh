@@ -92,13 +92,13 @@ _The selection criteria and process for the talent areas will be updated by earl
 
 **Important**
 
-1.  Meeting all the criteria does not guarantee the student will be shortlisted/ given an offer.
-2.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+1\.  Meeting all the criteria does not guarantee the student will be shortlisted/ given an offer. <br>
+2.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. <br>
 3.  Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and programme (4 years for the O-Level Programme or 6 years for the Integrated Programme), and participate in the activities related to the talent they are selected for from year 1-4.
 
 For inquiries regarding CHS DSA-Sec, please contact us at:
 
-1.  Email Address: chs@moe.edu.sg
+1\.  Email Address: chs@moe.edu.sg <br>
 2.  Telephone: 6458 2177
 
 Information updated 7 June 2022
