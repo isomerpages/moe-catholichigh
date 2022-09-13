@@ -2,5 +2,6 @@ collections:
   chs-experience:
     output: true
     order:
+      - Sports CCA.md
       - Performing Arts CCA.md
       - Club and Society CCA.md
