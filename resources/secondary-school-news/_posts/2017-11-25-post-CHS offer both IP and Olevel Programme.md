@@ -18,3 +18,5 @@ A **corrected copy of the above [MOE ECG Resource Kit](https://www.moe.gov.sg
 Please note the above when making your choice of secondary schools.
 
 **Click here to [learn more about our school](https://staging.d26k7rl81eo6rb.amplifyapp.com/chs-info-quick-links/),** especially if you missed our Open House.
+
+<img src="/images/sn21.png" style="width:80%">
