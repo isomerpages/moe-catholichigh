@@ -11,7 +11,7 @@ description: ""
 
 You are warmly invited to the 2020 Virtual Open House on 16 May from 8.30 am. at
 
-[https://catholichigh.moe.edu.sg/openhouse/](https://catholichigh.moe.edu.sg/openhouse)
+[Click here](https://staging.d26k7rl81eo6rb.amplifyapp.com/prospective-students/open-house/)
 
    
 No registration is needed.  
