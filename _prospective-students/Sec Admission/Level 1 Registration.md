@@ -29,8 +29,7 @@ Our heartiest congratulations to all P6 students who have completed their Primar
 
 \*Please note that DSA students also need to submit Level 1 (2022) Registration Form.
 
-**Sec 1 & Year 1 Appeal (2022)**
---------------------------------
+#### Sec 1 & Year 1 Appeal (2022)
 
 The appeal for joining our Secondary 1 and Year 1 (2022 cohort) will open on **day of PSLE Posting Results and close on 23 December, 11.59pm**. **Appeal can only be submitted online; we do not accept walk-in appeal.**
 
