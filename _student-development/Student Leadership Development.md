@@ -13,8 +13,7 @@ Through the curricular, co-curricular and community experiences and signature pr
 
 <img src="/images/sd4.png" style="width:80%">
 
-Pathways & Opportunities
-------------------------
+#### Pathways & Opportunities
 
 Today, Catholic High’s student leadership experience is multi-faceted, anchored on an approach modelled after John C. Maxwell’s _Five Levels of Leadership_.
 
@@ -37,3 +36,20 @@ For example, we have students who are Prefects/Councillors, Captain/Sergeant/Pr
 
 – _Mr Benjamin Koh Zikang (Catholic High Alumni/2016), Recipient of Lee Kuan Yew Award for All-Round_ Excellence
 
+<img src="/images/sd5.png" style="width:80%">
+
+_Our 2017 winner for the Lee Kuan Yew Award for All-Round Excellence, Benjamin Soh_
+
+Students with leadership potential can make a decision with teacher and peer endorsement, particularly around Level 2, on whether they want to pursue a leadership development pathway with their CCA (e.g. as CCA leaders such as Sports captains, Uniformed Group sergeants, Club presidents) and/or in Talent Development areas (e.g. as ambassadors/student leaders in our 华青班, CΩergy).
+
+For students who are keen to volunteer their service to others at the school-wide level, they can also apply to our Student Leadership Board (SLB) as probates to be developed and qualify as Prefects, Student Councilors or Class Management Committee leaders.
+
+#### Development Programmes
+
+The school’s formal student leadership curriculum for our student leaders is the “**_Heart of a Leader”_ Programme.** It comprises workshops on communication skills, project management, leadership case studies and scenario planning, as well as intra-school and beyond-school student forums, leadership conferences and community advocacy projects.
+
+IP students also experience **Joint IP Student Leadership Development** with students from CHIJ St Nicholas Girls’ School and Singapore Chinese Girls’ School.
+
+We also provide tiered leadership training through our **CCE** programme, so that at the lower levels all our IP and OP students can grow and develop a better appreciation of what are their own strengths and areas-for-improvement, and aspirations as well.
+
+In addition, Level 1 student leaders who join us through DSA will take part in the [Global Scholars Programme](https://www.globalcities.org/global-scholars), alongside peers in other DSA talent areas. During this 6-month programme, they have digital exchanges with international peers from 8-10 geographically diverse cities. They share ideas and perspectives in online discussion boards, guided by a shared curriculum about an important global issue. The programme culminates in a local [community action project](https://imjustinwong.wixsite.com/globalscholars).
