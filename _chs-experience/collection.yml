@@ -2,6 +2,7 @@ collections:
   chs-experience:
     output: true
     order:
+      - Student Leadership Board.md
       - Talent Development Programmes.md
       - Uniformed Groups CCA.md
       - Sports CCA.md
