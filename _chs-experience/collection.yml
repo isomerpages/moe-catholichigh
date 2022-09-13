@@ -1,4 +1,5 @@
 collections:
   chs-experience:
     output: true
-    order: []
+    order:
+      - Club.md
