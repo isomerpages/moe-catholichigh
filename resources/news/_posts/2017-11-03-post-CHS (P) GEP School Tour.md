@@ -14,3 +14,5 @@ Please click on the following link if you wish to sign up for any of the listed 
 [http://tinyurl.com/chspgeptour](http://tinyurl.com/chspgeptour)
 
 Meanwhile, Please check out our updated video of what a typical day in the life of a young CHS Gentleman is like.
+
+<iframe width="561" height="315" src="https://www.youtube.com/embed/_vJnVOjO_k0" title="CHSP Snippets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
