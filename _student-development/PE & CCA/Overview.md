@@ -4,8 +4,8 @@ permalink: /student-development/pe-and-cca/overview/
 description: ""
 third_nav_title: PE & CCA
 ---
-Developing Resilient and Rugged Leaders
----------------------------------------
+### Developing Resilient and Rugged Leaders
+
 
 The **Physical Education & Co-curricular Activities** in CHS aims to deliver a thinking and differentiated curriculum with innovative student-centric and values-driven programmes that promote psychomotor, cognitive and affective development of Catholic High Gentlemen. The end in mind is to develop holistic health amongst students through promotion of a healthy lifestyle in Physical Education and Co-curricular Activities, and groom 21st century CHS leaders with a robust character and a passion to serve.
 
@@ -87,3 +87,5 @@ These are some of the PE programmes we offer to students in IP and OP:
 _(Below_: Student on high-elements at our ODLC)
 
 <img src="/images/sd2.png" style="width:40%">
+
+<img src="/images/sd3.png" style="width:60%">
