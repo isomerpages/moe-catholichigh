@@ -25,6 +25,6 @@ Our heartiest congratulations to all P6 students who have completed their Primar
 *   [Financial Assistance Scheme](https://go.gov.sg/fas-2022)
 *   [Secondary School Health & Dental Services](https://go.gov.sg/dental-2022)
 *   [Level 1 (2022) Registration Form (**Available until to 24 Dec 08:00a.m**)](https://go.gov.sg/s1registrationform-2022)\*
-*   [FAQs](https://catholichigh.moe.edu.sg/frequently-asked-questions/)
+*   [FAQs](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/faqs/)
 
 \*Please note that DSA students also need to submit Level 1 (2022) Registration Form.
