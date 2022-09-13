@@ -5,8 +5,7 @@ date: 2018-09-02
 layout: post
 description: ""
 ---
-Apply Now for Admission to IP Year 3 in 2019
---------------------------------------------
+### Apply Now for Admission to IP Year 3 in 2019
 
 Admission to the CHS Integrated Programme (IP) Year 3 in 2019 is now open for application (by present Sec 2 students from other schools) from 3 Sep to 21 Sep 2018 (4.00pm). 
 
