@@ -71,3 +71,42 @@ The proxy should collect the following items:
 *   Please refer to the Traffic and Carpark map below:
 
 <img src="/images/sn42.png" style="width:80%">
+
+**Purchase of Uniform**  
+
+Uniform Vendor: Bibi & Baba Pte Ltd  
+
+**For Sale in school:**
+
+| DATE 	| TIME 	| VENUE 	| REMARKS 	|
+|---	|---	|---	|---	|
+| 23 December 2015 	| 8.30am – 3.00pm 	| CHS Special Rm 3B<br>(Opposite the General Office) 	| Day of Secondary 1 Registration 	|
+| 24 December 2015 	| CLOSED 	|  	| Christmas Eve 	|
+| 25 December 2015 	| CLOSED 	|  	| Christmas Day 	|
+| 26 December 2015 	| 9.00am – 12.00pm 	| CHS Special Rm 3B 	| Boxing Day 	|
+| 28 December 2015 	| 9.00am – 2.00pm 	| CHS Special Rm 3B 	|  	|
+| 29 December 2015 	| 9.00am – 2.00pm 	| CHS Special Rm 3B 	|  	|
+| 30 December 2015 	| 9.00am – 2.00pm 	| CHS Special Rm 3B 	|  	|
+| 31 December 2015 	| CLOSED 	|  	|  	|
+| 4 January 2016 	| 9.00am – 2.00pm 	| CHS Special Rm 3B 	| First Day of School 	|
+| 5 January 2016 	| 9.00am – 2.00pm 	| CHS Special Rm 3B 	|  	|
+| 12 January 2016 	| 9.00am – 2.00pm 	| CHS (Pri) Canteen 	|  	|
+| 19 January 2016 	| 9.00am – 2.00pm 	| CHS (Pri) Canteen 	|  	|
+| 26 January 2016 	| 9.00am – 2.00pm 	| CHS (Pri) Canteen 	|  	|
+
+**Purchase of Books and Stationery**  
+
+Vendor: Casco Educational Supplies  
+
+**For Sale in school:**
+
+| DATE 	| TIME 	| REMARKS 	|
+|---	|---	|---	|
+| 23 December 	| 8.30am – 3.00pm 	| Day of Secondary 1 Registration 	|
+| 24 December 	| 9.00am – 1.00pm 	| Christmas Eve 	|
+| 25 December 	| CLOSED 	| Christmas Day 	|
+| 26 December 	| 9.00am – 1.00pm 	| Boxing Day 	|
+| 28 December 	| 9.00am – 3.00pm 	|  	|
+| 29 December 	| 9.00am – 3.00pm 	|  	|
+| 30 December 	| 9.00am – 3.00pm 	|  	|
+| 31 December 	| 9.00am – 1.00pm 	| New Year’s Eve 	|
