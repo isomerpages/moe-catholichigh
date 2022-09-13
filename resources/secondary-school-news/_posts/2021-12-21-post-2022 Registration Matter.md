@@ -5,3 +5,6 @@ date: 2021-12-21
 layout: post
 description: ""
 ---
+Dear Parents,
+
+You may click on the following link to access the [Level 1 (2022 Registration Matter)](https://catholichigh.moe.edu.sg/secondary/level-one-matters/)
