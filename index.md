@@ -38,7 +38,7 @@ sections:
       subtitle: "Latest News "
       description: Congratulations, Chun Teck, Javan and Laura!
       button: Read more here
-      url: /latest-news/presidents-scouts-awardees/
+      url: /presidents-scout-award-2017/
       image: /images/infopic3.png
       alt: Image alt text
 ---
