@@ -21,7 +21,7 @@ sections:
       subtitle: Latest News
       description: Register early for the physical Open House to avoid disappointment!
       button: Read more here
-      url: /latest-news/open-house-2022/
+      url: /prospective-students/open-house/
       image: /images/infopic1.png
       alt: Image alt text
   - infopic:
