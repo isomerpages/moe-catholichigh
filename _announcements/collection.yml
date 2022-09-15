@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Secondary/Information on purchase of books and uniforms.md
       - Secondary/2019 Information Day.md
       - Secondary/.keep
       - Overview.md
