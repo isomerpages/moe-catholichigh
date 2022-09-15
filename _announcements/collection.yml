@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Secondary/Level 1 (2022) Appeal.md
       - Secondary/Level 1 (2022) Registration.md
       - Secondary/2020 Virtual Open House.md
       - Secondary/Information on purchase of books and uniforms.md
