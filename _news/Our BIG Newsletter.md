@@ -3,7 +3,6 @@ title: Our BIG Newsletter
 permalink: /news/our-big-newsletter/
 description: ""
 ---
-# Link up the last three with staging links
 ### “Our Blood is Green” Newsletter
 
 
