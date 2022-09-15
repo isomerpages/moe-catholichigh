@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/overview/
+          url: /announcements/Primary/big-issue-2020-s1/
         - title: Prospective Students
           description: ""
           url: /prospective-students/prospectus-sec/overview/
