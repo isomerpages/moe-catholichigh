@@ -11,10 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/
-        - title: Latest News
-          description: ""
-          url: resources/news/
+          url: /announcements/overview/
         - title: Prospective Students
           description: ""
           url: /prospective-students/prospectus-sec/overview/
