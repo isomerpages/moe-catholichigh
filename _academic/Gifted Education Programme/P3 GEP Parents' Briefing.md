@@ -32,11 +32,11 @@ third_nav_title: Gifted Education Programme
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z3VUxSbTbpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br><br>
 
-**Voice of P6 Pupils：<br> Our GEP Programme @ CHS** <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/RXclJ9iFYyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br><br> **Voice of P6 Pupils：<br> Our experiences @ CHS** <br><br> <iframe width="560" height="315" src="https://www.youtube.com/embed/sJ08_OYfzHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+**Voice of P6 Pupils：<br> Our GEP Programme @ CHS** <br> <iframe width="498" height="316" src="https://www.youtube.com/embed/RXclJ9iFYyY" title="Pupils seg2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br><br> **Voice of P6 Pupils：<br> Our experiences @ CHS** <br><br> <iframe width="498" height="316" src="https://www.youtube.com/embed/sJ08_OYfzHY" title="Pupils seg3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 
 **Individual Research Study Showcase** 	
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hP2s5y5YZkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br><br> <iframe width="560" height="315" src="https://www.youtube.com/embed/rCtMoUbMKNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hP2s5y5YZkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br><br> <iframe width="498" height="316" src="https://www.youtube.com/embed/rCtMoUbMKNY" title="IRS Matthew Loy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 
 **CHS history as a SAP school** <br>**《钟声响起时》** 	
 
