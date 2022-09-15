@@ -30,7 +30,7 @@ sections:
       description: Congratulations to our 2018 Prime Minister's Book Prize Winner, Ong
         Chong Yu (Class of IP/2017)
       button: Read more here
-      url: /latest-news/book-prize-winner/
+      url: /book-prize-winner/
       image: /images/infopic2.png
       alt: Image alt text
   - infopic:
