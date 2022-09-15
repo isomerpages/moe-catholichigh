@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Primary.md
       - Secondary/.keep
       - Secondary/Level 1 (2022) Revised Booklist.md
       - Secondary/Level 1 (2022) Appeal.md
