@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - Primary/.keep
       - Overview.md
+      - Primary/.keep
       - Secondary/.keep
       - Secondary/Level 1 (2022) Revised Booklist.md
       - Secondary/Level 1 (2022) Appeal.md
