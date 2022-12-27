@@ -6,7 +6,6 @@ third_nav_title: 华文部 Chinese Language
 ---
 #### 特别课程 Signature Programmes
 
-Insert picture here.
 
 ##### 我爱讲华语
 
