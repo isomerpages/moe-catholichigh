@@ -4,8 +4,6 @@ permalink: /prospective-students/sec-admission/overview/
 description: ""
 third_nav_title: Sec Admission
 ---
-
-
 Prospective students may apply to join CHS through various channels, depending on the nationality and schooling status. See following sections for relevant information.
 
 **Application Process for Primary 6 Students (via Direct School Admission or Post-PSLE Sec 1 Registration)**
@@ -16,7 +14,7 @@ The flowchart below provides a simple overview of the entire application process
 *   [Click here to apply to join CHS Year 3 IP](https://staging.d26k7rl81eo6rb.amplifyapp.com/prospective-students/admission-to-ip-year-3/)
 *   [Click here for Sec 1 Registration information](https://staging.d26k7rl81eo6rb.amplifyapp.com/prospective-students/Sec-Admission/level-1-registration/)
 
-For more information, you can (contact us) "insert hyperlink" here or refer to the [MOE admissions website](http://www.moe.gov.sg/education/admissions/secondary-one-posting/).
+For more information, you can ([contact us](https://staging.d26k7rl81eo6rb.amplifyapp.com/contact-and-outreach/contact-school-and-services/overview/)) or refer to the [MOE admissions website](http://www.moe.gov.sg/education/admissions/secondary-one-posting/).
 
 You can view FAQs about admission [here](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/faqs/): [/frequently-asked-questions/](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/faqs/)
 
