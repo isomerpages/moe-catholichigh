@@ -7,7 +7,7 @@ description: ""
 
 |  	|  	|
 |---	|---	|
-| Mr Poh Chun Leck (Principal)<br>Ms Ho Ping Ping Grace (Vice-Principal(1))<br>Mr Tan Kelly (Vice-Principal(2))<br>Mr Perry Tan (Vice-Principal(Administration)) 	| chs_principal@moe.edu.sg 	|
+| Mr Poh Chun Leck (Principal)<br> Mr Tan Kelly (Vice-Principal(1))<br> Mr Tan Cher Hui Philip (Vice-Principal(2)) <br>Mr Perry Tan (Vice-Principal(Administration)) 	| chs_principal@moe.edu.sg 	|
 
 #### Heads of Department (HOD)/Subject Heads (SH)/Level Heads (LH)/Lead Teachers (LT)/Senior Teachers (ST) 2022
 
