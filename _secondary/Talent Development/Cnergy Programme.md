@@ -7,7 +7,7 @@ third_nav_title: Talent Development
 ### Science Talent Development Programme: CΩERGY Programme
 
 
-**[Click here for our Science@CHS Prospectus that provides greater details about our science programmes, enrichment and talent development](https://catholichigh.moe.edu.sg/wp-content/uploads/2021/02/2021_CHS_Science_Prospectus1.pdf).**
+**[[Click here for our Science@CHS Prospectus that provides greater details about our science programmes, enrichment and talent development](https://drive.google.com/file/d/155SWFfGAriWTZuWd68rs3Ov9PMYp6UZ3/view)].**
 
 <img src="/images/cnergy4.png" style="width:243px;height:180px;margin-left:15px;" align = "right"> The **CΩERGY Programme is a stretch programme whereby consistently high-performing IP and OP students who exhibit strong aptitude and interest in science are selected at the end of Level 1 based on a set of criteria**. In Level 2, the students attend lessons after school and participate in enrichment programmes and activities that aim to broaden their experience and advance their learning in science and technology. In Level 3 and 4, these students go through an accelerated curriculum during curriculum time when their counterparts are going through the mainstream curriculum.
 
