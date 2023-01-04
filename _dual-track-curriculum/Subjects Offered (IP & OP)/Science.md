@@ -4,8 +4,7 @@ permalink: /dual-track-curriculum/Subjects-Offered-IP-and-OP/science/
 description: ""
 third_nav_title: Subjects Offered (IP & OP)
 ---
-
-<img src="/images/scie1.png" style="width:30%"> (Upload pdf here)
+<img src="/images/scie1.png" style="width:30%"> [Click here for our Science Prospectus ](https://drive.google.com/file/d/155SWFfGAriWTZuWd68rs3Ov9PMYp6UZ3/view)<br>(which provides in-depth information about our general science curriculum, research programmes, enrichment and talent development)
 
 ### Our STEM Curriculum
 
