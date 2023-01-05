@@ -104,54 +104,54 @@ description: ""
 
 |  	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 4 Charity 	| Mdm 	| Goh Lay San 	| goh_lay_san@moe.edu.sg 	|
-| 4 Charity 	| Mr 	| Revinesh s/o K. Kanaiah 	| revinesh_k_kanaiah@moe.edu.sg 	|
-| 4 Joy 	| Mr 	| Coules Edward Claude 	| coules_edward_claude@moe.edu.sg 	|
-| 4 Joy 	| Mr 	| Tan Xian, Shaun 	| tan_xian_shaun@moe.edu.sg 	|
-| 4 Peace 	| Ms 	| Ramona Bte Kamis 	| ramona_kamis@moe.edu.sg 	|
-| 4 Peace 	| Miss 	| Eileen Tay 	| eileen_tay@moe.edu.sg 	|
-| 4 Patience 	| Mr 	| Tan Chin Gang Dennis 	| denis_tan_chin_gang@moe.edu.sg 	|
-| 4 Patience 	| Mdm 	| Tham Lai Kuen 	| tham_lai_kuen@moe.edu.sg 	|
-| 4 Kindness 	| Mdm 	| Leong Pei Ling Denyse 	| leong_pei_ling_denyse@moe.edu.sg 	|
-| 4 Kindness 	| Mdm 	| Jeanevere Lum Foong Tai 	| jeanevere_lum_foong_tai@moe.edu.sg 	|
-| 4 Goodness 	| Ms 	| Jenna Cai Sihua 	| jenna_cai_sihua@moe.edu.sg 	|
-| 4 Goodness 	| Ms 	| Sun Weiling 	| Sun_Weiling@moe.edu.sg 	|
-| 4 Faithfulness 	| Ms 	| Chong Ai Lin 	| chong_ai_lin_a@moe.edu.sg 	|
-| 4 Faithfulness 	| Miss 	| Chia Hsu San Suzanne 	| chia_hsu_san_suzanne@moe.edu.sg 	|
-| 4 Gentleness 	| Mrs 	| Adrianna Chiew-Ngern Cheng Yi 	| adrianna_ngern_cheng_yi@moe.edu.sg 	|
-| 4 Gentleness 	| Mr 	| Vo Van Hung 	| vo_van_hung@moe.edu.sg 	|
-| 5 Charity 	| Mdm 	| Chelsia Loh Qiuxia 	| chelsia_loh@moe.edu.sg 	|
-| 5 Charity 	| Ms 	| Kavitha d/o Shanmugananthan 	| kavitha_shanmugananthan@moe.edu.sg 	|
-| 5 Joy 	| Mdm 	| Ng Li Lin Sarah 	| ng_li_lin_sarah@moe.edu.sg 	|
-| 5 Joy 	| Mr 	| Cheh Yek Liang 	| cheh_yek_liang@moe.edu.sg 	|
-| 5 Peace 	| Mr 	| Wang Zhigang 	| wang_zhigang@moe.edu.sg 	|
-| 5 Peace 	| Miss 	| Seah Hui Ling<br>(Math) 	| seah_hui_ling@moe.edu.sg 	|
-| 5 Patience 	| Mrs 	| Audrey Koh Ai Ling 	| audrey_tong@moe.edu.sg 	|
-| 5 Patience 	| Miss 	| Kay Ee Ee 	| kay_ee_ee@moe.edu.sg 	|
-| 5 Kindness 	| Miss 	| Lee Ying Xuan 	| lee_ying_xuan@moe.edu.sg 	|
-| 5 Kindness 	| Mdm 	| Poh Woon Ying 	| poh_woon_ying@moe.edu.sg 	|
-| 5 Goodness 	| Mr 	| Devana Pillay s/o H P 	| devana_pillay_haridaspillay@moe.edu.sg 	|
-| 5 Goodness 	| Mdm 	| Heng Wen Chi 	| heng_wen_chi@moe.edu.sg 	|
-| 5 Faithfulness 	| Mdm 	| Ng Minghui 	| ng_minghui_esther@moe.edu.sg 	|
-| 5 Faithfulness 	| Mr 	| Lai Chee Keen 	| lai_chee_keen@moe.edu.sg 	|
-| 5 Gentleness 	| Miss 	| Yap Yew Sean Calvin 	| yap_yew_sean_calvin@moe.edu.sg 	|
-| 5 Gentleness 	| Mdm 	| Tan Ley Hoon 	| tan_ley_hoon@moe.edu.sg 	|
-| 6 Charity 	| Mdm 	| Chang Chiew Siew Linda 	| chang_chiew_siew_linda@moe.edu.sg 	|
-| 6 Charity 	| Miss 	| Oh Ji Ji 	| oh_ji_ji@moe.edu.sg 	|
-| 6 Joy 	| Mr 	| Lim Song Woon 	| lim_song_woon@moe.edu.sg 	|
-| 6 Joy 	| Mr 	| Tan Chin Kwang 	| tan_chin_kwang@moe.edu.sg 	|
-| 6 Peace 	| Miss 	| Chin Eileen 	| chin_eileen@moe.edu.sg 	|
-| 6 Peace 	| Mdm 	| Tan Jia Hui 	| tan_jia_hui@moe.edu.sg 	|
-| 6 Patience 	| Miss 	| Ong Li Lian 	| ong_li_lian@moe.edu.sg 	|
-| 6 Patience 	| Mdm 	| Mok Hsui Hsui Daphne 	| mok_hsui_hsui_daphne@moe.edu.sg 	|
-| 6 Kindness 	| Mdm 	| Cheong Wai Fang 	| cheong_wai_fang@moe.edu.sg 	|
-| 6 Kindness 	| Ms 	| Paranjothy Joanne Denise 	| paranjothy_joanne_denise@moe.edu.sg 	|
-| 6 Goodness 	| Mdm 	| Lim Mi-Mei 	| lim_mi-mei@moe.edu.sg 	|
-| 6 Goodness 	| Mr 	| Chua Bingkun Nicholas 	| chua_bingkun_nicholas@moe.edu.sg 	|
-| 6 Faithfulness 	| Mr 	| Chua Boon How 	| chua_boon_how@moe.edu.sg 	|
-| 6 Faithfulness 	| Mdm 	| Tay Wan Cheng 	| tay_wan_cheng@moe.edu.sg 	|
-| 6 Gentleness 	| Miss 	| Lim Ong Hong 	| lim_ong_hong@moe.edu.sg 	|
-| 6 Gentleness 	| Mdm 	| Tu Kee Wui 	| tu_kee_wui@moe.edu.sg 	|
+|4 Charity|Mdm|Goh Lay San|goh_lay_san@moe.edu.sg|
+|4 Charity|Mdm|Parameswary Veerasingam|parameswary_veerasingam@moe.edu.sg|
+|4 Joy|Mr|Coules Edward Claude|coules_edward_claude@moe.edu.sg|
+|4 Joy|Mr|Tan Xian Shaun|tan_xian_shaun@moe.edu.sg|
+|4 Peace|Mdm|Tay Wan Cheng|tay_wan_cheng@moe.edu.sg|
+|4 Peace|Mrs|Soo Kim Bee|boey_kim_bee@moe.edu.sg|
+|4 Patience|Mdm|Lee Fang Yun|lee_fang_yun@moe.edu.sg|
+|4 Patience|Mdm|Chang Chiew Siew Linda|chang_chiew_siew_linda@moe.edu.sg|
+|4 Kindness|Ms|Eng Tze Hwee|eng_tze_hwee@moe.edu.sg|
+|4 Kindness|Mdm|Chan Siew Hwee Joyce|joyce_chan_siew_hwee@moe.edu.sg|
+|4 Goodness|Miss|Eileen Tay|eileen_tay@moe.edu.sg|
+|4 Goodness|Ms|Sun Weiling|Sun_Weiling@moe.edu.sg|
+|4 Faithfulness|Mrs|Adrianna Chiew-Ngern Cheng Yi|adrianna_ngern_cheng_yi@moe.edu.sg|
+|4 Faithfulness|Mr|Lai Chee Keen|lai_chee_keen@moe.edu.sg|
+|4 Gentleness|Mr|Revinesh s/o K. Kanaiah|revinesh_k_kanaiah@moe.edu.sg|
+|4 Gentleness|Miss|Chia Hsu San Suzanne|chia_hsu_san_suzanne@moe.edu.sg|
+|5 Charity|Mdm|Lim Mi-Mei|lim_mi-mei@moe.edu.sg|
+|5 Charity|Mr|Lim Song Woon|lim_song_woon@moe.edu.sg|
+|5 Joy|Mr|Cheh Yek Liang|cheh_yek_liang@moe.edu.sg|
+|5 Joy|Ms|Kavitha d/o Shanmugananthan|kavitha_shanmugananthan@moe.edu.sg|
+|5 Peace|Mdm|Ng Li Lin Sarah|ng_li_lin_sarah@moe.edu.sg|
+|5 Peace|Mr|Vo Van Hung|vo_van_hung@moe.edu.sg|
+|5 Patience|Mdm|Woo Jak May Carol|woo_jak_may_carol@moe.edu.sg|
+|5 Patience|Mdm|Jeanevere Lum Foong Tai|jeanevere_lum_foong_tai@moe.edu.sg|
+|5 Kindness|Mdm|Cheong Wai Fang|cheong_wai_fang@moe.edu.sg|
+|5 Kindness|Mr|Devana Pillay s/o H P|devana_pillay_haridaspillay@moe.edu.sg|
+|5 Goodness|Miss|Lee Ying Xuan|lee_ying_xuan@moe.edu.sg|
+|5 Goodness|Miss|Oh Ji Ji|oh_ji_ji@moe.edu.sg|
+|5 Faithfulness|Mdm|Tu Kee Wui|tu_kee_wui@moe.edu.sg|
+|5 Faithfulness|Mdm|Pang Mee Mee|pang_mee_mee@moe.edu.sg|
+|5 Gentleness|Miss|Lim Ong Hong|lim_ong_hong@moe.edu.sg|
+|5 Gentleness|Miss|Lim Wen Fernn|lim_wen_fernn@moe.edu.sg|
+|6 Charity|Ms|Dawson Florence Amutha|dawson_f_amutha@moe.edu.sg|
+|6 Charity|Mdm|Tham Lai Kuen|tham_lai_kuen@moe.edu.sg|
+|6 Joy|Mdm|Tan Jia Hui|tan_jia_hui@moe.edu.sg|
+|6 Joy|Mr|Tan Shuen Keat|tan_shuen_keat@moe.edu.sg|
+|6 Peace|Miss|Seah Hui Ling|seah_hui_ling@moe.edu.sg|
+|6 Peace|Mr|Wang Zhigang|wang_zhigang@moe.edu.sg|
+|6 Patience|Mdm|Mok Hsui Hsui Daphne|mok_hsui_hsui_daphne@moe.edu.sg|
+|6 Patience|Mdm|Tham Xingli|tham_xingli@moe.edu.sg|
+|6 Kindness|Miss|Ng Keow Eng|ng_keow_eng@moe.edu.sg|
+|6 Kindness|Mr|Tan Chin Kwang|tan_chin_kwang@moe.edu.sg|
+|6 Goodness|Mdm|Heng Wen Chi|heng_wen_chi@moe.edu.sg|
+|6 Goodness|Ms|Paranjothy Joanne Denise|paranjothy_joanne_denise@moe.edu.sg|
+|6 Faithfulness|Mr|Yap Yew Sean Calvin|yap_yew_sean_calvin@moe.edu.sg|
+|6 Faithfulness|Mdm|Ng Minghui|ng_minghui_esther@moe.edu.sg|
+|6 Gentleness|Mr|Chua Boon How|chua_boon_how@moe.edu.sg|
+|6 Gentleness|Mdm|Tan Ley Hoon|tan_ley_hoon@moe.edu.sg|
 
 #### Other Teachers and Allied Educators
 
