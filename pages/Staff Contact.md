@@ -7,7 +7,7 @@ description: ""
 
 |  	|  	|
 |---	|---	|
-| Principal / Vice-Principals 	| chs_principal@moe.edu.sg 	|
+| Mr Poh Chun Leck (Principal)<br>Ms Tan Pey San (Vice-Principal)<br>Mrs Kellie Woo (Vice-Principal)<br>Mr Perry Tan (Vice-Principal / Administration) 	| chs_principal@moe.edu.sg 	|
 
 #### Key Personnel and Senior Teachers
 
