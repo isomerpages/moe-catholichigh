@@ -157,22 +157,19 @@ description: ""
 
 |  	|  	|  	|
 |---	|---	|---	|
-| Miss 	| Balwinder O Gill<br>(FAJT English) 	| balwinder_kaur@moe.edu.sg 	|
-| Mdm 	| Chong Kyou Un 	| chong_kyou_un@moe.edu.sg 	|
-| Mr 	| Chan Soon Huat John 	| chan_soon_huat_john@moe.edu.sg 	|
-| Miss 	| Chua Tian 	| chua_tian@moe.edu.sg 	|
-| Mrs 	| Eunice Teo<br>(FAJT Math) 	| heng_chor_choo_eunice@moe.edu.sg 	|
-| Ms 	| Huang Jiamin 	| huang_jiamin@moe.edu.sg 	|
-| Miss 	| Lee Yen Ling 	| lee_yen_ling_a@moe.edu.sg 	|
-| Miss 	| Lim Wen, Fernn 	| lim_wen_fernn@moe.edu.sg 	|
-| Mdm 	| Lim Peck Sin 	| lim_peck_sin@moe.edu.sg 	|
-| Mr 	| M Rameshon 	| m_rameshon@moe.edu.sg 	|
-| Mdm 	| Ng Sui San<br>(SEN Officer) 	| ng_sui_san@moe.edu.sg 	|
-| Mdm 	| Nuraini Bte Ab Jabar<br>(AED T & L) 	| nuraini_a@moe.edu.sg 	|
-| Miss 	| Nur Izdihar Bte Mohd Aron<br>(SEN Officer) 	| nur_izdihar_mohamed_aron@moe.edu.sg 	|
-| Mr 	| Ng Dillon<br>(English) 	| ng_dillon@moe.edu.sg 	|
-| Mdm 	| Parameswary Veerasingam<br>(English) 	| parameswary_veerasingam@moe.edu.sg 	|
-| Mr 	| Syed Iskandar B Hamzah 	| syed_iskandar_hamzah@moe.edu.sg 	|
-| Mr 	| Theng Siming<br>(Senior School Counsellor) 	| theng_siming@moe.edu.sg 	|
-| Mdm 	| Teng Meow Kheng<br>(FAJT Chinese) 	| teng_meow_kheng@moe.edu.sg 	|
-| Mrs 	| Xaverie Chong<br>(FAJT Math) 	| xaverie_lim_ting_ting@moe.edu.sg 	|
+|Miss|Balwinder O Gill|balwinder_kaur@moe.edu.sg|
+|Mr|Chan Soon Huat John|chan_soon_huat_john@moe.edu.sg|
+|Miss|Chua Tian|chua_tian@moe.edu.sg|
+|Mdm|Ho Si Yan Gereldinne<br>(SEN Officer)|ho_si_yan_geraldinne@moe.edu.sg|
+|Ms|Julie See|julie_see@moe.edu.sg|
+|Mdm|Khong Kay Lim|khong_kay_lim@moe.edu.sg|
+|Mdm|Lim Peck Sin|lim_peck_sin@moe.edu.sg|
+|Mdm|Ng Sui San<br>(SEN Officer)|ng_sui_san@moe.edu.sg|
+|Mdm|Nuraini Bte Ab Jabar<br>(AED T & L)|nuraini_a@moe.edu.sg|
+|Miss|Nur Izdihar Bte Mohd Aron<br>(SEN Officer)|nur_izdihar_mohamed_aron@moe.edu.sg|
+|Mdm|Parameswary Veerasingam|parameswary_veerasingam@moe.edu.sg|
+|Mdm|Rebekah Tang Chiew Yeenÿ(Mrs Sim)|rebekah_sim@moe.edu.sg|
+|ÿMiss|Teo Shu Lin Jacinta|teo_shu_lin_jacinta@moe.edu.sg|
+|Miss|Shahana Mol|shahana_mol@moe.edu.sg|
+|Mr|Theng Siming<br>(Senior School Counsellor)|theng_siming@moe.edu.sg|
+|Mdm|Teng Meow Kheng|teng_meow_kheng@moe.edu.sg|
