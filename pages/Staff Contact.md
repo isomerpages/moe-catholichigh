@@ -24,10 +24,10 @@ description: ""
 |HOD|Mr|Yogeeindran Ramerchandra (Student Management)|yogeeindran_ramerchandra@moe.edu.sg|
 |HOD|Ms|Wong Wan Hui  (CCE)|wong_wan_hui@moe.edu.sg|
 |HOD|Miss|Tee Ngah Loui (Knowledge & Digital Edn)|tee_ngah_loui@moe.edu.sg|
+|SSD|Miss|Eng Li Li |eng_li_li@moe.edu.sg|
 |Year Head|Ms|Huang Anna  (Upper Primary)|huang_anna@moe.edu.sg|
 |Year Head|Mr|Ong Hwee Kiat (Middle Primary)|ong_hwee_kiat@moe.edu.sg|
 |Year Head|Ms|Yeo Qiting  (Lower Primary)|yeo_qiting@moe.edu.sg|
-|SSD|Miss|Eng Li Li |eng_li_li@moe.edu.sg|
 |Asst Year Head|Mdm|Heng Wen Chi (Upper Primary)|heng_wen_chi@moe.edu.sg|
 |Asst Year Head|Mdm|Saraswathy d/o Mokhan  (Middle Primary)|saraswathy_mokhan@moe.edu.sg|
 |Asst Year Head|Mdm|Marissa Joel Rajesh  (Lower Primary)|marissa_joel_rajesh@moe.edu.sg|
@@ -65,7 +65,7 @@ description: ""
 |1 Kindness|Mdm|Chung Li Chien Judith|chung_li_chien_judith@moe.edu.sg|
 |1 Kindness|Miss|Zhong Ya|zhong_ya@moe.edu.sg|
 |1 Goodness|Ms|Tam Ya Wen Michaela|tam_ya_wen@moe.edu.sg|
-|1 Goodness|Ms|Yeo Xue Ting|yeo_xue_ting@moe.edu.sg|
+|1 Goodness|Mdm|Yeo Xue Ting|yeo_xue_ting@moe.edu.sg|
 |1 Faithfulness|Miss|Jaclyn Marissa Watson|jaclyn_marissa_watson@moe.edu.sg|
 |1 Faithfulness|Mdm|Tan Li Ying|tan_li_ying@moe.edu.sg|
 |1 Gentleness|Mdm|Cheong Ju Li Geraldine|cheong_ju_li_geraldine@moe.edu.sg|
@@ -87,7 +87,7 @@ description: ""
 |2 Gentleness|Mdm|Huang Jiamin|huang_jiamin@moe.edu.sg|
 |2 Gentleness|Ms|Sheryl Eng|sheryl_eng@moe.edu.sg|
 |3 Charity|Mrs|Audrey Tong|audrey_tong@moe.edu.sg|
-|3 Charity|Miss|Lee Yen Ling|lee_yen_ling_a@moe.edu.sg|
+|3 Charity|Ms|Lee Yen Ling|lee_yen_ling_a@moe.edu.sg|
 |3 Joy|Mr|Ng Dillon|ng_dillon@moe.edu.sg|
 |3 Joy|Mrs|Xaverie Chong|xaverie_lim_ting_ting@moe.edu.sg|
 |3 Peace|Miss|Tang Hui Jing|tang_hui_jing@moe.edu.sg|
@@ -95,7 +95,7 @@ description: ""
 |3 Patience|Mdm|Nani Iryanni Binte Tajuddin|nani_iryanni_tajuddin@moe.edu.sg|
 |3 Patience|Ms|Pearlyn Lau|lau_sook_hun_pearlyn@moe.edu.sg|
 |3 Kindness|Mdm|Saraswathy d/o Mokhan|saraswathy_mokhan@moe.edu.sg|
-|3 Kindness|Mdm|Omanni D/O Krishnan Kutty|omanni_krishnan_kutty@moe.edu.sg|
+|3 Kindness|Mdm|Omanni d/o Krishnan Kutty|omanni_krishnan_kutty@moe.edu.sg|
 |3 Goodness|Ms|Wee Huixin |wee_huixin@moe.edu.sg|
 |3 Goodness|Mdm|Chua Tian|chua_tian@moe.edu.sg|
 
@@ -161,7 +161,6 @@ description: ""
 |Mr|Chan Soon Huat John|chan_soon_huat_john@moe.edu.sg|
 |Mdm|Chen Jiewan|chen_jiewan@moe.edu.sg|
 |Mdm|Ho Si Yan Gereldinne (SEN Officer)|ho_si_yan_gereldinne@moe.edu.sg|
-|Mdm|Lim Peck Sin|lim_peck_sin@moe.edu.sg|
 |Mdm|Ng Sui San (SEN Officer)|ng_sui_san@moe.edu.sg|
 |Mdm|Nuraini Bte Ab Jabar (AED T & L)|nuraini_a@moe.edu.sg|
 |Miss|Nur Izdihar Bte Mohd Aron (SEN Officer)|nur_izdihar_mohamed_aron@moe.edu.sg|
