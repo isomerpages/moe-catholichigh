@@ -107,7 +107,7 @@ description: ""
 |4 Charity|Mdm|Goh Lay San|goh_lay_san@moe.edu.sg|
 |4 Charity|Mdm|Parameswary d/o Veera Singam|parameswary_veerasingam@moe.edu.sg|
 |4 Joy|Mr|Coules Edward Claude|coules_edward_claude@moe.edu.sg|
-|4 Joy|Mr|"Tan Xian Shaun"|tan_xian_shaun@moe.edu.sg|
+|4 Joy|Mr|Tan Xian Shaun|tan_xian_shaun@moe.edu.sg|
 |4 Peace|Mdm|Tay Wan Cheng|tay_wan_cheng@moe.edu.sg|
 |4 Peace|Mrs|Soo Kim Bee|boey_kim_bee@moe.edu.sg|
 |4 Patience|Mdm|Lee Fang Yun|lee_fang_yun@moe.edu.sg|
@@ -135,7 +135,7 @@ description: ""
 |5 Faithfulness|Mdm|Tu Kee Wui|tu_kee_wui@moe.edu.sg|
 |5 Faithfulness|Mdm|Pang Mee Mee|pang_mee_mee@moe.edu.sg|
 |5 Gentleness|Miss|Lim Ong Hong|lim_ong_hong@moe.edu.sg|
-|5 Gentleness|Miss|"Lim Wen Fernn"|lim_wen_fernn@moe.edu.sg|
+|5 Gentleness|Miss|Lim Wen Fernn|lim_wen_fernn@moe.edu.sg|
 |6 Charity|Mrs|Amutha Samuel|dawson_f_amutha@moe.edu.sg|
 |6 Charity|Mdm|Tham Lai Kuen|tham_lai_kuen@moe.edu.sg|
 |6 Joy|Mdm|Tan Jia Hui|tan_jia_hui@moe.edu.sg|
@@ -160,7 +160,7 @@ description: ""
 |Miss|Balwinder O Gill|balwinder_kaur@moe.edu.sg|
 |Mr|Chan Soon Huat John|chan_soon_huat_john@moe.edu.sg|
 |Mdm|Chen Jiewan|chen_jiewan@moe.edu.sg|
-|Mdm|"Ho Si Yan Gereldinne (SEN Officer)"|ho_si_yan_gereldinne@moe.edu.sg|
+|Mdm|Ho Si Yan Gereldinne (SEN Officer)|ho_si_yan_gereldinne@moe.edu.sg|
 |Mdm|Lim Peck Sin|lim_peck_sin@moe.edu.sg|
 |Mdm|Ng Sui San (SEN Officer)|ng_sui_san@moe.edu.sg|
 |Mdm|Nuraini Bte Ab Jabar (AED T & L)|nuraini_a@moe.edu.sg|
