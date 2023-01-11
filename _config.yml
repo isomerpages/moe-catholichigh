@@ -2,11 +2,11 @@ title: Catholic High School
 url: https://catholichigh.moe.edu.sg
 favicon: /images/chslogo1.png
 colors:
-  primary-color: "#0a4d93"
+  primary-color: "#417505"
   secondary-color: "#161c66"
   media-colors:
     - title: media-color-one
-      color: "#9a5649"
+      color: "#49759a"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
