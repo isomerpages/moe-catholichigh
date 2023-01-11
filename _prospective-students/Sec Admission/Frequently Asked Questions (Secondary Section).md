@@ -131,7 +131,7 @@ You can scroll through the page or search for questions by typing “Ctrl-F” (
 
 <b>You can read some of the frequently asked questions for the Personalised Digital Learning Programme in the following downloadable PDF.</b><br><br>
 
-*   <a href="https://drive.google.com/file/d/1m8yN9-BQcYnR9fXVftdSiQPryM1Mprsq/view?usp=sharing">FAQs</a><br><br>
+*   <a href="https://drive.google.com/file/d/1eLzo46IwEJj4sL0WmhIahgihfA9OSZsk/view?usp=sharing">FAQs</a><br><br>
 
 <b>(A20) Why is Catholic High going into the Blended Learning model now?</b><br><Br>
 
