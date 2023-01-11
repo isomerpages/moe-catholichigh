@@ -17,19 +17,6 @@ links:
         url: /about/partnerships/
       - title: Our CHS Campus
         url: /about/Our-CHS-Campus/
-  - title: News
-    url: /news/our-big-newsletter/
-    sublinks:
-      - title: Our B.I.G. Newsletter
-        url: /news/our-big-newsletter/
-      - title: Parent Support Group
-        url: https://www.facebook.com/psg.chs/
-      - title: Primary School News
-        url: /resources/primary-school-news/
-      - title: Secondary School News
-        url: /resources/secondary-school-news/
-      - title: Upcoming Events
-        url: /news/upcoming-events/
   - title: Primary
     url: /resources/primary-school-news/
     sublinks:
