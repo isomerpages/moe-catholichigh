@@ -2,6 +2,31 @@ collections:
   primary:
     output: true
     order:
-      - Facebook Test.md
+      - Facebook Test.md	
+      - Academic/English Language/Overview.md
+      - Academic/English Language/Signature Programmes.md
+      - Academic/English Language/Recommended Reading lists for English Language.md
+      - Academic/English Language/.keep
+      - Academic/华文部 Chinese Language/Overview.md
+      - Academic/华文部 Chinese Language/理念与原则 Teaching & Learning Model and Approach.md
+      - Academic/华文部 Chinese Language/特别课程 Signature Programmes.md
+      - Academic/华文部 Chinese Language/小学华文课外读物参考书目.md
+      - Academic/华文部 Chinese Language/.keep
+      - Academic/SAP/Overview.md
+      - Academic/SAP/特别课程 Signature Programmes.md
+      - Academic/SAP/.keep
+      - Academic/Mathematics/Overview.md
+      - Academic/Mathematics/Mathematical Framework.md
+      - Academic/Mathematics/.keep
+      - Academic/Science/Overview.md
+      - Academic/Science/Teaching and Learning Approaches.md
+      - Academic/Science/Signature Programmes.md
+      - Academic/Science/Highlights.md
+      - Academic/Science/Achievements.md
+      - Academic/Science/.keep
+      - Academic/Gifted Education Programme/CHS GEP Experience.md
+      - Academic/Gifted Education Programme/Signature Programmes.md
+      - Academic/Gifted Education Programme/Achievements.md
+      - Academic/Gifted Education Programme/P3 GEP Parents' Briefing.md
+      - Academic/Gifted Education Programme/.keep
       - Non Academic/.keep
-      - Academic/.keep
