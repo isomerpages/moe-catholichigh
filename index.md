@@ -38,4 +38,8 @@ sections:
       url: /presidents-scout-award-2017/
       image: /images/infopic3.png
       alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
