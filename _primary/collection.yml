@@ -2,13 +2,15 @@ collections:
   primary:
     output: true
     order:
-      - Facebook Test.md	
-      - Academic/English Language/Overview.md
+      - Facebook Test.md
+      - Academic/Overview.md
       - Academic/English Language/Signature Programmes.md
-      - Academic/English Language/Recommended Reading lists for English Language.md
+      - Academic/English Language/Recommended Reading lists for English
+        Language.md
       - Academic/English Language/.keep
       - Academic/华文部 Chinese Language/Overview.md
-      - Academic/华文部 Chinese Language/理念与原则 Teaching & Learning Model and Approach.md
+      - Academic/华文部 Chinese Language/理念与原则 Teaching & Learning Model and
+        Approach.md
       - Academic/华文部 Chinese Language/特别课程 Signature Programmes.md
       - Academic/华文部 Chinese Language/小学华文课外读物参考书目.md
       - Academic/华文部 Chinese Language/.keep
