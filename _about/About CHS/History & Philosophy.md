@@ -6,11 +6,11 @@ third_nav_title: About CHS
 ---
 ### Touching Lives, Transforming Futures
 
-<img src="/images/about1.png" style="width:213px;height:400px;margin-left:15px;" align = "right"> Catholic High School (CHS) is one of Singapore’s highly regarded institutions under the auspices of the Roman Catholic Archdiocese of Singapore. It is a Catholic institution but enrols both Catholic and non-Catholic students.
+<img src="/images/about1.png" style="width:213px;height:400px;margin-left:15px;" align = "right"> <p style="text-align: justify;">Catholic High School (CHS) is one of Singapore’s highly regarded institutions under the auspices of the Roman Catholic Archdiocese of Singapore. It is a Catholic institution but enrols both Catholic and non-Catholic students.</p>
 
-Founded in 1935 by the late Rev. Fr. Edward Becheras, a French missionary, the school had her humble beginnings within the premises of the Church of St Peter and Paul at Queen Street. CHS relocated to its present site in Bishan in 1992 to cope with the demand for places.
+<p style="text-align: justify;">Founded in 1935 by the late Rev. Fr. Edward Becheras, a French missionary, the school had her humble beginnings within the premises of the Church of St Peter and Paul at Queen Street. CHS relocated to its present site in Bishan in 1992 to cope with the demand for places.</p>
 
-Reverend Father Becheras envisioned the school as an institution of learning, and also one for acquiring competence in bilingualism. His enunciation – _“**The way of the Catholic High School is a way made of two rails – Chinese and English, free from any entanglement, straight to its end. Happy are those who follow. They shall obtain the scope of a sound education**”_ remains firmly as a cornerstone of the school’s philosophy.
+<p style="text-align: justify;">Reverend Father Becheras envisioned the school as an institution of learning, and also one for acquiring competence in bilingualism. His enunciation &ndash; &ldquo;<em><strong>The way of the Catholic High School is a way made of two rails &ndash; Chinese and English, free from any entanglement, straight to its end. Happy are those who follow. They shall obtain the scope of a sound education</strong></em>&rdquo;_&nbsp;remains firmly as a cornerstone of the school&rsquo;s philosophy.</p>
 
 As a Special Assistance Plan (SAP) school, CHS is grounded in the philosophy of **bilingualism and biculturalism**. Offering the unique **Dual Track model with both the O-Level Programme (OP) and Integrated Programme (IP)**, the CHS experience offers a curriculum strong in academic distinctions, leadership and character development, and sports and aesthetics excellence. In over 80 years’ of educating students, CHS has nurtured a crop of leaders and professionals in various fields who give back to society and our school. ([Click here for a list of some of our illustrious alumni](https://staging.d26k7rl81eo6rb.amplifyapp.com/about/about-chs/tradition-of-excellence/)
 
