@@ -17,12 +17,9 @@ sections:
           url: /prospective-students/prospectus-sec/overview/
       title: "Catholic High  School "
   - infopic:
-      title: Open House 2022
-      subtitle: Latest News
-      description: Register early for the physical Open House to avoid disappointment!
-      button: Read more here
-      url: /prospective-students/open-house/
-      image: /images/infopic1.png
+      title: Chinese New Year 2023
+      description: 公教迎新春！
+      image: /images/MainPage/公教迎新春!.gif
       alt: Image alt text
   - infopic:
       title: Book Prize Winner
