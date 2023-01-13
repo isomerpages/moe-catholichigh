@@ -16,7 +16,6 @@ sections:
           description: ""
           url: /prospective-students/prospectus-sec/overview/
       title: "Catholic High  School "
-  - resources: {}
   - infopic:
       title: Chinese New Year 2023
       description: 公教迎新春！
