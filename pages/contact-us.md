@@ -37,5 +37,5 @@ contacts:
       - other: <h3 id="other-school-services"><a
           href="contact-and-outreach/contact-school-and-services/overview/">Other
           School Services</a></h3> <dl class="dl-horizontal"></dl>
-    title: ""
+    title: " "
 ---
