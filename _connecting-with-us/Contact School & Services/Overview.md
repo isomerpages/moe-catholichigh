@@ -68,17 +68,6 @@ Fax: (65) 6268 6620
 Email: transport@tongtar.com  
 Website: https://www.tongtar.com/
 
-#### BUS SERVICE OPERATOR
-
-##### TONG TAR TRANSPORT SERVICE PTE LTD
-8 Soon Lee Road  
-Singapore 628073
-
-Tel: (65) 6261 5537  
-Fax: (65) 6268 6620  
-Email: transport@tongtar.com  
-Website: https://www.tongtar.com/
-
 #### Dental Clinic
 
 ##### Catholic High School Dental Clinic 
