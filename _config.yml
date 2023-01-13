@@ -3,18 +3,18 @@ url: https://catholichigh.moe.edu.sg
 favicon: /images/chslogo1.png
 colors:
   primary-color: "#26691c"
-  secondary-color: "#161c66"
+  secondary-color: "#26691c"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#5f8d4e"
     - title: media-color-two
-      color: "#487d0b"
+      color: "#5f8d4e"
     - title: media-color-three
-      color: "#00838f"
+      color: "#a4be7b"
     - title: media-color-four
-      color: "#00838f"
+      color: "#a4be7b"
     - title: media-color-five
-      color: "#00838f"
+      color: "#a4be7b"
 description: ""
 permalink: none
 baseurl: ""
