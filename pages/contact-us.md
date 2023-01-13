@@ -35,7 +35,7 @@ contacts:
       - phone: ""
       - email: ""
       - other: <h3 id="More information"><a
-          href="/contact-and-outreach/contact-school-and-services/overview/">More
+          href="/contact-and-outreach/contact-school-and-servic">More
           information</a></h3> <dl class="dl-horizontal"></dl>
     title: " "
 ---
