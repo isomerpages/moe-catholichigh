@@ -18,17 +18,17 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <h4>Secondary&nbsp;Section</h4> <dl class="dl-horizontal"> <dt>General
-          Office:</dt> <dd>6458 2177</dd> <dt>HOD Room:</dt> <dd>6458 5416</dd>
-          <dt>Staff Room:</dt> <dd>6458 2186 and 6458 6251</dd> <dt>Fax
-          Number:</dt> <dd>6456 1322</dd> <dt>Email:</dt> <dd><a
-          href="mailto:chs@moe.edu.sg">chs@moe.edu.sg</a>
-    title: ""
+      - other: <dl class="dl-horizontal">    <dt>General Office:</dt>   <dd>6458
+          2177</dd>   <dt>HOD Room:</dt>    <dd>6458 5416</dd>    <dt>Staff
+          Room:</dt>    <dd>6458 2186 and 6458 6251</dd>   <dt>Fax
+          Number:</dt>   <dd>6456 1322</dd>    <dt>Email:</dt>    <dd><a
+          href="mailto:chs@moe.edu.sg">chs@moe.edu.sg</a></dd></dl>
+    title: Secondary Section
   - content:
       - phone: ""
       - email: ""
-      - other: '<h4>Primary Section</h4> <p>General Office: 6458 9869<br />Fax Number:
-          6459 3938<br />Email:&nbsp;<a
-          href="mailto:chs_ps@moe.edu.sg">chs_ps@moe.edu.sg</a></p>'
-    title: ""
+      - other: '  <dl class="dl-horizontal">    <dt>General Office:</dt><dd> 6458
+          9869</dd><dt>Fax Number:</dt> <dd>6459 3938</dd><dt>Email:</dt><dd><a
+          href="mailto:chs_ps@moe.edu.sg">chs_ps@moe.edu.sg</a></dd></dt>'
+    title: Primary Section
 ---
