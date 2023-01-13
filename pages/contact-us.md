@@ -34,8 +34,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <h3 id="other-school-services"><a
-          href="contact-and-outreach/contact-school-and-services/overview/">Other
-          School Services</a></h3> <dl class="dl-horizontal"></dl>
+      - other: <h3 id="More information"><a
+          href="contact-and-outreach/contact-school-and-services/overview/">More
+          information</a></h3> <dl class="dl-horizontal"></dl>
     title: " "
 ---
