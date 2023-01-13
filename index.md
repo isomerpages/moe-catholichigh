@@ -34,9 +34,8 @@ sections:
   - infopic:
       title: President's Scout Awardees
       subtitle: "Latest News "
-      description: Congratulations, Chun Teck, Javan and Laura!
       button: Read more here
       url: /presidents-scout-award-2017/
-      image: /images/infopic3.png
+      image: /images/Scout President Award.jpeg
       alt: Image alt text
 ---
