@@ -6,6 +6,7 @@ layout: post
 description: ""
 ---
 ### Sec 1 & Year 1 Appeal (2022)
+<img src="/images/principal.png" style="width:223px;height:240px;margin-right:15px;" align = "left"> 
 
 The appeal for joining our Secondary 1 and Year 1 (2022 cohort) will open on **day of PSLE Posting Results and close on 23 December, 11.59pm**. **Appeal can only be submitted online; we do not accept walk-in appeal.**
 
