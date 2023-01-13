@@ -24,7 +24,7 @@ sections:
       image: /images/CNA 2023.jpg
       alt: Image alt text
   - infopic:
-      title: Chinese New Year!
+      title: Happy Lunar New Year!
       description: Catholic High School wishes everyone a joyful, healthy and blessed
         year of the Rabbit!  癸卯春至辞虎岁 兔岁云程奋鹏程
       image: /images/MainPage/公教迎新春!.gif
