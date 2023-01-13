@@ -32,15 +32,6 @@ sections:
       image: /images/MainPage/公教迎新春!.gif
       alt: Image alt text
   - infopic:
-      title: Book Prize Winner
-      subtitle: Latest News
-      description: Congratulations to our 2018 Prime Minister's Book Prize Winner, Ong
-        Chong Yu (Class of IP/2017)
-      button: Read more here
-      url: /book-prize-winner/
-      image: /images/infopic2.png
-      alt: Image alt text
-  - infopic:
       title: President's Scout Awardees
       subtitle: "Latest News "
       description: Congratulations, Chun Teck, Javan and Laura!
