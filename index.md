@@ -17,8 +17,9 @@ sections:
           url: /prospective-students/prospectus-sec/overview/
       title: "Catholic High  School "
   - infopic:
-      title: Chinese New Year 2023
-      description: 公教迎新春！
+      title: Chinese New Year!
+      description: Catholic High School wishes everyone a joyful, healthy and blessed
+        year of the Rabbit!  癸卯春至辞虎岁 兔岁云程奋鹏程
       image: /images/MainPage/公教迎新春!.gif
       alt: Image alt text
   - infopic:
