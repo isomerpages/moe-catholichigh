@@ -23,29 +23,29 @@ p {text-align: justify;}
 ##### 亲子讲华语比赛
 小学主办“亲子讲华语比赛”，鼓励家长与孩子一起学习华语，以华语为主表演。我们希望家长在家中营造华语使用环境，与孩子一起讲华语。
 
-![推广阅读计划](/images/Primary/推广阅读计划.jpg)
+![推广阅读计划](/images/Primary/Chinese/推广阅读计划.jpg)
 **推广阅读计划**
 
-![课堂活动 - 字卡游戏](/images/Primary/课堂活动%20-%20字卡游戏.jpg)
+![课堂活动 - 字卡游戏](/images/Primary/Chinese/课堂活动%20-%20字卡游戏.jpg)
 **课堂活动 - 字卡游戏**
 
-![课堂活动 - 运用科技提高协作能力](/images/Primary/课堂活动%20-%20运用科技提高协作能力.jpg)
+![课堂活动 - 运用科技提高协作能力](/images/Primary/Chinese/课堂活动%20-%20运用科技提高协作能力.jpg)
 **课堂活动 - 运用科技提高协作能力**
 
-![课堂活动 - 组句成段](/images/Primary/课堂活动%20-%20组句成段.jpg)
+![课堂活动 - 组句成段](/images/Primary/Chinese/课堂活动%20-%20组句成段.jpg)
 **课堂活动 - 组句成段**
 
-![课堂活动 - 打字练习](/images/Primary/课堂活动%20-%20打字练习.jpg)
+![课堂活动 - 打字练习](/images/Primary/Chinese/课堂活动%20-%20打字练习.jpg)
 **课堂活动 - 打字练习**
 
 
-![我爱讲华语比赛](/images/Primary/我爱讲华语比赛.jpg)
+![我爱讲华语比赛](/images/Primary/Chinese/我爱讲华语比赛.jpg)
 **我爱讲华语比赛**
 
-![文化营 - 手工制作](/images/Primary/文化营%20-%20手工制作.jpg)
+![文化营 - 手工制作](/images/Primary/Chinese/文化营%20-%20手工制作.jpg)
 **文化营 - 手工制作**
 
-![新春活动](/images/Primary/新春活动.jpg)
+![新春活动](/images/Primary/Chinese/新春活动.jpg)
 **新春活动**
 
 ### 阅读推荐
