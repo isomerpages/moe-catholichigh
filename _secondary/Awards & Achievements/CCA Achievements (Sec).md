@@ -93,5 +93,19 @@ Catholic High’s Uniformed Groups belong to one of the greatest traditions of t
 | Scouts 	| Gold (Frank Cooper Sand Award) 	|
 | St John Brigade 	| Gold (Corp Achievement Award) 	|
 
+Our heartiest **congratulations to Ang Chun Teck** (_Class of 2015_)**, Javan Lim Yao Shuen** (_Class of 2015_) **and Laura Elizabeth Cheng Li Ling on been conferred the prestigious President’s Scout Award 2017**!
+
+They were presented with their awards on 6 Dec 2017 by President Halimah Yacob at the Istana during the President’s Scout Award and President’s Guide Award Presentation Ceremony.
+
+Chun Teck, Javan and Laura are all exemplary Venture Scouts serving with our Catholic High scout group, and we thank them for their valuable service and guidance of their juniors, and for being role-models to inspire others.
+
+### **President's Scout Award 2017**
+
+**Congratulations, Chun Teck, Javan and Laura!**
 
 
+<img src="/images/psa100.png">
+
+_(Photo above, from right to left: Chun Teck, Javan, Laura)_
+
+<img src="/images/psa101.png">
