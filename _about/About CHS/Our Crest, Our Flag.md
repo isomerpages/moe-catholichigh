@@ -5,10 +5,12 @@ description: ""
 third_nav_title: About CHS
 ---
 ### Our Crest, Our Flag
-
+<style>
+p {text-align: justify;}
+</style>
 ##### Catholic High School – School Crest
 
-<img src="/images/about6.png" style="width:40%">
+<img src="/images/about6.png">
 
 Blue Colour symbolizes the infinite and boundless universe in which Man is free to think and choose how best to spend his time to develop his character as an individual who does not wall man off from his community, and simultaneously does not suffocate his own individuality. His own entity in humanity is a lesson of good faith guided by trust in God.
 
@@ -24,7 +26,7 @@ The Light signifies that Jesus Christ is the light of the universe. The light of
 
 ##### Catholic High School – School Flag
 
-<img src="/images/about7.png" style="width:60%">
+<img src="/images/about7.png">
 
 The white colour symbolizes purity, integrity and flawlessness of character; the yellow colour represents the vastness of the Pontiff that reaches out and the Church that promulgates; the cross in the school crest represents Jesus Christ who suffered and died for the salvation of mankind.
 
