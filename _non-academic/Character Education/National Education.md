@@ -5,11 +5,12 @@ description: ""
 third_nav_title: Character Education
 ---
 #### Overview and Purpose
-
+<style>
+p {text-align: justify;}
+</style>
 National Education (NE) is a significant aspect of Character and Citizenship Education (CCE), comprises a wide range of school efforts that help pupils experience and explore their national identity as Singaporeans, understand the realities and challenges unique to our nation, and foster a sense of hope and belonging to Singapore.  A strong sense of belonging, reality, and hope motivates our pupils to be active citizens.  While they seek to achieve their personal life goals, they also see themselves as playing a contributory role in their immediate communities and in the nation.
 
 #### Approach and Leaning Experience
-
 <img src="/images/cce2.png" style="width:60%">
 
 At Catholic High School (CHS), we hope to deliver National Education using the 3As approach, to strengthen our pupils’ citizenship dispositions below and inspire them to take collective ownership of our future as a nation.
@@ -22,7 +23,8 @@ National Education is delivered across various learning platforms such as Learni
 
 Learning Journeys are planned and designed to allow our pupils to enrich and extend learning beyond the classroom.  Through our learning journeys, we aim to not only strengthen our pupils’ citizenship dispositions, deepen their knowledge in the history and development of Singapore but also enrich their cultural experiences through drama performances and museum learning journeys.
 
-<img src="/images/cce4.png" style="width:60%">
+![On a Learning Journey to Little India](/images/Primary/NE/On%20a%20Learning%20Journey%20to%20Little%20India.jpg)**On a Learning Journey to Little India**
+
 
 ##### NE Commemorative Events
 
@@ -32,7 +34,9 @@ Through NE Commemorative Events (Total Defence Day, International Friendship Day
 
 The Total Defence Campaign profiles Total Defence in action, and encourages pupils to play a greater role in Total Defence by showing them how they can contribute in small and big ways.  Ultimately, we hope that Total Defence can help to rally and mobilise our pupil to prepare for future threats and challenges, and be resilient enough to recover quickly when crises strikes.
 
-<img src="/images/cce5.png" style="width:60%">
+![War Food sampling](/images/Primary/NE/War%20Food%20sampling.png)**War Food sampling**
+
+![TDD Gallery Walk at the Library](/images/Primary/NE/TDD%20Gallery%20Walk%20at%20the%20Library.jpg)**TDD Gallery Walk at the Library**
 
 ##### International Friendship Day (IFD)
 
@@ -45,8 +49,8 @@ IFD is commemorated for our pupils to reflect on the importance to Singapore of:
 
 To commemorate IFD, our pupils are engaged in a series of meaningful activities, such as Walk Gallery and booth activities during Social Studies lessons and assembly programme which includes sharing, interactive skit and quizzes.  These activities aim to enlighten our gentlemen on the rich diversity of cultures and help them understand the importance of forging good relations with other countries in the global community thus promoting unity within diversity.
 
-<img src="/images/cce6.png" style="width:60%">
-<img src="/images/cce7.png" style="width:60%">
+![International Costumes 1](/images/Primary/NE/image13.jpg)
+![International Costumes 2](/images/Primary/NE/International%20Costumes.jpg)**Our gentlemen dressed up in their Ethnic / International Costumes**
 
 ##### Racial Harmony Day (RHD)
 
