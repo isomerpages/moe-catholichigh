@@ -2,13 +2,12 @@ collections:
   academic:
     output: true
     order:
-      - Special Assistance Plan (SAP).md
-      - 华文部 Chinese Language.md
-      - Mathematics.md
       - English Language/.keep
       - English Language/Overview.md
       - English Language/Signature Programmes.md
       - English Language/Recommended Reading lists for English Language.md
+      - 华文部 Chinese Language.md
+      - Mathematics.md
       - Science/.keep
       - Science/Overview.md
       - Science/Teaching and Learning Approaches.md
@@ -17,3 +16,4 @@ collections:
       - Gifted Education Programme/Signature Programmes.md
       - Gifted Education Programme/Achievements.md
       - Gifted Education Programme/P3 GEP Parents' Briefing.md
+      - Special Assistance Plan (SAP).md
