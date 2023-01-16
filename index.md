@@ -33,7 +33,7 @@ sections:
       title: President's Scout Awardees
       subtitle: "Latest News "
       button: Read more here
-      url: /presidents-scout-award-2017/
+      url: //President-Scouts-Award/
       image: /images/Scout President Award.jpeg
       alt: Image alt text
 ---
