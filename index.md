@@ -14,7 +14,7 @@ sections:
           url: /announcements/Primary/big-issue-2020-s1/
         - title: Prospective Students
           description: ""
-          url: /prospective-students/prospectus-sec/overview/
+          url: /secondary/prospectus/
       title: "Catholic High  School "
       button: Contact US
       url: contact-us
