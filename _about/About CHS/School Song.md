@@ -23,7 +23,7 @@ third_nav_title: About CHS
 蕉雨淅淅   椰风飕飕  
 振我邦国   万祀千秋
 
-<img src="/images/about8.png" style="width:80%">
+<img src="/images/about8.png">
 
 **Our School Song** _(translated)_
 
