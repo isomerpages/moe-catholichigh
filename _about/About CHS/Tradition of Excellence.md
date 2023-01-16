@@ -4,8 +4,11 @@ permalink: /about/about-chs/tradition-of-excellence/
 description: ""
 third_nav_title: About CHS
 ---
-### 弦歌讽诵八十年
 
+### 弦歌讽诵八十年
+<style>
+p {text-align: justify;}
+</style>
 
 #### From a Small Seed a Mighty Tree Shall Grow
 
