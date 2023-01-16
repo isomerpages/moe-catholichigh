@@ -1,11 +1,11 @@
 logo: /images/chslogo2.png
 links:
-  - title: About
+  - title: About CHS
     url: /about/about-chs/history-and-philosophy/
     sublinks:
       - title: Principal's Foreword
         url: /about/principals-foreword/
-      - title: About CHS
+      - title: "Our History and Philosophy "
         url: /about/about-chs/history-and-philosophy/
       - title: Student Outcomes
         url: /about/student-outcomes/
@@ -56,10 +56,6 @@ links:
         url: https://www.facebook.com/chs.gongjiao
       - title: Instagram
         url: http://www.instagram.com/chs.gongjiao
-      - title: Family Day & Homecoming
-        url: /contact-and-outreach/family-day-and-homecoming/
-      - title: Our B.I.G. Newsletter
-        url: /contact-and-outreach/our-big-newsletter/
       - title: Parents Bulletin (Sec)
         url: /contact-and-outreach/parents-bulletin-sec/
       - title: CH Alumni
