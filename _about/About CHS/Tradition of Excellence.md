@@ -4,7 +4,6 @@ permalink: /about/about-chs/tradition-of-excellence/
 description: ""
 third_nav_title: About CHS
 ---
-
 ### 弦歌讽诵八十年
 <style>
 p {text-align: justify;}
@@ -27,7 +26,7 @@ With more than 80 years of heritage of excellence, CHS has a strong network of 
 
 Many of CHS’ alumni are prominent public figures serving the international, public, community or business sectors. They continue to contribute to our school and support the learning of our student and school events. The following video shows our alumni and Singapore’s Prime Minster, Mr Lee Hsien Loong, speaking at our 80th Anniversary Founder’s Day Dinner in 2015:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HJBX1WOUcjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/HJBX1WOUcjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 “… one thing which has not changed is Catholic High School’s emphasis on values and character development. That is something timeless and essential, and in fact, something which we want all Singapore schools to do more of, because our students should not just be book-smart, but should grow up to be citizens of good character, who will contribute to society and serve fellow Singaporeans…
 
