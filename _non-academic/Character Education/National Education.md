@@ -52,6 +52,8 @@ To commemorate IFD, our pupils are engaged in a series of meaningful activities,
 ![International Costumes 1](/images/Primary/NE/image13.jpg)
 ![International Costumes 2](/images/Primary/NE/International%20Costumes.jpg)**Our gentlemen dressed up in their Ethnic / International Costumes**
 
+![IFD](/images/Primary/NE/RHD2.jpg)
+
 ##### Racial Harmony Day (RHD)
 
 RHD is commemorated for our pupils to celebrate Singapore as a harmonious society built on a rich diversity of cultures, requiring collaborative efforts from all to promote social cohesion and harmony.
@@ -64,8 +66,9 @@ National Day is commemorated for pupils to reflect on the historical importance 
 
 At CHS, we commemorate National Day as a full school, delivering a series of meaningful activities to celebrate our spirit of togetherness and hope.  These include parade and march-past, interactive quizzes, singing of National Day songs and producing our very own music videos.  In addition, to celebrate and promote gratitude and kindness, we put in place the “Will to Give” programme, to thank frontliners for their service during the COVID-19 pandemic with tokens and written cards or provide support for needy families by presenting them with CHS goodie bags put together by pupils.
 
-<img src="/images/cce8.png" style="width:60%">
-<img src="/images/cce9.png" style="width:60%">
+
+
+![Cub Scouts March In Parade](/images/Primary/NE/Cub%20Scouts%20March%20In%20Parade.jpg)
 
 ##### Social Studies
 
