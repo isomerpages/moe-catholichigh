@@ -16,8 +16,6 @@ sections:
           description: ""
           url: /prospective-students/prospectus-sec/overview/
       title: "Catholic High  School "
-      button: Contact US
-      url: contact-us
   - infopic:
       title: "Hope Hub: An Intelligent Bob to provide timely help!"
       subtitle: LATEST NEWS
