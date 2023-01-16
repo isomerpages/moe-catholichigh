@@ -37,3 +37,5 @@ p {text-align: justify;}
 ![我爱讲华语比赛](/mages/Primary/我爱讲华语比赛.jpg)
 
 ![文化营 - 手工制作](/images/Primary/文化营%20-%20手工制作.jpg)
+
+![新春活动](/images/Primary/新春活动.jpg)
