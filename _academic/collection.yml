@@ -2,23 +2,23 @@ collections:
   academic:
     output: true
     order:
-      - Mathematics.md
       - 华文部 Chinese Language.md
+      - Mathematics.md
+      - English Language/.keep
       - English Language/Overview.md
       - English Language/Signature Programmes.md
       - English Language/Recommended Reading lists for English Language.md
-      - English Language/.keep
+      - SAP/.keep
       - SAP/Overview.md
       - SAP/特别课程 Signature Programmes.md
-      - SAP/.keep
+      - Science/.keep
       - Science/Overview.md
       - Science/Teaching and Learning Approaches.md
       - Science/Signature Programmes.md
       - Science/Highlights.md
       - Science/Achievements.md
-      - Science/.keep
+      - Gifted Education Programme/.keep
       - Gifted Education Programme/CHS GEP Experience.md
       - Gifted Education Programme/Signature Programmes.md
       - Gifted Education Programme/Achievements.md
       - Gifted Education Programme/P3 GEP Parents' Briefing.md
-      - Gifted Education Programme/.keep
