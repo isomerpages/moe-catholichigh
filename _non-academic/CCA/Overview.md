@@ -30,20 +30,6 @@ Through the rigorous training sessions, the teachers and coach ensure that the g
  
  ![Watch out for the flyball!](/images/Primary/PE/Softball%202.jpg)**Watch out for the flyball!**
 
-#### SPHERE
-
-The CHS Sport Holistic Enrichment Recreation (SPHERE) is an enriching CCA which aims to develop our pupils’ fundamental skills in a fun and enjoyable play and to provide a platform through which social and emotional learning can be inculcated.
-
-Every semester, the pupils will be introduced to different sports, each requiring its own unique set of movements. Some of the sports the pupils have been exposed to include: Kin-Ball, Touch Rugby, Handball Tchoukball and Inline Skating. Although the sport is played non-competitively, the teams strive to improve and show positive responses to challenges.
-
-<img src="/images/cca5.png">
-
-Let the Good Times Roll!
-
-<img src="/images/cca6.png">
-
-Go! Go! Go! Kinball!
-
 #### Table Tennis
 
 Catholic High Table Tennis CCA focuses on building up a strong team spirit through discipline and commitment. Our training sessions involve honing our fundamental skills and we practise game play by sparring amongst ourselves. Good coordination skills and quick reaction time are necessary to excel in the sport.
