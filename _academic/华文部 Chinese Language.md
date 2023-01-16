@@ -3,9 +3,6 @@ title: 华文部 Chinese Language
 permalink: /academic/Chinese-Language/
 description: ""
 ---
-
-
-
 ### 华文部 Chinese Language
 <style>
 p {text-align: justify;}
@@ -35,13 +32,14 @@ p {text-align: justify;}
 ![课堂活动 - 运用科技提高协作能力](/images/Primary/课堂活动%20-%20运用科技提高协作能力.jpg)
 **课堂活动 - 运用科技提高协作能力**
 
-![课堂活动 - 组句成段](/images/Pimary/课堂活动%20-%20组句成段.jpg)
+![课堂活动 - 组句成段](/images/Primary/课堂活动%20-%20组句成段.jpg)
 **课堂活动 - 组句成段**
 
-![课堂活动 - 打字练习](/images/Prmary/课堂活动%20-%20打字练习.jpg)
+![课堂活动 - 打字练习](/images/Primary/课堂活动%20-%20打字练习.jpg)
 **课堂活动 - 打字练习**
 
-![我爱讲华语比赛](/mages/Primary/我爱讲华语比赛.jpg)
+
+![我爱讲华语比赛](/images/Primary/我爱讲华语比赛.jpg)
 **我爱讲华语比赛**
 
 ![文化营 - 手工制作](/images/Primary/文化营%20-%20手工制作.jpg)
