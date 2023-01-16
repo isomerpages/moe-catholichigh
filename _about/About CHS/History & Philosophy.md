@@ -6,7 +6,7 @@ third_nav_title: About CHS
 ---
 ### Touching Lives, Transforming Futures
 <style>
-
+p {text-align= justify;}
 </style>
 <img src="/images/about1.png"> 
 <p>Catholic High School (CHS) is one of Singapore’s highly regarded institutions under the auspices of the Roman Catholic Archdiocese of Singapore. It is a Catholic institution but enrols both Catholic and non-Catholic students.</p>
