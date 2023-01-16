@@ -47,3 +47,6 @@ p {text-align: justify;}
 
 ![新春活动](/images/Primary/新春活动.jpg)
 **新春活动**
+
+### 小学华文课外读物参考书目
+[![### 小学华文课外读物参考书目](/images/Primary/Chinese%20Language%20Services%20华文.jpg)](https://childrenandteens.nlb.gov.sg/chinese-language)
