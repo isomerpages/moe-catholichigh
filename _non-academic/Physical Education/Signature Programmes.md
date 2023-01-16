@@ -104,3 +104,14 @@ Through preparation for the assembly performance, students pupils learn the impo
 
 ![Virtual performance put up by Primary 4 pupils in 2021.](/images/Primary/PE/Virtual-performance-put-up-by-Primary-4-pupils-in-2021_A.jpg)**Virtual performance put up by Primary 4 pupils in 2021**
 
+### CHS SuperStars 
+
+CHS SuperStars is an annual talent show that provides pupils a platform to showcase their talents and skills. CHS SuperStars encourages creativity and provides a safe space for pupils to express themselves. Participating in the talent show allows pupils’ talents and skills to be discovered and enhances pupils’ confidence. While generating greater awareness of the diverse talents of CHS gentlemen in the school, we hope through CHS SuperStars, our pupils will be inspired to pursue their passion.
+
+![2021 Virtual CHS SuperStars finalists](/images/Primary/PE/2021%20Virtual%20CHS%20SuperStars%20finalists.png)**2021 Virtual CHS SuperStars finalists**
+
+### Busking@CHS 
+
+Busking@CHS is held on a termly basis. It provides pupils of different musical ability the opportunity to perform during recess. Through Busking@CHS, student performers gain performing experience and build confidence in performing in front of a crowd.
+
+![A pupil performing for Busking@CHS. (The picture was taken during pre-COVID)](/images/Primary/PE/A%20pupil%20performing%20for%20Busking@CHS.png)**A pupil performing for Busking@CHS. (The picture was taken during pre-COVID)**
