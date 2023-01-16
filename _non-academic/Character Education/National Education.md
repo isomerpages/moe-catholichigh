@@ -60,15 +60,20 @@ RHD is commemorated for our pupils to celebrate Singapore as a harmonious societ
 
 Using the 3As approach, our pupils are given the opportunity to learn more about the diverse cultures and multicultural communities in Singapore through lessons and assembly programme.  They are also encouraged to apply what they have learnt, e.g. to greet and thank school aunties and uncles for their service using their ethnic language.  Pupil ambassadors are also encouraged to influence their peers and play a part to protect the common space, strengthen trust and friendships amongst the communities.
 
+![Learning about different Ethnic Costumes](/images/Primary/NE/Learning%20about%20different%20Ethnic%20Costumes.png)**Learning about different Ethnic Costumes**
+
+![Making Murukku during Racial Harmony Day](/images/Primary/NE/Making%20Murukku%20during%20Racial%20Harmony%20Day.jpg)**Making Murukku during Racial Harmony Day**
+
+
 ##### National Day
 
 National Day is commemorated for pupils to reflect on the historical importance and solemnity of National Day.
 
 At CHS, we commemorate National Day as a full school, delivering a series of meaningful activities to celebrate our spirit of togetherness and hope.  These include parade and march-past, interactive quizzes, singing of National Day songs and producing our very own music videos.  In addition, to celebrate and promote gratitude and kindness, we put in place the “Will to Give” programme, to thank frontliners for their service during the COVID-19 pandemic with tokens and written cards or provide support for needy families by presenting them with CHS goodie bags put together by pupils.
 
+![Will To Give Programme](/images/Primary/NE/Will%20To%20Give%20Programme%202.png)**Will To Give Programme**
 
-
-![Cub Scouts March In Parade](/images/Primary/NE/Cub%20Scouts%20March%20In%20Parade.jpg)
+![Cub Scouts March In Parade](/images/Primary/NE/Cub%20Scouts%20March%20In%20Parade.jpg)**Cub Scouts March In Parade**
 
 ##### Social Studies
 
