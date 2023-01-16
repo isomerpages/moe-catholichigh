@@ -73,3 +73,34 @@ Upper Primary Sports day is designed to provide the pupils opportunities to appl
 In order to increase physical activity participation among pupils through regular workout sessions, the PE Department collaborates with  the Health Promotion Board in the Active Youth Workout. All the Primary 3 pupils participate in Zumba sessions which will improve cardiovascular fitness through a full-body workout.
 
 ![Active Youth Workout](/images/Primary/PE/Active%20Youth%20Workout.jpg)**(Primary 3 pupils dancing to the beat)**
+
+### Catholic High School Primary Music
+
+Music is integral to every human culture and opens doors to understanding others through a universal language. The Primary School Music Curriculum aims to develop pupils' musical skills of performing, listening and creating. Pupils will also develop life-long skills such as critical thinking, problem solving and teamwork. 
+
+In Catholic High School, we want to nurture pupils to become open-minded individuals who show appreciation for musical diversity and to continue to have meaningful participation in music in daily life through adulthood. 
+
+Over the course of 6 years, pupils will be exposed to different instruments and musical cultures. They will also be given opportunities to perform and showcase their musical talents through physical and virtual platforms.
+
+![Primary 1 pupils learning to play a song on the resonator bells](/images/Primary/PE/Primary%201%20pupils%20learning%20to%20play%20a%20song%20on%20the%20resonator%20bells.png)**Primary 1 pupils learning to play a song on the resonator bells**
+
+![Primary 3 pupils learning to play the keyboard](/images/Primary/PE/Primary%203%20pupils%20learning%20to%20play%20the%20keyboard.jpg)**Primary 3 pupils learning to play the keyboard**
+
+![Primary 6 pupils composing using GarageBand](/images/Primary/PE/Primary%206%20pupils%20composing%20using%20GarageBand.png)**Primary 6 pupils composing using GarageBand**
+
+### Ethnic Percussion Programme
+  
+As a SAP school, Catholic High School Music Department works closely with the SAP Committee to develop a profile of pupils with a deep understanding and appreciation of diverse cultures. Primary 2 pupils learn to play various ethnic percussion instruments such as Indian Zills, Malay Kompangs and Chinese drums over a 5-week Ethnic Percussion Programme during music lessons. Besides learning the techniques to play the various ethnic instruments, pupils are taught to play as an ensemble.  Through playing music together as an ensemble, pupils develop better listening skills.
+
+![Primary 2 students learning to play the Chinese drums.](/images/Primary/PE/Primary%202%20students%20learning%20to%20play%20the%20Chinese%20drums.jpg)**Primary 2 students learning to play the Chinese drums.**
+
+### Ukulele Programme 
+
+The Ukulele Programme is a 10-week long programme that introduces Primary 4 pupils to ukulele basics such as reading chord symbols, producing basic chords and transiting between these chords smoothly. At the end of the Ukulele programme, each Primary 4 class will perform a song for the rest of the school during assembly. 
+  
+Through preparation for the assembly performance, students pupils learn the importance of perseverance and practice. They gain a sense of accomplishment and pride through the hard work they put in in making the performance possible.
+
+![Primary 4 students pupils learning to play the ukulele.](/images/Primary/PE/Primary%204%20students%20pupils%20learning%20to%20play%20the%20ukulele.png)**Primary 4 students pupils learning to play the ukulele.**
+
+![Virtual performance put up by Primary 4 pupils in 2021.](/images/Primary/PE/Virtual-performance-put-up-by-Primary-4-pupils-in-2021_A.jpg)**Virtual performance put up by Primary 4 pupils in 2021**
+
