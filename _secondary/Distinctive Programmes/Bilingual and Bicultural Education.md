@@ -7,7 +7,9 @@ third_nav_title: Distinctive Programmes
 ### Bilingual and Bicultural Education
 
 ### 双语双文化教育
-
+<style>
+p {text-align: justify;}
+</style>
 
 _Ever heard a 13-year-old give a political speech in the persona of one of the animals in Animal Farm? Imagine a 14-year-old reciting Shakespeare? What about a_ 15-year-old _crafting a school timetable of his dreams, and writing a oral_ defence _of it? A_ 16-year-old _writing his own public policy paper? These are but a few of the many imaginative and challenging tasks we assign to our students._
 
