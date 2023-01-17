@@ -3,7 +3,6 @@ title: Staff Contact
 permalink: /secondary/staff-contact/
 description: ""
 ---
-
 #### Catholic High School (Secondary Section) 2023
 
 |  	|  	|
@@ -52,8 +51,8 @@ description: ""
 
 #### Level 1 Form Teachers (2023)
 
-| Class 	| Level 1 Form Teachers (2023)	|  	|
-|---	|---	|---	|
+| Class 	| Level 1 Form Teachers (2023)	|
+|---	|---	|
 |1-1|Mr Loke Yeng Fai|loke_yeng_fai@moe.edu.sg|
 |1-2|Mr Winfred Oh Hun Boon|oh_hun_boon_winfred@moe.edu.sg|
 |1-2|Mr Colin Ramsay Peterson|peterson_ramsay_colin@moe.edu.sg|
@@ -71,8 +70,8 @@ description: ""
 |1-9|Mrs Claire Tan Jia Yuen|claire_liu@moe.edu.sg|
 |1-9|Mr Yan Wei|yan_wei@moe.edu.sg|
 #### Level 2 Form Teachers (2023)
-| Class 	| Level 2 Form Teachers (2023) 	|  	|
-|---	|---	|---	|
+| Class 	| Level 2 Form Teachers (2023) 	|
+|---	|---	|
 |2-1|Mr Zheng Shenglong Conrad|zheng_shenglong_conrad@moe.edu.sg|
 |2-1|Ms Nurul Amirah Binte Ghazali|nurul_amirah_ghazali@moe.edu.sg|
 |2-2|Miss Ho Sing Ern|sing_ern_ho@moe.edu.sg|
@@ -87,8 +86,8 @@ description: ""
 |2-8|Mrs Pearl Tham|tham_poh_cheong_pearl@moe.edu.sg|
 |2-9|Mdm Koh Puey Leng|koh_puey_leng@moe.edu.sg|
 #### Level 3 Form Teachers (2023)
-| Class 	|Level 3 Form Teachers (2023) 	|  	|
-|---	|---	|---	|
+| Class 	|Level 3 Form Teachers (2023) 	|
+|---	|---	|
 |3-1|Mrs Ng-Leong Se Yean|leong_se_yean@moe.edu.sg|
 |3-2|Mr Muhammad Norhafiz Bin Samsudin|muhammad_norhafiz_samsudin@moe.edu.sg|
 |3-2|Mrs Lim-Seah Swee Khim|seah_swee_khim@moe.edu.sg|
@@ -105,8 +104,8 @@ description: ""
 |3-10|Mdm Bai Xiao Fen Hannah|low-bai_xiao_fen@moe.edu.sg|
 |3-10|Mr Dave Sim Chong Bian|sim_chong_bian_dave@moe.edu.sg|
 #### Level 4 Form Teachers (2023)
-| Class 	| Level 4 Form Teachers (2023)	|  	|
-|---	|---	|---	|
+| Class 	| Level 4 Form Teachers (2023)	|
+|---	|---	|
 |4-1|Mr Glenn Tay Kew Yeow|tay_kew_yeow_glenn@moe.edu.sg|
 |4-2|Ms Chua Lay Yen|chua_lay_yen@moe.edu.sg|
 |4-2|Ms Nafizath|nafizath_bharzana_begam@moe.edu.sg|
@@ -127,7 +126,7 @@ description: ""
 
 #### Teaching Staff (2023)
 
-|  	|  	|
+|  	|   |
 |---	|---	|
 |Mr Adrian Yao Zhiwei|yao_zhiwei_adrian@moe.edu.sg|
 |Mdm Elsie Fong|fong_elsie@moe.edu.sg|
