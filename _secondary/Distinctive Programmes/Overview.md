@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Distinctive Programmes
 ---
 ### Subjects Offered in Our Curriculum
-
+<style>
+p {text-align: justify;}
+</style>
 Catholic High School offers an extensive range of subjects in our core curriculum, special programmes and flagship programmes. Many of these are offered to our IP and OP students, while a few are IP-specific (and not offered to OP students due to time and difference in objectives of programme).
 
 Click [here](https://staging.d26k7rl81eo6rb.amplifyapp.com/dual-track-curriculum/Integrated-Programme/overview/) if you want to learn more about our IP that is co-designed and offered together with our **Joint Integrated Programme (JIP) partner schools**: **[About the JIP](https://staging.d26k7rl81eo6rb.amplifyapp.com/dual-track-curriculum/Integrated-Programme/overview/)**
