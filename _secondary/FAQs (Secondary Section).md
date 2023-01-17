@@ -104,7 +104,7 @@ _(A14) How do I learn more about **Eunoia Junior College** (EJC)?_
 
 _(A15) Is CHS **affiliated to Eunoia Junior College** (EJC)?_
 
-*   CHS OP students do not have affiliation bonus points when applying to EJC, but have 2 affiliation bonus points when applying to Catholic Junior College ([CJC is affiliated to Catholic schools](http://cjc.edu.sg/web/?page_id=37)).
+*   CHS OP students do not have affiliation bonus points when applying to EJC, but have 2 affiliation bonus points when applying to Catholic Junior College ([CJC is affiliated to Catholic schools](https://cjc.moe.edu.sg/)).
 *   Eunoia JC is a partner school for our IP. IP students do not need the bonus points: so long as they meet the JIP promotion criteria, they will join EJC in their JC1 (Year 5).
 
 _(A16) Can my son bring his **mobile phone** to school?_
