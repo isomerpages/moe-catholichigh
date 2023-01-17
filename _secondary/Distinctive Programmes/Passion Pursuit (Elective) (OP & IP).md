@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Distinctive Programmes
 ---
 ### About Passion Pursuit
-
+<style>
+p {text-align: justify;}
+</style>
 The **Passion Pursuit programme** in Catholic High School comprises an [**Independent**](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/passion-pursuit/independent/) and **Elective** component. The programme objectives are broadly to enable students to:
 
 *   develop 21st Century Competencies;
