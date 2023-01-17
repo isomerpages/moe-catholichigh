@@ -2,7 +2,7 @@ collections:
   academic:
     output: true
     order:
-      - Overview.md
+      - Science.md
       - English Language/.keep
       - English Language/Overview.md
       - English Language/Signature Programmes.md
