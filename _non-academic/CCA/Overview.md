@@ -59,7 +59,7 @@ Wushu is an exact translation of the Chinese words where ‘wu’ means military
 
 In Catholic High School (Primary), we empower our gentlemen with skills to practise Wushu routine (套路) using different weapons and styles like Barehand (拳), Short Weapons (刀 & 剑) and Long Weapons like (枪 & 棍). 
 
-Tapping on our gentlemen’s youthful energy, each training session engages them in robust routines that not only develop their physique and fitness but also strengthen their mental faculty.  Aside from the rigorous weekly training that inculcates discipline and diligence, our gentlemen are also involved in an annual VIA project. This platform teaches our gentlemen to be keenly aware of community needs and serve with empathy and love.
+Tapping on our gentlemen’s youthful energy, each training session engages them in robust routines that not only develops their physique and fitness but also strengthens their mental faculty.  Aside from the rigorous weekly training that inculcates discipline and diligence, our gentlemen are also involved in an annual VIA project. This platform teaches our gentlemen to be keenly aware of community needs and serve with empathy and love.
 
 ![Ready for competition](/images/Primary/PE/Wushu%201a.jpg)**Ready for competition**
 
