@@ -70,7 +70,7 @@ Upper Primary Sports day is designed to provide the pupils opportunities to appl
 
 ### Active Youth Workout (Zumba) 
 
-In order to increase physical activity participation among pupils through regular workout sessions, the PE Department collaborates with  the Health Promotion Board in the Active Youth Workout. All the Primary 3 pupils participate in Zumba sessions which will improve cardiovascular fitness through a full-body workout.
+In order to increase physical activity participation among pupils through regular workout sessions, the PE Department collaborates with  the Health Promotion Board in the Active Youth Workout. All the Primary 3 pupils participate in Zumba sessions which will improve their cardiovascular fitness through a full-body workout.
 
 ![Active Youth Workout](/images/Primary/PE/Active%20Youth%20Workout.jpg)**Primary 3 pupils dancing to the beat**
 
