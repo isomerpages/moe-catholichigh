@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Talent Development
 ---
 ### Transforming Gifts into Talents
-
+<style>
+p {text-align: justify;}
+</style>
 Catholic High School offers a spread of Talent Development Programmes (TDP) to help our  IP and OP students transform their gifts into talents. Under these TDP, selected IP and OP students are nurtured to take on challenging assignments that stretch them beyond their current competency and potential. These TDP are classified into two broad categories:
 
 1.  **Subject-Based Talent Development Programmes**
