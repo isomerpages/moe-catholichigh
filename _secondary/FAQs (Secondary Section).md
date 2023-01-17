@@ -5,9 +5,6 @@ description: ""
 ---
 ### Frequently Asked Questions (Secondary Section)
 
-<style>
-p {text-align: justify;}
-</style>
 
 <Last updated 18 January 2021>
 
@@ -16,15 +13,15 @@ p {text-align: justify;}
 You can scroll through the page or search for questions by typing “Ctrl-F” (search function of your browser) and searching by keywords (e.g. “fees”).
 
 <ul class="jekyllcodex_accordion">
+<li><input type="checkbox" id="accordion1"><label for="accordion1">
+    Take me to [pookie](#pookie)	
+[(A) General Questions about Admission and School](#General Questions about Admission and School)
+(B) Questions about DSA-Sec Categories and Criteria
+(C) Questions about DSA-Sec Application Process
+(D) Frequently Asked Questions about DSA-Sec Confirmed Offer (CO)
+(E) Frequently Asked Questions about Level 2 Subject Streaming
 
-<li>
-
-<input type="checkbox" id="accordion1">
-
-<label for="accordion1"><b> (A) General Questions about Admission and School </b></label>
-
-<div>
-
+<b>     <a name="General Questions about Admission and School"></a> (A) General Questions about Admission and School </b></label><div>
 <p> <b>(A1) What are the school fees? </b><br><br>
 
 *   As CHS is a government-aided school, regardless of the track admitted to, a Singaporean citizen pays $28 per month, including miscellaneous and other fees.<br>
