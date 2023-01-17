@@ -32,7 +32,7 @@ The six-stage programme includes activities and survival taught at each stage of
 ![Swimsafer 1](/images/Primary/PE/Swimsafer%201.jpg)
 
 ![Swimsafer 2](/images/Primary/PE/Swimsafer%202.jpg)
-**Pupils waiting patiently for a big SPLASH! **
+**Pupils waiting patiently for a big SPLASH!**
 
 ### Visit to Bishan Active Park   
 
@@ -53,8 +53,8 @@ The P5 Camp seeks to develop ruggedness and resilience in our students, and buil
 - understand the importance of caring for the environment.
 
 ![Primary 5 Camp 1](/images/Primary/PE/Primary%205%20Camp%201.jpg)
-**(Pupils were supporting each other to get as many of them onto the platform**
-![Primary 5 Camp 2](/images/Primary/PE/Primary%205%20Camp%202.jpg)**(Pupils were doing navigation work at the outdoor trail.)**
+**Pupils were supporting each other to get as many of them onto the platform**
+![Primary 5 Camp 2](/images/Primary/PE/Primary%205%20Camp%202.jpg)**Pupils were doing navigation work at the outdoor trail.**
 
 ### Sports Day 
 
@@ -63,16 +63,16 @@ Besides providing opportunities for pupils to acquire and revisit the skills thr
 Upper Primary Sports day is designed to provide the pupils opportunities to apply the tactics, techniques, concepts and strategies that they have learnt in PE lessons to inter-class games settings. There are four inter-class games, namely Volleyball, Basketball, Floorball and Soccer. Each pupil will represent his class in one of the four games. The four games are chosen with the notion that they are net barrier and invasion games and are part of the revised PE syllabus. Throughout their years of acquiring skills in PE lessons, they will be able to make informed choices on the games that they have demonstrated flair in and to continue to excel in it through this annual event. This will enhance their self-mastery and emotional competencies.
 
 ![Sports Day 1](/images/Primary/PE/Sports%20Day%201.jpg)
-**(Lower Primary Pupils enjoying their Sports Carnival.**
+**Lower Primary Pupils enjoying their Sports Carnival.**
 
 ![Sports Day 2](/images/Primary/PE/Sports%20Day%202.jpg)
-**(Upper Primary Pupils having their inter-class competition.)**
+**Upper Primary Pupils having their inter-class competition.**
 
 ### Active Youth Workout (Zumba) 
 
 In order to increase physical activity participation among pupils through regular workout sessions, the PE Department collaborates with  the Health Promotion Board in the Active Youth Workout. All the Primary 3 pupils participate in Zumba sessions which will improve cardiovascular fitness through a full-body workout.
 
-![Active Youth Workout](/images/Primary/PE/Active%20Youth%20Workout.jpg)**(Primary 3 pupils dancing to the beat)**
+![Active Youth Workout](/images/Primary/PE/Active%20Youth%20Workout.jpg)**Primary 3 pupils dancing to the beat**
 
 ### Catholic High School Primary Music
 
