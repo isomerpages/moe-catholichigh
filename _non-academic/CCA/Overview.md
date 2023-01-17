@@ -91,8 +91,8 @@ With the support from the school, band instructors, teachers, parents and second
 #### Edward Becharas Choir
 
 In Choir, our gentlemen develop singing, listening and performing skills when they learn to sing as one. They are given the opportunity to perform in various school and public events. The school also provides a fun and supportive environment that motivates and inspires our gentlemen to pursue their passion in choral singing and to hone their vocal abilities so as to discover their hidden talents.
-   
-Under the baton of the conductor, the Edward Becheras Choir endeavor to put up performances such as Founders’ Day and Primary 6 Thanksgiving Mass. 
+
+Under the baton of the conductor, the Edward Becheras Choir endeavors to put up performances such as Founders’ Day and Primary 6 Thanksgiving Mass. 
 
 Besides performing, Choir members also get to participate in exchange programmes and competitions to deepen their exposure and understanding of the choral art and to move towards excellence. We also engage in team building activities to build team cohesion and participate in VIA projects to give back to the community.
 
@@ -119,7 +119,7 @@ Modern Dance will endeavor to develop in our gentlemen a passion for dance and d
 
 **R**obo-**A**utomation **D**esignIng **U**sing **S**TEM (RADIUS) is a club where aspiring Master Builders and Coding Wizards gather for their love of robotics and coding. In RADIUS, our gentlemen will acquire problem solving, logical thinking and coding skills, as well as teamwork so as to complete any given tasks. 
   
-In order to ensure that they apply what they have learnt, RADIUS members will also take part in various competitions. Through all these various events and competitions, our members learn to work together as a team, developing confidence and honing their communication skills in the process.The members will take away fruitful learning points and unforgettable experiences
+In order to ensure that they apply what they have learnt, RADIUS members will also take part in various competitions. Through all these various events and competitions, our members learn to work together as a team, developing confidence and honing their communication skills in the process. The members will take away fruitful learning points and unforgettable experiences
 
 
 ![RADIUS Pic1](/images/Primary/PE/RADIUS%201.jpg)
@@ -132,7 +132,7 @@ ARTSQUAD is a platform for gentlemen with an interest in the visual arts to come
 
 Visual Art is a fundamental component of the human experience, reflecting the world and the time in which we live in, and the ubiquity of images in our everyday lives has progressively transformed the way we learn and perceive the world. Collectively as a CCA group, we hope to build greater awareness and appreciation for the arts and the community and society we live in.
 
-![Reuse, recycle, Redesign](/images/Primary/PE/ARTSQUAD%201.jpg)**Reuse, recycle, Redesign**
+![Reuse, recycle, Redesign](/images/Primary/PE/ARTSQUAD%201.jpg)**Reuse, Recycle, Redesign**
 
 ![Art Learning Journey](/images/Primary/PE/ARTSQUAD%202.jpg)**Art Learning Journey**
 
