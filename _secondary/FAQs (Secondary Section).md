@@ -6,8 +6,6 @@ description: ""
 Frequently Asked Questions (Secondary Section)
 ----------------------------------------------
 
-<Last updated 22 November 2022> 
-
 **This page documents frequently asked questions from prospective parents and students about our school, admission and DSA.** 
 
 You can scroll through the page or search for questions by typing "Ctrl-F" (search function of your browser) and searching by keywords (e.g. "fees"). Click on the links below to jump to the relevant section:
@@ -200,3 +198,5 @@ You can read some of the frequently asked questions in the following downloadabl
 You can read some of the frequently asked questions in the following downloadable PDF.
 
 *   [FAQs for Level 2 Subject Streaming](https://drive.google.com/file/d/17YfUXrfNuFOReoq-6LU35qjFTY0A1nRD/view?usp=sharing)
+
+<Last updated 22 November 2022>
