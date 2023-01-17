@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Distinctive Programmes
 ---
 ### World Readiness Programme
-
+<style>
+p {text-align: justify;}
+</style>
 <img src="/images/wrp1.png" style="width:283px;height:360px;margin-right:15px;" align = "left"> Our **World Readiness Programme (WRP)** is a Joint Integrated Programme Flagship, co-designed with the other JIP schools. Its goals are to develop discerning individuals with a strong sense of self and social conscience.
 
 At weekly WRP lessons, students discuss issues that are both timely and timeless. Discussion topics are diverse and include Singapore’s place in the world, as well as Eastern and Western perspectives on diverse issues that are pertinent to life and society. They are challenged to stretch the breadth and depth of their cognition, and in a manner which develops their confidence in judgement and sense-making. Ultimately, WRP aims to inspire an on-going pursuit for fair-mindedness and intellectual confidence.
