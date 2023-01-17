@@ -48,7 +48,7 @@ The Volleyball CCA aims to equip our gentlemen with the skills of playing the sp
 
 Through the past competitions, our gentlemen have gained invaluable experience and learnt the value of sportsmanship. We strive to ensure that our members are able to play and appreciate the game of volleyball and to build a strong bond among them through the love of the sport.
 
-![reparing to serve the ball ](/images/Primary/PE/Volleyball%201.jpg)**reparing to serve the ball**
+![reparing to serve the ball ](/images/Primary/PE/Volleyball%201.jpg)**Preparing to serve the ball**
 
 ![Starting the session with drills](/images/Primary/PE/Volleyball%202.jpg)**Starting the session with drills**
 
