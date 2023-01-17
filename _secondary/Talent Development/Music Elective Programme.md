@@ -39,23 +39,21 @@ To apply for MEP, applicants must
 
 They will require a pass in the Selection Exercise by the school, consisting of:
 
-*   An e-listening test on Western and Non-Western music traditions
-*   A performance audition video of 2 contrasting solo pieces on an instrument or voice, with a total duration of 5 to 10 minutes
+*   *   An e-listening test on Western and Non-Western music traditions
+*   A performance audition of 2 contrasting solo pieces on an instrument or voice, with a total duration of 5 to 10 minu
 
-The Selection Exercise for 2022 Level 1 CHS MEP:
+The Selection Exercise for 2023 Level 1 CHS MEP::
 
-Monday, 27 December 2021, 10am: Submission deadline for MEP [applications](https://form.gov.sg/5fd1a84935705a0011f40f11)
+Friday, 23 December 2022, 10pm: Submission deadline for MEP [applications](https://go.gov.sg/2023chsmep)
 
-Monday, 27 December 2021, 10am : Submission of performance audition [videos](https://go.gov.sg/2021chsmepvideo)
+Tuesday, 27 December 2022, 2.30pm: CHS Digital Music Studio: e-listening test videos
 
-Wednesday, 29 December 2021, 9am: CHS Digital Music Studio: e-listening test
-
-Wednesday, 29 December 2021, 4pm: MEP briefing for all applicants and 1 parent / guardian via Zoom
+Wednesday, 29 December 2021, 4pm: MEP briefing for all applicants and 1 parent / guardian
 
 ##### Useful links:
 
 [MOE MEP Webpage](https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Music%20Programmes&subterm=Music%20Elective%20Programme%20(MEP))
 
-[EMP and MEP Online Showcase webpage](https://go.gov.sg/empmepshowcase2020)
+[EMP and MEP Online Showcase webpage](https://www.youtube.com/@empandmepyoutubepage9130/featured)
 
 [EMP/MEP Publicity Video](https://www.youtube.com/watch?v=B33j0mVWW3g)
