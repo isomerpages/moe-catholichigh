@@ -10,11 +10,11 @@ description: ""
 p {text-align: justify;}
 </style>
 Deepening the Roots, Charting the Future  
-**《深濡文化，放眼天下》**
+《深濡文化，放眼天下》
 
 The school aspires to deepen the students’ roots in the understanding and appreciation of Chinese and Singapore Culture through an enriched and holistic experience in the learning of Chinese Language.
 
-**公教附小致力于培养学生对中华文化及本土文化有更深的认识，并提高学生的文化素养，营造一个有利于学习华文的大环境。**
+公教附小致力于培养学生对中华文化及本土文化有更深的认识，并提高学生的文化素养，营造一个有利于学习华文的大环境。
 
     
 ### SAP Programme 特选课程进行蓝图:
