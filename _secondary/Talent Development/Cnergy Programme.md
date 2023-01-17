@@ -6,6 +6,9 @@ third_nav_title: Talent Development
 ---
 ### Science Talent Development Programme: CΩERGY Programme
 
+<style>
+p {text-align: justify;}
+</style>
 
 **[[Click here for our Science@CHS Prospectus that provides greater details about our science programmes, enrichment and talent development](https://drive.google.com/file/d/155SWFfGAriWTZuWd68rs3Ov9PMYp6UZ3/view)].**
 
