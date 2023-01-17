@@ -18,7 +18,7 @@ links:
       - title: Our CHS Campus
         url: /about/Our-CHS-Campus/
   - title: Primary
-    url: /resources/primary-school-news/
+    url: "#"
     sublinks:
       - title: Academic
         url: /academic/english-language/overview/
