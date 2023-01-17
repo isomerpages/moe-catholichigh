@@ -114,4 +114,4 @@ CHS SuperStars is an annual talent show that provides pupils a platform to showc
 
 Busking@CHS is held on a termly basis. It provides pupils of different musical ability the opportunity to perform during recess. Through Busking@CHS, student performers gain performing experience and build confidence in performing in front of a crowd.
 
-![A pupil performing for Busking@CHS. (The picture was taken during pre-COVID)](/images/Primary/PE/A%20pupil%20performing%20for%20Busking@CHS.png)**A pupil performing for Busking@CHS. (The picture was taken during pre-COVID)**
+![A pupil performing for Busking@CHS. (The picture was taken during pre-COVID)](/images/Primary/PE/A%20pupil%20performing%20for%20Busking@CHS.png)**A pupil performing for Busking@CHS.**
