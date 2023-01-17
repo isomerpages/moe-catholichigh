@@ -10,28 +10,27 @@ third_nav_title: Sec Admission
 
 ### Welcome to 公教 !
 
-**Level 1 (2022) Registration**
+**Level 1 (2023) Registration**
 
 
 Our heartiest congratulations to all P6 students who have completed their Primary School education. Please click on the relevant link for information and forms for more information.
 
-<img src="/images/pro1.png" style="width:183px;height:240px;margin-right:25px;" align = "left"> *   [Principal’s Address](https://go.gov.sg/paddress2022)
-*   [General Information / Personal Learning Device](https://go.gov.sg/s1registrationbriefing-2022-revised)
-*   [Higher Chinese Language (HCL) / Third Language Programme](https://go.gov.sg/hcl3rdlang-2022)
-*   [MEP Information](https://go.gov.sg/mep-2022)
-*   [AEP Information](https://go.gov.sg/aep-2022)
-*   [Orientation Introduction Video](https://go.gov.sg/orientationvid-2022)
-*   [Orientation Programme & Information](https://go.gov.sg/s1orientationletter-2022)
-*   [Financial Assistance Scheme](https://go.gov.sg/fas-2022)
-*   [Secondary School Health & Dental Services](https://go.gov.sg/dental-2022)
-*   [Level 1 (2022) Registration Form (**Available until to 24 Dec 08:00a.m**)](https://go.gov.sg/s1registrationform-2022)\*
+<img src="/images/pro1.png" style="width:183px;height:240px;margin-right:25px;" align = "left"> *   [Principal’s Address](https://go.gov.sg/addressbyp)
+*   [General Information / Personal Learning Device](https://docs.google.com/presentation/d/1lLgL3070s9vSqfsBK_gaJUtSCrqQpwGq/edit#slide=id.p9)
+*   [Higher Chinese Language (HCL) / Third Language Programme](https://docs.google.com/presentation/d/1YVe4kCqMwcWjfyNJ8RmhEQhrwg5HXfb-/edit?usp=share_link&ouid=102619214576318776139&rtpof=true&sd=true)
+*   [MEP Information](https://drive.google.com/file/d/1Ugj6IJYLVoo6sty7CCyqzW5hbkTWgZSu/view?usp=share_link)
+*   [MEP Application Form](https://drive.google.com/file/d/11Hv-LkwphflAqyac5NTy7vzoKruKuh2O/view?usp=share_link)
+*   [AEP Information](https://drive.google.com/file/d/181ddgqdy8V_-x3_xGlTW868RSqSYGlro/view?usp=share_link)
+*   [Orientation Programme & Information](https://drive.google.com/file/d/10aq1C2iSVUF3429KZYLBhqs8oMxLUW3x/view?usp=share_link)
+*   [Financial Assistance Scheme](https://drive.google.com/file/d/1ayZ7IObHo1FKD1WyoDCVg3xZB8xuS5lX/view?usp=share_link)
+*   [Level 1 (2022) Registration Form (**Available until to 24 Dec 08:00a.m**)](https://go.gov.sg/s1registrationform2023)\*
 *   [FAQs](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/faqs/)
 
 \*Please note that DSA students also need to submit Level 1 (2022) Registration Form.
 
 #### Sec 1 & Year 1 Appeal (2022)
 
-The appeal for joining our Secondary 1 and Year 1 (2022 cohort) will open on **day of PSLE Posting Results and close on 23 December, 11.59pm**. **Appeal can only be submitted online; we do not accept walk-in appeal.**
+The appeal for joining our Secondary 1 and Year 1 (2023 cohort) will open on **day of PSLE Posting Results and close on 22 December, 11.59pm**. **Appeal can only be submitted online; we do not accept walk-in appeal.**
 
 \*Your son would need to meet the following cut-off for PSLE Score:
 
@@ -40,4 +39,4 @@ The appeal for joining our Secondary 1 and Year 1 (2022 cohort) will open on **
 
 Please prepare a write-up of not more than 300 words to share on why you would like to join our school.
 
-*   [Appeal Application Form](https://go.gov.sg/appealform-2022)
+*   [Appeal Application Form](https://go.gov.sg/appealform-2023)
