@@ -1,0 +1,19 @@
+collections:
+  about:
+    output: true
+    order:
+      - Principal's Foreword.md
+      - About CHS/History & Philosophy.md
+      - About CHS/Tradition of Excellence.md
+      - About CHS/Values & Purpose.md
+      - About CHS/Our Crest, Our Flag.md
+      - About CHS/School Song.md
+      - About CHS/.keep
+      - Student Outcomes.md
+      - Awards & Achievements/Overview.md
+      - Awards & Achievements/Academic Achievements (Sec).md
+      - Awards & Achievements/CCA Achievements (Sec).md
+      - Awards & Achievements/.keep
+      - Joint Integrated Programme.md
+      - Partnerships.md
+      - Our CHS Campus.md

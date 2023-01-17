@@ -1,0 +1,23 @@
+collections:
+  non-academic:
+    output: true
+    order:
+      - CCA/Overview.md
+      - CCA/CCA Framework.md
+      - CCA/CCA Department Teacher's Email Contact.md
+      - CCA/Singapore Primary School Sports Council Website.md
+      - CCA/.keep
+      - Character Education/Overview.md
+      - Character Education/National Education.md
+      - Character Education/The Form Teacher Guidance Period.md
+      - Character Education/Cyber Wellness.md
+      - Character Education/Education and Career Guidance.md
+      - Character Education/Sexuality Education.md
+      - Character Education/Programme for Active Learning (PAL).md
+      - Character Education/Values in Action (VIA).md
+      - Character Education/Character HeroeS.md
+      - Character Education/Environmental Education.md
+      - Character Education/Teach Me to Fish (TM2F).md
+      - Character Education/Friend of Singa (FOS).md
+      - Character Education/.keep
+      - IT & Media.md

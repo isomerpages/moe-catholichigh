@@ -1,32 +1,36 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Catholic High School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/chslogo1.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/chsbanner.png
+      key_highlights:
+        - title: Prospective Students
+          description: ""
+          url: /prospective-students/prospectus-sec/overview/
+      title: "Catholic High  School "
+  - infopic:
+      title: "Hope Hub: An Intelligent Bob to provide timely help!"
+      subtitle: LATEST NEWS
+      button: READ MORE HERE
+      url: https://www.channehttps://www.channelnewsasia.com/brandstudio/imc-youthawards/catholichigh?cid=adv_fb_paid_20230109&fbclid=IwAR1IOCoLXxXngYvkKM4N9VIEUzXv48Y8Ayc46YyA162fwI83hz7ndRiU414&mibextid=Zxz2cZlnewsasia.com/brandstudio/imc-youthawards/catholichigh?cid=adv_fb_paid_20230109&fbclid=IwAR1IOCoLXxXngYvkKM4N9VIEUzXv48Y8Ayc46YyA162fwI83hz7ndRiU414&mibextid=Zxz2cZ
+      image: /images/CNA 2023.jpg
+      alt: Image alt text
+  - infopic:
+      title: Blessed Lunar New Year!
+      description: Catholic High School wishes everyone a joyful, healthy and blessed
+        year of the Rabbit!  癸卯春至辞虎岁 兔岁云程奋鹏程
+      image: /images/MainPage/公教迎新春!.gif
+      alt: Image alt text
+  - infopic:
+      title: President's Scout Awardees
+      subtitle: "Latest News "
+      button: Read more here
+      url: /President-Scouts-Award/
+      image: /images/Scout President Award.jpeg
+      alt: Image alt text
 ---
-

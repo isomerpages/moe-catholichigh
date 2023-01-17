@@ -1,0 +1,22 @@
+collections:
+  academic:
+    output: true
+    order:
+      - English Language/.keep
+      - English Language/Overview.md
+      - English Language/Signature Programmes.md
+      - English Language/Recommended Reading lists for English Language.md
+      - 华文部 Chinese Language.md
+      - Mathematics.md
+      - Science.md
+      - Gifted Education Programme/.keep
+      - Gifted Education Programme/CHS GEP Experience.md
+      - Gifted Education Programme/Signature Programmes.md
+      - Gifted Education Programme/Achievements.md
+      - Gifted Education Programme/P3 GEP Parents' Briefing.md
+      - Physical Education/.keep
+      - Physical Education/Overview.md
+      - Physical Education/Teacher & Learning Model and Approach.md
+      - Physical Education/Signature Programmes.md
+      - Physical Education/NAPFA.md
+      - Special Assistance Plan (SAP).md

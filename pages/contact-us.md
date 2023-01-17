@@ -2,31 +2,40 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Catholic High School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 9 Bishan Street 22
+      - Singapore 579767
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 7.00am - 6.00pm
+        description: Closed on weekends and public holidays
+    maps_link: ""
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <dl class="dl-horizontal">    <dt>General Office:</dt>   <dd>6458
+          2177</dd>   <dt>HOD Room:</dt>    <dd>6458 5416</dd>    <dt>Staff
+          Room:</dt>    <dd>6458 2186 and 6458 6251</dd>   <dt>Fax
+          Number:</dt>   <dd>6456 1322</dd>    <dt>Email:</dt>    <dd><a
+          href="mailto:chs@moe.edu.sg">chs@moe.edu.sg</a></dd></dl>
+    title: Secondary Section
+  - content:
+      - phone: ""
+      - email: ""
+      - other: '  <dl class="dl-horizontal">    <dt>General Office:</dt><dd> 6458
+          9869</dd><dt>Fax Number:</dt> <dd>6459 3938</dd><dt>Email:</dt><dd><a
+          href="mailto:chs_ps@moe.edu.sg">chs_ps@moe.edu.sg</a></dd></dt>'
+    title: Primary Section
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <h3 id="More information"><a
+          href="/contact-and-outreach/contact-school-and-services/overview/">More
+          information</a></h3> <dl class="dl-horizontal"></dl>
+    title: " "
 ---
