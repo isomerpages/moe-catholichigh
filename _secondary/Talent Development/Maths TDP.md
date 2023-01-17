@@ -6,6 +6,10 @@ third_nav_title: Talent Development
 ---
 ### Math Talent Development Programme (MTDP)
 
+<style>
+p {text-align: justify;}
+</style>
+
 The Mathematics Talent Development Programme (MTDP) aims to develop students who have a strong aptitude in Mathematics to become creative problem solvers and to pursue their passion beyond school curriculum. Students in our MTDP comprise of Direct School Admission (DSA) students as well as qualified high performing upper levels students.
 
 In our MTDP, students are engaged in various rich learning experiences such as:
