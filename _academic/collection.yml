@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Physical Education/.keep
       - English Language/.keep
       - English Language/Overview.md
       - English Language/Signature Programmes.md
@@ -16,3 +15,4 @@ collections:
       - Gifted Education Programme/Achievements.md
       - Gifted Education Programme/P3 GEP Parents' Briefing.md
       - Special Assistance Plan (SAP).md
+      - Physical Education/.keep
