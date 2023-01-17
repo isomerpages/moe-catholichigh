@@ -24,7 +24,7 @@ _(A1) What are the **school fees**?_
 
 *   As CHS is a government-aided school, regardless of the track admitted to, a Singaporean citizen pays $28 per month, including miscellaneous and other fees.
 *   Permanent Residents, International Students (ASEAN) and other International Students pay $523, $923 and $1773 per month respectively, including the miscellaneous fees.
-*   For most updated information on school fees, please refer to MOE website: [https://beta.moe.gov.sg/fees-assistance-awards-scholarships/fees/](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/fees/)
+*   For most updated information on school fees, please refer to MOE website: [https://www.moe.gov.sg/financial-matters](https://www.moe.gov.sg/financial-matters)
 
 _(A2) What is the **start-time for regular school days**?_
 
