@@ -23,7 +23,7 @@ Our heartiest congratulations to all P6 students who have completed their Primar
 *   [AEP Information](https://drive.google.com/file/d/181ddgqdy8V_-x3_xGlTW868RSqSYGlro/view?usp=share_link)
 *   [Orientation Programme & Information](https://drive.google.com/file/d/10aq1C2iSVUF3429KZYLBhqs8oMxLUW3x/view?usp=share_link)
 *   [Financial Assistance Scheme](https://drive.google.com/file/d/1ayZ7IObHo1FKD1WyoDCVg3xZB8xuS5lX/view?usp=share_link)
-*   [Level 1 (2022) Registration Form (**Available until to 24 Dec 08:00a.m**)](https://go.gov.sg/s1registrationform2023)\*
+*   [Level 1 (2022) Registration Form (**Available until to 21 Dec 23:59**)](https://go.gov.sg/s1registrationform2023)\*
 *   [FAQs](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/faqs/)
 
 \*Please note that DSA students also need to submit Level 1 (2022) Registration Form.
