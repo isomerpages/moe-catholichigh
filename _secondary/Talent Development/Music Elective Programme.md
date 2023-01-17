@@ -40,7 +40,7 @@ To apply for MEP, applicants must
 They will require a pass in the Selection Exercise by the school, consisting of:
 
 *   *   An e-listening test on Western and Non-Western music traditions
-*   A performance audition of 2 contrasting solo pieces on an instrument or voice, with a total duration of 5 to 10 minu
+*   A performance audition of 2 contrasting solo pieces on an instrument or voice, with a total duration of 5 to 10 minutes
 
 The Selection Exercise for 2023 Level 1 CHS MEP::
 
