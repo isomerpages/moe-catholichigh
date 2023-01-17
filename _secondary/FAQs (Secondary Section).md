@@ -38,7 +38,7 @@ _(A3) What is the **cohort intake**?_
 _(A4) Do I / does my son need to attend **religious programmes?**_
 
 *   As a government-aided SAP and also mission school (under the auspices of the Roman Catholic Archdiocese of Singapore), our school emphasises universal values such as love, compassion, integrity and humility in our curriculum and programmes.
-*   There are **[spirituality development programmes for Catholic students](/chs-safety-guidelines-for-pe-lessons-cca/)**. These include Religious and Moral Education sessions, Young Christian Student Movement sessions, fortnightly masses, holy days of obligation masses, penitential services, Easter celebration, retreat, etc.
+*   There are **[spirituality development programmes for Catholic students](/Spirituality-Education-and-Catholic-Programme/)**. These include Religious and Moral Education sessions, Young Christian Student Movement sessions, fortnightly masses, holy days of obligation masses, penitential services, Easter celebration, retreat, etc.
 *   **Non-Catholic students are not required but are welcome to attend these Catholic programmes.**
 *   Parents are welcome to attend the masses and join the CHS Prayer Parents and Catholic Parents Support Group.
 
@@ -56,7 +56,7 @@ _(A6) How do I know **which track (IP or OP) is more suitable** for me?_
 
 _(A7) Are students in **OP and IP given the same opportunities**, e.g. for talent development, participation in Olympiad etc.?_
 
-*   Our school-based programmes, e.g. [Passion Pursuit (Elective)](/secondary/o-level-programme/passion-pursuit-elective/), are generally offered to both IP and OP students. There is no segregation or exclusion for CCAs, character development and leadership development programmes. Some components of our IP curriculum are offered in the OP as well, e.g. World Readiness Reading Programme.
+*   Our school-based programmes, e.g. [Passion Pursuit (Elective)](/secondary/Distinctive-Programmes/passion-pursuit/elective/), are generally offered to both IP and OP students. There is no segregation or exclusion for CCAs, character development and leadership development programmes. Some components of our IP curriculum are offered in the OP as well, e.g. World Readiness Reading Programme.
 *   Our [talent development programmes](/talent-development-programme-sec/) (e.g. [CΩERGY](/c%ce%a9ergy-programme/)) and [Music Elective Programme](/secondary/academic-programme/music-elective-programme/) are offered to both IP and OP students who meet the criteria. For example, Maths and Science Olympiads are open to both IP and OP students: criteria is based on students' aptitude and interest for the talent area. Students in our talent development programmes will be involved in the relevant Olympiad.
 *   IP students are offered additional programmes such as the [Passion Pursuit (Independent)](/secondary/academic-programme/passion-pursuit-independent/), [World Readiness Programme](/secondary/academic-programme/world-readiness-programme/) (WRP) and [Bicultural Studies Programme](/secondary/academic-programme/bicultural-studies-programme/) (BSP) because of the differences in the objectives and curriculum design of OP and IP. With overall less allocated curriculum time due to the GCE O-Level examinations, OP students do not offer these programmes.
 *   You can learn more about the similarities and differences of our IP and OP at: [Overview of the dual track](/overview-of-the-dual-track/)
