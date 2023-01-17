@@ -38,7 +38,7 @@ _(A3) What is the **cohort intake**?_
 _(A4) Do I / does my son need to attend **religious programmes?**_
 
 *   As a government-aided SAP and also mission school (under the auspices of the Roman Catholic Archdiocese of Singapore), our school emphasises universal values such as love, compassion, integrity and humility in our curriculum and programmes.
-*   There are **[spirituality development programmes for Catholic students](/secondary/departments-2/catholic-society/)**. These include Religious and Moral Education sessions, Young Christian Student Movement sessions, fortnightly masses, holy days of obligation masses, penitential services, Easter celebration, retreat, etc.
+*   There are **[spirituality development programmes for Catholic students](/chs-safety-guidelines-for-pe-lessons-cca/)**. These include Religious and Moral Education sessions, Young Christian Student Movement sessions, fortnightly masses, holy days of obligation masses, penitential services, Easter celebration, retreat, etc.
 *   **Non-Catholic students are not required but are welcome to attend these Catholic programmes.**
 *   Parents are welcome to attend the masses and join the CHS Prayer Parents and Catholic Parents Support Group.
 
