@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Distinctive Programmes
 ---
 ### Space and Flight Science Programme
-
+<style>
+p {text-align: justify;}
+</style>
 **Catholic High School offers** **our distinctive Space and Flight Science Programme for interested students who have a passion for the future and frontiers of aerospace and space engineering.**
 
 <img src="/images/sfsp1.png" style="width:80%">
