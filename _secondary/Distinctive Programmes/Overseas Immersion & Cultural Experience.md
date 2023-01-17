@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Distinctive Programmes
 ---
 ### Overseas Immersion & Cross-cultural Experience
-
+<style>
+p {text-align: justify;}
+</style>
 In Catholic High, we strive to **develop the cultural intelligence** of our students through authentic and situated learning. Authentic learning for world-readiness can take the form of our students going on experiential learning and internships, and this can be greatly enhanced through immersion in an overseas context, engaging other cultures and making a positive impact on the lives of people around the world.
 
 ##### Objectives
