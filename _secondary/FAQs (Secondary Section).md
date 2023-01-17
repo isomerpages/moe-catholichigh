@@ -183,7 +183,7 @@ _(B9) Must my son join Eunoia JC, should he enter CHS through DSA-Sec (IP)?_
 
 _(C) Where can I get information about the process?_
 
-*   Please refer to [https://beta.moe.gov.sg/secondary/dsa/](https://beta.moe.gov.sg/secondary/dsa/)
+*   Please refer to [https://www.moe.gov.sg/secondary/dsa/application](https://www.moe.gov.sg/secondary/dsa/application)
 
 * * *
 
