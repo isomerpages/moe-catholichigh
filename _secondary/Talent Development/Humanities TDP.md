@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Talent Development
 ---
 ### Humanities Talent Development Programme
+<style>
+p {text-align: justify;}
+</style>
 
 The Humanities Talent Development Programme seeks to maximise the learning experiences of students through experiential learning and infusing critical thinking skills via an enriched curriculum. This is achieved by providing them with a very R.E.A.L. humanities experience centered on being Relevant, Experiential, Authentic and for Life-long Learning. This programme focuses on the disciplines of Economics, Geography, History and Literature.
 
