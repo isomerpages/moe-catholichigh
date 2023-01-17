@@ -39,9 +39,9 @@ The six-stage programme includes activities and survival taught at each stage of
 As part of our PE syllabus for Outdoor Education module, we equip pupils with the knowledge, skills and attitude to explore the natural and urban environments safely and responsibly. As such, the Primary 4 pupils will experience a day trip to a neighouring park \- Bishan Active Park \- so as to have more authentic learning experiences.
 
 ![Bishan Active Park 1](/images/Primary/PE/Bishan%20Active%20Park%201.jpg)
-**(Pupils exploring different areas of the park. Photo was taken during Pre-COVID.)**
+**Pupils exploring different areas of the park. Photo was taken during Pre-COVID.**
 
-![Bishan Active Park 2](/images/Primary/PE/Bishan%20Active%20Park%202.jpg)**(Pupils tried to find out more about the park by answering the questions on the worksheets.)**
+![Bishan Active Park 2](/images/Primary/PE/Bishan%20Active%20Park%202.jpg)**Pupils tried to find out more about the park by answering the questions on the worksheets.**
 
 ### Primary 5 Camp 
 
