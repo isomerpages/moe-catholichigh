@@ -5,6 +5,10 @@ description: ""
 ---
 ### Frequently Asked Questions (Secondary Section)
 
+<style>
+p {text-align: justify;}
+</style>
+
 <Last updated 18 January 2021>
 
 **This page documents frequently asked questions from prospective parents and students about our school, admission and DSA.**
