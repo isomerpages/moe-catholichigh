@@ -4,7 +4,7 @@ permalink: /academic/Science/overview/
 description: ""
 third_nav_title: Science
 ---
-<img src="/images/sci1.png" style="width:100%">
+![](/images/sci1.png)
 
 ### Department Vision: 
 To nurture self-directed learners with critical and inquiring minds with a passion for exploring Science 
