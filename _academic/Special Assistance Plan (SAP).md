@@ -17,7 +17,7 @@ The school aspires to deepen the students’ roots in the understanding and appr
 **公教附小致力于培养学生对中华文化及本土文化有更深的认识，并提高学生的文化素养，营造一个有利于学习华文的大环境。**
 
     
-### 特选课程进行蓝图:
+### SAP Programme 特选课程进行蓝图:
 
 通过琴、棋、书、画、文史及武术等六大支柱，激发学生学习中华和本土文化的兴趣，营造浓厚的文化氛围，以促进学习华语的环境。
 
