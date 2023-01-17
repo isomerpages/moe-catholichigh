@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Talent Development
 ---
 ### English Talent Development Programme
-
+<style>
+p {text-align: justify;}
+</style>
 English Talent Development Programme (ELTDP) is guided by Catholic High’s desire to develop students who are moving from novice to expert in their discipline/domain of interest, with a view towards preparing exceptionally talented students for more advanced disciplinary work after secondary education.
 
 ### Programme Features
