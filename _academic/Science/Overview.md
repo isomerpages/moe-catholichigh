@@ -4,7 +4,7 @@ permalink: /academic/Science/overview/
 description: ""
 third_nav_title: Science
 ---
-<img src="/images/sci1.png">
+<img src="/images/sci1.png" style="width:100%">
 
 ### Department Vision: 
 To nurture self-directed learners with critical and inquiring minds with a passion for exploring Science 
@@ -26,9 +26,11 @@ Pupils possess the spirit of scientific inquiry. They are grounded in the knowle
 ##### Enrich:
 Various experiential learning will further promote the learning of Science in a fun and engaging way. Pupils apply scientific knowledge in their daily lives.
 
-<img src="/images/sci2.png">
-<img src="/images/sci3.png">
 
+<img src="/images/Primary/Science/ScienceLogo.jpg" style="width:80%;">
+
+
+	
 ## Teaching and Learning Approaches
 
 The school adopts an inquiry-based approach in the teaching and learning of Science. Varied teaching strategies provide our young learners the opportunities to develop concepts, skills and attitudes for scientific inquiry through experiential learning and to engage them to make learning fun and meaningful.
