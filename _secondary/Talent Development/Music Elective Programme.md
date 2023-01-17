@@ -6,6 +6,10 @@ third_nav_title: Talent Development
 ---
 ### The Music Elective Programme
 
+<style>
+p {text-align: justify;}
+</style>
+
 The Music Elective Programme (MEP) is an **MOE special programme** that allows students with passion in Music to study the subject in an enriched environment.
 
 *   MEP students in Catholic High School enjoy the **opportunity to study Music at a deeper level** in an enhanced curriculum for Music in custom-built MEP Studios.
