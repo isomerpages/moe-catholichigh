@@ -34,9 +34,9 @@ Through the rigorous training sessions, the teachers and coach ensure that the g
 
 Catholic High Table Tennis CCA focuses on building up a strong team spirit through discipline and commitment. Our training sessions involve honing our fundamental skills and we practise game play by sparring amongst ourselves. Good coordination skills and quick reaction time are necessary to excel in the sport.
 
-As a sports CCA, we believe in cultivating good sportsmanship. Values such as resilience and being respectful are showcased in our daily practices.
+As a sports CCA, we believe in cultivating good sportsmanship. Values such as resilience and respect are exhibited in our daily practices.
 
-Besides the rigorous training sessions that we have regularly, we conduct team-bonding sessions and participate in VIA projects to serve and give back to the community. The strong camaraderie of the team is a key reason why we have been finishing strongly in the National Schools Games.
+Besides the rigorous training sessions that we have regularly, we conduct team-bonding sessions and participate in VIA projects to serve and give back to the community. The strong camaraderie of the team is a key reason why we have been performing well in the National Schools Games.
 
 ![School Team players](/images/Primary/PE/Table%20Tennis%201.jpg)**School Team players**
 
