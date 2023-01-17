@@ -1,5 +1,5 @@
 collections:
-  connecting-with-us:
+  connect-with-us:
     output: true
     order:
       - Contact School & Services/Overview.md
