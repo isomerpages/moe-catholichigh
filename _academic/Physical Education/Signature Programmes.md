@@ -90,7 +90,7 @@ Over the course of 6 years, pupils will be exposed to different instruments and 
 
 ### Ethnic Percussion Programme
   
-As a SAP school, Catholic High School Music Department works closely with the SAP Committee to develop a profile of pupils with a deep understanding and appreciation of diverse cultures. Primary 2 pupils learn to play various ethnic percussion instruments such as Indian Zills, Malay Kompangs and Chinese drums over a 5-week Ethnic Percussion Programme during music lessons. Besides learning the techniques to play the various ethnic instruments, pupils are taught to play as an ensemble.  Through playing music together as an ensemble, pupils develop better listening skills.
+As a SAP school, Catholic High School Music Department works closely with the SAP Committee to develop a pupils with a deep understanding and appreciation of diverse cultures. Primary 2 pupils learn to play various ethnic percussion instruments such as Indian Zills, Malay Kompangs and Chinese drums over a 5-week Ethnic Percussion Programme during music lessons. Besides learning the techniques to play the various ethnic instruments, pupils are taught to play as an ensemble. Through playing music together as an ensemble, pupils develop better listening skills.
 
 ![Primary 2 students learning to play the Chinese drums.](/images/Primary/PE/Primary%202%20students%20learning%20to%20play%20the%20Chinese%20drums.jpg)**Primary 2 students learning to play the Chinese drums.**
 
