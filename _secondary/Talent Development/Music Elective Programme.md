@@ -48,7 +48,7 @@ Friday, 23 December 2022, 10pm: Submission deadline for MEP [applications](http
 
 Tuesday, 27 December 2022, 2.30pm: CHS Digital Music Studio: e-listening test videos
 
-Wednesday, 29 December 2021, 4pm: MEP briefing for all applicants and 1 parent / guardian
+Tuesday, 27 December 2022, 2pm: MEP briefing for all applicants and 1 parent / guardian
 
 ##### Useful links:
 
