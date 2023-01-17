@@ -57,8 +57,8 @@ _(A6) How do I know **which track (IP or OP) is more suitable** for me?_
 _(A7) Are students in **OP and IP given the same opportunities**, e.g. for talent development, participation in Olympiad etc.?_
 
 *   Our school-based programmes, e.g. [Passion Pursuit (Elective)](/secondary/Distinctive-Programmes/passion-pursuit/elective/), are generally offered to both IP and OP students. There is no segregation or exclusion for CCAs, character development and leadership development programmes. Some components of our IP curriculum are offered in the OP as well, e.g. World Readiness Reading Programme.
-*   Our [talent development programmes](/talent-development-programme-sec/) (e.g. [CΩERGY](/c%ce%a9ergy-programme/)) and [Music Elective Programme](/secondary/academic-programme/music-elective-programme/) are offered to both IP and OP students who meet the criteria. For example, Maths and Science Olympiads are open to both IP and OP students: criteria is based on students' aptitude and interest for the talent area. Students in our talent development programmes will be involved in the relevant Olympiad.
-*   IP students are offered additional programmes such as the [Passion Pursuit (Independent)](/secondary/academic-programme/passion-pursuit-independent/), [World Readiness Programme](/secondary/academic-programme/world-readiness-programme/) (WRP) and [Bicultural Studies Programme](/secondary/academic-programme/bicultural-studies-programme/) (BSP) because of the differences in the objectives and curriculum design of OP and IP. With overall less allocated curriculum time due to the GCE O-Level examinations, OP students do not offer these programmes.
+*   Our [talent development programmes](/secondary/Talent-Development/overview/) (e.g. [CΩERGY](/secondary/Talent-Development/cnergy-programme/)) and [Music Elective Programme](/secondary/Talent-Development/music-elective-programme/) are offered to both IP and OP students who meet the criteria. For example, Maths and Science Olympiads are open to both IP and OP students: criteria is based on students' aptitude and interest for the talent area. Students in our talent development programmes will be involved in the relevant Olympiad.
+*   IP students are offered additional programmes such as the [Passion Pursuit (Independent)](/secondary/Distinctive-Programmes/passion-pursuit/independent/), [World Readiness Programme](/secondary/Distinctive-Programmes/world-readiness-programme/) (WRP) and [Bicultural Studies Programme](/secondary/academic-programme/bicultural-studies-programme/) (BSP) because of the differences in the objectives and curriculum design of OP and IP. With overall less allocated curriculum time due to the GCE O-Level examinations, OP students do not offer these programmes.
 *   You can learn more about the similarities and differences of our IP and OP at: [Overview of the dual track](/overview-of-the-dual-track/)
 
 _(A8) Can a student **transfer from the O-Level to the IP track**?_ 
@@ -104,7 +104,7 @@ _(A14) How do I learn more about **Eunoia Junior College** (EJC)?_
 
 _(A15) Is CHS **affiliated to Eunoia Junior College** (EJC)?_
 
-*   CHS OP students do not have affiliation bonus points when applying to EJC, but have 2 affiliation bonus points when applying to Catholic Junior College ([CJC is affiliated to Catholic schools](https://cjc.moe.edu.sg/)).
+*   CHS OP students do not have affiliation bonus points when applying to EJC, but have 2 affiliation bonus points when applying to Catholic Junior College ([CJC is affiliated to Catholic schools](http://cjc.edu.sg/web/?page_id=37)).
 *   Eunoia JC is a partner school for our IP. IP students do not need the bonus points: so long as they meet the JIP promotion criteria, they will join EJC in their JC1 (Year 5).
 
 _(A16) Can my son bring his **mobile phone** to school?_
