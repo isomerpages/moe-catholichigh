@@ -62,7 +62,8 @@ In Catholic High School (Primary), we empower our gentlemen with skills to pract
 
 Tapping on our gentlemen’s youthful energy, each training session engages them in robust routines that not only develops their physique and fitness but also strengthens their mental faculty.  Aside from the rigorous weekly training that inculcates discipline and diligence, our gentlemen are also involved in an annual VIA project. This platform teaches our gentlemen to be keenly aware of community needs and serve with empathy and love.
 
-![Ready for competition](/images/Primary/PE/Wushu%201a.jpg)**Ready for competition**
+![](/images/Primary/CCA/North-Zone-Champions.jpg)**Ready for competition**
+
 
 ![Practising the routine](/images/Primary/PE/Wushu%202a.jpg)**Practising the routine**
 
