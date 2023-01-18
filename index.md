@@ -17,7 +17,7 @@ sections:
       title: "Hope Hub: An Intelligent Bob to provide timely help!"
       subtitle: LATEST NEWS
       button: READ MORE HERE
-      url: https://www.channehttps://www.channelnewsasia.com/brandstudio/imc-youthawards/catholichigh?cid=adv_fb_paid_20230109&fbclid=IwAR1IOCoLXxXngYvkKM4N9VIEUzXv48Y8Ayc46YyA162fwI83hz7ndRiU414&mibextid=Zxz2cZlnewsasia.com/brandstudio/imc-youthawards/catholichigh?cid=adv_fb_paid_20230109&fbclid=IwAR1IOCoLXxXngYvkKM4N9VIEUzXv48Y8Ayc46YyA162fwI83hz7ndRiU414&mibextid=Zxz2cZ
+      url: https://www.channelnewsasia.com/brandstudio/imc-youthawards/catholichigh?cid=adv_fb_paid_20230109&fbclid=IwAR1IOCoLXxXngYvkKM4N9VIEUzXv48Y8Ayc46YyA162fwI83hz7ndRiU414&mibextid=Zxz2cZlnewsasia.com/brandstudio/imc-youthawards/catholichigh?cid=adv_fb_paid_20230109&fbclid=IwAR1IOCoLXxXngYvkKM4N9VIEUzXv48Y8Ayc46YyA162fwI83hz7ndRiU414&mibextid=Zxz2cZ
       image: /images/CNA 2023.jpg
       alt: Image alt text
   - infopic:
