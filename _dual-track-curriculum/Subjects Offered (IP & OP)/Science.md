@@ -41,9 +41,9 @@ Apart from the traditionally strong and rigorous academic teaching and learning 
 
 **Academic Programmes**
 
-*   [Space & Flight Science Programme](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/space-and-flight-science-programme/)
+*   [Space & Flight Science Programme](/secondary/Distinctive-Programmes/space-and-flight-science-programme/)
 
-<p><a href="https://catholichigh.moe.edu.sg/wp-content/uploads/2014/11/Space-and-Flight-Science-Prog-resized.jpg"><img style="width:65%" src="/images/scie5.png"></a></p>
+<p><a href="/secondary/Distinctive-Programmes/space-and-flight-science-programme/"><img style="width:65%" src="/images/scie5.png"></a></p>
 
 *   CNERGY Programme (Sec 2 to 4)
 
@@ -88,4 +88,4 @@ Apart from the traditionally strong and rigorous academic teaching and learning 
 *   Singapore Youth Flying Club
 *   .. and more.
 
-Click here for our [Space and Flight Science Programme](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/space-and-flight-science-programme/) !
+Click here for our [Space and Flight Science Programme](/secondary/Distinctive-Programmes/space-and-flight-science-programme/) !
