@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Character Education
 ---
 
-### CATHOLIC HIGH SCHOOL (PRIMARY)
-#### Moe Sexuaity Education in Schools
+<p><strong>CATHOLIC HIGH SCHOOL (PRIMARY)</strong></p>
+<p><strong>Moe Sexuaity Education in Schools</strong></p>
 <ol>
 <li>Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</li>
 <li>The <strong>Goals</strong> of Sexuality Education are:
@@ -21,11 +21,11 @@ third_nav_title: Character Education
 <li>Make responsible decisions for yourself, your family and society; and</li>
 <li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li></ol></li>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education.&nbsp;</p>
-<br/>
+<h2><br/><br/></h2>
 <p><strong>Overview of Catholic High School (Primary)</strong><strong>&rsquo;s</strong><strong> Sexuality Education Programme for 2023</strong></p>
 <ol start ="4">  
 <li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
-<li>The subjects that incorporate topics on sexuality include:</li>
+<li>The subjects that incorporate topics on sexuality include:
 <ol type="a">
 <li>Science&nbsp;</li>
 <li>Character and Citizenship Education (CCE)</li>
@@ -34,7 +34,7 @@ third_nav_title: Character Education
 <ol start="6">
 <li>The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.&nbsp;
 
-<br/>
+<br/><br/>
 
 <li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.&nbsp;</li></ol>
 
