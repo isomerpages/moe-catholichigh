@@ -17,7 +17,7 @@ Fax Number: 6456 1322
 
 Email: [chs@moe.edu.sg](mailto:chs@moe.edu.sg)&nbsp;(including DSA-related queries)
 
-[Click here for the latest&nbsp;contact list](https://catholichigh.moe.edu.sg/contact-us/sec-section-email-addresses/)&nbsp;of Secondary Section staff overseeing specific areas, &nbsp;e.g. Science department.
+[Click here for the latest&nbsp;contact list](/contact-and-outreach/contact-school-and-services/sec-section-emails/)&nbsp;of Secondary Section staff overseeing specific areas, &nbsp;e.g. Science department.
 
 Teachers’ Email: ([Click here](https://catholichigh.moe.edu.sg/staff-contact/)&nbsp;to for look for&nbsp;[Teachers’ Email](https://catholichigh.moe.edu.sg/staff-contact/)&nbsp;)
 
