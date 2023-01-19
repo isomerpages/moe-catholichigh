@@ -4,7 +4,6 @@ permalink: /secondary/Talent-Development/cnergy-programme/
 description: ""
 third_nav_title: Talent Development
 ---
-
 ### Science Talent Development Programme: CΩERGY Programme
 
 <style>
@@ -25,4 +24,4 @@ In keeping up with our tradition of strong academic achievements, our talented s
 
 <figure><img src="/images/cnergy3.png" style="width:75%"><figcaption> Above: Students continue to achieve excellence in many areas, e.g. C. B. Paul Science Quiz, Singapore Junior Olympiad and National Science Challenge</figcaption></figure>
 
-[Science @ CHS Prospectus]https://drive.google.com/file/d/1y9_4zPByE93Yp_1lBX5tUCvIH9LsnCu1/view
+[Science @ CHS Prospectus](https://drive.google.com/file/d/1y9_4zPByE93Yp_1lBX5tUCvIH9LsnCu1/view)

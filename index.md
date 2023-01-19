@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Catholic High School
-description: " "
+description: Catholic High School
 image: /images/chslogo1.png
 permalink: /
 notification: ""
@@ -34,4 +34,5 @@ sections:
       image: /images/Scout President Award.jpeg
       alt: Image alt text
 ---
+
 

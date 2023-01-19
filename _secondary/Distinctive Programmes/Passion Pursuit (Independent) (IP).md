@@ -4,7 +4,7 @@ permalink: /secondary/Distinctive-Programmes/passion-pursuit/independent/
 description: ""
 third_nav_title: Distinctive Programmes
 ---
-The **Passion Pursuit programme** in Catholic High School comprises an **Independent** and [**Elective**](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/passion-pursuit/elective/) component.
+The **Passion Pursuit programme** in Catholic High School comprises an **Independent** and [**Elective**](/secondary/Distinctive-Programmes/passion-pursuit/elective/) component.
 <style>
 p {text-align: justify;}
 </style>
