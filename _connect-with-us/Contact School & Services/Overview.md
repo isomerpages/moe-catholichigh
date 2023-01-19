@@ -19,7 +19,7 @@ Email: [chs@moe.edu.sg](mailto:chs@moe.edu.sg)&nbsp;(including DSA-related queri
 
 [Click here for the latest&nbsp;contact list](/contact-and-outreach/contact-school-and-services/sec-section-emails/)&nbsp;of Secondary Section staff overseeing specific areas, &nbsp;e.g. Science department.
 
-Teachers’ Email: ([Click here](https://catholichigh.moe.edu.sg/staff-contact/)&nbsp;to for look for&nbsp;[Teachers’ Email](https://catholichigh.moe.edu.sg/staff-contact/)&nbsp;)
+Teachers’ Email: ([Click here](/secondary/staff-contact/)&nbsp;to for look for Teachers’ Email)
 
 ### Primary School
 
