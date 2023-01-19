@@ -24,9 +24,9 @@ Catholic High School aims to nurture **confident** leaders with **values**, 
 
 Catholic High School offers both the Integrated Programme (IP) and O-Level Programme (OP) to cater to the different aspirations and learning styles of our students.
 
-**[Click on the following link](https://staging.d26k7rl81eo6rb.amplifyapp.com/dual-track-curriculum/overview/) to learn about the similarities and differences between our IP and OP**:
+**[Click on the following link](/dual-track-curriculum/overview/) to learn about the similarities and differences between our IP and OP**:
 
-*   [/secondary/departments-2/dual-track-programme/](https://staging.d26k7rl81eo6rb.amplifyapp.com/dual-track-curriculum/overview/)
+*   [/secondary/departments-2/dual-track-programme/](/dual-track-curriculum/overview/)
 
 * * *
 
@@ -34,35 +34,35 @@ Catholic High School offers both the Integrated Programme (IP) and O-Level Progr
 
 We offer a broad spectrum of opportunities for our students to **explore their passion and interests**, and to **transform their gifts into talents**.
 
-*   [Our extensive subject choices in core curriculum](https://staging.d26k7rl81eo6rb.amplifyapp.com/dual-track-curriculum/Subjects-Offered-IP-and-OP/overview/)
-*   [Talent Development Programmes and MOE Special Programmes](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Talent-Development/overview/)
-*   [SAP Flagship Programme](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/sap-flagship-programme/)
-*   [Passion Pursuit (Elective)](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/passion-pursuit/elective/)
-*   [Passion  Pursuit (Independent)](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/passion-pursuit/independent/)
-*   [World Readiness Programme](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/world-readiness-programme/)
-*   [Overseas Immersion and Cultural Experience](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Distinctive-Programmes/overseas-immersion-and-cultural-experience/)
-*   [Leadership Development](https://staging.d26k7rl81eo6rb.amplifyapp.com/student-development/student-leadership-development/)
-*   [Co-curricular Activities](https://staging.d26k7rl81eo6rb.amplifyapp.com/student-development/pe-and-cca/overview/)
+*   [Our extensive subject choices in core curriculum](/dual-track-curriculum/Subjects-Offered-IP-and-OP/overview/)
+*   [Talent Development Programmes and MOE Special Programmes](/secondary/Talent-Development/overview/)
+*   [SAP Flagship Programme](/secondary/Distinctive-Programmes/sap-flagship-programme/)
+*   [Passion Pursuit (Elective)](/secondary/Distinctive-Programmes/passion-pursuit/elective/)
+*   [Passion  Pursuit (Independent)](/secondary/Distinctive-Programmes/passion-pursuit/independent/)
+*   [World Readiness Programme](/secondary/Distinctive-Programmes/world-readiness-programme/)
+*   [Overseas Immersion and Cultural Experience](/secondary/Distinctive-Programmes/overseas-immersion-and-cultural-experience/)
+*   [Leadership Development](/student-development/student-leadership-development/)
+*   [Co-curricular Activities](/student-development/pe-and-cca/overview/)
 
  <img src="/images/sn20.png" style="width:80%">
  
  **(4) Learn about our student outcomes** _(for academic and CCAs)_
 
-Our students have [done well in many areas](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/awards-and-achievements/overview/) to exemplify our **ethos of continuous innovation** and **culture of excellence**.
+Our students have [done well in many areas](/secondary/awards-and-achievements/overview/) to exemplify our **ethos of continuous innovation** and **culture of excellence**.
 
-*   [/school/achievements/](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/awards-and-achievements/overview/)
+*   [/school/achievements/](/secondary/awards-and-achievements/overview/)
 
 **(5) A pictorial tour of CHS Secondary Section**
 
 [Click on the following link](https://catholichigh.moe.edu.sg/conducive-home/pictorial-tour-of-chs/) to learn more about our **conducive environment** for students to immerse in a **bilingual culture** that supports their learning and development:
 
-*   [/conducive-home/pictorial-tour-of-chs/](https://staging.d26k7rl81eo6rb.amplifyapp.com/about/pictorial-tour-of-chs/)
+*   [/conducive-home/pictorial-tour-of-chs/](/about/pictorial-tour-of-chs/)
 
 **(6) Frequently Asked Questions** _(from prospective students and parents)_
 
 [Click on the following link](https://catholichigh.moe.edu.sg/frequently-asked-questions/) to read some of the **FAQs posed to us by prospective parents and students**:
 
-*   [/frequently-asked-questions/](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/faqs/)
+*   [/frequently-asked-questions/](/secondary/faqs/)
 
 Some of the questions posed by parents/students are:
 
