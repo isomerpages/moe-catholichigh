@@ -38,7 +38,7 @@ As a sports CCA, we believe in cultivating good sportsmanship. Values such as re
 
 Besides the rigorous training sessions that we have regularly, we conduct team-bonding sessions and participate in VIA projects to serve and give back to the community. The strong camaraderie of the team is a key reason why we have been performing well in the National Schools Games.
 
-![School Team players](/images/Primary/PE/Table%20Tennis%201.jpg)**School Team players**
+![School Team players](/images/Primary/CCA/North-Zone-Champions.jpg)**School Team players**
 
 ![Teambuilding Games](/images/Primary/PE/Table%20Tennis%202.jpg)**Teambuilding Games**
 
@@ -62,7 +62,9 @@ In Catholic High School (Primary), we empower our gentlemen with skills to pract
 
 Tapping on our gentlemen’s youthful energy, each training session engages them in robust routines that not only develops their physique and fitness but also strengthens their mental faculty.  Aside from the rigorous weekly training that inculcates discipline and diligence, our gentlemen are also involved in an annual VIA project. This platform teaches our gentlemen to be keenly aware of community needs and serve with empathy and love.
 
-![](/images/Primary/CCA/North-Zone-Champions.jpg)**Ready for competition**
+
+![](/images/Primary/PE/Wushu%201.jpg)**Ready for competition**
+
 
 
 ![Practising the routine](/images/Primary/PE/Wushu%202a.jpg)**Practising the routine**
