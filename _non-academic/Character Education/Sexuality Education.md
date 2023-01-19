@@ -4,180 +4,70 @@ permalink: /non-academic/Character-Education/sexuality-education/
 description: ""
 third_nav_title: Character Education
 ---
+#### CATHOLIC HIGH SCHOOL (PRIMARY)
+<style>
+p {text-align: justify;}
+</style>
+##### Moe Sexuality Education in Schools
 
-<p><strong>CATHOLIC HIGH SCHOOL (PRIMARY)</strong></p>
-<p><strong>Moe Sexuaity Education in Schools</strong></p>
-<ol>
-<li>Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</li>
-<li>The <strong>Goals</strong> of Sexuality Education are:
-  <ol type="a" >
-<li>To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;</li>
-<li>To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
-<li>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.&nbsp;</li></ol></li>
-<li>The <strong>Key Messages</strong> of Sexuality Education are:
-<ol type="a">
-<li>Love and respect yourself as you love and respect others;</li>
-<li>Build positive relationships based on love and respect (which are the foundation for strong families);</li>
-<li>Make responsible decisions for yourself, your family and society; and</li>
-<li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li></ol></li>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education.&nbsp;</p>
-<h2><br/><br/></h2>
-<p><strong>Overview of Catholic High School (Primary)</strong><strong>&rsquo;s</strong><strong> Sexuality Education Programme for 2023</strong></p>
-<ol start ="4">  
-<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
-<li>The subjects that incorporate topics on sexuality include:
-<ol type="a">
-<li>Science&nbsp;</li>
-<li>Character and Citizenship Education (CCE)</li>
-  </ol></li>
-<p><strong>Sexuality Education Lessons</strong>:&nbsp;</p>
-<ol start="6">
-<li>The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.&nbsp;
+1.         Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-<br/><br/>
+2.         The **goals** of Sexuality Education are:
 
-<li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.&nbsp;</li></ol>
+*   To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
+*   To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+*   To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.
 
-<br/>
+3.         The **key messages** of Sexuality Education are:
 
-<p><strong>At Catholic High School (Primary), the following Sexuality Education lessons will be taught in </strong><strong>2023</strong><strong>:</strong></p>
-<p><strong>2023 Sexuality Education Lessons in CCE 2021&nbsp;</strong></p>
-<p><strong>Primary 5</strong></p>
-<table>
-<thead>
-<tr>
-<th>
-<p><strong>CCE(FTGP) THEME</strong></p>
-</th>
-<th>
-<p><strong>LESSON TITLE / DURATION</strong></p>
-</th>
-<th>
-<p><strong>LESSON OVERVIEW</strong></p>
-</th>
-<th>
-<p><strong>TIME PERIOD&nbsp;</strong></p>
-<p><strong>(e.g. Term 1 Week 2)</strong></p>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<p>Growing Years</p>
-</td>
-<td>
-<p>The Changes in Me</p>
-<p>(60 min)</p>
-</td>
-<td>
-<p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one&rsquo;s identity need not be negatively affected, even when one&rsquo;s body is experiencing changes due to puberty.&nbsp;</p>
-<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
-</td>
-<td>
-<p>Term 2-4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p> Did You Know?&nbsp;</p>
-<p>(60 min)</p>
-</td>
-<td>
-<p>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy &lsquo;<strong>Stop-Think-Do&rsquo;.&nbsp;</strong></p>
-<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
-</td>
-<td>
-<p>Term 2-4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Keeping Myself Safe</p>
-<p>(60 min)</p>
-</td>
-<td>
-<p>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.</p>
-<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
-</td>
-<td>
-<p>Term 2-4</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>2023 Sexuality Education Lessons in CCE 2021&nbsp;</strong></p>
-<p><strong>Primary 6</strong></p>
-<table>
-<thead>
-<tr>
-<th>
-<p><strong>CCE(FTGP) THEME</strong></p>
-</th>
-<th>
-<p><strong>LESSON TITLE / DURATION</strong></p>
-</th>
-<th>
-<p><strong>LESSON OVERVIEW</strong></p>
-</th>
-<th>
-<p><strong>TIME PERIOD</strong></p>
-<p><strong>(e.g. Term 1 Week 2)</strong></p>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<p>Growing Years</p>
-</td>
-<td>
-<p>Are We More than Friends?</p>
-<p>Lesson 1</p>
-<p>(60 min)</p>
-</td>
-<td>
-<p>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p>
-</td>
-<td>
-<p>Term 2-4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Are We More than Friends?</p>
-<p>Lesson 2</p>
-<p>(60 min)</p>
-</td>
-<td>
-<p>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</p>
-</td>
-<td>
-<p>Term 2-4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Did You Know? <strong>*</strong></p>
-<p>(60 min)</p>
-<br/><br/></td>
-<td>
-<p>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy &lsquo;<strong>Stop-Think-Do&rsquo;.</strong>&nbsp;</p>
-<br/>
-<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
-</td>
-<td>
-<p>Term 2-4</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Please Note:</strong></p>
-<p><strong>*</strong><strong>For </strong><strong>2023</strong><strong>, the Primary 5 lesson &ldquo;</strong><strong><em>Did You Know</em></strong><strong>?&rdquo; will also be conducted for the Primary 6 cohort.&nbsp;</strong></p>
-<br/><br/>
-<p><strong>Information for Parents</strong></p>
-<ol start="8">
-<li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.&nbsp;</li>
-<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (https://form.gov.sg/63c50d38b9029d0011d3a34e). The completed opt-out form is to be submitted by 03/03/2023.</li>
-<li>Parents can contact the school at 6458 9869 for discussion or to seek clarification about the school&rsquo;s Sexuality Education programme.</li>
-</ol>
+*   Love and respect yourself as you love and respect others;
+*   Build positive relationships based on love and respect (which are the foundation for strong families);
+*   Make responsible decisions for yourself, your family and society; and
+*   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+
+You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
+
+##### Overview of Catholic High School (Primary)’s Sexuality Education Programme for 2023
+
+4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+
+5.         The subjects that incorporate topics on sexuality include:
+
+*   Science
+*   Character and Citizenship Education (CCE)
+
+**Sexuality Education Lessons:**
+
+6.         The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
+
+7.         Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
+
+#### At Catholic High School (Primary), the following Sexuality Education lessons will be taught in 2023:
+
+##### 2023 Sexuality Education Lessons in CCE 2021<br>Primary 5
+
+| CCE(FTGP) THEME 	| LESSON TITLE / DURATION 	| LESSON OVERVIEW 	| TIME PERIOD<br/>(e.g. Term 1 Week 2) 	|
+|---	|---	|---	|---	|
+| Growing Years 	| The Changes in Me<br>(60 min) 	| <p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p> 	| Term 2-4 	|
+| Growing Years 	| Did You Know?<br>(60 min) 	| <p>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **‘Stop-Think-Do’.**<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p> 	| Term 2-4 	|
+| Growing Years 	| Keeping Myself Safe<br>(60 min) 	|<p>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p> 	| Term 2-4 	|
+
+##### 2023 Sexuality Education Lessons in CCE 2021<br>Primary 6
+
+| UNIT 	| LESSONS / DURATION 	| Lesson Objectives<br>At the end of the lesson, pupils will be able to: 	| TIME PERIOD<br>(e.g. Term 1 Week 2 	|
+|---	|---	|---	|---	|
+| Growing Years 	| Are We More than Friends?<br>Lesson 1<br>(60 min) 	| <p>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p> 	| Term 2-4 	|
+| Growing Years 	| Are We More than Friends?<br>Lesson 2<br>(60 min) 	| <p>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</P> 	| Term 2-4 	|
+| Growing Years 	| Did You Know? \*<br>(60 min) 	| <p>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **‘Stop-Think-Do’.** <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</P>	| Term 2-4 	|
+
+
+**Please Note:**<br>
+**\*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.**
+
+##### Information for Parents
+
+8.         Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (https://form.gov.sg/63c50d38b9029d0011d3a34e). The completed opt-out form is to be submitted by 03/03/2023.
+
+10.       Parents can contact the school at 6458 9869 for discussion or to seek clarification about the school’s Sexuality Education programme.
