@@ -57,4 +57,4 @@ Other than exploring [**MySkillsFuture**](https://www.moe.gov.sg/-/media/files/
 *   [**For PSLE pupils**](https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-psle.ashx?la=en&hash=8D67D3B7E23162FDF047EA6B072DB47C729B2BFF)
 *   [**The Next Step Forward**](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&hash=861D380E656F90365A6CB50CB53383232AEF1972) – See how 54 individuals go through diverse education and career pathways. The inspirational narratives highlight the many options that cater to the pupils’ needs and can help them discover their selected paths.
 
-Above information is taken from [**Overview** | **Ministry of Education (moe.gov.sg)**](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview).
+Above information is taken from [**Overview** \| **Ministry of Education (moe.gov.sg)**](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview).
