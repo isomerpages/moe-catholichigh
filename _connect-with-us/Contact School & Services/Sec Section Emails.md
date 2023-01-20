@@ -22,7 +22,7 @@ Please note that emails will be read and replied to during office hours as soon 
 |ICT|Mr Quay Kok Khiang Steven<br>(SH/ICT)|steven_quay_kok_khiang@moe.edu.sg|
 |Integrated Programme|Miss Ho Seok Lay<br>(HOD/IP)|ho_seok_lay@moe.edu.sg|
 |Mathematics|Mrs Boh-Ng Hwee Hwee<br>(HOD/Mathematics|ng_hwee_hwee@moe.edu.sg|
-|Mother Togue|Mr Goh Pai Shen<br>(HOD/MTL)|goh_pai_shen@moe.edu.sg|
+|Mother Tongue|Mr Goh Pai Shen<br>(HOD/MTL)|goh_pai_shen@moe.edu.sg|
 |PE and CCA|Mr Yeo Joon Han<br>(HOD/PE&CCA)|yeo_joon_han@moe.edu.sg|
 |Science|Mr Goh Joo Leng Jeffrey<br>(HOD/Science)|goh_joo_leng_jeffrey@moe.edu.sg
 |Student Management & Student Welfare|Mr Foo Yong Howe<br>(HOD/Student Management)|foo_yong_howe@moe.edu.sg|
