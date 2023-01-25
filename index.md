@@ -33,6 +33,11 @@ sections:
       url: /President-Scouts-Award/
       image: /images/Scout President Award.jpeg
       alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/CNY Calligraphy 2023.jpeg
+      alt: Image alt text
 ---
-
-
