@@ -22,6 +22,12 @@ _(Above: 2018 Young Defence Scientist Programme (YDSP) Scholarship Awardees Tan 
 
 _(Above: Ong Chong Yu, IP/2017, who is the 2018 Prime Minister’s Book Prize winner)_
 
+
+| Department | Achievements (Oct 2021 - Nov 2022) |
+| -------- | -------- |
+| English Language     |   - Eunoia Debating Championship -Quarter finalist<br>- Asian International Schools Debating Championship- Quarter finalist<br>- SMU Novice Debating Championships- Semi finalist<br>- SJI Illuminate- Finalist<br>- Queen's Commonwealth Essay Competition- 3 Golds, 6 Silvers , 8 Bronzes|
+
+
 ([Click here if you are looking for a list of our students’ recent co-curricular achievements](https://staging.d26k7rl81eo6rb.amplifyapp.com/about/awards-and-achievements/cca-achievements/)
 
 **Some of our students’ more recent special awards and academic achievements are**:
