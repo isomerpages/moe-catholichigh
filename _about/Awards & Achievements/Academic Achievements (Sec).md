@@ -31,6 +31,12 @@ _(Above: Ong Chong Yu, IP/2017, who is the 2018 Prime Minister’s Book Prize wi
 |Mathematics|- Singapore Mathematics Project Festival 2022: Foo Kean Pew Prize Memorial<br> ![Singapore Mathematics Project Festival 2022](/images/Secondary/Achievements%20and%20Awards/Math%20Prize%20Presentation.jpeg)<br>- Singapore Mathematics Olympiad: Category 1 Schools Award-Silver, 1 Gold, 13 silver, 38 Bronze, 31 Honorable Mention<br> ![Singapore Mathematics Olympiad](/images/Secondary/Achievements%20and%20Awards/2022%20SMO%201.jpeg)<br>- ICAS (Math): 7 Top Prize Medallists, 20 High Distinctions<br>- International Mathematical Modelling Competition 2022: Merit<br> ![International Mathematical Modelling Competition 2022](/images/Secondary/Achievements%20and%20Awards/2022%20CFF%209.jpg) |
 |Science| - Asian Try Zero-G: Only representation from Singapore whose proposed experiment (Double Pendulum in space) will be performed in the International Space Station (ISS)<br> ![Asian Try Zero-G](/images/Secondary/Achievements%20and%20Awards/SCI_4_Try%20Asian%20Zero%20G.jpg)<br>- Singapore Junior Biology Olympiad: Runner-up (Overall) 4 Gold, 15 Silver, 16 Bronze, 7 Honourable Mention<br>- Drone Odyssey Challenge: Champion<br>![Drone Odyssey Challenge](/images/Secondary/Achievements%20and%20Awards/SCI_1_Drone%20Odyssey_01.jpeg)<br>- National Air Race: Air Race (Team Open Cat): Champion, Individual: Runner-up<br> ![National Air Race](/images/Secondary/Achievements%20and%20Awards/SCI_3_National-Air-Race_.jpg)<br>- Young Defence Scientist Programme (YDSP) Camp: Champion<br>- International Biomedical Quiz: 3 Gold, 1 Silver, 1 Bronze, 5 Honourable Mention<br>- Singapore Junior Chemistry Olympiad: 2 Gold, 1 Silver, 1 Merit<br>- Singapore Junior Physics Olympiad: Individual: 9 Silver, 15 Bronze, 27 Honourable Mention, Team: 3 Silver, 3 Bronze, 3 Honourable Mention<br> ![Honourable Mention, Team](/images/Secondary/Achievements%20and%20Awards/SCI_5_SJBO_01.jpg)<br> ![Honourable Mention, Team](/images/Secondary/Achievements%20and%20Awards/SCI_6_SJBO_02.jpeg)<br>- International CB Paul Science Quiz: 3 Bronze, 11 Merit<br>- National STEM Challenge: Quarter-Final<br>- Rio Tinto Big Science Competition: 44 High Distinction, 34 Distinction, 35 Credit|
 
+**Some of our students’ past academic achievements are:**
+
+| Departments | Prior to 2022 (in reverse chronological order) |
+| -------- | -------- |
+| English Language     | Text     |
+
 
 
 
