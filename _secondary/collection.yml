@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Awards & Achievements/.keep
       - Prospectus.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Overview.md
