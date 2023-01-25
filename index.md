@@ -14,6 +14,10 @@ sections:
           url: /prospective-students/prospectus-sec/overview/
       title: "Catholic High  School "
   - infopic:
+      image: /images/CNY Calligraphy 2023.jpeg
+      alt: Image alt text
+      title: 公教祝您    万事如意
+  - infopic:
       title: "Hope Hub: An Intelligent Bob to provide timely help!"
       subtitle: LATEST NEWS
       button: READ MORE HERE
@@ -34,5 +38,3 @@ sections:
       image: /images/Scout President Award.jpeg
       alt: Image alt text
 ---
-
-
