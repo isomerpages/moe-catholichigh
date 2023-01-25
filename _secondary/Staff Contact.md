@@ -16,7 +16,7 @@ description: ""
 |Mrs Chee-Tan Ee Sin (HOD/Character & Citizenship Education)|tan_ee_sin@moe.edu.sg|
 |Dr Lim Yian Hoon (HOD/Curriculum Innovation)|lim_yian_hoon@moe.edu.sg|
 |Mrs Amanda Yap (HOD/English)|amanda_lois_oei@moe.edu.sg|
-|Mr Koh Kar Leong Kenneth (HOD/Humanities)|koh_kar_loong_kenneth@moe.edu.sg|
+|Mr Koh Kar Loong Kenneth (HOD/Humanities)|koh_kar_loong_kenneth@moe.edu.sg|
 |Ms Ho Seok Lay (HOD/ Integrated Programme)|ho_seok_lay@moe.edu.sg|
 |Mrs Boh-Ng Hwee Hwee (HOD/Mathematics)|ng_hwee_hwee@moe.edu.sg|
 |Mr Goh Pai Shen (HOD/ Mother Tongue Language)|goh_pai_shen@moe.edu.sg|
