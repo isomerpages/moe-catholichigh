@@ -25,7 +25,8 @@ _(Above: Ong Chong Yu, IP/2017, who is the 2018 Prime Minister’s Book Prize wi
 
 | Department | Achievements (Oct 2021 - Nov 2022) |
 | -------- | -------- |
-| English Language     |   - Eunoia Debating Championship -Quarter finalist<br>- Asian International Schools Debating Championship- Quarter finalist<br>- SMU Novice Debating Championships- Semi finalist<br>- SJI Illuminate- Finalist<br>- Queen's Commonwealth Essay Competition- 3 Golds, 6 Silvers , 8 Bronzes<br>![English Language Achievements (Oct 2021 - Nov 2022)](/images/Secondary/Achievements%20and%20Awards/English%20Language%20Achievements.jpeg)|
+| English Language     |   - Eunoia Debating Championship -Quarter finalist<br>- Asian International Schools Debating Championship- Quarter finalist<br>- SMU Novice Debating Championships- Semi finalist<br>- SJI Illuminate- Finalist<br>- Queen's Commonwealth Essay Competition- 3 Golds, 6 Silvers , 8 Bronzes|
+![English Language Achievements (Oct 2021 - Nov 2022)](/images/Secondary/Achievements%20and%20Awards/English%20Language%20Achievements.jpeg)|
 
 
 ([Click here if you are looking for a list of our students’ recent co-curricular achievements](https://staging.d26k7rl81eo6rb.amplifyapp.com/about/awards-and-achievements/cca-achievements/)
