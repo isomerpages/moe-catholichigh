@@ -2,10 +2,10 @@ collections:
   secondary:
     output: true
     order:
-      - Awards & Achievements/CCA Achievements (Sec).md
-      - Awards & Achievements/Academic Achievements (Sec).md
-      - Awards & Achievements/Overview.md
       - Awards & Achievements/.keep
+      - Awards & Achievements/Overview.md
+      - Awards & Achievements/Academic Achievements (Sec).md
+      - Awards & Achievements/CCA Achievements (Sec).md
       - Prospectus.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Overview.md
