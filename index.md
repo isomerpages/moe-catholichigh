@@ -16,7 +16,7 @@ sections:
   - infopic:
       image: /images/CNY Calligraphy 2023.jpeg
       alt: Image alt text
-      title: 公教祝您 万事如意
+      title: 公教祝您    万事如意
   - infopic:
       title: "Hope Hub: An Intelligent Bob to provide timely help!"
       subtitle: LATEST NEWS
