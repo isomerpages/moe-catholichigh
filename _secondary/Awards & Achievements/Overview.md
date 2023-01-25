@@ -4,8 +4,6 @@ permalink: /secondary/awards-and-achievements/overview/
 description: ""
 third_nav_title: Awards & Achievements
 ---
-
-
 ### A Heritage of Excellence
 
 <img src="/images/about12.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> Our staff, alumni, parent support group and partners are the strengths that our school draws upon for our model of education, where every student is a Leader, Gentleman and Bilingual Scholar in the making. Our heritage of excellence is recognised by the Ministry of Education, which has awarded CHS with the **School Distinction Award** (SDA) and the pinnacle **School Excellence Award** (SEA) for our excellence in both education processes and student outcomes.
