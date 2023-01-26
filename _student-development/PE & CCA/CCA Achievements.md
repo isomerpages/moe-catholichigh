@@ -8,7 +8,7 @@ third_nav_title: PE & CCA
 
 Catholic High School offers a wide range of Co-curricular Activities to provide our students in IP and OP with a platform to discover their interests and talents. Through the guidance by our expert CCA Instructors and dedicated teachers-in-charge, and with the support of parents and alumni, our students have maximised their potential and achieved much in all the areas of CCA.
 
-([Click here if you are looking for a list of our students’ more recent academic achievements](https://staging.d26k7rl81eo6rb.amplifyapp.com/about/awards-and-achievements/academic-achievements/)
+([Click here if you are looking for a list of our students’ more recent academic achievements](/secondary/awards-and-achievements/academic-achievements/)
 
 The following are some of our students’ recent accomplishments:
 

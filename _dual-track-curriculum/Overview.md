@@ -13,7 +13,7 @@ Whether it is the IP or O-Level curriculum, students in both programmes will enj
 
 The IP students from CHS, CHIJ SNGS and SCGS will spend their first four years in their respective secondary schools before progressing to Eunoia JC for two years of A-Level. IP students will proceed to [Eunoia JC](/dual-track-curriculum/Integrated-Programme/about-eunoia-jc/) without taking the O-Levels, so that they can use the time to engage in broader learning experiences.
 
-Click [here](/dual-track-curriculum/Integrated-Programme/overview/) to learn more about the [Joint Integrated Programme](/joint-integrated-programme/) co-designed by the JIP schools: [**About JIP**](/dual-track-curriculum/Integrated-Programme/overview/)
+Click [here](/dual-track-curriculum/Integrated-Programme/overview/) to learn more about the [Joint Integrated Programme](/about/joint-integrated-programme/) co-designed by the JIP schools: [**About JIP**](/dual-track-curriculum/Integrated-Programme/overview/)
 
 <img src="/images/dtp2.png" style="width:60%">
 
