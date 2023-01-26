@@ -14,8 +14,11 @@ p {text-align: justify;}
 *   As a full-school, we have a wide range of facilities to support our students’ learning and growth.
 *   We have a full-size 400-metre six-lane running track, a Clock Tower with chapel, an Outdoor Adventure Learning Centre, and two sets of most facilities (e.g. 2 Multi-purpose Halls, 2 Indoor Sports Halls and even 2 canteens to support the primary and secondary sections). These facilities are shared by the sections, giving us the flexibility and space to offer a greater spread of opportunities for our students.
 *   We are constantly improving and optimising the physical environment to support teaching and learning. For instance, since 2018, we have added a digital music studio to support our Music Elective Programme, the Science, Technology and Research Space lab to support the school’s distinctive programme in Space and Flight Science, a broadcasting studio to promote a bicultural environment as well as the student-designed Bunker to advocate student voice and agency.
+
 ![](/images/about31.png)
+
 ![](/images/about32.png)
+
 ![](/images/about33.png)
 
 ##### Our Signature Clock Tower, Chapel and Beautiful School Ground
@@ -24,8 +27,11 @@ p {text-align: justify;}
 *   Our school ground is beautifully landscaped with many trees and shrubs, ponds and and sculptures to provide serene and tranquil places for students to study, rest or just socialise with friends. Many of these sculptures depict aspiring sportsmen and students, and provide inspiration and motivation for our students too.
 
 ![](/images/about34.png)
+
 ![](/images/about35.png)
+
 ![](/images/about36.png)
+
 ![](/images/about37.png)
 
 ##### Plaza 广场
@@ -35,6 +41,7 @@ p {text-align: justify;}
 *   The Plaza is also one of the venues where we hold our annual Family Day and Homecoming event.
 
 ![](/images/about38.png)
+
 ![](/images/about39.png)
 
 ##### Multi-purpose Halls 多用途礼堂
@@ -60,11 +67,14 @@ p {text-align: justify;}
 
 *   The various Confucian quotes on the curved pillars aim to further reinforce moral values and Eastern wisdom in our students. The parapet along the traditional long corridors (长廊) are designed to mirror those at our former school compound at Queen Street, serving to remind present and past students the binding history and deep heritage of our school.
 
-You can even find full-sized replicas of the Terracotta Army (兵马俑) around our school, showing the sculptures depicting the armies of Qin Shi Huang, the first Emperor of China. These give insights to our students on the imperial funerary art in China from 210–209 BCE and whose purpose was to protect the emperor in his afterlife.
+* You can even find full-sized replicas of the Terracotta Army (兵马俑) around our school, showing the sculptures depicting the armies of Qin Shi Huang, the first Emperor of China. These give insights to our students on the imperial funerary art in China from 210–209 BCE and whose purpose was to protect the emperor in his afterlife.
 
 ![](/images/about42.png)
+
 ![](/images/about43.png)
+
 ![](/images/about44.png)
+
 ![](/images/about45.png)
 
 ##### Aviation Milestones Gallery
@@ -78,8 +88,11 @@ The Aviation Milestones Gallery celebrates the progression of flight in human hi
 The Space Exploration Gallery captures important achievements or major events in humanity’s exploration of outer space. From the launching of the first artificial satellite in 1957 to the lunar landing by astronauts in 1969, the gallery provides an overview of how space exploration was launched by imagination, driven by science and powered by innovation. In this gallery, students use QR-code reader apps to find information about key events in the journey of space exploration. In 2019, we celebrated the 50th anniversary of the historic Apollo 11 lunar mission by constructing a mural mosaic of Neil Alden Armstrong, the first man to walk on Moon. This mural, together with other works of our student, are on display at the gallery.
 
 ![](/images/about47.png)
+
 ![](/images/about48.png)
+
 ![](/images/about50.png)
+
 ![](/images/about51.png)
 
 
@@ -90,6 +103,7 @@ The Space Exploration Gallery captures important achievements or major events in
 *   Another highly popular spot is the Bunker, a space designed and run by students leaders for students. This space has been home to many discussions amongst students on various school events and projects.
 
 ![](/images/about52.png)
+
 ![](/images/about53.png)
 
 ##### Bamboo Garden and Lotus Pond 竹林与莲花池
@@ -99,6 +113,7 @@ The Space Exploration Gallery captures important achievements or major events in
 *   In our Bamboo Garden on level 1, the bamboos stand unwavering in the open environment, signifying tenacity and an indomitable spirit. The uprightness of the bamboo serves as a reminder for our students to possess moral integrity and courage. These bamboos are also hollow in the middle, which sounds like “虚心” in Chinese, symbolising humility and the receptiveness to the advice and teachings of others.
 
 ![](/images/about54.png)
+
 ![](/images/about55.png)
 
 ##### Sports and CCA Facilities 操场, 球场, 跑道,学生活动中心与课外活动室
@@ -108,7 +123,9 @@ The Space Exploration Gallery captures important achievements or major events in
 *   Our school focuses on holistic education, with a strong emphasis on [Co-curricular Activities (CCAs)](/student-development/pe-and-cca/overview/). We have a wide range of CCAs for students to choose from, including Uniformed Groups, Sports, Performing Arts and a media and ICT club. Our [CCAs have also been performing well consistently](/secondary/awards-and-achievements/cca-achievements/), clinching several awards throughout the year.
 
 ![](/images/about56.png)
+
 ![](/images/about57.png)
+
 ![](/images/about58.png)
 
 ##### Science, Technology and Research Space (STARS)
@@ -117,4 +134,5 @@ The Space Exploration Gallery captures important achievements or major events in
 *   Our key partners are Civil Aviation Authority of Singapore (CAAS), National University of Singapore (NUS), Singapore University of Technology and Design (SUTD), Defence Science & Technology Agency (DSTA), Singapore Science Centre and Singapore Youth Flying Club.
 
 ![](/images/about59.png)
+
 ![](/images/about61.png)
