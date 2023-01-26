@@ -4,16 +4,15 @@ permalink: /non-academic/Physical-Education/overview/
 description: ""
 third_nav_title: Physical Education
 ---
-
 ### Developing Resilient and Rugged Leaders
 
 The Physical Education & Co-curricular Activities in CHS aims to deliver a thinking and differentiated curriculum with innovative student-centric and values-driven programmes that promote psychomotor, cognitive and affective development. The end in mind is to develop holistic health amongst students through promotion of a healthy lifestyle in Physical Education and Co-curricular Activities, and groom 21st century CHS leaders with a robust character and a passion to serve.
 
 ##### Co-curricular Activities
 
-Catholic High School offers a range of Co-curricular Activities to provide our students in OP and IP with a platform to discover their interests and talents. Through the CCAs, our students are guided to live a balanced education experience that cultivates and develops friendship, resilience, lifeskills, leadership qualities and other competencies. This helps our students to lead a balanced life in adulthood. In turn, our students have also [accomplished a great deal in national competitions](https://staging.d26k7rl81eo6rb.amplifyapp.com/about/awards-and-achievements/cca-achievements/), performances and other opportunities.
+Catholic High School offers a range of Co-curricular Activities to provide our students in OP and IP with a platform to discover their interests and talents. Through the CCAs, our students are guided to live a balanced education experience that cultivates and develops friendship, resilience, lifeskills, leadership qualities and other competencies. This helps our students to lead a balanced life in adulthood. In turn, our students have also [accomplished a great deal in national competitions](/secondary/awards-and-achievements/cca-achievements/), performances and other opportunities.
 
-<img src="/images/pe1.png" style="width:233px;height:340px;margin-left:15px;" align = "right"> **[Click here to view some of the recent CCA achievements.](https://staging.d26k7rl81eo6rb.amplifyapp.com/about/awards-and-achievements/cca-achievements/)**
+<img src="/images/pe1.png" style="width:233px;height:340px;margin-left:15px;" align = "right"> **[Click here to view some of the recent CCA achievements.](/secondary/awards-and-achievements/cca-achievements/)**
 
 **(1) Visual & Performing Arts (VPA)** instil in students a sense of graciousness and an appreciation for the rich culture and heritage of our multi-racial society. We offer 6 Visual and Performing Arts CCAs, and all have achieved credible results at the Singapore Youth Festival Arts Presentations and are recognised for their excellence. For example, in 2015, our Symphony Band was invited by the esteemed Boston Brass to perform with them at the Yong Siew Toh Conservatory.
 
