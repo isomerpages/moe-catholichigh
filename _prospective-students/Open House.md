@@ -16,6 +16,6 @@ iframe {display: block;margin: auto;}
 
 |  	|  	|  	|
 |---	|---	|---	|
-| [![](/images/oh2.png)](/chs-experience/)| [![](/images/oh3.png)](/about/Our-CHS-Campus/)|  [![](/images/oh4.png)](/secondary/prospectus/")|
-|[![](/images/oh5.png)](/chs-academic-info/")| [![](/images/oh6.png)](/secondary/awards-and-achievements/academic-achievements/")| [![](/images/oh7.png)](/prospective-students/Sec-Admission/direct-school-admission/")|
-|  [![](/images/oh8.png)](/secondary/faqs/")| [![](/images/oh9.png)](https://docs.google.com/forms/d/e/1FAIpQLSdtu0FBj1HIladlto5vrvwzDMOkiWQRUcz_v809-KViaEXRyg/viewform)| [![](/images/oh10.png)](/open-house-registration/)|
+| [![](/images/oh2.png)](/chs-experience/)| [![](/images/oh3.png)](/about/Our-CHS-Campus/)|  [![](/images/oh4.png)](/secondary/prospectus/)|
+|[![](/images/oh5.png)](/chs-academic-info/)| [![](/images/oh6.png)](/secondary/awards-and-achievements/academic-achievements/)| [![](/images/oh7.png)](/prospective-students/Sec-Admission/direct-school-admission/)|
+|  [![](/images/oh8.png)](/secondary/faqs/)| [![](/images/oh9.png)](https://docs.google.com/forms/d/e/1FAIpQLSdtu0FBj1HIladlto5vrvwzDMOkiWQRUcz_v809-KViaEXRyg/viewform)| [![](/images/oh10.png)](/open-house-registration/)|
