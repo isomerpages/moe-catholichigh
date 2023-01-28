@@ -32,7 +32,7 @@ Through these workshops, our students will learn about values of filial piety an
 
 <img src="/images/sd8.png" style="width:40%">
 
-There are also several [**pinnacle programmes and platforms**](https://catholichigh.moe.edu.sg/student-leadership-development/), such as the **Student Leadership Boards** and **CCA leadership**, for developing our students who display aptitudes, attitudes, and passion to serve others for the better good of the class, school, community and society.
+There are also several [**pinnacle programmes and platforms**](/student-development/student-leadership-development/), such as the **Student Leadership Boards** and **CCA leadership**, for developing our students who display aptitudes, attitudes, and passion to serve others for the better good of the class, school, community and society.
 
 <img src="/images/sd9.png" style="width:40%">
 
