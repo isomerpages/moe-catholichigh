@@ -33,15 +33,24 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 **At** **CATHOLIC HIGH SCHOOL****, the following lessons from the Sexuality Education Programme will be taught in <u>2023</u>:**
 
+![](/images/SeD%20Tables%20Level%201%20to%204_Page_01.png)
+![](/images/SeD%20Tables%20Level%201%20to%204_Page_02.png)
+![](/images/SeD%20Tables%20Level%201%20to%204_Page_03.png)
+![](/images/SeD%20Tables%20Level%201%20to%204_Page_04.png)
+![](/images/SeD%20Tables%20Level%201%20to%204_Page_05.png)
+![](/images/SeD%20Tables%20Level%201%20to%204_Page_06.png)
+![](/images/SeD%20Tables%20Level%201%20to%204_Page_07.png)
+![](/images/SeD%20Tables%20Level%201%20to%204_Page_08.png)
+
+**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 **
+<br>**Level 1**
 
 
-**Secondary 1**
-
-| UNIT 	| LESSONS / DURATION 	| Lesson Objectives<br> <br>At the end of the lesson, students will be able to: 	| TIME PERIOD<br> <br>(e.g. Term 1 Week 2) 	|
-|---	|---	|---	|---	|
-| Respectful Relationship & Safety 	| 1 (60 mins) 	| Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals 	| Term 3 Week 6 	|
-| Respectful Relationship & Safety 	| 2 (60 mins) 	| Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept 	| Term 3 Week 8 	|
-| Respectful Relationship & Safety 	| 3 (60 mins) 	| Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.) 	| Term 3 Week 8 	|
+| UNIT 	| Lesson Title / Duration| Lesson Overview 	| Lesson Objectives<br> <br>At the end of the lesson, students will be able to:	| TIME PERIOD<br> <br>(e.g. Term 1 Week 2) 	|
+|---	|---	|---	|---	|---
+| Respectful Relationship & Safety 	| Steady or Not Lesson 1 (60 mins)|This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.	| •	recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles <br>•	recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>•	recognise the importance and understand what builds healthy and supportive relationships, both online and offline <br>•	understand what dating is, and recognise that the readiness and interest in dating vary among individuals 	| Term 3 Week 6 	|
+| Respectful Relationship & Safety 	| Being Aware, Being Safe Lesson 2 (60 mins)|  This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.| •	understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept 	| Term 3 Week 6 	|
+| Respectful Relationship & Safety 	| More than Meets the EyeLesson 3 (60 mins) |This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. 	| •	understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences <br>•	recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)	| Term 3 Week 8 	|
 
 **Secondary 2**
 
