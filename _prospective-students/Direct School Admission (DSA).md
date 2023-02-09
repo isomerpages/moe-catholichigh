@@ -2,8 +2,8 @@
 title: Direct School Admission (DSA)
 permalink: /prospective-students/Sec-Admission/direct-school-admission/
 description: ""
-third_nav_title: Sec Admission
 ---
+
 ### 2022 Direct School Admission – Secondary (DSA-Sec) Exercise
 
 All students interested in applying for a place to Catholic High School via DSA-Sec will need to do so via a centralized DSA-Sec Portal managed by the Ministry of Education (MOE). More information, including application timeline, authentication, number of choices allowed is available via [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
