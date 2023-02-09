@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/chsbanner.png
       key_highlights:
-        - title: Prospective Students
+        - title: Prospective Students (iNCLUDING dsa)
           description: ""
           url: /prospective-students/prospectus-sec/overview/
       title: "Catholic High  School "
