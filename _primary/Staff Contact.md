@@ -123,7 +123,7 @@ description: ""
 |5 Charity|Mdm|Lim Mi-Mei|lim_mi-mei@moe.edu.sg|
 |5 Charity|Mr|Lim Song Woon|lim_song_woon@moe.edu.sg|
 |5 Joy|Mr|Cheh Yek Liang|cheh_yek_liang@moe.edu.sg|
-|5 Joy|Ms|Kavitha d/o Shanmugananthan|kavitha_shanmugananthan@moe.edu.sg|
+|5 Joy|Miss|Lock Jing Wen|lock_jing_wen@moe.edu.sg|
 |5 Peace|Mdm|Ng Li Lin Sarah|ng_li_lin_sarah@moe.edu.sg|
 |5 Peace|Mr|Vo Van Hung|vo_van_hung@moe.edu.sg|
 |5 Patience|Mdm|Woo Jak May Carol|woo_jak_may_carol@moe.edu.sg|
@@ -162,8 +162,8 @@ description: ""
 |Mdm|Chen Jiewan|chen_jiewan@moe.edu.sg|
 |Mdm|Ho Si Yan Gereldinne (SEN Officer)|ho_si_yan_gereldinne@moe.edu.sg|
 |Ms|Julie See|julie_see@moe.edu.sg|
+|Ms|Kavitha d/o Shanmugananthan|kavitha_shanmugananthan@moe.edu.sg|
 |Mdm|Khong Kay Lim|khong_kay_lim@moe.edu.sg|
-|Miss|Lock Jing Wen|lock_jing_wen@moe.edu.sg|
 |Mdm|Ng Sui San (SEN Officer)|ng_sui_san@moe.edu.sg|
 |Mdm|Ng Lian Huay|ng_lian_huay@moe.edu.sg|
 |Mdm|Nuraini Bte Ab Jabar (AED T & L)|nuraini_a@moe.edu.sg|
