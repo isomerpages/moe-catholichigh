@@ -3,8 +3,6 @@ title: Staff Contact
 permalink: /primary/staff-contact/
 description: ""
 ---
-
-
 ### Catholic High School(Primary)
 
 |  	|  	|
@@ -77,7 +75,7 @@ description: ""
 |2 Joy|Mrs|Karen Ashley Lee-Lim|karen_ashley_lee@moe.edu.sg|
 |2 Joy|Miss|Chew Boey Tin|chew_boey_tin@moe.edu.sg|
 |2 Peace|Mdm|Looi Seow Kwan Janet|looi_seow_kwan_janet@moe.edu.sg|
-|2 Peace|Mdm|Yee Hsueh Chyi|yee_hsueh_chyi@moe.edu.sg|
+|2 Peace|Mr|Lim Weisheng Marcus|lim_weisheng_marcus@moe.edu.sg|
 |2 Patience|Miss|Wu Wenwen Michelle|michelle_wu_wenwen@moe.edu.sg|
 |2 Patience|Mr|Teh Alvin|teh_alvin@moe.edu.sg|
 |2 Kindness|Mdm|Roziana Bte Abdullah|roziana_abdullah@moe.edu.sg|
@@ -87,11 +85,11 @@ description: ""
 |2 Faithfulness|Mdm|Chelsia Loh Qiuxia|chelsia_loh@moe.edu.sg|
 |2 Faithfulness|Mdm|Sim Jieh Hwee|sim_jieh_hwee@moe.edu.sg|
 |2 Gentleness|Mdm|Huang Jiamin|huang_jiamin@moe.edu.sg|
-|2 Gentleness|Ms|Sheryl Eng|sheryl_eng@moe.edu.sg|
+|2 Gentleness|Mr|Leong Jun Wei|leong_jun_wei@moe.edu.sg|
 |3 Charity|Mrs|Audrey Tong|audrey_tong@moe.edu.sg|
 |3 Charity|Ms|Lee Yen Ling|lee_yen_ling_a@moe.edu.sg|
 |3 Joy|Mr|Ng Dillon|ng_dillon@moe.edu.sg|
-|3 Joy|Mrs|Xaverie Chong|xaverie_lim_ting_ting@moe.edu.sg|
+|3 Joy|Mdm|Samantha Tan Shu Yuan|samantha_tan_shu_yuan@moe.edu.sg|
 |3 Peace|Miss|Tang Hui Jing|tang_hui_jing@moe.edu.sg|
 |3 Peace|Mr|Tan Chin Gang Dennis|denis_tan_chin_gang@moe.edu.sg|
 |3 Patience|Mdm|Nani Iryanni Binte Tajuddin|nani_iryanni_tajuddin@moe.edu.sg|
@@ -140,7 +138,7 @@ description: ""
 |5 Gentleness|Miss|Lim Wen Fernn|lim_wen_fernn@moe.edu.sg|
 |6 Charity|Mrs|Amutha Samuel|dawson_f_amutha@moe.edu.sg|
 |6 Charity|Mdm|Tham Lai Kuen|tham_lai_kuen@moe.edu.sg|
-|6 Joy|Mdm|Tan Jia Hui|tan_jia_hui@moe.edu.sg|
+|6 Joy|Ms|Wong Wan Hui|wong_wan_hui@moe.edu.sg|
 |6 Joy|Mr|Tan Shuen Keat|tan_shuen_keat@moe.edu.sg|
 |6 Peace|Miss|Seah Hui Ling|seah_hui_ling@moe.edu.sg|
 |6 Peace|Mr|Wang Zhigang|wang_zhigang@moe.edu.sg|
@@ -163,14 +161,17 @@ description: ""
 |Mr|Chan Soon Huat John|chan_soon_huat_john@moe.edu.sg|
 |Mdm|Chen Jiewan|chen_jiewan@moe.edu.sg|
 |Mdm|Ho Si Yan Gereldinne (SEN Officer)|ho_si_yan_gereldinne@moe.edu.sg|
+|Ms|Julie See|julie_see@moe.edu.sg|
+|Mdm|Khong Kay Lim|khong_kay_lim@moe.edu.sg|
+|Miss|Lock Jing Wen|lock_jing_wen@moe.edu.sg|
 |Mdm|Ng Sui San (SEN Officer)|ng_sui_san@moe.edu.sg|
+|Mdm|Ng Lian Huay|ng_lian_huay@moe.edu.sg|
 |Mdm|Nuraini Bte Ab Jabar (AED T & L)|nuraini_a@moe.edu.sg|
 |Miss|Nur Izdihar Bte Mohd Aron (SEN Officer)|nur_izdihar_mohamed_aron@moe.edu.sg|
 |Mrs|Rebekah Sim|rebekah_sim@moe.edu.sg|
+|Mdm|Samantha Tan Shu Yuan|samantha_tan_shu_yuan@moe.edu.sg|
+|Miss|Shahana Mol|shahana_mol@moe.edu.sg|
 |Miss|Teo Shu Lin Jacinta|teo_shu_lin_jacinta@moe.edu.sg|
 |Mr|Theng Siming (Senior School Counsellor)|theng_siming@moe.edu.sg|
 |Mdm|Teng Meow Kheng|teng_meow_kheng@moe.edu.sg|
-|Ms|Julie See|julie_see@moe.edu.sg|
-|Mdm|Khong Kay Lim|khong_kay_lim@moe.edu.sg|
-|Miss|Shahana Mol|shahana_mol@moe.edu.sg|
-|Mdm|Samantha Tan Shu Yuan|samantha_tan_shu_yuan@moe.edu.sg|
+|Mrs|Xavarie Chong|xaverie_lim_ting_ting@moe.edu.sg|
