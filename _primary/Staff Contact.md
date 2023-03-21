@@ -169,7 +169,6 @@ description: ""
 |Mdm|Nuraini Bte Ab Jabar (AED T & L)|nuraini_a@moe.edu.sg|
 |Miss|Nur Izdihar Bte Mohd Aron (SEN Officer)|nur_izdihar_mohamed_aron@moe.edu.sg|
 |Mrs|Rebekah Sim|rebekah_sim@moe.edu.sg|
-|Mdm|Samantha Tan Shu Yuan|samantha_tan_shu_yuan@moe.edu.sg|
 |Miss|Shahana Mol|shahana_mol@moe.edu.sg|
 |Miss|Teo Shu Lin Jacinta|teo_shu_lin_jacinta@moe.edu.sg|
 |Mr|Theng Siming (Senior School Counsellor)|theng_siming@moe.edu.sg|
