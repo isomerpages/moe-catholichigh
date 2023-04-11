@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - The JIP Approach and the JIP Graduate.md
       - Overview.md
       - Principal's Foreword.md
       - About CHS/History & Philosophy.md
