@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - World Readiness Programme.md
       - The JIP Curriculum.md
       - The JIP Approach and the JIP Graduate.md
       - Overview.md
