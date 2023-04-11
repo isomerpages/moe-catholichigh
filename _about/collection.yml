@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Joint Integrated Programme/World Readiness Programme.md
       - Joint Integrated Programme/The JIP Curriculum.md
       - Joint Integrated Programme/The JIP Approach and the JIP Graduate.md
       - Joint Integrated Programme/Overview.md
