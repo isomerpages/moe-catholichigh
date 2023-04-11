@@ -9,4 +9,6 @@ description: ""
 
 <font style="color:#1e395f">Passion Pursuit</font> is implemented through Platforms for Exploration and Platforms for Pursuit, and is further enriched by the strong partnership among the JIP schools and our networks of alumni and community partners.
 
+![]()
 
+Students get to explore a broad spectrum of interest areas under the <font style="color:#b6841b">Diverge</font> phase, and discover their passion through the <font style="color:#1a582e">Converge</font> phase. They eventually actualise their areas of passion as part of purposeful living in the <font style="color:#c31b22">Emerge</font> phase, driven by a zest for life and the aspiration to impact the community in positive and meaningful ways.
