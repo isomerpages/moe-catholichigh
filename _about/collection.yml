@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Overview.md
       - Principal's Foreword.md
       - About CHS/History & Philosophy.md
       - About CHS/Tradition of Excellence.md
