@@ -2,6 +2,7 @@ collections:
   dual-track-curriculum:
     output: true
     order:
+      - test link to another page.md
       - Overview.md
       - Comparing IP & OP.md
       - Subjects Offered (IP & OP)/.keep
