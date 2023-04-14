@@ -12,4 +12,4 @@ third_nav_title: Joint Integrated Programme
 
 ![](/images/passion%20pursuit.png)
 
-Students get to explore a broad spectrum of interest areas under the <font style="color:#b6841b">Diverge</font> phase, and discover their passion through the <font style="color:#1a582e">Converge</font> phase. They eventually actualise their areas of passion as part of purposeful living in the <font style="color:#c31b22">Emerge</font> phase, driven by a zest for life and the aspiration to impact the community in positive and meaningful ways.
+Our JIP schools work closely with our strong network of alumni, collaborating organisations and community partners to provide research and mentorship opportunities for our students.&nbsp; Our broad base of partners include Agency for Science, Technology and Research, Changi General Hospital, National Heritage Board, Science Centre Singapore, Defence Science and Technology Agency, the Dolphin Discovery Centre in Australia and more.
