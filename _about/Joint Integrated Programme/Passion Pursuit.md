@@ -8,7 +8,7 @@ third_nav_title: Joint Integrated Programme
 
 Passion Pursuit provides avenues for intellectual discovery, leadership excellence and extra-curricular exploration essential to lifelong learning, through an enriching journey of Diverge, Converge and Emerge. Students get to explore a broad spectrum of interest areas under the Diverge phase, understand what passion really means through the Converge phase and eventually actualise it as part of purposeful living in the Emerge phase. Our flagship programme will inspire our students to not simply discover their passions, but aspire to use that to positively impact others for the betterment of society.
 
-Passion Pursuits implemented through Platforms for Exploration and Platforms for Pursuit, and is further enriched by the strong partnership among the JIP schools and our networks of alumni and community partners.
+Passion Pursuit implemented through Platforms for Exploration and Platforms for Pursuit, and is further enriched by the strong partnership among the JIP schools and our networks of alumni and community partners.
 
 ![](/images/passion%20pursuit.png)
 
