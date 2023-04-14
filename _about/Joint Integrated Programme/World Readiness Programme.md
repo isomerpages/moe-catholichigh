@@ -4,9 +4,12 @@ permalink: /about/joint-integrated-programme/world-readiness-programme/
 description: ""
 third_nav_title: Joint Integrated Programme
 ---
+# World Readiness Programme
+
+
 *Beyond the Core Academic Programme, our unique <font style="color:green">World Readiness Programme (WRP) </font> aims to develop our students’ ability to impact lives in positive, ethical and meaningful ways. The WRP prepares our students for the world by elevating them beyond the classroom and equipping them to understand Singapore’s role in the international arena. This programme will also give them exposure to both Eastern and Western perspectives of geopolitical, social, cultural, economic and technological issues and megatrends to give our students the edge as they step up onto the global stage.*
 
-# Curriculum 
+## Curriculum 
 
 
 From Years 1 to 4, modules offered under Philosophy of Knowledge and Emerging Asia ride on the existing strengths of our schools in nurturing bilingual and bicultural students. They also develop our JIP students to be well-versed in eastern and western perspectives on knowledge, reason and values. In turn, the Current Affairs modules are designed to promote an understanding of global issues and megatrends.
