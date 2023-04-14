@@ -19,4 +19,3 @@ The JIP graduate is a Principled Leader of Tomorrow who possesses strength of ch
 
 
 
-**
