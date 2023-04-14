@@ -20,7 +20,7 @@ The JIP is not merely a programme but a community anchored by a strong culture o
 The JIP approach for developing and nurturing Principled Leaders of Tomorrow consists of the three key pillars of **(1) character development, (2) cognitive development and (3) leadership development**. The outer portion of the diagram shows the knowledge, skills and attitudes that are embodied by our graduates. 
 This approach is helmed by our team of dedicated and highly qualified professionals who ensure that students learn in a vibrant environment with state-of-the-art facilities. Unique to the JIP, our flagship World Readiness Programme and Passion Pursuit challenges students to examine world issues, consider multiple perspectives, seek opportunities beyond problems and embrace possibilities beyond risks. By providing a variety of learning experiences, including exciting collaborations with the larger community, students are empowered to find and hone diverse talents alongside like-minded peers. Voices are nurtured, self-confidence raised and curiosity piqued such that students are empowered to discover their passion for life and inspired them to make learning a lifelong endeavour.
 
-)![](/images/the%20jip%20approach-2023.png)
+![](/images/the%20jip%20approach-2023.png)
 
 ### The JIP Graduate
 The JIP graduate is a Principled Leader of Tomorrow who possesses strength of character, a heart for service, with the wisdom and courage to chart tomorrow as leaders of their generation. They are discerning individuals who challenge themselves to think critically and make sound moral and ethical judgements. As persons of integrity with a passion for life, they also demonstrate high levels of distinction in their acquisition and mastery of 21st Century Competencies and dedicate their talents to impact lives in positive and ethical ways.
@@ -30,6 +30,6 @@ The JIP graduate is a Principled Leader of Tomorrow who possesses strength of ch
 
 ### The JIP Curriculum
 In the JIP, students immerse themselves in an enriching, extensive and authentic six-year learning experience that effectively equips them to explore and further develop their personal strengths, passions and talents.
-JIP students from Catholic High School (CHS), CHIJ St Nicholas Girls’ School (SNGS) and Singapore Chinese Girls’ School (SCGS) will spend their first four years in their respective secondary schools before progressing to EJC and can look forward to the following Ministry of Education (MOE) special programmes that are tailor-made to cater to their learning passions and aspirations.  From Year 3, JIP students can offer the Bicultural Studies Programme, which is also offered in EJC.
+JIP students from Catholic High School (CHS), CHIJ St Nicholas Girls’ School (SNGS) and Singapore Chinese Girls’ School (SCGS) will spend their first four years in their respective secondary schools before progressing to [EJC](http://eunoiajc.moe.edu.sg/) and can look forward to the following Ministry of Education (MOE) special programmes that are tailor-made to cater to their learning passions and aspirations.  From Year 3, JIP students can offer the Bicultural Studies Programme, which is also offered in EJC.
 
-Click&nbsp;[here]([](https://drive.google.com/file/d/1wnjt30AeCY4L-VZwnaF6yYQEALu_3rWY/view?usp=sharing))&nbsp;to download a copy of the Joint Integrated Programme Prospectus
+Click [here]([](https://drive.google.com/file/d/1wnjt30AeCY4L-VZwnaF6yYQEALu_3rWY/view?usp=sharing))&nbsp;to download a copy of the Joint Integrated Programme Prospectus
