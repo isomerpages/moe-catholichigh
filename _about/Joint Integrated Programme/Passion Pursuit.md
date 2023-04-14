@@ -12,4 +12,6 @@ third_nav_title: Joint Integrated Programme
 
 ![](/images/passion%20pursuit.png)
 
+
+
 Our JIP schools work closely with our strong network of alumni, collaborating organisations and community partners to provide research and mentorship opportunities for our students.&nbsp; Our broad base of partners include Agency for Science, Technology and Research, Changi General Hospital, National Heritage Board, Science Centre Singapore, Defence Science and Technology Agency, the Dolphin Discovery Centre in Australia and more.
