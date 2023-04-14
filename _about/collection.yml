@@ -3,13 +3,16 @@ collections:
     output: true
     order:
       - Principal's Foreword.md
+      - About CHS/.keep
       - About CHS/History & Philosophy.md
       - About CHS/Tradition of Excellence.md
       - About CHS/Values & Purpose.md
       - About CHS/Our Crest, Our Flag.md
       - About CHS/School Song.md
-      - About CHS/.keep
       - Student Outcomes.md
-      - Joint Integrated Programme.md
+      - Joint Integrated Programme/.keep
+      - Joint Integrated Programme/Overview.md
+      - Joint Integrated Programme/World Readiness Programme.md
+      - Joint Integrated Programme/Passion Pursuit.md
       - Partnerships.md
       - Our CHS Campus.md
