@@ -16,7 +16,7 @@ For more information on DSA-Sec, please refer to the MOE website at **[https://w
 
 For inquiries regarding CHS DSA-Sec, please contact us at:
 
-1.  Email Address: [chs@moe.edu.sg](mailto:chs@moe.edu.sg)
+1.  Email Address: [chs@moe.edu.sg](chs@moe.edu.sg)
     
 2.  Telephone: 6458 2177
     
