@@ -7,7 +7,7 @@ description: ""
 
 All students interested in applying for a place to Catholic High School via DSA-Sec will need to do so via a centralized DSA-Sec Portal managed by the Ministry of Education (MOE). The selection criteria and process for the talent areas will be updated from early-May. 
 
-For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec].
+For more information on DSA-Sec, please refer to the MOE website at **[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).**
 
 **Programmes and Opportunities for DSA Talent Areas**
 
