@@ -16,7 +16,7 @@ sections:
   - infobar:
       title: 2023 Direct School Admission – Secondary (DSA-Sec) Exercise
       subtitle: Latest News
-      description: Want to join CHS(Secondary) vis DSA?
+      description: Want to join CHS(Secondary) via DSA?
       button: Click Here to find out more!
       url: /prospective-students/Sec-Admission/direct-school-admission/
   - infopic:
