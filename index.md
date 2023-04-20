@@ -13,6 +13,12 @@ sections:
           description: ""
           url: /prospective-students/prospectus-sec/overview/
       title: "Catholic High  School "
+  - infobar:
+      title: 2023 Direct School Admission – Secondary (DSA-Sec) Exercise
+      subtitle: Latest News
+      description: Want to join CHS(Secondary) vis DSA?
+      button: Click Here to find out more!
+      url: /prospective-students/Sec-Admission/direct-school-admission/
   - infopic:
       title: "Hope Hub: An Intelligent Bot to provide timely help!"
       subtitle: LATEST NEWS
@@ -27,10 +33,4 @@ sections:
       url: /President-Scouts-Award/
       image: /images/Scout President Award.jpeg
       alt: Image alt text
-  - infobar:
-      title: 2023 Direct School Admission – Secondary (DSA-Sec) Exercise
-      subtitle: Latest News
-      description: Want to join CHS(Secondary) vis DSA?
-      button: Click Here to find out more!
-      url: /prospective-students/Sec-Admission/direct-school-admission/
 ---
