@@ -27,4 +27,10 @@ sections:
       url: /President-Scouts-Award/
       image: /images/Scout President Award.jpeg
       alt: Image alt text
+  - infobar:
+      title: 2023 Direct School Admission – Secondary (DSA-Sec) Exercise
+      subtitle: Latest News
+      description: Want to join CHS(Secondary) vis DSA?
+      button: Click Here to find out more!
+      url: http://catholichigh.moe.edu.sg/dsa
 ---
