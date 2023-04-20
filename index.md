@@ -32,5 +32,5 @@ sections:
       subtitle: Latest News
       description: Want to join CHS(Secondary) vis DSA?
       button: Click Here to find out more!
-      url: http://catholichigh.moe.edu.sg/dsa
+      url: /prospective-students/Sec-Admission/direct-school-admission/
 ---
