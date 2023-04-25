@@ -20,6 +20,14 @@ sections:
       button: Click Here to find out more!
       url: /prospective-students/Sec-Admission/direct-school-admission/
   - infopic:
+      title: Open House 2023
+      subtitle: INVIGORATE@CATHOLIC HIGH SCH
+      description: 13 May 2023 (Sat) 9am - 12pm
+      button: Read more here
+      url: /prospective-students/open-house/
+      image: /images/open house ppt (9to16)_final.jpg
+      alt: Image alt text
+  - infopic:
       title: "Hope Hub: An Intelligent Bot to provide timely help!"
       subtitle: LATEST NEWS
       button: READ MORE HERE

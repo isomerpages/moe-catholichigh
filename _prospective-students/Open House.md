@@ -3,14 +3,10 @@ title: Open House
 permalink: /prospective-students/open-house/
 description: ""
 ---
-![](/images/oh1.png)
-<style>
-p {text-align: justify;}
-.imgSize {height:100px;width:100px;}
-iframe {display: block;margin: auto;}
-</style>
+![](/images/open%20house%20ppt%20(9to16)_final.jpg)
 
-<iframe width="477" height="357" src="https://www.youtube.com/embed/Ut_HqYotRCA" title="2022 Hullo Open House Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### All are welcome! No registration required.
+
 
 #### Directory
 
