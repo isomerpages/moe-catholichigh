@@ -3,13 +3,10 @@ title: Open House
 permalink: /prospective-students/open-house/
 description: ""
 ---
-![](/images/oh1.png)
-<style>
-p {text-align: justify;}
-.imgSize {height:100px;width:100px;}
-iframe {display: block;margin: auto;}
-</style>
-![]()
+![](/images/open%20house%20ppt%20(9to16)_final.jpg)
+
+### All are welcome! No registration required.
+
 
 #### Directory
 
