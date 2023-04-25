@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: Open House 2023
       subtitle: INVIGORATE@CATHOLIC HIGH SCH
-      description: 13 May 2023 9am - 12pm
+      description: 13 May 2023 (Sat) 9am - 12pm
       button: Read more here
       url: /prospective-students/open-house/
       image: /images/open house ppt (9to16)_final.jpg
