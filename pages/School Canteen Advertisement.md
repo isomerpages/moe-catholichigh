@@ -22,5 +22,3 @@ description: School Canteen Advertisement
       </tr>
     </tbody>
     </table>
-    
-		
