@@ -11,18 +11,9 @@ All students interested in applying for a place to Catholic High School via DSA-
 
 Application is free-of-charge and the period of application is as listed below:
 
-   <table>
-  <tbody><tr>
-    <td>Start of Application</td>
-    <td>1100hrs, Thursday, 4 May 2023</td>
-  </tr>
-</tbody><tbody>
-  <tr>
-    <td>End of Application</td>
-    <td>1500hrs, Wednesday, 31 May 2023</td>
-  </tr>
-</tbody>
-</table>
+Start of Application:  1100hrs, Thursday, 4 May 2023
+
+End of Application: 1500hrs, Wednesday, 31 May 2023
 
 
 
