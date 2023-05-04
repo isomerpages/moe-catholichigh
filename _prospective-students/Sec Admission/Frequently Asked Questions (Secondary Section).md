@@ -25,7 +25,7 @@ _(A1) What are the **school fees**?_
 
 *   As CHS is a government-aided school, regardless of the track admitted to, a Singaporean citizen pays $28 per month, including miscellaneous and other fees.
 *   Permanent Residents, International Students (ASEAN) and other International Students pay $523, $923 and $1773 per month respectively, including the miscellaneous fees.
-*   For most updated information on school fees, please refer to MOE website: [https://www.moe.gov.sg/financial-matters](https://www.moe.gov.sg/financial-matters)
+*   For most updated information on school fees, please refer to MOE website:&nbsp;[https://www.moe.gov.sg/financial-matters](https://www.moe.gov.sg/financial-matters)
 
 _(A2) What is the **start-time for regular school days**?_
 
@@ -41,9 +41,9 @@ _(A4) Do I / does my son need to attend **religious programmes?**_
 *   As a government-aided SAP and also mission school (under the auspices of the Roman Catholic Archdiocese of Singapore), our school emphasises universal values such as love, compassion, integrity and humility in our curriculum and programmes.
 *   There are **[spirituality development programmes for Catholic students](/Spirituality-Education-and-Catholic-Programme/)**. These include Religious and Moral Education sessions, Young Christian Student Movement sessions, fortnightly masses, holy days of obligation masses, penitential services, Easter celebration, retreat, etc.
 *   **Non-Catholic students are not required but are welcome to attend these Catholic programmes.**
-*   Parents are welcome to attend the masses and join the CHS Prayer Parents and Catholic Parents Support Group.
+*   Parents are welcome to attend the masses&nbsp;and join the CHS Prayer Parents and Catholic Parents Support Group.
 
-_(A5) What are the **_Achievement Level Cut-Off Point (AL COP)_** for your O-Level and IP tracks?_
+_(A5) What are the **_Achievement Level Cut-Off Point (AL COP)_**&nbsp;for your O-Level and IP tracks?_
 
 *   For 2022 Level 1 cohort, the AL COP for O-Level track is 9 with Merit for HCL (9M) ; the COP for the IP track is 8 with Merit for HCL (8M).
 
@@ -59,10 +59,10 @@ _(A7) Are students in **OP and IP given the same opportunities**, e.g. for talen
 
 *   Our school-based programmes, e.g. [Passion Pursuit (Elective)](/secondary/Distinctive-Programmes/passion-pursuit/elective/), are generally offered to both IP and OP students. There is no segregation or exclusion for CCAs, character development and leadership development programmes. Some components of our IP curriculum are offered in the OP as well, e.g. World Readiness Reading Programme.
 *   Our [talent development programmes](/secondary/Talent-Development/overview/) (e.g. [CΩERGY](/secondary/Talent-Development/cnergy-programme/)) and [Music Elective Programme](/secondary/Talent-Development/music-elective-programme/) are offered to both IP and OP students who meet the criteria. For example, Maths and Science Olympiads are open to both IP and OP students: criteria is based on students' aptitude and interest for the talent area. Students in our talent development programmes will be involved in the relevant Olympiad.
-*   IP students are offered additional programmes such as the [Passion Pursuit (Independent)](/secondary/Distinctive-Programmes/passion-pursuit/independent/), [World Readiness Programme](/secondary/Distinctive-Programmes/world-readiness-programme/) (WRP) and [Bicultural Studies Programme](/secondary/Talent-Development/bicultural-studies-programme/) (BSP) because of the differences in the objectives and curriculum design of OP and IP. With overall less allocated curriculum time due to the GCE O-Level examinations, OP students do not offer these programmes.
+*   IP students are offered additional programmes such as the [Passion Pursuit (Independent)](/secondary/Distinctive-Programmes/passion-pursuit/independent/), [World Readiness Programme](/secondary/Distinctive-Programmes/world-readiness-programme/)&nbsp;(WRP) and [Bicultural Studies Programme](/secondary/Talent-Development/bicultural-studies-programme/)&nbsp;(BSP) because of the differences in the objectives and curriculum design of OP and IP. With overall less allocated curriculum time due to the GCE O-Level examinations, OP students do not offer these programmes.
 *   You can learn more about the similarities and differences of our IP and OP at: [Overview of the dual track](/dual-track-curriculum/comparing-ip-and-op/)
 
-_(A8) Can a student **transfer from the O-Level to the IP track**?_ 
+_(A8) Can a student **transfer from the O-Level to the IP track**?_&nbsp;
 
 *   Secondary 2 students in our O-Level track may apply to the IP at the end of Sec 2 and join IP Year 3 if he meets the school-based criteria.
 *   Students who transfer track will retain their CCA.
@@ -85,10 +85,10 @@ _(A11) Can I **offer/don’t offer Higher Chinese** (HCL)?_
 
 _(A12) What are the **available CCAs**? Can my son **join more than one CCA**?_
 
-*   Every CHS student is expected to participate in a CCA from the four CCA groups, namely, Physical Sports, Uniformed Groups, Performing Arts and Clubs & Societies.
+*   Every CHS student is expected to participate in&nbsp;a CCA from the four CCA groups, namely, Physical Sports, Uniformed Groups, Performing Arts and Clubs &amp; Societies.
 *   Students are encouraged to focus on joining one CCA for a balanced and holistic development portfolio.
 *   CHS offers the following CCAs for 2023 Level 1 students (of which **all are core CCAs**, i.e. students' main CCA):
-    *   **_Physical Sports_**: Basketball, Floorball, Softball, Table Tennis, Track & Field (Including Cross-Country), Volleyball and Wushu
+    *   **_Physical Sports_**: Basketball, Floorball, Softball, Table Tennis, Track &amp; Field (Including Cross-Country), Volleyball and Wushu
     *   **_Uniformed Groups_**: National Cadet Corp (Air), National Cadet Corp (Land), National Police Cadet Corp, Scouts and St John Brigade
     *   **_Performing Arts_**: Modern Dance , Chinese Drama , English Drama, Edward Becheras Choir, Chinese Orchestra and Symphony Band
     *   **_Club/Society_**: i-Media, Occulus, Nucleii (I.O.N.) (Audio/Visual, Photography/ Videography, Computational Thinking)
@@ -115,8 +115,8 @@ _(A16) Can my son bring his **mobile phone** to school?_
 
 _(A17) Does my son need to buy a laptop/mobile devices as part of school programme when he joins CHS?_
 
-*   From 2022, all our Levels 1 to 4 students will need to own a school-prescribed personal learning device (PLD) under the new national digital literacy programme (NDLP). They will use the device  in tandem with the school’s learning environment and the Singapore Student Learning Space (SLS). 
-*   The purchase of PLDs under the MOE Device Bulk Tender has to be made through the school in February 2022. 
+*   From 2022, all our Levels 1 to 4 students will need to own a school-prescribed personal learning device (PLD) under the new national digital literacy programme (NDLP). They will use the device&nbsp; in tandem with the school’s learning environment and the Singapore Student Learning Space (SLS).&nbsp;
+*   The purchase of PLDs under the MOE Device Bulk Tender has to be made through the school in February 2022.&nbsp;
 *   The device of choice for CHS is the Lenovo 500e Chromebook.
 
 _(A18) How will my son pay for this laptop/mobile device?_
@@ -147,12 +147,12 @@ _(B1)_ **_Are there GAT and general academic selection tests_** _(as in the past
 _(B2) If my son accept(s) CHS’ offer for DSA-Sec (IP/OP-Performing Arts) / (IP/OP-Sports) based on my / his e-audition for “X” CCA, does he need to join this CCA?_
 
 *   Yes. All students who have accepted our DSA-Sec (IP/OP) offers in Performing Arts or Sports are committed to the development of their specified talents in the respective CCA throughout their years at CHS.
-*   DSA-Sec (IP) academic and (IP/OP) MEP/ Leadership talent students, however, can apply to join any CCA  based on the outcomes of the CCA Talent Identification after S1 posting.
+*   DSA-Sec (IP) academic and (IP/OP) MEP/ Leadership talent students, however, can apply to join any CCA &nbsp;based on the outcomes of the CCA Talent Identification after S1 posting.
 
 _(B3) Can my son who enters CHS via DSA join more than one CCA?_
 
 *   Every CHS student, including students admitted via DSA, is expected to participate in a CCA.
-*   For an overall student development and a quality school experience, joining a 2nd CCA is not expected, nor encouraged.
+*   For an overall student development and a quality school experience, joining a 2nd CCA is&nbsp;not expected, nor&nbsp;encouraged.
 
 _(B4) Does my son need to have been offered Higher Chinese in PSLE (as a prerequisite) to apply for any of the DSA-Sec (IP) categories?_
 
@@ -192,12 +192,10 @@ _(C) Where can I get information about the process?_
 
 You can read some of the frequently asked questions in the following downloadable PDF.
 
-*   [FAQs from Successful DSA Applicants (Holding a Confirmed Offer)](https://drive.google.com/file/d/1remsk68YbUVGRWRJ-QV8AkRCNgpNByaz/view?usp=sharing)
+*  [FAQs from Successful DSA Applicants (Holding a Confirmed Offer)](/files/faqs-from-successful-dsa-may-2023.pdf)
 
 ### **(E) Frequently Asked Questions about Level 2 Subject Streaming**
 
 You can read some of the frequently asked questions in the following downloadable PDF.
 
 *   [FAQs for Level 2 Subject Streaming](https://drive.google.com/file/d/17YfUXrfNuFOReoq-6LU35qjFTY0A1nRD/view?usp=sharing)
-
-<Last updated 22 November 2022>
