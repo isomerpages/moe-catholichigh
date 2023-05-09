@@ -23,4 +23,4 @@ Click&nbsp;[here](/dual-track-curriculum/Integrated-Programme/overview/)&nbsp;to
 
 Prospective students may want to take note that CHS OP students do not have affiliation&nbsp;bonus points when applying to EJC, but have affiliation bonus points when applying to Catholic Junior College. ([CJC is affiliated to Catholic schools](https://cjc.moe.edu.sg/))
 
-**[Click here to learn more about the similarities and differences between the IP and OP tracks.](/dual-track-curriculum/comparing-ip-and-op/)**
+**[Click here to learn more about the similarities and differences between the IP and OP tracks.](/dual-track-curriculum/comparing-ip-and-sp/)**
