@@ -2,15 +2,14 @@
 title: English and English Literature
 permalink: /dual-track-curriculum/Subjects-Offered-IP-and-OP/English-and-english-literature/
 description: ""
-third_nav_title: Subjects Offered (IP & OP)
+third_nav_title: Subjects Offered (IP & SP)
 ---
-
-### English & English Literature
+### English &amp; English Literature
 
 Our school believes in the infinite potential of every child to love and enjoy the English language:
 
 *   We introduce full Shakespearean texts at the lower levels as part of the curriculum.
-*   We conduct drama in the curriculum also at the lower levels to give budding thespians a chance to express themselves.
+*   We conduct drama in&nbsp;the curriculum&nbsp;also at the lower levels to give budding thespians a chance to express themselves.
 *   At the upper levels, we have projects like Instapoetry that combine social media and literature appreciation.
 *   Theatre outings several times a year for all levels for out -of -classroom literary experiences.
 *   Our students do real-world projects such as writing a policy paper and designing a school curriculum.
@@ -27,7 +26,7 @@ Our students presenting at the Singapore Seminar 2017 and meeting Minister Mrs J
 
 **Overarching Approach and Purpose**
 
-Using a diverse range of texts, contexts & performance skills platforms that explore Human Condition themes to develop:
+Using a diverse range of texts, contexts &amp; performance skills platforms that explore Human Condition themes to develop:
 
 *   Fundamentals in Linguistics, Logic and Literature
 *   Broad Exposure and Experiences
@@ -59,7 +58,7 @@ To equip and enable our students with the ability to:
 *   Special Talent Development opportunities
 *   CH Literature Canon.
 *   Practitioner’s Insight Projects (E.g. Character’s Journal, Literature Presentations)
-*   Literature Festival & Sharing Sessions (E.g. Lit Night)
+*   Literature Festival &amp; Sharing Sessions (E.g. Lit Night)
 
 #### Skills Sets
 
@@ -67,13 +66,13 @@ To equip and enable our students with the ability to:
 
 #### Teaching and Learning Approach
 
-Contextual / Thematic situations  --> **MORAL IMAGINATION** -->  Language and Literature Representation
+Contextual / Thematic situations &nbsp;--&gt;&nbsp;**MORAL IMAGINATION**&nbsp;--&gt;&nbsp; Language and Literature Representation
 
 <img src="/images/english3.png" style="width:60%">
 
-####  Signature Programmes
+#### &nbsp;Signature Programmes
 
-*   General Knowledge Reading Programme (All Levels)  / Literary Appreciation of Narrative Texts
+*   General Knowledge Reading Programme (All Levels)&nbsp;&nbsp;/ Literary Appreciation of Narrative Texts
 *   In Focus Current Affairs – Commentaries, Panel Discussions, Forums. (All Levels)
 *   Bicultural Festival (All Levels)
 *   Practitioner’s Insight Projects. E.g. Short Stories Anthologies, Letters to Agencies, Social Advocacy, Film and Media. (Years 1, 2 and 3)
@@ -83,7 +82,7 @@ Contextual / Thematic situations  --> **MORAL IMAGINATION** -->  Language an
 *   Overseas Immersion Experience (Year 3)
 *   International Perspectives (Year 4)
 
-_Literature Special Programme_ and _Talent Development_ (Upper levels)
+_Literature Special Programme_&nbsp;and&nbsp;_Talent Development_&nbsp;(Upper levels)
 
 *   Literature Speaker’s Forums
 *   Creative Writing Circle

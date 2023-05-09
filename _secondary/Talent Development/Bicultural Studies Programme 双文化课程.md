@@ -16,7 +16,7 @@ This is a four-year programme. Students successfully admitted to BSP(C) will com
 
 #### 概述  
 
-公教中学于2016年开办双文化课程。我们将会遴选热衷于学习东西方文化的中三学生修读这个课程。
+公教中学于2016年开办双文化课程，遴选热衷于学习东西方文化的中三学生修读这个课程。
 
 双文化课程是为期四年的课程。修读双文化课程的学生将会在公教中学完成两年的双文化课程，并在诺雅初级学院完成第三至第四年的课程。
 
@@ -44,7 +44,7 @@ The objectives of the BSP(C) are to:
 
 公教中学双文化课程的宗旨是：
 
-1\.  培养有原则、积极进取和能够联系中国和了解西方社会的双文化领袖；<br>
+1.  培养有原则、积极进取和能够联系中国和了解西方社会的双文化领袖；<br>
 2.  培养热衷于分析和展望东西方历史、文化和当代社会发展的双文化学者；<br>
 3.  开阔学生的视野，让他们有更广阔的世界观，为未来做好准备。
 
@@ -53,7 +53,7 @@ The objectives of the BSP(C) are to:
 This programme aims to deepen students’ understanding of history, social evolution, economic developments and international relations of contemporary China with the rest of the world, particularly the West. Students will be exposed to historical analyses, experiential learning and other approaches that cultivate their interest and deepen their learning.  
 Besides covering topics related to China, students will also learn more about their roots and roles as Southeast Asian Chinese and how the development of China will affect them.
 
-Students will have the opportunities to carry out research studies, attend various seminars and workshops organized by MOE and the school, as well as go for overseas immersion programme to both China and western countries.
+Students will have the opportunities to carry out research studies, attend various seminars and workshops organized by MOE and the school, as well as go for overseas immersion programme.
 
 #### 课程
 
@@ -61,16 +61,16 @@ Students will have the opportunities to carry out research studies, attend vario
 
 除了和中国有关的课题，公教中学的双文化课程学生也将学习他们身为东南亚华人的历史根源和所扮演的角色，以及中国的发展对他们的影响。
 
-他们也将有机会进行研究、参加由教育部和学校主办的研讨会和工作坊，以及到中国和西方国家浸濡学习
+他们也将有机会进行研究、参加由教育部和学校主办的研讨会和工作坊，以及参加海外浸濡活动。
 
 #### Overseas Immersion Programme (Programme will be adjusted based on national guidelines for overseas travel）
 
-All BSP students will have the opportunity to go for 2 to 5 weeks of overseas immersion programmes to China in Year 3.  
+All BSP students will have the opportunity to go for 2 weeks of overseas immersion programmes to China in Year 3.  
 Scholars will have the opportunity for extended immersion to China and/or a Western country in Year 4.
 
 #### 海外浸濡计划(根据疫情进行调整）
 
-所有中三双文化课程的学生将有机会到中国进行2至5周的浸濡活动。  
+所有中三双文化课程的学生将有机会到中国进行2 周的浸濡活动。  
 双文化奖学金得主将有机会在四年级时继续参加双文化浸濡活动。
 
 <img src="/images/bsp3.png" style="width:80%">
@@ -79,7 +79,7 @@ Scholars will have the opportunity for extended immersion to China and/or a West
 #### Assessments
 
 Students in BSP(C) will be graded based on:  
-• Team work research based presentation  
+• Research based presentation  
 • Thesis writing in Year 4  
 • Written paper at the end of the year
 
@@ -87,11 +87,11 @@ BSP students will be given a grade for their performance in BSP at the end of ye
 
 **评估**  
 评估方式包括：  
-• 小组口头呈现  
+• 口头呈现  
 • 论文写作  
 • 年底考核试卷
 
-修读双文化课程的学生，成绩单上面将依个人表现，显示等级。
+修读双文化课程的学生，成绩单上将显示个人表现等级。
 
 ##### MOE BSP Scholarship  
 Year 2 Students who have obtained exemplary results in both English Language and Higher Chinese Language will be recommended for this scholarship.

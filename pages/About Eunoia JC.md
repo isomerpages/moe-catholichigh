@@ -2,7 +2,6 @@
 title: About Eunoia JC
 permalink: /dual-track-curriculum/Integrated-Programme/about-eunoia-jc/
 description: ""
-third_nav_title: Integrated Programme
 ---
 ### Eunoia Junior College
 
@@ -10,7 +9,7 @@ third_nav_title: Integrated Programme
 
 #### Introduction
 
-**Eunoia Junior College** is situated at the junction of Sin Ming Avenue and Marymount Road, overlooking Bishan-Ang Mo Kio Park and both Bishan and Ang Mo Kio estates.
+**Eunoia Junior College**&nbsp;is situated at the junction of Sin Ming Avenue and Marymount Road, overlooking Bishan-Ang Mo Kio Park and both Bishan and Ang Mo Kio estates.
 
 #### Facilities
 

@@ -8,9 +8,9 @@ third_nav_title: Distinctive Programmes
 <style>
 p {text-align: justify;}
 </style>
-**Catholic High School offers** **our distinctive Space and Flight Science Programme for interested students who have a passion for the future and frontiers of aerospace and space engineering.**
+**Catholic High School offers**&nbsp;**our distinctive Space and Flight Science Programme for interested students who have a passion for the future and frontiers of aerospace and space engineering.**
 
-<img src="/images/sfsp1.png" style="width:80%">
+![](/images/snfsp1.png)
 
 (_Below: Students learning about Newton’s Three Laws of Motion through an experiential workshop with PET Rockets_)
 
@@ -20,25 +20,34 @@ p {text-align: justify;}
 
 <img src="/images/sfsp3.png" style="width:60%">
 
-This programme offers our students the opportunities to explore aerospace and space engineering, such as unmanned autonomous vehicles and satellite technology. Our staff, facilities such as the STARS lab and partnerships enable us to offer a broad range of training and industry learning opportunities. This programme also complements the rigorous and authentic learning experiences provided by our Life Sciences Programme.
+This programme offers our students the opportunities to explore aerospace and space engineering, such as unmanned autonomous vehicles and satellite technology. Our staff, facilities such as the STARS and Aerospace Simulation Centre and partnerships enable us to offer a broad range of training and industry learning opportunities. This programme also complements the rigorous and authentic learning experiences provided by our Life Sciences Programme.
 
-The programme has three main themes – Machine, Body and Sustainability. This instructional approach allows for greater integration of various concepts in the CHS science curriculum and promotion of learning with understanding. Supported by the school’s reading programme, students are exposed to topics like space food, astronomy and challenges of Mars exploration.
+Aviation Milestones Gallery
+![](/images/snfspamg.png)
 
-<img src="/images/sfsp4.png" style="width:60%">
+The Aviation Milestones Gallery celebrates the progression of flight in human history by showcasing the past, present and future of aviation. The gallery serves to educate and inspire students with a strong interest in aviation and aerospace through the showcase of the history of aviation, science of aviation and the development of aviation in Singapore.
 
-We offer many related training and industry learning opportunities:
+Aerospace Simulation Centre
+![](/images/snfspasc1.jpg)
+
+![](/images/snfspasc2.jpg)
+
+![](/images/snfspasc3.jpg)
+Science, Technology And Research Space (STARS)
+
+
+We offer many related training and industry&nbsp;learning&nbsp;opportunities:
 
 *   Japan Overseas Immersion and Cultural Programme, with learning journey to Tsukuba Space Centre (Japan)
 *   SUTD-CHS Flagship Drone Programme
-*   NUS-CHS ENGnite 720˚ Programme
-*   NTU-CHS SpaceTech+ Module
+*   Design Thinking and 3D Printing Programme
 *   Young Defence Scientists Programme (YDSP) by DSO
 *   Advanced Modules (Aerodynamics, Computer Science, Photonics)
-*   PET Water Rocket and 3D Printing workshops, Drone competitions
-*   Visits to NTU Satellite Research Centre (SaRC), NUS Centre for Remote Imaging, Sensing and Processing, Singapore Youth Flying Club and others
+*   PET Water Rocket and drone workshops, Drone competitions
+*   Visits to Singapore Youth Flying Club,NTU Satellite Research Centre (SaRC), NUS Centre for Remote Imaging, Sensing and Processing, and others
 *   … and more.
 
-<img src="/images/sfsp5.png" style="width:70%">
+![](/images/snfsptable.png)
 
 <img src="/images/sfsp6.png" style="width:40%">
 

@@ -2,9 +2,8 @@
 title: Humanities
 permalink: /dual-track-curriculum/Subjects-Offered-IP-and-OP/humanities/
 description: ""
-third_nav_title: Subjects Offered (IP & OP)
+third_nav_title: Subjects Offered (IP & SP)
 ---
-
 ### Humanities Department
 
 #### Our Philosophy
@@ -14,7 +13,7 @@ third_nav_title: Subjects Offered (IP & OP)
 
 ### Our Approach
 
-The Humanities Department aims to help students develop the dispositions and competencies based on the 21st Century skills.
+The Humanities Department aims to help students develop the dispositions and competencies based on the 21st&nbsp;Century skills.
 
 Inquiry-based learning is employed as the main pedagogical approach, to encourage the development of skills such as critical thinking and problem.
 
@@ -25,7 +24,7 @@ Geographical and historical investigations provide the platform for a R.E.A.L hu
 *   **A**uthentic
 *   **L**ife-long learning
 
-The exploration of the distinct disciplines of Geography and History is intended to provide students with varied modes of thinking to interpret phenomena that they encounter in their course of study.  Pupils would be guided to draw understandings from all disciplines through performance tasks, portfolios, seminars, enrichment programs, in-depth research and field-based learning activities.
+The exploration of the distinct disciplines of Geography and History is intended to provide students with varied modes of thinking to interpret phenomena that they encounter in their course of study.&nbsp; Pupils would be guided to draw understandings from all disciplines through performance tasks, portfolios, seminars, enrichment programs, in-depth research and field-based learning activities.
 
 In such a way, pupils are equipped with the fundamental concepts and skills in order to engage in greater self-directed learning to do more in-depth study of these disciplines at the upper secondary levels.
 
