@@ -20,7 +20,7 @@ Through the involvement and participation in external competitions and workshops
 
 In keeping up with our tradition of strong academic achievements, our talented students continue to achieve excellence in many areas like competitions and proficiency tests. In the recent Asian Try Zero-G, our gentlemen’s proposed experiment “Double Pendulum” was performed by JAXA astronaut Koichi Wakata onboard the Japanese Experiment Module “KIBO” on the International Space Station. The school also emerged as Runner-up in the 2022 Singapore Junior Biology Olympiad.We have also consistently done well in other competitions like the National Air Race and Drone Odyssey Challenge. We have also produced many A\*STAR and YDSP scholars over the years.
 
-
+![](/images/cnergya1.png)![](/images/cnergya2.png)
 
 <figcaption> Above: Students continue to achieve excellence in many areas, e.g. C. B. Paul Science Quiz, Singapore Junior Olympiad and National Science Challenge</figcaption>
 
