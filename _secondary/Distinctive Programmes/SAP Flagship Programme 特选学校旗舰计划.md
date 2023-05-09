@@ -8,8 +8,7 @@ third_nav_title: Distinctive Programmes
 <style>
 p {text-align: justify;}
 </style>
-<img src="/images/sapfp1.png" style="width:183px;height:240px;margin-left:15px;" align="right"> As a&nbsp;**Special Assistance Plan (SAP) school**, CHS runs our&nbsp;**SAP Flagship Programme “Deepening the Roots, Charting the Future” “深濡文化，放眼天下”**&nbsp;for all lower level students in IP and OP. Through this SAP Flagship Programme, we develop our students’ understanding and appreciation of Chinese Culture. The Programme is mainly delivered through the Appreciation of Chinese Culture (ACC) lessons, which educate our students in the five domains of Qin, Qi, Shu, Hua, Shi (琴, 棋, 书, 画, 史), i.e. Music, Chess, Calligraphy, Ink Painting, and History and Classics. During these ACC lessons,&nbsp;comparative&nbsp;study will also be made with Western cultures to provide a holistic understanding, for&nbsp;example,&nbsp;students may learn both Chinese and International Chess.
-
+<img src="/images/sapfp1.png" style="width:183px;height:240px;margin-left:15px;" align="right"> As a&nbsp;**Special Assistance Plan (SAP) school**, CHS runs our&nbsp;**SAP Flagship Programme “Deepening the Roots, Charting the Future” “深濡文化，放眼天下”**&nbsp;for all lower level students in IP and OP. Through this SAP Flagship Programme, we develop our students’ understanding and appreciation of Chinese Culture. The Programme is mainly delivered through the Appreciation of Chinese Culture (ACC) lessons, which educate our students in the five domains of Qin, Qi, Shu, Hua, Shi (琴, 棋, 书, 画, 史), i.e. Music, Chess, Calligraphy, Ink Painting, and History and Classics. During these ACC lessons,&nbsp;comparative&nbsp;study will also be made with Western cultures to provide a holistic understanding.
 #### Our&nbsp;Philosophy
 
 **“深濡文化，放眼天下”**
@@ -41,6 +40,6 @@ As&nbsp;an SAP&nbsp;school, the Catholic High School SAP flagship programme aims
 |  	|  	|
 |---	|---	|
 | 课程 	| 中一、中二文化鉴赏课程(ACC)，包括琴、棋、书、画、史， 介绍<br>中一全年级中国打击乐课（音乐课） 	|
-| 全校活动 	|  双语双文化节<br>农历新年庆祝会<br> 端午节活动<br>中秋庆祝会 	|
-| 培训与熏陶 	| 文艺演出（相声、戏剧）<br>华青班<br>、燎原报、双语广播站<br>特选学校活动 （特选学校领袖营,领袖论坛、幼苗计划) 	|
-| 学习环境 	| 中华文化走廊<br>兵马俑学习区 	|
+| 全校活动 	|  双语双文化节<br>农历新年庆祝会<br>中秋庆祝会 	|
+| 培训与熏陶 	| 文艺演出（相声、戏剧）<br>华青班<br>双语广播站<br>特选学校活动 |
+| 学习环境 	| 中华文化走廊<br>兵马俑学习区 <br>竹林雅室——双文化课程教室	|
