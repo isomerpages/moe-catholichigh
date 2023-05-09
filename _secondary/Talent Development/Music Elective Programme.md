@@ -10,12 +10,12 @@ third_nav_title: Talent Development
 p {text-align: justify;}
 </style>
 
-The Music Elective Programme (MEP) is an **MOE special programme** that allows students with passion in Music to study the subject in an enriched environment.
+The Music Elective Programme (MEP) is an&nbsp;**MOE special programme**&nbsp;that allows students with passion in Music to study the subject in an enriched environment.
 
-*   MEP students in Catholic High School enjoy the **opportunity to study Music at a deeper level** in an enhanced curriculum for Music in custom-built MEP Studios.
-*   Students will be prepared to sit the **GCE O-Level Higher Music Examination** in their Secondary/Year 4 year, at which their musical knowledge and skills will be assessed via the activities of listening and analysis, performing, and music writing.
-*   The **MEP can also be offered in JC1 and JC2** in JCs such as Eunoia Junior College.
-*   Outstanding CHS Level 1 MEP students enrolled in 2022 may be awarded CHS’ **Joseph Wallace Family Music Scholarship**. This is a non-renewable 1-year scholarship, i.e. the outstanding MEP student from each level will stand a chance of being awarded this scholarship.
+*   MEP students in Catholic High School enjoy the&nbsp;**opportunity to study Music at a deeper level**&nbsp;in an enhanced curriculum for Music in custom-built MEP Studios.
+*   Students will be prepared to sit the&nbsp;**GCE O-Level Higher Music Examination**&nbsp;in their Secondary/Year 4 year, at which their musical knowledge and skills will be assessed via the activities of listening and analysis, performing, and music writing.
+*   The&nbsp;**MEP can also be offered in JC1 and JC2**&nbsp;in JCs such as Eunoia Junior College.
+*   One outstanding MEP student from each level will be awarded CHS’Joseph Wallace Family Music Scholarship. This is a non-renewable 1-year scholarship.
 
 <img src="/images/mep1.png" style="width:60%">
 
@@ -44,7 +44,7 @@ They will require a pass in the Selection Exercise by the school, consisting of:
 
 The Selection Exercise for 2023 Level 1 CHS MEP::
 
-Friday, 23 December 2022, 10pm: Submission deadline for MEP [applications](https://go.gov.sg/2023chsmep)
+Friday, 23 December 2022, 10pm: Submission deadline for MEP&nbsp;[applications](https://go.gov.sg/2023chsmep)
 
 Tuesday, 27 December 2022, 2.30pm: CHS Digital Music Studio: e-listening test videos
 
@@ -52,7 +52,7 @@ Tuesday, 27 December 2022, 2pm: MEP briefing for all applicants and 1 parent / g
 
 ##### Useful links:
 
-[MOE MEP Webpage](https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Music%20Programmes&subterm=Music%20Elective%20Programme%20(MEP))
+[MOE MEP Webpage](https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Music%20Programmes&amp;subterm=Music%20Elective%20Programme%20(MEP))
 
 [EMP and MEP Online Showcase webpage](https://www.youtube.com/@empandmepyoutubepage9130/featured)
 
