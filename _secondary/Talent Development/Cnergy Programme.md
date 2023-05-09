@@ -24,4 +24,4 @@ In keeping up with our tradition of strong academic achievements, our talented s
 
 <figcaption> Above: Students continue to achieve excellence in many areas, e.g. C. B. Paul Science Quiz, Singapore Junior Olympiad and National Science Challenge</figcaption>
 
-[Science @ CHS Prospectus](https://drive.google.com/file/d/1y9_4zPByE93Yp_1lBX5tUCvIH9LsnCu1/view)
+[Science @ CHS Prospectus](https://drive.google.com/file/d/155SWFfGAriWTZuWd68rs3Ov9PMYp6UZ3/view)
