@@ -23,4 +23,4 @@ description: ""
 
 In turn, we have forged&nbsp;**collaborations and partnerships with several overseas schools**, and our students have hosted teacher and/or students from China, Taiwan and Japan for immersion in our school.
 
-*   We work with several schools in China, Japan and Taiwan for immersion, for examples Toyonaka High School in Osaka (大阪府立豊中高等学校), Nanjing Hong Guang Middle School (南京市弘光中学), Suzhou Jinji Lake School (苏州工业园区金鸡湖学校), Taipei Municipal Jianguo High School (台北市立建国高级中学) and Taipei Municipal Zhongshan Junior High School (臺北市立中山國民中學).
+*   We work with several schools in Nanjing, Suzhou, Osaka, and Taipei for immersion, for examples Toyonaka High School in Osaka (大阪府立豊中高等学校), Nanjing Hong Guang Middle School (南京市弘光中学), Suzhou Jinji Lake School (苏州工业园区金鸡湖学校), Taipei Municipal Jianguo High School (台北市立建国高级中学) and Taipei Municipal Zhongshan Junior High School (臺北市立中山國民中學).

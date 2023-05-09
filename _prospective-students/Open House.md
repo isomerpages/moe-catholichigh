@@ -5,6 +5,7 @@ description: ""
 ---
 ![](/images/open%20house%20ppt%20(9to16)_final.jpg)
 
+![](/images/chs%20open%20house%20program%202023.jpeg)
 ### All are welcome! No registration required.
 
 
