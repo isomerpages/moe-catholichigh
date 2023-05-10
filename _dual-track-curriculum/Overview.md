@@ -19,7 +19,7 @@ Click&nbsp;[here](/dual-track-curriculum/Integrated-Programme/overview/)&nbsp;to
 
 #### SEC Programme
 
-<img src="/images/dtp3.png" style="width:210px;height:240px;margin-right:15px;" align="left"> CHS continues to offer our established curriculum that preares students fro the SEC examinations, which aims to provide a rigorous and enriched&nbsp;learning experience for our non-IP students so that they can excel at the examinations. They are also offered our signature programmes such as our&nbsp;[Passion Pursuit (Elective)](/secondary/Distinctive-Programmes/passion-pursuit/elective/)&nbsp;to develop their character, 21CC, passions and skills beyond the classroom. SP students will apply to post-secondary learning institutions using their SEC examination results.
+<img src="/images/dtp3.png" style="width:210px;height:240px;margin-right:15px;" align="left"> CHS continues to offer our established curriculum that prepares students fro the SEC examinations, which aims to provide a rigorous and enriched&nbsp;learning experience for our non-IP students so that they can excel at the examinations. They are also offered our signature programmes such as our&nbsp;[Passion Pursuit (Elective)](/secondary/Distinctive-Programmes/passion-pursuit/elective/)&nbsp;to develop their character, 21CC, passions and skills beyond the classroom. SP students will apply to post-secondary learning institutions using their SEC examination results.
 
 Prospective students may want to take note that CHS SP students do not have affiliation&nbsp;bonus points when applying to EJC, but have affiliation bonus points when applying to Catholic Junior College. ([CJC is affiliated to Catholic schools](https://cjc.moe.edu.sg/))
 
