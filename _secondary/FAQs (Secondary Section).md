@@ -56,10 +56,10 @@ _(A6) How do I know **which track (IP or SP) is more suitable** for me?_
 
 _(A7) Are students in **SP and IP given the same opportunities**, e.g. for talent development, participation in Olympiad etc.?_
 
-*   Our school-based programmes, e.g. [Passion Pursuit (Elective)](/secondary/Distinctive-Programmes/passion-pursuit/elective/), are generally offered to both IP and SP students. There is no segregation or exclusion for CCAs, character development and leadership development programmes. Some components of our IP curriculum are offered in the SP as well, e.g. World Readiness Reading Programme.
+*   Our school-based programmes, e.g. [Passion Pursuit (Elective)](/secondary/distinctive-programmes/passion-pursuit/elective/), are generally offered to both IP and SP students. There is no segregation or exclusion for CCAs, character development and leadership development programmes. Some components of our IP curriculum are offered in the SP as well, e.g. World Readiness Reading Programme.
 *   Our [talent development programmes](/secondary/Talent-Development/overview/) (e.g. [CΩERGY](/secondary/Talent-Development/cnergy-programme/)) and [Music Elective Programme](/secondary/Talent-Development/music-elective-programme/) are offered to both IP and SP students who meet the criteria. For example, Maths and Science Olympiads are open to both IP and SP students: criteria is based on students' aptitude and interest for the talent area. Students in our talent development programmes will be involved in the relevant Olympiad.
 *   IP students are offered additional programmes such as the [Passion Pursuit (Independent)](/secondary/Distinctive-Programmes/passion-pursuit/independent/), [World Readiness Programme](/secondary/Distinctive-Programmes/world-readiness-programme/)&nbsp;(WRP) and [Bicultural Studies Programme](/secondary/Talent-Development/bicultural-studies-programme/)&nbsp;(BSP) because of the differences in the objectives and curriculum design of SP and IP. With overall less allocated curriculum time due to the SEC examinations, SP students do not offer these programmes.
-*   You can learn more about the similarities and differences of our IP and SP at: [Overview of the dual track](/dual-track-curriculum/comparing-ip-and-op/)
+*   You can learn more about the similarities and differences of our IP and SP at: [Overview of the dual track](/dual-track-curriculum/overview/)
 
 _(A8) Can a student **transfer from the SP to the IP track**?_&nbsp;
 
