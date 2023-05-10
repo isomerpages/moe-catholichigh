@@ -5,7 +5,7 @@ description: ""
 ---
 ### Dual Track SEC Programme &amp; Integrated Programme
 
-To achieve the Desired Outcomes of a Catholic High School Education,&nbsp;we offer the&nbsp;[Dual Track of Integrated Programme (also known as the Joint Integrated Programme) and SEC Programme](/dual-track-curriculum/comparing-ip-and-op/). Both tracks will prepare students for the A-Level in Pre-University institutions, e.g. junior colleges. IP students will matriculate to the new&nbsp;Eunoia Junior College. OP students may also opt to articulate to a Polytechnic instead for Diploma courses.&nbsp;**Student joining CHS will choose their track during the DSA Exercise or the Sec 1 (S1) Posting Exercise.**
+To achieve the Desired Outcomes of a Catholic High School Education,&nbsp;we offer the&nbsp;[Dual Track of Integrated Programme (also known as the Joint Integrated Programme) and SEC Programme](/dual-track-curriculum/comparing-ip-and-op/). Both tracks will prepare students for the A-Level in Pre-University institutions, e.g. junior colleges. IP students will matriculate to the Eunoia Junior College. SP students may also opt to articulate to a Polytechnic instead for Diploma courses.&nbsp;**Student joining CHS will choose their track during the DSA Exercise or the Sec 1 (S1) Posting Exercise.**
 
 Whether it is the IP or SEC curriculum, students in both programmes will enjoy opportunities to interact and learn together. For our top tier students who show a strong aptitude and passion for learning, CHS will provide them with our most challenging and rigorous talent development programmes.
 
