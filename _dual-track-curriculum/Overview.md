@@ -5,13 +5,13 @@ description: ""
 ---
 ### Dual Track SEC Programme &amp; Integrated Programme
 
-As a dual track school, we offer the [Joint Integrated Programme and SEC Programme](/dual-track-curriculum/comparing-ip-and-sp/). Both tracks will prepare students for the A-Level in Pre-University institutions, e.g. junior colleges. IP students will join Eunoia Junior College at the end of four years. SP students may also opt to articulate to a Polytechnic instead for Diploma courses.&nbsp;**Students joining CHS will choose their track during the DSA Exercise or the Sec 1 (S1) Posting Exercise.**
+As a dual track school, we offer the [Joint Integrated Programme and SEC Programme](/dual-track-curriculum/comparing-ip-and-sp/). Both tracks will prepare students for the A-Level in Pre-University institutions, e.g. junior colleges. IP students will join [Eunoia Junior College](https://www.eunoiajc.moe.edu.sg/) at the end of four years. SP students may also opt to articulate to a Polytechnic instead for Diploma courses.&nbsp;**Students joining CHS will choose their track during the DSA Exercise or the Sec 1 (S1) Posting Exercise.**
 
 Whether it is the IP or SEC curriculum, students in both programmes will enjoy opportunities to interact and learn together. For our top tier students who show a strong aptitude and passion for learning, CHS will provide them with our most challenging and rigorous talent development programmes.
 
 <img src="/images/dtp1.png" style="width:280px;height:240px;margin-left:15px;" align="right"> Our IP is a joint programme offered together with Singapore Chinese Girls’ School (SCGS) and CHIJ St. Nicholas Girls’ School (CHIJ SNGS). The Joint Integrated Programme (JIP) leverages the strengths of the three schools and provides our students with a broad-based&nbsp;curriculum&nbsp;that is both rigorous and enriching. The signature programmes of the JIP are the&nbsp;[Passion Pursuit (Independent)](/secondary/Distinctive-Programmes/passion-pursuit/independent/)&nbsp;and&nbsp;[World Readiness Programme](/secondary/Distinctive-Programmes/world-readiness-programme/).
 
-The IP students from CHS, CHIJ SNGS and SCGS will spend their first four years in their respective secondary schools before progressing to Eunoia JC for two years of A-Level. 
+The IP students from CHS, CHIJ SNGS and SCGS will spend their first four years in their respective secondary schools before progressing to [Eunoia JC](https://www.eunoiajc.moe.edu.sg/) for two years of A-Level. 
 
 Click&nbsp;[here](/dual-track-curriculum/Integrated-Programme/overview/)&nbsp;to learn more about the&nbsp;[JIP](/dual-track-curriculum/Integrated-Programme/overview/)&nbsp;co-designed by the JIP schools.
 
