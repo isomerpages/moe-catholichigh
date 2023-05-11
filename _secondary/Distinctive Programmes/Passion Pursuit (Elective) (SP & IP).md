@@ -22,11 +22,13 @@ The&nbsp;**Passion Pursuit programme**&nbsp;in Catholic High School comprises an
 
 <img src="/images/ppe2.png" style="width:290px;height:200px;margin-right:30px;" align="left"> Approach-wise, students will be offered a wide variety of activities after their end-of-year examinations, expanding their exposure in 3 categories of elective modules:
 <p>
+<br>
+*   Ruggedness Electives 
 	<br>
-*   Ruggedness Electives <br>
-*   Creative Electives<br>
+*   Creative Electives
+	<br>
 *   Inventive Electives
-
+</p>
 Students get to try out many experiences that will not be found in the usual school curriculum. This adds to the holistic development of students beyond their academic and CCA involvements.
 
 #### Examples of PP(Elective) Modules
@@ -34,4 +36,4 @@ Students get to try out many experiences that will not be found in the usual sch
 Some of the modules we have offered in the past are:
 
 <img src="/images/ppe3.png" style="width:60%">
-<img src="/images/ppe4.png" style="width:60%"></p>
+<img src="/images/ppe4.png" style="width:60%"><p></p>
