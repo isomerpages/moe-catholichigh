@@ -42,7 +42,7 @@ _(A4) Do I / does my son need to attend **religious programmes?**_
 *   **Non-Catholic students are not required but are welcome to attend these Catholic programmes.**
 *   Parents are welcome to attend the masses&nbsp;and join the CHS Prayer Parents and Catholic Parents Support Group.
 
-_(A5) What are the **_Achievement Level Cut-Off Point (AL COP)_**&nbsp;for your SP and IP tracks?_
+_(A5) What are the **Achievement Level Cut-Off Point (AL COP)**&nbsp;for your SP and IP tracks?_
 
 *   For 2022 Level 1 cohort, the AL COP for SP track is 9 with Merit for HCL (9M) ; the COP for the IP track is 8 with Merit for HCL (8M).
 
