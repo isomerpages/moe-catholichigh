@@ -21,7 +21,7 @@ The following diagram provides an overview of our&nbsp;Dual Track curriculum, an
 *   [Overseas Immersion &amp; Cultural Experience](/secondary/Distinctive-Programmes/overseas-immersion-and-cultural-experience/)
 *   [Strong CCAs](/non-academic/Physical-Education/overview/)&nbsp;and more…
 
-<img src="/images/dual1.png" style="width:60%">
+![](/images/compare%20ip%20sp.png)
 
 #### Shared Curriculum &amp; Programmes
 

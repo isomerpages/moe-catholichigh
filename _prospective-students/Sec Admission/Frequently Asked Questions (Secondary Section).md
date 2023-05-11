@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions (Secondary Section)
-permalink: /prospective-students/Sec-Admission/faqs/
+permalink: /secondary/faqs/
 description: ""
 third_nav_title: Sec Admission
 ---
@@ -198,8 +198,3 @@ You can read some of the frequently asked questions in the following downloadabl
 
 *   [FAQs for Level 2 Subject Streaming](https://drive.google.com/file/d/17YfUXrfNuFOReoq-6LU35qjFTY0A1nRD/view?usp=sharing)
 
-
-
-
-
-**

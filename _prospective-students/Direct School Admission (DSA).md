@@ -84,7 +84,7 @@ The selection criteria and process for the talent areas will be updated by early
     
 2.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
     
-3.  Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and programme (4 years for the O-Level Programme or 6 years for the Integrated Programme), and participate in the activities related to the talent they are selected for from year 1-4.&nbsp;
+3.  Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and programme (4 years for the SEC Programme or 6 years for the Integrated Programme), and participate in the activities related to the talent they are selected for from year 1-4.&nbsp;
     
 For inquiries regarding CHS DSA-Sec, please contact us at:
 
@@ -96,4 +96,4 @@ For inquiries regarding CHS DSA-Sec, please contact us at:
   
   
 
-Information updated 03 May 2023
+Information updated 10 May 2023
