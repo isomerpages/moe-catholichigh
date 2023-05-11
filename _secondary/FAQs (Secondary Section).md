@@ -195,6 +195,6 @@ You can read some of the frequently asked questions in the following downloadabl
 
 You can read some of the frequently asked questions in the following downloadable PDF.
 
-*   [FAQs for Level 2 Subject Streaming](https://drive.google.com/file/d/17YfUXrfNuFOReoq-6LU35qjFTY0A1nRD/view?usp=sharing)
+*   [FAQs for Level 2 Subject Streaming](/files/faq_2023_streaming.pdf)
 
-Last updated 9 May 2023
+Last updated 11 May 2023
