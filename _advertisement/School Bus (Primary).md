@@ -23,7 +23,6 @@ To apply, please refer to the Service Requirements and the Application Procedure
 * Email: chs_ps@moe.edu.sg
 * Contact Person: Mdm Kiong Yi Ling  
 
-
 **How to get there?**
-* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 900 - 3 minutes walking distance
+* Nearest MRT: Bishan MRT (NS17/CC15) – 11 minutes walking distance
+* Bus number: 13,52,54 and 88 – One Stop from OPP Bishan STN
