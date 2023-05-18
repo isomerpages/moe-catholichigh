@@ -24,14 +24,14 @@ description: ""
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-* Address: xxxx S737777
-* Contact No: 6666 4444
-* Email: abc_ps@moe.edu.sg
-* Contact Person: Mdm Sally Tan  
+* Address: Catholic High School, No.9 Bishan Street 22 Singapore 579767
+* Contact No: 64589869
+* Email: chs_ps@moe.edu.sg
+* Contact Person: Mdm Kiong Yi Ling  
 
 **How to get there?**
-* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 900 - 3 minutes walking distance
+* Nearest MRT: Bishan MRT (NS17/CC15) – 11 minutes walking distance
+* Bus number: 13,52,54 and 88 – One Stop from OPP Bishan STN
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
