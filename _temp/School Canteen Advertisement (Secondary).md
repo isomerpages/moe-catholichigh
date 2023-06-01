@@ -1,5 +1,5 @@
 ---
-title: School Canteen Advertisement
+title: School Canteen Advertisement (Secondary)
 permalink: /schcanteenad/
 description: School Canteen Advertisement
 ---
@@ -33,6 +33,3 @@ description: School Canteen Advertisement
 *  Photocopy of the NRIC (front and back)
 *  List of proposed menu and pricing for all items
 *  Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
-
-
-		

@@ -1,7 +1,7 @@
 ---
-title: Direct School Admission (DSA)
-permalink: /prospective-students/Sec-Admission/direct-school-admission/
-description: ""
+title: Draft 01 June 2023
+permalink: /draft01june2023/
+description: Draft before upload
 ---
 ## 2023 Direct School Admission – Secondary (DSA-Sec) Exercise
 
