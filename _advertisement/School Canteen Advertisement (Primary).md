@@ -12,7 +12,7 @@ description: ""
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Application Form] 
+* [Canteen Application form]()
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
@@ -24,7 +24,7 @@ description: ""
 * Address: Catholic High School(Primary Section), No.9 Bishan Street 22 Singapore 579767
 * Contact No: 64589869
 * Email: chs_ps@moe.edu.sg
-* Contact Person: Mdm Woo Bee Cheng  
+* Contact Person: Mdm Woo Bee Cheng
 
 **How to get there?**
 * Nearest MRT: Bishan MRT (NS17/CC15) – 11 minutes walking distance
