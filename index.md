@@ -12,13 +12,22 @@ sections:
         - title: Prospective Students (iNCLUDING dsa)
           description: ""
           url: /prospective-students/prospectus-sec/overview/
-      title: "Catholic High  School "
+      title: Catholic High  School
   - infobar:
       title: 2023 Direct School Admission – Secondary (DSA-Sec) Exercise
       subtitle: Latest News
       description: Want to join CHS(Secondary) via DSA?
       button: Click Here to find out more!
       url: /prospective-students/Sec-Admission/direct-school-admission/
+  - infopic:
+      title: CHS FAMILY DAY & HOMECOMING
+      subtitle: CHS Family Day & Homecoming
+      description: Come home to 公教 on 1 July 2023 from 8.30am - 3pm! For  公教 by  公教,
+        expect a day of fun, reconnection and brotherhood! See you there!
+      button: Find out more
+      url: https://go.gov.sg/chsfamilydayhomecoming
+      image: /images/chs family homecoming 2023.jfif
+      alt: Image alt text
   - infopic:
       title: Open House 2023
       subtitle: INVIGORATE@CATHOLIC HIGH SCH
@@ -36,7 +45,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: President's Scout Awardees
-      subtitle: "Latest News "
+      subtitle: Latest News
       button: Read more here
       url: /President-Scouts-Award/
       image: /images/Scout President Award.jpeg
