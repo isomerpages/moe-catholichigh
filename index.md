@@ -24,7 +24,7 @@ sections:
       subtitle: CHS Family Day & Homecoming
       description: Come home to 公教 on 1 July 2023 from 8.30am - 3pm! For  公教 by  公教,
         expect a day of fun, reconnection and brotherhood! See you there!
-      button: See you there!
+      button: Find out more
       url: https://go.gov.sg/chsfamilydayhomecoming
       image: /images/chs family homecoming 2023.jfif
       alt: Image alt text
