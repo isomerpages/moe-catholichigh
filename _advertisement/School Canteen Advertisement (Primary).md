@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall | 22 Jun 2023 | Rice or noodle stalls are acceptable.|
+| Malay Food Stall | 10 July 2023 | Rice/Noodle stalls are acceptable.|
 
 **Application Procedure**
 
@@ -21,10 +21,10 @@ description: ""
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-* Address: Catholic High School, No.9 Bishan Street 22 Singapore 579767
+* Address: Catholic High School(Primary Section), No.9 Bishan Street 22 Singapore 579767
 * Contact No: 64589869
 * Email: chs_ps@moe.edu.sg
-* Contact Person: Mdm Kiong Yi Ling  
+* Contact Person: Mdm Woo Bee Cheng  
 
 **How to get there?**
 * Nearest MRT: Bishan MRT (NS17/CC15) – 11 minutes walking distance
