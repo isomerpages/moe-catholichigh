@@ -36,4 +36,4 @@ Students get to try out many experiences that will not be found in the usual sch
 Some of the modules we have offered in the past are:
 
 <img src="/images/ppe3.png" style="width:60%">
-<img src="/images/ppe4.png" style="width:60%"><p></p>
+<img src="/images/ppe4.png" style="width:60%">
