@@ -18,12 +18,12 @@ description: ""
 |HOD|Mr|Loh Wai Choong Andrew (MT)|loh_wai_choong_andrew@moe.edu.sg|
 |HOD|Mr|Tay Hak Peng (GEP)|tay_hak_peng@moe.edu.sg|
 |HOD|Mdm|Ng Hwee San Vanessa (PE/CCA/Aesth)|ng_hwee_san@moe.edu.sg|
-|HOD|Mdm|Poh Woon Ying (Comms & Partnerships)|poh_woon_ying@moe.edu.sg|
+|HOD|Mdm|Poh Woon Ying (Comms &amp; Partnerships)|poh_woon_ying@moe.edu.sg|
 |HOD|Mr|Tan Boon Leng (SAP)|tan_boon_leng_a@moe.edu.sg|
 |HOD|Mrs|Jacquelynn Khuan (Math)|jacquelynn_khuan@moe.edu.sg|
 |HOD|Mr|Yogeeindran Ramerchandra (Student Management)|yogeeindran_ramerchandra@moe.edu.sg|
 |HOD|Ms|Wong Wan Hui  (CCE)|wong_wan_hui@moe.edu.sg|
-|HOD|Miss|Tee Ngah Loui (Knowledge & Digital Edn)|tee_ngah_loui@moe.edu.sg|
+|HOD|Miss|Tee Ngah Loui (Knowledge &amp; Digital Edn)|tee_ngah_loui@moe.edu.sg|
 |SSD|Miss|Eng Li Li |eng_li_li@moe.edu.sg|
 |Year Head|Ms|Huang Anna  (Upper Primary)|huang_anna@moe.edu.sg|
 |Year Head|Mr|Ong Hwee Kiat (Middle Primary)|ong_hwee_kiat@moe.edu.sg|
@@ -159,15 +159,15 @@ description: ""
 |---	|---	|---	|
 |Miss|Balwinder O Gill|balwinder_kaur@moe.edu.sg|
 |Mr|Chan Soon Huat John|chan_soon_huat_john@moe.edu.sg|
+|Mdm|Chan Kum Chee Helen|chan_kum_chee_helen_a@moe.edu.sg|
 |Mdm|Chen Jiewan|chen_jiewan@moe.edu.sg|
+|Mdm|Heng Chor Choo Eunice|heng_chor_choo_eunice@moe.edu.sg|
 |Mdm|Ho Si Yan Gereldinne (SEN Officer)|ho_si_yan_gereldinne@moe.edu.sg|
 |Ms|Julie See|julie_see@moe.edu.sg|
-|Ms|Kavitha d/o Shanmugananthan|kavitha_shanmugananthan@moe.edu.sg|
 |Mdm|Khong Kay Lim|khong_kay_lim@moe.edu.sg|
+|Ms|Kim Christine Lim Mui Khim|kim_christine_lim_mui@moe.edu.sg|
 |Mdm|Ng Sui San (SEN Officer)|ng_sui_san@moe.edu.sg|
 |Mdm|Ng Lian Huay|ng_lian_huay@moe.edu.sg|
-|Mdm|Nuraini Bte Ab Jabar (AED T & L)|nuraini_a@moe.edu.sg|
-|Miss|Nur Izdihar Bte Mohd Aron (SEN Officer)|nur_izdihar_mohamed_aron@moe.edu.sg|
 |Mrs|Rebekah Sim|rebekah_sim@moe.edu.sg|
 |Miss|Shahana Mol|shahana_mol@moe.edu.sg|
 |Miss|Teo Shu Lin Jacinta|teo_shu_lin_jacinta@moe.edu.sg|
