@@ -81,8 +81,8 @@ description: ""
 |2 Kindness|Mdm|Roziana Bte Abdullah|roziana_abdullah@moe.edu.sg|
 |2 Kindness|Mdm|Kay Xiao Yan|kay_xiao_yan@moe.edu.sg|
 |2 Goodness|Ms|Jenna Cai Sihua|jenna_cai_sihua@moe.edu.sg|
-|2 Goodness|Mrs|Vanessa Chan Hwee Hoon|vanessa_chan_hwee_hoon@moe.edu.sg|
-|2 Faithfulness|Mdm|Chelsia Loh Qiuxia|chelsia_loh@moe.edu.sg|
+|2 Goodness|Mrs|Rebekah Sim|rebekah_sim@moe.edu.sg|
+|2 Faithfulness|Mr|Chua Bingkun Nicholas|chua_bingkun_nicholas@moe.edu.sg|
 |2 Faithfulness|Mdm|Sim Jieh Hwee|sim_jieh_hwee@moe.edu.sg|
 |2 Gentleness|Mdm|Huang Jiamin|huang_jiamin@moe.edu.sg|
 |2 Gentleness|Mr|Leong Jun Wei|leong_jun_wei@moe.edu.sg|
@@ -126,7 +126,7 @@ description: ""
 |5 Joy|Miss|Lock Jing Wen|lock_jing_wen@moe.edu.sg|
 |5 Peace|Mdm|Ng Li Lin Sarah|ng_li_lin_sarah@moe.edu.sg|
 |5 Peace|Mr|Vo Van Hung|vo_van_hung@moe.edu.sg|
-|5 Patience|Mdm|Woo Jak May Carol|woo_jak_may_carol@moe.edu.sg|
+|5 Patience|Mrs|Vanessa Chan Hwee Hoon|vanessa_chan_hwee_hoon@moe.edu.sg|
 |5 Patience|Mdm|Jeanevere Lum Foong Tai|jeanevere_lum_foong_tai@moe.edu.sg|
 |5 Kindness|Mdm|Cheong Wai Fang|cheong_wai_fang@moe.edu.sg|
 |5 Kindness|Mr|Devana Pillay s/o H P|devana_pillay_haridaspillay@moe.edu.sg|
@@ -139,7 +139,7 @@ description: ""
 |6 Charity|Mrs|Amutha Samuel|dawson_f_amutha@moe.edu.sg|
 |6 Charity|Mdm|Tham Lai Kuen|tham_lai_kuen@moe.edu.sg|
 |6 Joy|Ms|Wong Wan Hui|wong_wan_hui@moe.edu.sg|
-|6 Joy|Mr|Tan Shuen Keat|tan_shuen_keat@moe.edu.sg|
+|6 Joy||Choo Xiu Min Cherie|xiu_min_cherie_choo@moe.edu.sg|
 |6 Peace|Miss|Seah Hui Ling|seah_hui_ling@moe.edu.sg|
 |6 Peace|Mr|Wang Zhigang|wang_zhigang@moe.edu.sg|
 |6 Patience|Mdm|Mok Hsui Hsui Daphne|mok_hsui_hsui_daphne@moe.edu.sg|
