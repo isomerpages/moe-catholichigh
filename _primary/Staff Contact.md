@@ -139,7 +139,7 @@ description: ""
 |6 Charity|Mrs|Amutha Samuel|dawson_f_amutha@moe.edu.sg|
 |6 Charity|Mdm|Tham Lai Kuen|tham_lai_kuen@moe.edu.sg|
 |6 Joy|Ms|Wong Wan Hui|wong_wan_hui@moe.edu.sg|
-|6 Joy||Choo Xiu Min Cherie|xiu_min_cherie_choo@moe.edu.sg|
+|6 Joy|Miss|Choo Xiu Min Cherie|xiu_min_cherie_choo@moe.edu.sg|
 |6 Peace|Miss|Seah Hui Ling|seah_hui_ling@moe.edu.sg|
 |6 Peace|Mr|Wang Zhigang|wang_zhigang@moe.edu.sg|
 |6 Patience|Mdm|Mok Hsui Hsui Daphne|mok_hsui_hsui_daphne@moe.edu.sg|
