@@ -93,11 +93,11 @@ description: ""
 |3 Peace|Miss|Tang Hui Jing|tang_hui_jing@moe.edu.sg|
 |3 Peace|Mr|Tan Chin Gang Dennis|denis_tan_chin_gang@moe.edu.sg|
 |3 Patience|Mdm|Nani Iryanni Binte Tajuddin|nani_iryanni_tajuddin@moe.edu.sg|
-|3 Patience|Ms|Pearlyn Lau|lau_sook_hun_pearlyn@moe.edu.sg|
+|3 Patience|Mdm|Chan Kum Chee Helen|chan_kum_chee_helen_a@moe.edu.sg|
 |3 Kindness|Mdm|Saraswathy d/o Mokhan|saraswathy_mokhan@moe.edu.sg|
 |3 Kindness|Mdm|Omanni d/o Krishnan Kutty|omanni_krishnan_kutty@moe.edu.sg|
 |3 Goodness|Ms|Wee Huixin |wee_huixin@moe.edu.sg|
-|3 Goodness|Mdm|Chua Tian|chua_tian@moe.edu.sg|
+|3 Goodness|Mdm|Chen Jiewan|chen_jiewan@moe.edu.sg|
 
 
 #### Primary 4 to 6 Form Teachers
@@ -133,7 +133,7 @@ description: ""
 |5 Goodness|Miss|Lee Ying Xuan|lee_ying_xuan@moe.edu.sg|
 |5 Goodness|Miss|Oh Ji Ji|oh_ji_ji@moe.edu.sg|
 |5 Faithfulness|Mdm|Tu Kee Wui|tu_kee_wui@moe.edu.sg|
-|5 Faithfulness|Mdm|Pang Mee Mee|pang_mee_mee@moe.edu.sg|
+|5 Faithfulness|Mdm|Ren Jing|ren_jin@moe.edu.sg|
 |5 Gentleness|Miss|Lim Ong Hong|lim_ong_hong@moe.edu.sg|
 |5 Gentleness|Miss|Lim Wen Fernn|lim_wen_fernn@moe.edu.sg|
 |6 Charity|Mrs|Amutha Samuel|dawson_f_amutha@moe.edu.sg|
