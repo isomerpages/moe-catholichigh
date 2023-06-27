@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - School Canteen (Secondary).md
-      - School Bus (Secondary).md
       - School Canteen (Primary).md
       - School Bus (Primary).md
