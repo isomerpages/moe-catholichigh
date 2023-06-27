@@ -2,5 +2,5 @@ collections:
   advertisement:
     output: true
     order:
-      - School Canteen Advertisement (Secondary).md
+      - School Canteen (Secondary).md
       - School Canteen (Primary).md
