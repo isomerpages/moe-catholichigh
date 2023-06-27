@@ -2,6 +2,7 @@ collections:
   advertisement:
     output: true
     order:
+      - School Bus (Secondary).md
       - School Bus (Primary).md
       - School Canteen (Secondary).md
       - School Canteen (Primary).md
