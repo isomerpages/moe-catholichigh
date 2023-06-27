@@ -1,10 +1,10 @@
 ---
 title: School Bus (Primary)
-permalink: /advertisement/permalink/
-description: ""
+permalink: /advertisement/school-bus-primary/
+description: SCHOOL BUS APPLICATION (Primary)
 ---
-#### School Bus Advertisement
-
+## SCHOOL BUS APPLICATION :(CLOSED)
+<!--
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**
@@ -26,3 +26,4 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **How to get there?**
 * Nearest MRT: Bishan MRT (NS17/CC15) – 11 minutes walking distance
 * Bus number: 13,52,54 and 88 – One Stop from OPP Bishan STN
+-->

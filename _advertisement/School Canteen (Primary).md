@@ -1,18 +1,16 @@
 ---
-title: School Canteen Advertisement (Secondary)
-permalink: /advertisement/sac-secondary/
-description: School Canteen Advertisement (Secondary)
+title: School Canteen (Primary)
+permalink: /advertisement/canteen-primary/
+description: SCHOOL CANTEEN APPLICATION (Primary)
 ---
-#### School Canteen Advertisement (Secondary)
-
-| Type of Stall | Closing Date | Requirements |
+|**Type of Stall**| **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Malay Food Stall | xx July 2023 | Rice/Noodle stalls are acceptable.|
+| Malay Food Stall | 31 July 2023 | Rice/Noodle stalls are acceptable.|
 
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Canteen Application form]() (Need PDF form)
+* [Canteen Application form]()
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
@@ -21,10 +19,10 @@ description: School Canteen Advertisement (Secondary)
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-* Address: Catholic High School(Secondary Section), No.9 Bishan Street 22 Singapore 579767
-* Contact No: 64582177
-* Email: chs@moe.edu.sg
-* Contact Person: Mdm Sarah Goh Puay Hong
+* Address: Catholic High School(Primary Section), No.9 Bishan Street 22 Singapore 579767
+* Contact No: 64589869
+* Email: chs_ps@moe.edu.sg
+* Contact Person: Mdm Woo Bee Cheng
 
 **How to get there?**
 * Nearest MRT: Bishan MRT (NS17/CC15) – 11 minutes walking distance
