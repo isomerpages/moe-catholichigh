@@ -3,7 +3,6 @@ title: School Canteen (Primary)
 permalink: /advertisement/canteen-primary/
 description: School Canteen (Primary)
 ---
-#### School Canteen Advertisement
 
 ## CANTEEN STALL APPLICATION :(CLOSED)
 <!--
