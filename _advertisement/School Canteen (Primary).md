@@ -6,7 +6,7 @@ description: School Canteen (Primary)
 #### School Canteen Advertisement
 
 ## CANTEEN STALL APPLICATION :(CLOSED)
-    [
+<!--
 ## CANTEEN STALL APPLICATION :(OPEN)
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
@@ -48,4 +48,4 @@ description: School Canteen (Primary)
 
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-]: #
+-->
