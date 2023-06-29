@@ -124,7 +124,6 @@ description: ""
 |4-4|Miss Adeline Ramakrishnan|adeline_ramakrishnan@moe.edu.sg|
 |4-4|Mr Ng Weiliang|ng_weiliang@moe.edu.sg|
 |4-5|Mr Nick Chui Yongtai|chui_yongtai_nick@moe.edu.sg|
-|4-5|Mdm Cai Xiaona|cai_xiaona@moe.edu.sg|
 |4-6|Miss Zheng Ling Zenia|zheng_ling_zenia@moe.edu.sg|
 |4-6|Mdm Chng Xun Qi|chng_xun_qi@moe.edu.sg|
 |4-7|Mr Kenneth Loon Kang Neng|loon_kang_neng_kenneth@moe.edu.sg|
