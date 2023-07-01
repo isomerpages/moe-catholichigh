@@ -160,5 +160,5 @@ description: ""
 |  	|  	|
 |---	|---	|
 |Miss Grace Lim Hui Wei (School Counsellor)|lim_hui_wei@moe.edu.sg|
-|Mdm Mary Neo (School Counsellor)|neo_mary@moe.edu.sg|
+|Mdm Mary Neo (Flexi-Adjunct School Counsellor)|neo_mary@moe.edu.sg|
 |Mdm Nirmala d/o Balakrishnan (Senior Special Needs Officer)|nirmala_balakrishnan@moe.edu.sg|
