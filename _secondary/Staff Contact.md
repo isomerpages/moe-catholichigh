@@ -13,14 +13,14 @@ description: ""
 
 |  	|  	|
 |---	|---	|
-|Mrs Chee-Tan Ee Sin (HOD/Character & Citizenship Education)|tan_ee_sin@moe.edu.sg|
+|Mrs Chee-Tan Ee Sin (HOD/Character &amp; Citizenship Education)|tan_ee_sin@moe.edu.sg|
 |Dr Lim Yian Hoon (HOD/Curriculum Innovation)|lim_yian_hoon@moe.edu.sg|
 |Mrs Amanda Yap (HOD/English)|amanda_lois_oei@moe.edu.sg|
 |Mr Koh Kar Loong Kenneth (HOD/Humanities)|koh_kar_loong_kenneth@moe.edu.sg|
 |Ms Ho Seok Lay (HOD/ Integrated Programme)|ho_seok_lay@moe.edu.sg|
 |Mrs Boh-Ng Hwee Hwee (HOD/Mathematics)|ng_hwee_hwee@moe.edu.sg|
 |Mr Goh Pai Shen (HOD/ Mother Tongue Language)|goh_pai_shen@moe.edu.sg|
-|Mr Yeo Joon Han (HOD/Physical Education & Co-Curricular Activities)|yeo_joon_han@moe.edu.sg|
+|Mr Yeo Joon Han (HOD/Physical Education &amp; Co-Curricular Activities)|yeo_joon_han@moe.edu.sg|
 |Mrs Lee-Teo Yee Lin (HOD/Special Assistance Plan)|teo_yee_lin@moe.edu.sg|
 |Mr Jeffrey Goh Joo Leng (HOD/Science)|goh_joo_leng_jeffrey@moe.edu.sg|
 |Mr Noel Yap Boon Howe (HOD/Student Leadership)|noel_yap_boon_howe@moe.edu.sg|
@@ -32,18 +32,18 @@ description: ""
 |Mrs Ng-Leong Se Yean (Assistant Year Head/ Upper Levels)|leong_se_yean@moe.edu.sg|
 |Mr Bernard Han Wei Yang (Discipline Master SH/Student Management)"|han_wei_yang@moe.edu.sg|
 |Mrs Lim-Seah Swee Khim (LH/Mathematics)|seah_swee_khim@moe.edu.sg|
-|Mr De Guzman Leonardo Tan (SH/Character & Citizenship Education)|de_guzman_leonardo_tan@moe.edu.sg|
+|Mr De Guzman Leonardo Tan (SH/Character &amp; Citizenship Education)|de_guzman_leonardo_tan@moe.edu.sg|
 |Miss Lee Lye Cheng Jasmine (SH/Chemistry)|lee_lye_cheng_jasmine@moe.edu.sg|
 |Mr Ng Seng Hong (SH/ Chinese Language)|ng_seng_hong@moe.edu.sg|
 |Ms Winifred Ong Peiqi (SH/English Literature)|ong_peiqi_winifred@moe.edu.sg|
 |Mr Steven Quay Kok Khiang (SH/InfoComm Technology)|steven_quay_kok_khiang@moe.edu.sg|
 |Dr Nehemiah Phua Wei Sen (SH/Physics)|nehemiah_phua@moe.edu.sg|
-|Ms Nurul Amirah Binte Ghazali (SH/ History & SS(Acting))|nurul_amirah_ghazali@moe.edu.sg|
-|Miss Zheng Ling Zenia (SH/ Physical Education(Acting))|zheng_ling_zenia@moe.edu.sg|
-|Mr Winfred Oh Hun Boon (SH/Student Leadership(Acting))|oh_hun_boon_winfred@moe.edu.sg|
+|Ms Nurul Amirah Binte Ghazali (SH/ History &amp; SS(Acting))|nurul_amirah_ghazali@moe.edu.sg|
+|Miss Zheng Ling Zenia (SH/ Physical Education)|zheng_ling_zenia@moe.edu.sg|
+|Mr Winfred Oh Hun Boon (SH/Student Leadership)|oh_hun_boon_winfred@moe.edu.sg|
 |Mrs Lau-Tang Sheng Lien Michele (LT/Geography)|tang_sheng_lien_michele@moe.edu.sg|
 |Mr Tan Ping Hock (LT/Physics)|tan_ping_hock@moe.edu.sg|
-|Mr Paul Ng Boon Leng (ST/Character & Citizenship Education)|ng_boon_leng_paul@moe.edu.sg|
+|Mr Paul Ng Boon Leng (ST/Character &amp; Citizenship Education)|ng_boon_leng_paul@moe.edu.sg|
 |Mrs Tham Poh Cheong Pearl (ST/English Language)|tham_poh_cheong_pearl@moe.edu.sg|
 |Miss Adeline Krishnan (ST/History)|adeline_ramakrishnan@moe.edu.sg|
 |Mrs Tan-Phay Mei Eng Anna (ST/Mathematics)|phay_mei_eng_anna@moe.edu.sg|
@@ -67,7 +67,6 @@ description: ""
 |1-6|Mr Adrian R W Chong|adrian_raphael_william_chong@moe.edu.sg|
 |1-7|Ms Bernice Ng Gek Lee|ng_gek_lee_bernice@moe.edu.sg|
 |1-8|Miss Althea Ong Min|althea_ong_min@moe.edu.sg|
-|1-8|Mr Mark Tan Jie-Yi|mark_tan_jie-yi@moe.edu.sg|
 |1-9|Mrs Claire Tan Jia Yuen|claire_liu@moe.edu.sg|
 |1-9|Mr Yan Wei|yan_wei@moe.edu.sg|
 
@@ -96,6 +95,7 @@ description: ""
 |---	|---	|
 | Class 	|Level 3 Form Teachers (2023) 	|
 |3-1|Mrs Ng-Leong Se Yean|leong_se_yean@moe.edu.sg|
+|3-1|Miss Nur Afiqah Binte Hamdan	|nur_afiqah_hamdan@moe.edu.sg|
 |3-2|Mr Muhammad Norhafiz Bin Samsudin|muhammad_norhafiz_samsudin@moe.edu.sg|
 |3-2|Mrs Lim-Seah Swee Khim|seah_swee_khim@moe.edu.sg|
 |3-3|Mr Suah Yee Leng|suah_yee_leng@moe.edu.sg|
@@ -124,7 +124,6 @@ description: ""
 |4-4|Miss Adeline Ramakrishnan|adeline_ramakrishnan@moe.edu.sg|
 |4-4|Mr Ng Weiliang|ng_weiliang@moe.edu.sg|
 |4-5|Mr Nick Chui Yongtai|chui_yongtai_nick@moe.edu.sg|
-|4-5|Mdm Cai Xiaona|cai_xiaona@moe.edu.sg|
 |4-6|Miss Zheng Ling Zenia|zheng_ling_zenia@moe.edu.sg|
 |4-6|Mdm Chng Xun Qi|chng_xun_qi@moe.edu.sg|
 |4-7|Mr Kenneth Loon Kang Neng|loon_kang_neng_kenneth@moe.edu.sg|
@@ -139,14 +138,20 @@ description: ""
 |  	|   |
 |---	|---	|
 |Mr Adrian Yao Zhiwei|yao_zhiwei_adrian@moe.edu.sg|
+|Miss Christine Tan Xing Yu|christine_tan_xing_yu@moe.edu.sg|
+|Mr Chua Tock Hai|chua_tock_hai_a@moe.edu.sg|
+|Miss Delia Goh Xin Yin|delia_goh_xin_yin@moe.edu.sg|
 |Mdm Elsie Fong|fong_elsie@moe.edu.sg|
-|Mrs Faith Poh-Tan Guat Ler|poh_guat_ler@moe.edu.sg|
 |Miss Lan Kailuo|lan_kailuo@moe.edu.sg|
+|Mdm Lee Yin Teng|lee_yin_teng@moe.edu.sg|
+|Mr Li Junxian|li_junxian_richard@moe.edu.sg|
+|Ms Lim Jing Yi Serene|lim_jing_yi_serene@moe.edu.sg|
 |Mdm Lu An Gui|lu_angui@moe.edu.sg|
 |Mrs Marianne Tay-Eng Siew Yin|eng_siew_yin_marianne@moe.edu.sg|
-|Mr Peeris Adrian|peeris_adrian_reginald@moe.edu.sg|
+|Ms Nirmala D/O K. Balakrishnan|nirmala_k_balakrishnan@moe.edu.sg|
 |Mrs Sharon Tan Huizhen|chong_huizhen_sharon@moe.edu.sg|
 |Ms Tan Shihui Tess|tan_shi_hui@moe.edu.sg|
+|Mr Walter Pang Gek Pang|pang_gek_pang_walter@moe.edu.sg|
 |Mdm Wong Mee Khoon|wong_mee_khoon@moe.edu.sg|
 |Ms Yasmine Chan Hoi Yin|chan_hoi_yin_yasmine@moe.edu.sg|
 
@@ -155,4 +160,5 @@ description: ""
 |  	|  	|
 |---	|---	|
 |Miss Grace Lim Hui Wei (School Counsellor)|lim_hui_wei@moe.edu.sg|
+|Mdm Mary Neo (Flexi-Adjunct School Counsellor)|neo_mary@moe.edu.sg|
 |Mdm Nirmala d/o Balakrishnan (Senior Special Needs Officer)|nirmala_balakrishnan@moe.edu.sg|

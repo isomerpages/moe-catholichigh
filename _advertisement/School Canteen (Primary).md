@@ -7,6 +7,7 @@ description: SCHOOL CANTEEN APPLICATION (Primary)
 | -------- | -------- | -------- |
 | Malay Food Stall | 31 July 2023 | Rice/Noodle stalls are acceptable.|
 
+<br><br>
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
