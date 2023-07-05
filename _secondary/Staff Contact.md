@@ -139,7 +139,7 @@ description: ""
 |---	|---	|
 |Mr Adrian Yao Zhiwei|yao_zhiwei_adrian@moe.edu.sg|
 |Miss Christine Tan Xing Yu|christine_tan_xing_yu@moe.edu.sg|
-|Mr Chua Tock Hai|chua_tock_hai_a@moe.edu.sg|
+|Mr Chua Tock Hai|chua_tock_hai@moe.edu.sg|
 |Miss Delia Goh Xin Yin|delia_goh_xin_yin@moe.edu.sg|
 |Mdm Elsie Fong|fong_elsie@moe.edu.sg|
 |Miss Lan Kailuo|lan_kailuo@moe.edu.sg|
