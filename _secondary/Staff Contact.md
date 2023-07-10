@@ -67,6 +67,7 @@ description: ""
 |1-6|Mr Adrian R W Chong|adrian_raphael_william_chong@moe.edu.sg|
 |1-7|Ms Bernice Ng Gek Lee|ng_gek_lee_bernice@moe.edu.sg|
 |1-8|Miss Althea Ong Min|althea_ong_min@moe.edu.sg|
+|1-8|Miss Afiqah Min|nur_afiqah_hamdan@moe.edu.sg|
 |1-9|Mrs Claire Tan Jia Yuen|claire_liu@moe.edu.sg|
 |1-9|Mr Yan Wei|yan_wei@moe.edu.sg|
 
@@ -83,6 +84,7 @@ description: ""
 |2-4|Mrs Liow Pei Yun|low_pei_yun@moe.edu.sg|
 |2-4|Miss Leung Xiao Qing Amy|leung_xiao_qing@moe.edu.sg|
 |2-5|Miss Hsu Li-Wen|hsu_li-wen@moe.edu.sg|
+|2-5|Miss Lan Kailuo|lan_kailuo@moe.edu.sg |
 |2-6|Mdm Xie Xiaowen|xie_xiaowen@moe.edu.sg|
 |2-7|Miss Tnay Huifang Priscilla|tnay_huifang_priscilla@moe.edu.sg|
 |2-8|Mrs Poon Chew Wei|leong_chew_wei@moe.edu.sg|
