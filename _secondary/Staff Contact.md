@@ -142,7 +142,6 @@ description: ""
 |Miss Christine Tan Xing Yu|christine_tan_xing_yu@moe.edu.sg|
 |Mr Chua Tock Hai|chua_tock_hai@moe.edu.sg|
 |Mr Dave Sim Chong Bian|sim_chong_bian_dave@moe.edu.sg|
-|Miss Delia Goh Xin Yin|delia_goh_xin_yin@moe.edu.sg|
 |Mdm Elsie Fong|fong_elsie@moe.edu.sg|
 |Mdm Lee Yin Teng|lee_yin_teng@moe.edu.sg|
 |Mr Li Junxian|li_junxian_richard@moe.edu.sg|
