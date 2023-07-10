@@ -67,6 +67,7 @@ description: ""
 |1-6|Mr Adrian R W Chong|adrian_raphael_william_chong@moe.edu.sg|
 |1-7|Ms Bernice Ng Gek Lee|ng_gek_lee_bernice@moe.edu.sg|
 |1-8|Miss Althea Ong Min|althea_ong_min@moe.edu.sg|
+|1-8|Miss Nur Afiqah Binte Hamdan|nur_afiqah_hamdan@moe.edu.sg|
 |1-9|Mrs Claire Tan Jia Yuen|claire_liu@moe.edu.sg|
 |1-9|Mr Yan Wei|yan_wei@moe.edu.sg|
 
@@ -83,6 +84,7 @@ description: ""
 |2-4|Mrs Liow Pei Yun|low_pei_yun@moe.edu.sg|
 |2-4|Miss Leung Xiao Qing Amy|leung_xiao_qing@moe.edu.sg|
 |2-5|Miss Hsu Li-Wen|hsu_li-wen@moe.edu.sg|
+|2-5|Miss Lan Kailuo|lan_kailuo@moe.edu.sg |
 |2-6|Mdm Xie Xiaowen|xie_xiaowen@moe.edu.sg|
 |2-7|Miss Tnay Huifang Priscilla|tnay_huifang_priscilla@moe.edu.sg|
 |2-8|Mrs Poon Chew Wei|leong_chew_wei@moe.edu.sg|
@@ -95,21 +97,20 @@ description: ""
 |---	|---	|
 | Class 	|Level 3 Form Teachers (2023) 	|
 |3-1|Mrs Ng-Leong Se Yean|leong_se_yean@moe.edu.sg|
-|3-1|Miss Nur Afiqah Binte Hamdan	|nur_afiqah_hamdan@moe.edu.sg|
 |3-2|Mr Muhammad Norhafiz Bin Samsudin|muhammad_norhafiz_samsudin@moe.edu.sg|
 |3-2|Mrs Lim-Seah Swee Khim|seah_swee_khim@moe.edu.sg|
 |3-3|Mr Suah Yee Leng|suah_yee_leng@moe.edu.sg|
 |3-4|Mrs Tai Pei Shan|wu_pei_shan@moe.edu.sg|
 |3-5|Ms Sonia How Kai Tong|how_kai_tong_sonia@moe.edu.sg|
+|3-5|Mdm Wang Yichun|wang_yichun@moe.edu.sg|
 |3-6|Mrs Chew Soak Cheng|tan_soak_cheng@moe.edu.sg|
 |3-6|Mr Tan Wai Mun Danny|danny_tan_wai_mun@moe.edu.sg|
 |3-7|Miss Syuhaida Binte Dol Mat|syuhaida_dol_mat@moe.edu.sg|
 |3-8|Ms Chua Wee Nee|chua_wee_nee@moe.edu.sg|
 |3-8|Miss Lee Lye Cheng Jasmine|lee_lye_cheng_jasmine@moe.edu.sg|
-|3-9|Mdm Wang Yichun|wang_yichun@moe.edu.sg|
 |3-9|Mr Paul Lee Chow Tong|lee_chow_tong_paul@moe.edu.sg|
 |3-10|Mdm Bai Xiao Fen Hannah|low-bai_xiao_fen@moe.edu.sg|
-|3-10|Mr Dave Sim Chong Bian|sim_chong_bian_dave@moe.edu.sg|
+|3-10|Miss Delia Goh|delia_goh_xin_yin@moe.edu.sg|
 
 #### Level 4 Form Teachers (2023)
 
@@ -140,9 +141,9 @@ description: ""
 |Mr Adrian Yao Zhiwei|yao_zhiwei_adrian@moe.edu.sg|
 |Miss Christine Tan Xing Yu|christine_tan_xing_yu@moe.edu.sg|
 |Mr Chua Tock Hai|chua_tock_hai@moe.edu.sg|
+|Mr Dave Sim Chong Bian|sim_chong_bian_dave@moe.edu.sg|
 |Miss Delia Goh Xin Yin|delia_goh_xin_yin@moe.edu.sg|
 |Mdm Elsie Fong|fong_elsie@moe.edu.sg|
-|Miss Lan Kailuo|lan_kailuo@moe.edu.sg|
 |Mdm Lee Yin Teng|lee_yin_teng@moe.edu.sg|
 |Mr Li Junxian|li_junxian_richard@moe.edu.sg|
 |Ms Lim Jing Yi Serene|lim_jing_yi_serene@moe.edu.sg|
