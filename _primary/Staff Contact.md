@@ -95,7 +95,7 @@ description: ""
 |3 Patience|Mdm|Nani Iryanni Binte Tajuddin|nani_iryanni_tajuddin@moe.edu.sg|
 |3 Patience|Mdm|Chan Kum Chee Helen|chan_kum_chee_helen_a@moe.edu.sg|
 |3 Kindness|Mdm|Saraswathy d/o Mokhan|saraswathy_mokhan@moe.edu.sg|
-|3 Kindness|Mdm|Omanni d/o Krishnan Kutty|omanni_krishnan_kutty@moe.edu.sg|
+|3 Kindness|Miss|Eng Li Li |eng_li_li@moe.edu.sg|
 |3 Goodness|Ms|Wee Huixin |wee_huixin@moe.edu.sg|
 |3 Goodness|Mdm|Chen Jiewan|chen_jiewan@moe.edu.sg|
 
