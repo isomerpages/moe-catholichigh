@@ -133,7 +133,7 @@ description: ""
 |5 Goodness|Miss|Lee Ying Xuan|lee_ying_xuan@moe.edu.sg|
 |5 Goodness|Miss|Oh Ji Ji|oh_ji_ji@moe.edu.sg|
 |5 Faithfulness|Mdm|Tu Kee Wui|tu_kee_wui@moe.edu.sg|
-|5 Faithfulness|Mdm|Ren Jing|ren_jin@moe.edu.sg|
+|5 Faithfulness|Mdm|Ren Jing|ren_jing@moe.edu.sg|
 |5 Gentleness|Miss|Lim Ong Hong|lim_ong_hong@moe.edu.sg|
 |5 Gentleness|Miss|Lim Wen Fernn|lim_wen_fernn@moe.edu.sg|
 |6 Charity|Mrs|Amutha Samuel|dawson_f_amutha@moe.edu.sg|
