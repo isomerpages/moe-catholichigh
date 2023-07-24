@@ -5,7 +5,7 @@ description: SCHOOL CANTEEN APPLICATION (Primary)
 ---
 |**Type of Stall**| **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Malay Food Stall | 31 July 2023 | Rice/Noodle stalls are acceptable.|
+| Malay Food Stall | 31 Aug 2023 | Rice/Noodle stalls are acceptable.|
 
 <br><br>
 **Application Procedure**
