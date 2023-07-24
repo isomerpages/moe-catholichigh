@@ -50,11 +50,4 @@ sections:
       url: /President-Scouts-Award/
       image: /images/Scout President Award.jpeg
       alt: Image alt text
-  - infopic:
-      title: Get official answers from our Q&A Platform
-      subtitle: Have a question?
-      button: VIEW OR ASK QUESTIONS ON ASK.GOV
-      url: https://ask.gov.sg/chs#home
-      image: /images/chs-askgov.png
-      alt: Image alt text
 ---
