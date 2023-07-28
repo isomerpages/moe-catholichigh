@@ -5,7 +5,12 @@ description: ""
 ---
 Frequently Asked Questions (Secondary Section)
 ----------------------------------------------
+Head over to our [Q&amp;A Platform](https://ask.gov.sg/chs-sec) for our latest FAQs:
+<a href="https://ask.gov.sg/chs-sec"><img src="images/chs-askgov.png">
 
+
+
+-----
 **This page documents frequently asked questions from prospective parents and students about our school, admission and DSA.** 
 
 You can scroll through the page or search for questions by typing "Ctrl-F" (search function of your browser) and searching by keywords (e.g. "fees"). Click on the links below to jump to the relevant section:
@@ -197,4 +202,4 @@ You can read some of the frequently asked questions in the following downloadabl
 
 *   [FAQs for Level 2 Subject Streaming](/files/faq_2023_streaming.pdf)
 
-Last updated 11 May 2023
+Last updated 11 May 2023</a>
