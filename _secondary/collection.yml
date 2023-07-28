@@ -2,7 +2,6 @@ collections:
   secondary:
     output: true
     order:
-      - Have a Question?.md
       - Prospectus.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Overview.md
