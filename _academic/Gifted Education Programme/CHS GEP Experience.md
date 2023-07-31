@@ -21,3 +21,5 @@ The Gifted Education department in Catholic High School strives to provide a hol
 #### DEPARTMENT PHILOSOPHY
 
 As educators of young gentlemen, we passionately believe in harnessing positive education to cultivate intrinsically motivated individuals with life-long learning habits. We endeavour to inculcate values and impart knowledge through the enriched curriculum to develop our pupils, equip them with the necessary skill-set to navigate the changing landscape of the future and to become responsible leaders who have a strong social conscience and commitment to serve others.
+
+![CHS GEP Experience](/images/Primary/GEP/gep_experience.jpeg)
