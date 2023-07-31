@@ -6,19 +6,6 @@ third_nav_title: Gifted Education Programme
 ---
 ### CHS Character Development Programme
 
-#### 7 Habits of Happy Kids
-
-In Catholic High School (Primary), we believe in nurturing our pupils holistically. Hence, we focused on developing our gentlemen through the 7 Habits of Kids by Sean Covey through our CCE lessons, FTGP lessons and daily interactions in class.
-
-1\.  Be Proactive <Br>
-2.  Begin with the End in Mind<Br>
-3.  Put First Things First <br>
-4.  Think Win Win<br>
-5.  Seek First to Understand, Then to Be Understood <br>
-6.  Synergize<br>
-7.  Sharpen the Saw
-
-The pupils were taught explicitly and given opportunities to practice and reflect on the habits through their daily tasks, activities and school events.
 
 #### Learning Beyond the Classroom
 
@@ -28,7 +15,7 @@ At CHS, outdoor education also plays an important role for our GEP pupils. We be
 
 <img src="/images/gep1.png" style="width:60%">
 
-##### P6 Science LJ  to Demolab @ NUS
+##### P6 Science&nbsp;LJ &nbsp;to Demolab @ NUS
 
 <img src="/images/gep2.png" style="width:60%">
 
@@ -36,15 +23,15 @@ At CHS, outdoor education also plays an important role for our GEP pupils. We be
 
 <img src="/images/gep3.png" style="width:60%">
 
-##### Listening Intently @P4  Science  LJ
+##### Listening Intently @P4 &nbsp;Science &nbsp;LJ
 
 <img src="/images/gep4.png" style="width:60%">
 
-##### LJ to watch coraline –  A Theatre Performance
+##### LJ to watch coraline – &nbsp;A Theatre Performance
 
 <img src="/images/gep5.png" style="width:60%">
 
-##### Outdoor Education @National Gallery Singapore
+##### Outdoor Education @National&nbsp;Gallery Singapore
 
 <img src="/images/gep6.png" style="width:60%">
 

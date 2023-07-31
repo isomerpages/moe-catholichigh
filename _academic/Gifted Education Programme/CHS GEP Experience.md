@@ -16,10 +16,8 @@ The Catholic High GEP gentleman is a morally upright and effectively bilingual i
 
 #### DEPARTMENT MISSION
 
-To provide a quality and holistic educational experience to all our pupils by striving to balance the rigor of the enriched GE curriculum with the importance of values education.
-
-To develop in our young gentlemen, the capacity to serve and excel in the VUCA world.
+The Gifted Education department in Catholic High School strives to provide a holistic educational experience that prepares our Catholic High Gentlemen for success in both academic and affective domains. We are committed to fostering morally upright and effective bilingual individuals, who are dedicated to continuous self-improvement as servant leaders and critical thinkers.
 
 #### DEPARTMENT PHILOSOPHY
 
-We believe that each pupil has his own talents. Coupled with a rigorous curriculum and caring environment that encourages creativity and critical thinking, the pupils’ talents are recognized, nurtured and ultimately, developed to help them on their journey to become responsible leaders who have a strong social conscience and commitment to serve others.
+As educators of young gentlemen, we passionately believe in harnessing positive education to cultivate intrinsically motivated individuals with life-long learning habits. We endeavour to inculcate values and impart knowledge through the enriched curriculum to develop our pupils, equip them with the necessary skill-set to navigate the changing landscape of the future and to become responsible leaders who have a strong social conscience and commitment to serve others.
