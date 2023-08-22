@@ -68,7 +68,7 @@ description: ""
 |1 Goodness|Mdm|Yeo Xue Ting|yeo_xue_ting@moe.edu.sg|
 |1 Faithfulness|Miss|Jaclyn Marissa Watson|jaclyn_marissa_watson@moe.edu.sg|
 |1 Faithfulness|Mdm|Tan Li Ying|tan_li_ying@moe.edu.sg|
-|1 Gentleness|Mdm|Cheong Ju Li Geraldine|cheong_ju_li_geraldine@moe.edu.sg|
+|1 Gentleness|Miss|Shahana Mol|shahana_mol@moe.edu.sg|
 |1 Gentleness|Mr|How Peng Peng|how_peng_peng@moe.edu.sg|
 |2 Charity|Mdm|Phua Loke Lin|phua_loke_lin@moe.edu.sg|
 |2 Charity|Mdm|Hea Sor Hoon|hea_sor_hoon@moe.edu.sg|
@@ -116,7 +116,7 @@ description: ""
 |4 Kindness|Mdm|Chan Siew Hwee Joyce|joyce_chan_siew_hwee@moe.edu.sg|
 |4 Goodness|Miss|Eileen Tay|eileen_tay@moe.edu.sg|
 |4 Goodness|Mdm|Sun Weiling|Sun_Weiling@moe.edu.sg|
-|4 Faithfulness|Mrs|Adrianna Chiew-Ngern Cheng Yi|adrianna_ngern_cheng_yi@moe.edu.sg|
+|4 Faithfulness|Mdm|Ren Jing|ren_jing@moe.edu.sg|
 |4 Faithfulness|Mr|Lai Chee Keen|lai_chee_keen@moe.edu.sg|
 |4 Gentleness|Mr|Revinesh s/o K. Kanaiah|revinesh_k_kanaiah@moe.edu.sg|
 |4 Gentleness|Miss|Chia Hsu San Suzanne|chia_hsu_san_suzanne@moe.edu.sg|
@@ -133,7 +133,7 @@ description: ""
 |5 Goodness|Miss|Lee Ying Xuan|lee_ying_xuan@moe.edu.sg|
 |5 Goodness|Miss|Oh Ji Ji|oh_ji_ji@moe.edu.sg|
 |5 Faithfulness|Mdm|Tu Kee Wui|tu_kee_wui@moe.edu.sg|
-|5 Faithfulness|Mdm|Ren Jing|ren_jing@moe.edu.sg|
+|5 Faithfulness|Mdm|Chen Jiewan|chen_jiewan@moe.edu.sg|
 |5 Gentleness|Miss|Lim Ong Hong|lim_ong_hong@moe.edu.sg|
 |5 Gentleness|Miss|Lim Wen Fernn|lim_wen_fernn@moe.edu.sg|
 |6 Charity|Mrs|Amutha Samuel|dawson_f_amutha@moe.edu.sg|
@@ -169,7 +169,6 @@ description: ""
 |Mdm|Ng Sui San (SEN Officer)|ng_sui_san@moe.edu.sg|
 |Mdm|Ng Lian Huay|ng_lian_huay@moe.edu.sg|
 |Mrs|Rebekah Sim|rebekah_sim@moe.edu.sg|
-|Miss|Shahana Mol|shahana_mol@moe.edu.sg|
 |Miss|Teo Shu Lin Jacinta|teo_shu_lin_jacinta@moe.edu.sg|
 |Mr|Theng Siming (Senior School Counsellor)|theng_siming@moe.edu.sg|
 |Mdm|Teng Meow Kheng|teng_meow_kheng@moe.edu.sg|
