@@ -67,8 +67,14 @@ links:
     sublinks:
       - title: Student Learning Space (SLS)
         url: https://vle.learning.moe.edu.sg/login
+      - title: Student iCON
+        url: https://workspace.google.com/dashboard
       - title: MySkillsFuture Portal
         url: https://www.myskillsfuture.gov.sg/secondary
+      - title: CHS Helpdesk (Primary)
+        url: https://go.gov.sg/chshelpdesk
+      - title: CHS Helpdesk (Secondary)
+        url: https://go.gov.sg/chspasswordreset
       - title: Parents Gateway
         url: https://pg.moe.edu.sg/
       - title: PE & CCA Safety Guidelines
