@@ -160,6 +160,7 @@ description: ""
 |Miss|Balwinder O Gill|balwinder_kaur@moe.edu.sg|
 |Mr|Chan Soon Huat John|chan_soon_huat_john@moe.edu.sg|
 |Mdm|Chan Kum Chee Helen|chan_kum_chee_helen_a@moe.edu.sg|
+|Mr|Chan Yin Kong|chan_yin_kong@moe.edu.sg|
 |Mdm|Chen Jiewan|chen_jiewan@moe.edu.sg|
 |Mdm|Heng Chor Choo Eunice|heng_chor_choo_eunice@moe.edu.sg|
 |Mdm|Ho Si Yan Gereldinne (SEN Officer)|ho_si_yan_gereldinne@moe.edu.sg|
@@ -167,7 +168,6 @@ description: ""
 |Mdm|Khong Kay Lim|khong_kay_lim@moe.edu.sg|
 |Ms|Kim Christine Lim Mui Khim|kim_christine_lim_mui@moe.edu.sg|
 |Mdm|Ng Sui San (SEN Officer)|ng_sui_san@moe.edu.sg|
-|Mdm|Ng Lian Huay|ng_lian_huay@moe.edu.sg|
 |Mrs|Rebekah Sim|rebekah_sim@moe.edu.sg|
 |Miss|Teo Shu Lin Jacinta|teo_shu_lin_jacinta@moe.edu.sg|
 |Mr|Theng Siming (Senior School Counsellor)|theng_siming@moe.edu.sg|
