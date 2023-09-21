@@ -20,6 +20,12 @@ sections:
       button: Click Here to find out more!
       url: /prospective-students/Sec-Admission/direct-school-admission/
   - infopic:
+      title: READY FOR SCHOOL KIT 2024
+      subtitle: LATEST NEWS
+      id: infopic
+      image: /images/ready for school kit 2024.png
+      alt: Image alt text
+  - infopic:
       title: CHS FAMILY DAY & HOMECOMING
       subtitle: CHS Family Day & Homecoming
       description: Come home to 公教 on 1 July 2023 from 8.30am - 3pm! For  公教 by  公教,
