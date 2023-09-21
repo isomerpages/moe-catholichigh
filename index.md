@@ -50,4 +50,11 @@ sections:
       url: /President-Scouts-Award/
       image: /images/Scout President Award.jpeg
       alt: Image alt text
+  - infopic:
+      title: READY FOR SCHOOL KIT 2024
+      subtitle: LATEST NEWS
+      id: infopic
+      description: The Central Singapore CDC offers the programme…
+      image: /images/ready for school kit 2024.png
+      alt: Image alt text
 ---
