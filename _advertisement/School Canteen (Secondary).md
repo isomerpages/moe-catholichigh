@@ -3,8 +3,8 @@ title: School Canteen (Secondary)
 permalink: /advertisement/sac-secondary/
 description: School Canteen (Secondary)
 ---
-## CANTEEN STALL APPLICATION :(Pending)
-
+## CANTEEN STALL APPLICATION :(CLOSED)
+<!--
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Malay Food Stall | xx July 2023 | Rice/Noodle stalls are acceptable.|
