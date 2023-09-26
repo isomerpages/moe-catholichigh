@@ -28,10 +28,10 @@ third_nav_title: Gifted Education Programme
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z3VUxSbTbpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**Voice of P6 Pupils：<br> Our GEP Programme&nbsp;@ CHS** <br> 
+**Voice of P6 Pupils：<br> Our GEP Programme \@ CHS** <br> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RXclJ9iFYyY" title="Pupils seg2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**Voice of P6 Pupils：<br> Our experiences @ CHS** <br>
+**Voice of P6 Pupils：<br> Our experiences \@ CHS** <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sJ08_OYfzHY" title="Pupils seg3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>	<br>
 
 **Individual Research Study Showcase** 	
