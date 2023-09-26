@@ -1,10 +1,10 @@
 ---
-title: School Canteen (Secondary)
-permalink: /advertisement/canteen-secondary/
-description: School Canteen (Secondary)
+title: SCA For review
+permalink: /sca4review/
+description: this is for review purpose
 ---
 ## CANTEEN STALL APPLICATION :(CLOSED)
-<!--
+
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Malay Food Stall | xx July 2023 | Rice/Noodle stalls are acceptable.|
@@ -45,4 +45,3 @@ description: School Canteen (Secondary)
 
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
--->
