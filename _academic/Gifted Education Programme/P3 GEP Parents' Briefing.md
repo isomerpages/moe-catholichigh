@@ -45,5 +45,5 @@ third_nav_title: Gifted Education Programme
 
 |  	|  	|
 |---	|---	|
-|&nbsp;**To understand what their big brother doing in secondary school, please visit our CHS Open House 2021**  	| <a href="https://staging.d26k7rl81eo6rb.amplifyapp.com/prospective-students/open-house/"><img style="width:25%" src="/images/gep15.png"></a> 	|
+|&nbsp;**To understand what their big brother doing in secondary school, please visit our CHS Open House**  	| <a href="https://staging.d26k7rl81eo6rb.amplifyapp.com/prospective-students/open-house/"><img style="width:25%" src="/images/gep15.png"></a> 	|
 | **To understand more about the school, PSG and Alumni, please LIKE our Facebook pages** 	| <a href="https://www.facebook.com/chs.gongjiao/"><img style="width:25%" src="/images/gep16.png"></a><a href="https://www.facebook.com/psg.chs/"><img style="width:25%" src="/images/gep17.png"></a><a href="https://www.facebook.com/catholichighalumni/"><img style="width:25%" src="/images/gep18.png"></a> 	|
