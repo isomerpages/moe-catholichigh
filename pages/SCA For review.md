@@ -3,8 +3,6 @@ title: SCA For review
 permalink: /sca4review/
 description: this is for review purpose
 ---
-## CANTEEN STALL APPLICATION :
-
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Muslim Food (Rice, Western or Fusion) | 13 October 2023 | NIL|
