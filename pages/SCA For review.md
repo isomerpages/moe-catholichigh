@@ -3,7 +3,7 @@ title: SCA For review
 permalink: /sca4review/
 description: this is for review purpose
 ---
-## CANTEEN STALL APPLICATION :(CLOSED)
+## CANTEEN STALL APPLICATION :
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
