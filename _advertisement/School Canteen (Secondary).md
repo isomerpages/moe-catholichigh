@@ -3,6 +3,11 @@ title: School Canteen (Secondary)
 permalink: /advertisement/canteen-secondary/
 description: School Canteen (Secondary)
 ---
+Catholic High School (Sec) is a single session school with an estimated enrolment of 1216 student and about 130 staff.  
+
+Our canteen operates from Mondays to Fridays, 6.00am to 3.00pm during the school term. We have a canteen stall vacancy details as follow.
+
+
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Muslim Food (Rice, Western or Fusion) | 13 October 2023 | NIL|
