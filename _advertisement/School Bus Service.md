@@ -17,4 +17,4 @@ Fax: 6268 6620
 
 The School Bus Operator shall consider on a best-efforts basis whether it can provide the services for distances more than 6km and agree with the Parent on an acceptable bus fare. However, the School Bus Operator shall not be deemed to be in breach of this Agreement if it fails to provide the Services.
 
-[Bus fares wef 1 Jan 2024]
+[Bus fares wef 1 Jan 2024](/files/Primary/bus%20fares_tong%20tar_1%20jan%202024_final.pdf)
