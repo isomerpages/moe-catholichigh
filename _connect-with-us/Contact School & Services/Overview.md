@@ -68,6 +68,7 @@ Fax: (65) 6268 6620
 Email: transport@tongtar.com  
 Website: https://www.tongtar.com/
 
+[Bus fares wef 1 Jan 2024](/files/Primary/bus%20fares_tong%20tar_1%20jan%202024_final.pdf)
 #### Dental Clinic
 
 ##### Catholic High School Dental Clinic 
