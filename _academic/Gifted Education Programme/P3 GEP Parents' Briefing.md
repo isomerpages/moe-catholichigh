@@ -9,7 +9,7 @@ third_nav_title: Gifted Education Programme
 |  	|  	|
 |---	|---	|
 |  **P3 GEP Parents’ Briefing eBooklet**	| <a href="https://drive.google.com/file/d/1oRazZykWMwhY9BhaS375GXmvxi7zpt2I/view?usp=sharing"><img style="width:45%" src="/images/gep13.png"></a> 	|
-|  **P3 Parents’ Briefing Consolidated Q and A**	|  <a href="https://for.edu.sg/p3parentsbriefingchsp"><img style="width:25%" src="/images/gep14.png"></a>	|
+|  **P3 Parents’ Briefing Consolidated Q and A**	|  <a href="https://tinyurl.com/u8pn4xjf"><img style="width:25%" src="/images/gep14.png"></a>	|
 | 
 
 **CHS humble history**
