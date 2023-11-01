@@ -10,7 +10,7 @@ This 3-year enriched Higher Chinese (eHCL) Programme runs from Primary 4 to Prim
 
 The eHCL Programme is conducted during curriculum time, together with pupils in the Gifted Education Programme. This allows for more diverse interactions and engaging discussions for all our pupils. The class size for this programme is about 30 pupils and movement between teaching venues is to be expected. Pupils in the eHCL programme continue to sit for the same set of school-based assessment as their Primary 4 peers who are taking Higher Chinese.
 
-![The eHCL Programme @ CHS](/images/Primary/GEP/GEP%20Signature%20Programmes/the%20ehcl%20programme%20@%20chs.jpg)
+
 
 Here are some examples of the learning experiences for pupils in the eHCL programme:
 ##### <span style="color:green;">Pupils designed board games for P4 Reading Carnival</span> 
