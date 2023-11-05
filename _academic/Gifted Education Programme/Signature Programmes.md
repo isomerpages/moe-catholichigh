@@ -3,6 +3,7 @@ title: Signature Programmes
 permalink: /academic/Gifted-Education-Programme/singature-programmes/
 description: ""
 third_nav_title: Gifted Education Programme
+variant: markdown
 ---
 ### <span style="color:green;">The eHCL Programme @ CHS</span>
 
@@ -50,7 +51,7 @@ Here are some examples of the learning experiences for pupils in the eHCL progra
 
 
 ##### <span style="color:green;">Learning Beyond the Classroom</span>
-At CHS, <span style="color:red;">having the opportunity to learn beyond the classroom</span> plays an important role for our GEP pupils. We believe that learning is not just confined to the four walls of the classroom; experiential learning goes beyond that so as to contextualise pupils’ learning back in school and to broaden their horizons. Here are some Learning Journeys <span style="color:red;">and fun activities</span> that our pupils have <span style="color:red;">taken part in.</span>
+At CHS, having the opportunity to learn beyond the classroom plays an important role for our GEP pupils. We believe that learning is not just confined to the four walls of the classroom; experiential learning goes beyond that so as to contextualise pupils’ learning back in school and to broaden their horizons. Here are some Learning Journeys and fun activities that our pupils have taken part in.
 
 ##### <span style="color:black;">Physic to Excite (Having experiment at NUSH science lab)</span>
 
