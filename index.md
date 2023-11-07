@@ -26,23 +26,6 @@ sections:
       image: /images/ready for school kit 2024.png
       alt: Image alt text
   - infopic:
-      title: CHS FAMILY DAY & HOMECOMING
-      subtitle: CHS Family Day & Homecoming
-      description: Come home to 公教 on 1 July 2023 from 8.30am - 3pm! For  公教 by  公教,
-        expect a day of fun, reconnection and brotherhood! See you there!
-      button: Find out more
-      url: https://go.gov.sg/chsfamilydayhomecoming
-      image: /images/chs family homecoming 2023.jfif
-      alt: Image alt text
-  - infopic:
-      title: Open House 2023
-      subtitle: INVIGORATE@CATHOLIC HIGH SCH
-      description: 13 May 2023 (Sat) 9am - 12pm
-      button: Read more here
-      url: /prospective-students/open-house/
-      image: /images/open house ppt (9to16)_final.jpg
-      alt: Image alt text
-  - infopic:
       title: "Hope Hub: An Intelligent Bot to provide timely help!"
       subtitle: LATEST NEWS
       button: READ MORE HERE
@@ -56,4 +39,9 @@ sections:
       url: /President-Scouts-Award/
       image: /images/Scout President Award.jpeg
       alt: Image alt text
+  - infopic:
+      title: Bishan-Toa Payoh and Marymount Grassroots Bursary Award 2024
+      id: infopic
+      image: /images/community bursary award 2024.png
+      alt: Community Bursary Award 2024
 ---
