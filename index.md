@@ -41,7 +41,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Bishan-Toa Payoh and Marymount Grassroots Bursary Award 2024
-      subtitle: Add an image and text
       id: infopic
       image: /images/community bursary award 2024.png
       alt: Community Bursary Award 2024
