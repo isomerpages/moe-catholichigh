@@ -20,7 +20,7 @@ sections:
       description: |-
         24 Nov 2023 - 9AM - 12PM
         Invigorate @ Catholic High School!
-      button: Click here for more infor
+      button: Click here for more info
       url: https://www.catholichigh.moe.edu.sg/prospective-students/open-house/
       image: /images/Secondary/chs info day 2023 motd-01.jpg
       alt: Image alt text
