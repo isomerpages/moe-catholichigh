@@ -2,10 +2,9 @@
 title: Open House
 permalink: /prospective-students/open-house/
 description: ""
+variant: markdown
 ---
-![](/images/open%20house%20ppt%20(9to16)_final.jpg)
-
-![](/images/chs%20open%20house%20program%202023.jpeg)
+![Information Day 2023 - 24 Nov 9AM - 1PM](/images/Secondary/chs%20info%20day%202023%20motd-01.jpg)
 
 ![](/images/chs%20oh%202023%20direction%20and%20parking.jpeg)
 

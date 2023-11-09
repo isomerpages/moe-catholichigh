@@ -13,18 +13,30 @@ sections:
           description: ""
           url: /prospective-students/prospectus-sec/overview/
       title: Catholic High  School
-  - infobar:
-      title: 2023 Direct School Admission – Secondary (DSA-Sec) Exercise
+  - infopic:
+      title: Information Day 2023
       subtitle: Latest News
-      description: Want to join CHS(Secondary) via DSA?
-      button: Click Here to find out more!
-      url: /prospective-students/Sec-Admission/direct-school-admission/
+      id: infopic
+      description: |-
+        24 Nov 2023 - 9AM - 1PM
+
+        Invigorate @ Catholic High School!
+      button: Click here for more info
+      url: https://www.catholichigh.moe.edu.sg/prospective-students/open-house/
+      image: /images/Secondary/chs info day 2023 motd-01.jpg
+      alt: Image alt text
   - infopic:
       title: READY FOR SCHOOL KIT 2024
       subtitle: LATEST NEWS
       id: infopic
       image: /images/ready for school kit 2024.png
       alt: Image alt text
+  - infobar:
+      title: 2023 Direct School Admission – Secondary (DSA-Sec) Exercise
+      subtitle: Latest News
+      description: Want to join CHS(Secondary) via DSA?
+      button: Click Here to find out more!
+      url: /prospective-students/Sec-Admission/direct-school-admission/
   - infopic:
       title: "Hope Hub: An Intelligent Bot to provide timely help!"
       subtitle: LATEST NEWS

@@ -3,12 +3,13 @@ title: P3 GEP Parents' Briefing
 permalink: /academic/Gifted-Education-Programme/p3-gep-parents-briefing/
 description: ""
 third_nav_title: Gifted Education Programme
+variant: markdown
 ---
 ### P3 GEP Parents’ Briefing
 
 |  	|  	|
 |---	|---	|
-|  **P3 GEP Parents’ Briefing eBooklet**	| <a href="https://drive.google.com/file/d/1oRazZykWMwhY9BhaS375GXmvxi7zpt2I/view?usp=sharing"><img style="width:45%" src="/images/gep13.png"></a> 	|
+|  **P3 GEP Parents’ Briefing eBooklet**	|[ ![](/images/gep13.png)](/files/Primary/GEP/p3_parent_briefing_booklet_2023.pdf)	|
 |  **P3 Parents’ Briefing Consolidated Q and A**	|  <a href="https://for.edu.sg/p3parentsbriefingchsp"><img style="width:25%" src="/images/gep14.png"></a>	|
 | 
 
