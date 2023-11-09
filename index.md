@@ -18,7 +18,7 @@ sections:
       subtitle: Latest News
       id: infopic
       description: |-
-        24 Nov 2023 - 9AM - 12PM
+        24 Nov 2023 - 9AM - 1PM
 
         Invigorate @ Catholic High School!
       button: Click here for more info
