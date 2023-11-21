@@ -43,12 +43,12 @@ They will require a pass in the Selection Exercise by the school, consisting of:
 *   An e-listening test on Western and Non-Western music traditions
 *   A performance audition of 2 contrasting solo pieces on an instrument or voice, with a total duration of 5 to 10 minutes
 
-The Selection Exercise for 2024 Level 1 CHS MEP::
+The Selection Exercise for 2024 Level 1 CHS MEP:
 
 Tuesday, 26 December 2023, 9.00am: Submission deadline for MEP&nbsp;[applications](https://go.gov.sg/2023chsmep)
 
 Thursday, 28 December 2023, 2.00 - 2.30pm: MEP briefing for all applicants and 1 parent / guardian
-Parents / Guardians may leave after the briefing and fetch their son / ward after the audition
+<br>Parents / Guardians may leave after the briefing and fetch their son / ward after the audition
 
 Thursday, 28 December 2023, 2.30pm: MEP Selection listening test, audition and interview
 
