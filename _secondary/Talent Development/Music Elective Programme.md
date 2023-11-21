@@ -48,7 +48,7 @@ The Selection Exercise for 2024 Level 1 CHS MEP:
 Tuesday, 26 December 2023, 9.00am: Submission deadline for MEP&nbsp;[applications](https://go.gov.sg/2023chsmep)
 
 Thursday, 28 December 2023, 2.00 - 2.30pm: MEP briefing for all applicants and 1 parent / guardian
-<br>Parents / Guardians may leave after the briefing and fetch their son / ward after the audition
+<br>Parents / Guardians may leave after the briefing and fetch their son / ward after the audition.
 
 Thursday, 28 December 2023, 2.30pm: MEP Selection listening test, audition and interview
 
