@@ -2,10 +2,11 @@
 title: School Canteen (Primary)
 permalink: /advertisement/canteen-primary/
 description: SCHOOL CANTEEN APPLICATION (Primary)
+variant: markdown
 ---
 |**Type of Stall**| **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Malay Food Stall | 30 Nov 2023 | Rice/Noodle stalls are acceptable.|
+| Malay Food Stall | 30 June 2024 | Rice/Noodle stalls are acceptable.|
 
 <br><br>
 **Application Procedure**

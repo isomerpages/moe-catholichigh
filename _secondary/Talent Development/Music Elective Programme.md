@@ -3,6 +3,7 @@ title: Music Elective Programme
 permalink: /secondary/Talent-Development/music-elective-programme/
 description: ""
 third_nav_title: Talent Development
+variant: markdown
 ---
 ### The Music Elective Programme
 
@@ -39,16 +40,18 @@ To apply for MEP, applicants must
 
 They will require a pass in the Selection Exercise by the school, consisting of:
 
-*   *   An e-listening test on Western and Non-Western music traditions
+*   An e-listening test on Western and Non-Western music traditions
 *   A performance audition of 2 contrasting solo pieces on an instrument or voice, with a total duration of 5 to 10 minutes
 
-The Selection Exercise for 2023 Level 1 CHS MEP::
+The Selection Exercise for 2024 Level 1 CHS MEP:
 
-Friday, 23 December 2022, 10pm: Submission deadline for MEP&nbsp;[applications](https://go.gov.sg/2023chsmep)
+Tuesday, 26 December 2023, 9.00am: Submission deadline for MEP&nbsp;[applications](https://go.gov.sg/2023chsmep)
 
-Tuesday, 27 December 2022, 2.30pm: CHS Digital Music Studio: e-listening test videos
+Thursday, 28 December 2023, 2.00 - 2.30pm: MEP briefing for all applicants and 1 parent / guardian
+<br>Parents / Guardians may leave after the briefing and fetch their son / ward after the audition.
 
-Tuesday, 27 December 2022, 2pm: MEP briefing for all applicants and 1 parent / guardian
+Thursday, 28 December 2023, 2.30pm: MEP Selection listening test, audition and interview
+
 
 ##### Useful links:
 
