@@ -3,6 +3,7 @@ title: Sec Admission & Fees
 permalink: /prospective-students/sec-admission/overview/
 description: ""
 third_nav_title: Sec Admission
+variant: markdown
 ---
 Prospective students may apply to join CHS through various channels, depending on the nationality and schooling status. See following sections for relevant information.
 
@@ -10,13 +11,13 @@ Prospective students may apply to join CHS through various channels, depending o
 
 
 
-*   **[Click here to apply to join CHS through Direct School Admission (DSA)](https://staging.d26k7rl81eo6rb.amplifyapp.com/prospective-students/Sec-Admission/direct-school-admission/)**
-*   [Click here to apply to join CHS Year 3 IP](https://staging.d26k7rl81eo6rb.amplifyapp.com/prospective-students/admission-to-ip-year-3/)
-*   [Click here for Sec 1 Registration information](https://staging.d26k7rl81eo6rb.amplifyapp.com/prospective-students/Sec-Admission/level-1-registration/)
+*   **[Click here to apply to join CHS through Direct School Admission (DSA)](https://www.catholichigh.moe.edu.sg/prospective-students/Sec-Admission/direct-school-admission/)**
+*   [Click here to apply to join CHS Year 3 IP](https://www.catholichigh.moe.edu.sg/prospective-students/admission-to-ip-year-3/)
+*   [Click here for Sec 1 Registration information](https://www.catholichigh.moe.edu.sg/prospective-students/Sec-Admission/level-1-registration/)
 
-For more information, you can ([contact us](https://staging.d26k7rl81eo6rb.amplifyapp.com/contact-and-outreach/contact-school-and-services/overview/)) or refer to the&nbsp;[MOE admissions website](http://www.moe.gov.sg/education/admissions/secondary-one-posting/).
+For more information, you can [contact us](https://www.catholichigh.moe.edu.sg/contact-and-outreach/contact-school-and-services/overview/) or refer to the&nbsp;[MOE admissions website](https://www.moe.gov.sg/secondary/s1-posting).
 
-You can view FAQs about admission&nbsp;[here](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/faqs/):&nbsp;[/frequently-asked-questions/](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/faqs/)
+You can view FAQs about admission&nbsp;[here](https://www.catholichigh.moe.edu.sg/secondary/faqs/)
 
 
 
@@ -24,8 +25,8 @@ You can view FAQs about admission&nbsp;[here](https://staging.d26k7rl81eo6rb.amp
 
 *   We will be inviting Secondary 2 boys presently in O-Level programme in secondary schools to apply for admission to our Year 3 IP every September.
 *   Successful applicants&nbsp;will spend two years (year 3 and 4) in CHS and the final two years (JC1 and JC2) in the new Eunoia Junior College leading to the GCE ‘A’ Level Examinations.
-*   Please visit this&nbsp;[web page](https://staging.d26k7rl81eo6rb.amplifyapp.com/prospective-students/admission-to-ip-year-3/)&nbsp;from end-August for current year information:&nbsp;
-    *   [/secondary/admission-to-year-3-integrated-programme/](https://staging.d26k7rl81eo6rb.amplifyapp.com/prospective-students/admission-to-ip-year-3/)
+*   Please visit this&nbsp;[web page](https://www.catholichigh.moe.edu.sg/prospective-students/admission-to-ip-year-3/)&nbsp;from end-August for current year information:&nbsp;
+
 
 #### Returning Singaporeans
 
