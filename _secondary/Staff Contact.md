@@ -2,12 +2,13 @@
 title: Staff Contact
 permalink: /secondary/staff-contact/
 description: ""
+variant: markdown
 ---
 #### Catholic High School (Secondary Section) 2023
 
 |  	|  	|
 |---	|---	|
-| Mr Poh Chun Leck (Principal)<br> Mr Tan Kelly (Vice-Principal(1))<br> Mr Tan Cher Hui Philip (Vice-Principal(2)) <br>Mr Perry Tan (Vice-Principal(Administration)) 	| chs_principal@moe.edu.sg 	|
+| Mr Poh Chun Leck (Principal)<br> Mr Tan Kelly (Vice-Principal(1))<br> Mr Tan Cher Hui Philip (Vice-Principal(2)) <br>Mr Adrian Leow (Vice Principal (3))<br>Mr Fong Kok Wai (Vice-Principal(Administration)) 	| chs_principal@moe.edu.sg 	|
 
 #### Heads of Department (HOD)/Subject Heads (SH)/Level Heads (LH)/Lead Teachers (LT)/Senior Teachers (ST) 2023
 
@@ -34,20 +35,24 @@ description: ""
 |Mrs Lim-Seah Swee Khim (LH/Mathematics)|seah_swee_khim@moe.edu.sg|
 |Mr De Guzman Leonardo Tan (SH/Character &amp; Citizenship Education)|de_guzman_leonardo_tan@moe.edu.sg|
 |Miss Lee Lye Cheng Jasmine (SH/Chemistry)|lee_lye_cheng_jasmine@moe.edu.sg|
-|Mr Ng Seng Hong (SH/ Chinese Language)|ng_seng_hong@moe.edu.sg|
-|Ms Winifred Ong Peiqi (SH/English Literature)|ong_peiqi_winifred@moe.edu.sg|
-|Mr Steven Quay Kok Khiang (SH/InfoComm Technology)|steven_quay_kok_khiang@moe.edu.sg|
 |Dr Nehemiah Phua Wei Sen (SH/Physics)|nehemiah_phua@moe.edu.sg|
-|Ms Nurul Amirah Binte Ghazali (SH/ History &amp; SS(Acting))|nurul_amirah_ghazali@moe.edu.sg|
-|Miss Zheng Ling Zenia (SH/ Physical Education)|zheng_ling_zenia@moe.edu.sg|
+|Mr Ng Seng Hong (SH/ Chinese Language)|ng_seng_hong@moe.edu.sg|
+|Ms Nurul Amirah Binte Ghazali (SH/ History &amp; SS)|nurul_amirah_ghazali@moe.edu.sg|
+|Mr Steven Quay Kok Khiang (SH/InfoComm Technology)|steven_quay_kok_khiang@moe.edu.sg|
+|Ms Wang Yichun (SH/SAP (Acting))|ong_peiqi_winifred@moe.edu.sg|
 |Mr Winfred Oh Hun Boon (SH/Student Leadership)|oh_hun_boon_winfred@moe.edu.sg|
-|Mrs Lau-Tang Sheng Lien Michele (LT/Geography)|tang_sheng_lien_michele@moe.edu.sg|
-|Mr Tan Ping Hock (LT/Physics)|tan_ping_hock@moe.edu.sg|
-|Mr Paul Ng Boon Leng (ST/Character &amp; Citizenship Education)|ng_boon_leng_paul@moe.edu.sg|
-|Mrs Tham Poh Cheong Pearl (ST/English Language)|tham_poh_cheong_pearl@moe.edu.sg|
+|Ms Winifred Ong Peiqi (SH/English Literature)|ong_peiqi_winifred@moe.edu.sg|
+|Miss Zheng Ling Zenia (SH/ Physical Education)|zheng_ling_zenia@moe.edu.sg|
 |Miss Adeline Krishnan (ST/History)|adeline_ramakrishnan@moe.edu.sg|
+|Mrs Claire Tan Jia Yuen (ST/Music)|claire_liu@moe.edu.sg|
+|Mr Paul Ng Boon Leng (ST/Character &amp; Citizenship Education)|ng_boon_leng_paul@moe.edu.sg|
+|Mr Tan Ping Hock (LT/Physics)|tan_ping_hock@moe.edu.sg|
+|Mr Tan Wai Mun Danny (ST/ Social Studies)|danny_tan_wai_mun@moe.edu.sg|
 |Mrs Tan-Phay Mei Eng Anna (ST/Mathematics)|phay_mei_eng_anna@moe.edu.sg|
-|Mr Danny Tan Wai Mun (ST/ Social Studies)|danny_tan_wai_mun@moe.edu.sg|
+|Mrs Tham Poh Cheong Pearl (ST/English Language)|tham_poh_cheong_pearl@moe.edu.sg|
+
+
+
 
 #### Level 1 Form Teachers (2023)
 
