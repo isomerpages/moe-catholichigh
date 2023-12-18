@@ -54,90 +54,94 @@ variant: markdown
 
 
 
-#### Level 1 Form Teachers (2023)
+#### Level 1 Form Teachers (2024)
 
 |  	| 	|
 |---	|---	|
-| Class 	| Level 1 Form Teachers (2023)	|
-|1-1|Mr Loke Yeng Fai|loke_yeng_fai@moe.edu.sg|
-|1-2|Mr Winfred Oh Hun Boon|oh_hun_boon_winfred@moe.edu.sg|
-|1-2|Mr Colin Ramsay Peterson|peterson_ramsay_colin@moe.edu.sg|
-|1-3|Mrs Esther Ding-Neo Geok Hoon|neo_geok_hoon_esther@moe.edu.sg|
-|1-3|Ms Cheryl Lim|cheryl_lim_a@moe.edu.sg|
-|1-4|Mr Oh Weiqiang|oh_weiqiang@moe.edu.sg|
-|1-4|Miss Janani S Purnima|s_purnima_janani@moe.edu.sg|
-|1-5|Miss Lim Boon Chee|lim_boon_chee@moe.edu.sg|
-|1-5|Mr Ng Wei Kiang Ash|ng_wei_kiang@moe.edu.sg|
-|1-6|Mdm Khoo Ru Yu Melissa|melissa_khoo@moe.edu.sg|
+| Class 	| Level 1 Form Teachers (2024)	|
+|1-1||Mrs Poon Chew Wei|leong_chew_wei@moe.edu.sg|
+|1-2|Mr Winfred Oh Hun Boon|oh_hun_boon_winfred@moe.edu.sg|Mrs Esther Ding-Neo Geok Hoon|neo_geok_hoon_esther@moe.edu.sg|
+|1-2|Mr Ng Wei Kiang Ash|ng_wei_kiang@moe.edu.sg|
+|1-3|Miss Lan Kailuo|lan_kailuo@moe.edu.sg |
+|1-4|Miss Ho Sing Ern|sing_ern_ho@moe.edu.sg|
+|1-4|
+|1-5|Miss Hsu Li-Wen|hsu_li-wen@moe.edu.sg|
 |1-6|Mr Adrian R W Chong|adrian_raphael_william_chong@moe.edu.sg|
-|1-7|Ms Bernice Ng Gek Lee|ng_gek_lee_bernice@moe.edu.sg|
-|1-8|Miss Althea Ong Min|althea_ong_min@moe.edu.sg|
-|1-8|Miss Nur Afiqah Binte Hamdan|nur_afiqah_hamdan@moe.edu.sg|
+|1-6|
+|1-7|Mr Tan Zong Neng Max|tan_zong_neng@moe.edu.sg|
+|1-8|Mr Cai Wenchuan|cai_wenchuan@moe.edu.sg|
+|1-8|
 |1-9|Mrs Claire Tan Jia Yuen|claire_liu@moe.edu.sg|
-|1-9|Mr Yan Wei|yan_wei@moe.edu.sg|
+|1-9|Mdm Koh Puey Leng|koh_puey_leng@moe.edu.sg|
 
-#### Level 2 Form Teachers (2023)
+#### Level 2 Form Teachers (2024)
 
 | 	| 	|
 |---	|---	|
-| Class 	| Level 1 Form Teachers (2023)	|
-|2-1|Mr Zheng Shenglong Conrad|zheng_shenglong_conrad@moe.edu.sg|
-|2-1|Ms Nurul Amirah Binte Ghazali|nurul_amirah_ghazali@moe.edu.sg|
-|2-2|Miss Ho Sing Ern|sing_ern_ho@moe.edu.sg|
-|2-2|Mr Tan Seng Choon|tan_seng_choon@moe.edu.sg|
-|2-3|Mr Low Hui Long|Low_Hui_Long@moe.edu.sg|
-|2-4|Mrs Liow Pei Yun|low_pei_yun@moe.edu.sg|
-|2-4|Miss Leung Xiao Qing Amy|leung_xiao_qing@moe.edu.sg|
-|2-5|Miss Hsu Li-Wen|hsu_li-wen@moe.edu.sg|
-|2-5|Miss Lan Kailuo|lan_kailuo@moe.edu.sg |
-|2-6|Mdm Xie Xiaowen|xie_xiaowen@moe.edu.sg|
-|2-7|Miss Tnay Huifang Priscilla|tnay_huifang_priscilla@moe.edu.sg|
-|2-8|Mrs Poon Chew Wei|leong_chew_wei@moe.edu.sg|
-|2-8|Mrs Pearl Tham|tham_poh_cheong_pearl@moe.edu.sg|
-|2-9|Mdm Koh Puey Leng|koh_puey_leng@moe.edu.sg|
+| Class 	| Level 2 Form Teachers (2024)	|
+|2-1|Mdm Xie Xiaowen|xie_xiaowen@moe.edu.sg|
+|2-1|Ms Nurul Amirah Binte Ghazali|nurul_amirah_ghazali@moe.edu.sg|Mr Loke Yeng Fai|loke_yeng_fai@moe.edu.sg|
+|2-2|Mr Colin Ramsay Peterson|peterson_ramsay_colin@moe.edu.sg|
+|2-2|
+|2-3|Ms Cheryl Lim|cheryl_lim_a@moe.edu.sg|
+|2-4|Mr Oh Weiqiang|oh_weiqiang@moe.edu.sg|
+|2-4|Miss Janani S Purnima|s_purnima_janani@moe.edu.sg|
+|2-5|Miss Lim Boon Chee|lim_boon_chee@moe.edu.sg
+|2-5|
+|2-6|Mdm Khoo Ru Yu Melissa|melissa_khoo@moe.edu.sg|
+|2-6|Mr Tan Seng Choon|tan_seng_choon@moe.edu.sg|
+|2-7|Ms Bernice Ng Gek Lee|ng_gek_lee_bernice@moe.edu.sg|
+|2-8|Miss Althea Ong Min|althea_ong_min@moe.edu.sg|
+|2-8|Miss Nur Afiqah Binte Hamdan|nur_afiqah_hamdan@moe.edu.sg|
+|2-9|Mr Yan Wei|yan_wei@moe.edu.sg|
 
 #### Level 3 Form Teachers (2023)
 
 | 	| 	|
 |---	|---	|
 | Class 	|Level 3 Form Teachers (2023) 	|
-|3-1|Mrs Ng-Leong Se Yean|leong_se_yean@moe.edu.sg|
-|3-2|Mr Muhammad Norhafiz Bin Samsudin|muhammad_norhafiz_samsudin@moe.edu.sg|
-|3-2|Mrs Lim-Seah Swee Khim|seah_swee_khim@moe.edu.sg|
-|3-3|Mr Suah Yee Leng|suah_yee_leng@moe.edu.sg|
-|3-4|Mrs Tai Pei Shan|wu_pei_shan@moe.edu.sg|
-|3-5|Ms Sonia How Kai Tong|how_kai_tong_sonia@moe.edu.sg|
-|3-5|Mdm Wang Yichun|wang_yichun@moe.edu.sg|
-|3-6|Mrs Chew Soak Cheng|tan_soak_cheng@moe.edu.sg|
-|3-6|Mr Tan Wai Mun Danny|danny_tan_wai_mun@moe.edu.sg|
-|3-7|Miss Syuhaida Binte Dol Mat|syuhaida_dol_mat@moe.edu.sg|
-|3-8|Ms Chua Wee Nee|chua_wee_nee@moe.edu.sg|
+|3-1|Mrs Liow Pei Yun|low_pei_yun@moe.edu.sg|
+|3-1|Mr Edmund Gerrard Yong Wee Soon|yong_wee_soon_edmund@moe.edu.sg|
+|3-2|Ms Nafizath|nafizath_bharzana_begam@moe.edu.sg|
+|3-2|Mr Nick Chui Yongtai|chui_yongtai_nick@moe.edu.sg|
+|3-3|Mr Kenneth Loon Kang Neng|loon_kang_neng_kenneth@moe.edu.sg|
+|3-3|Mr Low Hui Long|Low_Hui_Long@moe.edu.sg|
+|3-4|Mrs Tan-Phay Mei Eng Anna|phay_mei_eng_anna@moe.edu.sg|
+|3-4|Mr Pan Jingyang|pan_jingyang@moe.edu.sg|
+|3-5|Mr Vinson Tan Huaqiang|tan_huaqiang_vinson@moe.edu.sg|
+|3-5|
+|3-6|Mrs Chew Soak Cheng|tan_soak_cheng@moe.edu.sg|s Adeline Ramakrishnan|adeline_ramakrishnan@moe.edu.sg|
+|3-6|Mr Tan Wai Mun Danny|danny_tan_wai_mun@moe.edu.sg|Mr Zheng Shenglong Conrad|zheng_shenglong_conrad@moe.edu.sg|
+|3-7|Miss Syuhaida Binte Dol Mat|syuhaida_dol_mat@moe.edu.sg|Mrs Qi Zhaojing|zhang_zhaojing@moe.edu.sg|
+|3-8|Ms Chua Wee Nee|chua_wee_nee@moe.edu.sg|Mrs Pearl Tham|tham_poh_cheong_pearl@moe.edu.sg|
 |3-8|Miss Lee Lye Cheng Jasmine|lee_lye_cheng_jasmine@moe.edu.sg|
-|3-9|Mr Paul Lee Chow Tong|lee_chow_tong_paul@moe.edu.sg|
-|3-10|Mdm Bai Xiao Fen Hannah|low-bai_xiao_fen@moe.edu.sg|
-|3-10|Miss Delia Goh|delia_goh_xin_yin@moe.edu.sg|
+|3-9|Mr Paul Lee Chow Tong|lee_chow_tong_paul@moe.edu.sg|Ms Chua Lay Yen|chua_lay_yen@moe.edu.sg|
+|3-10|Mr Ng Weiliang|ng_weiliang@moe.edu.sg|
+
 
 #### Level 4 Form Teachers (2023)
 
 | 	|   |
 |---	|---	|
 | Class 	| Level 4 Form Teachers (2023)	|
+|4-1|Mrs Ng-Leong Se Yean|leong_se_yean@moe.edu.sg|
 |4-1|Mr Glenn Tay Kew Yeow|tay_kew_yeow_glenn@moe.edu.sg|
-|4-2|Ms Chua Lay Yen|chua_lay_yen@moe.edu.sg|
-|4-2|Ms Nafizath|nafizath_bharzana_begam@moe.edu.sg|
-|4-3|Mr Cai Wenchuan|cai_wenchuan@moe.edu.sg|
-|4-3|Mr Vinson Tan Huaqiang|tan_huaqiang_vinson@moe.edu.sg|
-|4-4|Miss Adeline Ramakrishnan|adeline_ramakrishnan@moe.edu.sg|
-|4-4|Mr Ng Weiliang|ng_weiliang@moe.edu.sg|
-|4-5|Mr Nick Chui Yongtai|chui_yongtai_nick@moe.edu.sg|
+|4-2|Mrs Lim-Seah Swee Khim|seah_swee_khim@moe.edu.sg|
+|4-2|Mr Muhammad Norhafiz Bin Samsudin|muhammad\_norhafiz\_samsudin@moe.edu.sg|
+|4-3|Mr Suah Yee Leng|suah_yee_leng@moe.edu.sg|
+|4-3|Miss Tnay Huifang Priscilla|tnay_huifang_priscilla@moe.edu.sg|
+|4-4|Mrs Tai Pei Shan|wu_pei_shan@moe.edu.sg|
+|4-4|
+|4-5|Mdm Wang Yichun|wang_yichun@moe.edu.sg|
+|4-5|Ms Sonia How Kai Tong|how_kai_tong_sonia@moe.edu.sg|
 |4-6|Miss Zheng Ling Zenia|zheng_ling_zenia@moe.edu.sg|
 |4-6|Mdm Chng Xun Qi|chng_xun_qi@moe.edu.sg|
-|4-7|Mr Kenneth Loon Kang Neng|loon_kang_neng_kenneth@moe.edu.sg|
-|4-8|Mr Edmund Gerrard Yong Wee Soon|yong_wee_soon_edmund@moe.edu.sg|
-|4-8|Mrs Qi Zhaojing|zhang_zhaojing@moe.edu.sg|
-|4-9|Mr Tan Zong Neng Max|tan_zong_neng@moe.edu.sg|
-|4-10|Mrs Tan-Phay Mei Eng Anna|phay_mei_eng_anna@moe.edu.sg|
-|4-10|Mr Pan Jingyang|pan_jingyang@moe.edu.sg|
+|4-7|
+|4-8|
+|4-8|
+|4-9|
+|4-10|Mdm Bai Xiao Fen Hannah|low-bai_xiao_fen@moe.edu.sg|
+|4-10|Miss Delia Goh|delia_goh_xin_yin@moe.edu.sg|
 
 #### Teaching Staff (2023)
 
