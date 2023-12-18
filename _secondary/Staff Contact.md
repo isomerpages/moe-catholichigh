@@ -59,12 +59,11 @@ variant: markdown
 |  	| 	|
 |---	|---	|
 | Class 	| Level 1 Form Teachers (2024)	|
-|1-1||Mrs Poon Chew Wei|leong_chew_wei@moe.edu.sg|
-|1-2|Mr Winfred Oh Hun Boon|oh_hun_boon_winfred@moe.edu.sg|Mrs Esther Ding-Neo Geok Hoon|neo_geok_hoon_esther@moe.edu.sg|
+|1-1|Mrs Poon Chew Wei|leong_chew_wei@moe.edu.sg|
+|1-2|Mrs Esther Ding-Neo Geok Hoon|neo_geok_hoon_esther@moe.edu.sg|
 |1-2|Mr Ng Wei Kiang Ash|ng_wei_kiang@moe.edu.sg|
 |1-3|Miss Lan Kailuo|lan_kailuo@moe.edu.sg |
 |1-4|Miss Ho Sing Ern|sing_ern_ho@moe.edu.sg|
-|1-4|
 |1-5|Miss Hsu Li-Wen|hsu_li-wen@moe.edu.sg|
 |1-6|Mr Adrian R W Chong|adrian_raphael_william_chong@moe.edu.sg|
 |1-6|
