@@ -2,7 +2,10 @@
 title: Original Secondary FAQ
 permalink: /originalfaq11may2023/
 description: Original Secondary FAQ for reference
+variant: markdown
 ---
+<!-- Original Secondary FAQ as of 11 May 2023
+
 **This page documents frequently asked questions from prospective parents and students about our school, admission and DSA.** 
 
 You can scroll through the page or search for questions by typing "Ctrl-F" (search function of your browser) and searching by keywords (e.g. "fees"). Click on the links below to jump to the relevant section:
@@ -194,4 +197,4 @@ You can read some of the frequently asked questions in the following downloadabl
 
 *   [FAQs for Level 2 Subject Streaming](/files/faq_2023_streaming.pdf)
 
-Last updated 11 May 2023
+Last updated 11 May 2023-->
