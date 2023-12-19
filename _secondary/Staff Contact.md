@@ -138,11 +138,15 @@ variant: markdown
 
 |  	|   |
 |---	|---	|
+|Mr Adrian Peeris|peeris\_adrian@moe.edu.sg|
 |Mr Adrian Yao Zhiwei|yao_zhiwei_adrian@moe.edu.sg|
 |Mr Chua Tock Hai|chua_tock_hai@moe.edu.sg|
 |Mr Dave Sim Chong Bian|sim_chong_bian_dave@moe.edu.sg|
 |Mdm Elsie Fong|fong_elsie@moe.edu.sg|
+|Mr Eugene Chua peng wee|	eugene_chua_peng_wee@moe.edu.sg|
+|Mr Jonathan Lim|lim_leap_ming@moe.edu.sg	|
 |Mdm Lee Yin Teng|lee_yin_teng@moe.edu.sg|
+|Ms Lee Tse Ying|lee_tse_ying@moe.edu.sg|
 |Ms Lim Jing Yi Serene|lim_jing_yi_serene@moe.edu.sg|
 |Mdm Lu An Gui|lu_angui@moe.edu.sg|
 |Mrs Marianne Tay-Eng Siew Yin|eng_siew_yin_marianne@moe.edu.sg|
