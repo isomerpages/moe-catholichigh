@@ -13,6 +13,18 @@ sections:
           description: ""
           url: /prospective-students/prospectus-sec/overview/
       title: Catholic High  School
+  - infobar:
+      title: Level 1 (2024) Registration
+      subtitle: Lastest news
+      id: infobar
+      button: Click Here for more Information
+      url: /prospective-students/sec-admission/level-1-registration/
+  - infopic:
+      title: READY FOR SCHOOL KIT 2024
+      subtitle: LATEST NEWS
+      id: infopic
+      image: /images/ready for school kit 2024.png
+      alt: Image alt text
   - infopic:
       title: Information Day 2023
       subtitle: Latest News
@@ -24,12 +36,6 @@ sections:
       button: Click here for more info
       url: https://www.catholichigh.moe.edu.sg/prospective-students/open-house/
       image: /images/Secondary/chs info day 2023 motd-01.jpg
-      alt: Image alt text
-  - infopic:
-      title: READY FOR SCHOOL KIT 2024
-      subtitle: LATEST NEWS
-      id: infopic
-      image: /images/ready for school kit 2024.png
       alt: Image alt text
   - infobar:
       title: 2023 Direct School Admission – Secondary (DSA-Sec) Exercise
