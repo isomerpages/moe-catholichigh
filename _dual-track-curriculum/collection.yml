@@ -1,0 +1,18 @@
+collections:
+  dual-track-curriculum:
+    output: true
+    order:
+      - Overview.md
+      - Comparing IP & SP.md
+      - Subjects Offered (IP & SP)/.keep
+      - Subjects Offered (IP & SP)/Overview.md
+      - Subjects Offered (IP & SP)/Aesthetics.md
+      - Subjects Offered (IP & SP)/Chinese Department 华文部门.md
+      - Subjects Offered (IP & SP)/English and English Literature.md
+      - Subjects Offered (IP & SP)/Humanities.md
+      - Subjects Offered (IP & SP)/Mathematics.md
+      - Subjects Offered (IP & SP)/Science.md
+      - Integrated Programme/.keep
+      - Integrated Programme/Overview.md
+      - Integrated Programme/Passion Pursuit (Independent).md
+      - Integrated Programme/World Readiness Programme.md

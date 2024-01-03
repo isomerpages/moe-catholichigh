@@ -1,0 +1,28 @@
+collections:
+  secondary:
+    output: true
+    order:
+      - Prospectus.md
+      - Distinctive Programmes/.keep
+      - Distinctive Programmes/Overview.md
+      - Distinctive Programmes/Bilingual and Bicultural Education.md
+      - Distinctive Programmes/SAP Flagship Programme 特选学校旗舰计划.md
+      - Distinctive Programmes/Space and Flight Science Programme.md
+      - Distinctive Programmes/Passion Pursuit (Elective) (SP & IP).md
+      - Distinctive Programmes/Passion Pursuit (Independent) (IP).md
+      - Distinctive Programmes/World Readiness Programme (IP).md
+      - Distinctive Programmes/Overseas Immersion & Cultural Experience.md
+      - Talent Development/.keep
+      - Talent Development/Overview.md
+      - Talent Development/Bicultural Studies Programme 双文化课程.md
+      - Talent Development/English Talent Development Programme.md
+      - Talent Development/Cnergy Programme.md
+      - Talent Development/Humanities TDP.md
+      - Talent Development/Maths TDP.md
+      - Talent Development/Music Elective Programme.md
+      - Awards & Achievements/.keep
+      - Awards & Achievements/Overview.md
+      - Awards & Achievements/Academic Achievements (Sec).md
+      - Awards & Achievements/CCA Achievements (Sec).md
+      - FAQs (Secondary Section).md
+      - Staff Contact.md

@@ -1,0 +1,13 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - PE & CCA/Overview.md
+      - PE & CCA/CCA Achievements.md
+      - PE & CCA/.keep
+      - Student Leadership Development.md
+      - Character Education/Overview.md
+      - Character Education/Citizenship Education.md
+      - Character Education/Sexuality Education Programme.md
+      - Character Education/.keep
+      - Spirituality Education.md

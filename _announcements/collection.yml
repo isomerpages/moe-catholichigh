@@ -1,0 +1,20 @@
+collections:
+  announcements:
+    output: true
+    order:
+      - Primary/Our BIG NEWS Issue 2020 Semester 1.md
+      - Primary/P3 GEP Parents' Briefing.md
+      - Primary/Acts of Kindness within CHS Family.md
+      - Primary/Our BIG NEWS Issue 2019 Semester 2.md
+      - Primary/Orientation Briefing Slides.md
+      - Primary/Our BIG NEWS Issue 2019 Semester 1.md
+      - Primary/Catholic Programmes for 2019.md
+      - Primary/Key Curriculum Briefing slides for P5 and P6.md
+      - Primary/.keep
+      - Secondary/.keep
+      - Secondary/Level 1 (2022) Revised Booklist.md
+      - Secondary/Level 1 (2022) Appeal.md
+      - Secondary/Level 1 (2022) Registration.md
+      - Secondary/2020 Virtual Open House.md
+      - Secondary/Information on purchase of books and uniforms.md
+      - Secondary/2019 Information Day.md

@@ -1,0 +1,91 @@
+logo: /images/chslogo2.png
+links:
+  - title: About CHS
+    url: /about/about-chs/history-and-philosophy/
+    sublinks:
+      - title: Principal's Foreword
+        url: /about/principals-foreword/
+      - title: Our History and Philosophy
+        url: /about/about-chs/history-and-philosophy/
+      - title: Student Outcomes
+        url: /about/student-outcomes/
+      - title: Joint Integrated Programme
+        url: /about/joint-integrated-programme/overview/
+      - title: Partnerships
+        url: /about/partnerships/
+      - title: Our CHS Campus
+        url: /about/Our-CHS-Campus/
+  - title: Primary
+    url: "#"
+    sublinks:
+      - title: Academic
+        url: /academic/english-language/overview/
+      - title: Non-Academic
+        url: /non-academic/cca/overview/
+      - title: Staff Contact
+        url: /primary/staff-contact/
+  - title: Secondary
+    url: /secondary/prospectus/
+    sublinks:
+      - title: Prospectus
+        url: /secondary/prospectus/
+      - title: Dual Track Curriculum
+        url: /dual-track-curriculum/overview/
+      - title: Distinctive Programmes
+        url: /secondary/distinctive-programmes/overview/
+      - title: Talent Development
+        url: /secondary/Talent-Development/overview
+      - title: Student Development
+        url: /student-development/pe-and-cca/overview/
+      - title: Awards & Achievements
+        url: /secondary/awards-and-achievements/overview/
+      - title: FAQs (Secondary Section)
+        url: /secondary/faqs/
+      - title: Staff Contact
+        url: /secondary/staff-contact/
+  - title: Contact Us
+    url: /contact-and-outreach/contact-school-and-services/overview/
+    sublinks:
+      - title: Contact School & Services
+        url: /contact-and-outreach/contact-school-and-services/overview/
+      - title: Facebook
+        url: https://www.facebook.com/chs.gongjiao
+      - title: Instagram
+        url: http://www.instagram.com/chs.gongjiao
+      - title: Parents Bulletin (Sec)
+        url: /contact-and-outreach/parents-bulletin-sec/
+      - title: CH Alumni
+        url: https://cha.org.sg/
+      - title: Parent Support Group
+        url: https://www.facebook.com/psg.chs/
+      - title: Dads@CHS
+        url: https://www.facebook.com/CHS.Dads4Life/
+      - title: CHS Catholic Parents
+        url: https://docs.google.com/forms/d/1hNNZZL0DSz2lLWBlXAE468_Qz6w5PLnMCF7Zs6WMJdk/viewform?edit_requested=true
+  - title: Quick Links
+    url: /dual-track-curriculum/Integrated-Programme/about-eunoia-jc/
+    sublinks:
+      - title: Student Learning Space (SLS)
+        url: https://vle.learning.moe.edu.sg/login
+      - title: Student iCON
+        url: https://workspace.google.com/dashboard
+      - title: MySkillsFuture Portal
+        url: https://www.myskillsfuture.gov.sg/secondary
+      - title: CHS Helpdesk (Primary)
+        url: https://go.gov.sg/chshelpdesk
+      - title: CHS Helpdesk (Secondary)
+        url: https://go.gov.sg/chspasswordreset
+      - title: Parents Gateway
+        url: https://pg.moe.edu.sg/
+      - title: PE & CCA Safety Guidelines
+        url: /chs-safety-guidelines-for-pe-lessons-cca/
+      - title: GPA Insurance for Students
+        url: /group-personal-accident-gpa-insurance-for-students/
+      - title: School Fees
+        url: https://www.moe.gov.sg/financial-matters/fees
+      - title: School Canteen Application
+        url: /advertisement/canteen-primary/
+      - title: School Bus Application
+        url: /advertisement/school-bus-primary/
+      - title: Waitlist (PRI)
+        url: https://go.gov.sg/chsprimarywaitlist
