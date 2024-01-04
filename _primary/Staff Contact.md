@@ -2,12 +2,13 @@
 title: Staff Contact
 permalink: /primary/staff-contact/
 description: ""
+variant: markdown
 ---
 ### Catholic High School(Primary)
 
 |  	|  	|
 |---	|---	|
-| Mr Poh Chun Leck (Principal)<br>Ms Tan Pey San (Vice-Principal)<br>Mrs Kellie Woo (Vice-Principal)<br>Mr Perry Tan (Vice-Principal / Administration) 	| chs_principal@moe.edu.sg 	|
+| Mr Poh Chun Leck (Principal)<br>Ms Tan Pey San (Vice-Principal)<br>Mrs Kellie Woo (Vice-Principal)<br>Mr Fong Kok Wai (Vice-Principal / Administration) 	| chs_principal@moe.edu.sg 	|
 
 #### Key Personnel and Senior Teachers
 
@@ -28,27 +29,29 @@ description: ""
 |Year Head|Ms|Huang Anna  (Upper Primary)|huang_anna@moe.edu.sg|
 |Year Head|Mr|Ong Hwee Kiat (Middle Primary)|ong_hwee_kiat@moe.edu.sg|
 |Year Head|Ms|Yeo Qiting  (Lower Primary)|yeo_qiting@moe.edu.sg|
-|Asst Year Head|Mdm|Heng Wen Chi (Upper Primary)|heng_wen_chi@moe.edu.sg|
-|Asst Year Head|Mdm|Saraswathy d/o Mokhan  (Middle Primary)|saraswathy_mokhan@moe.edu.sg|
-|Asst Year Head|Mdm|Marissa Joel Rajesh  (Lower Primary)|marissa_joel_rajesh@moe.edu.sg|
-|Lead Teacher|Mrs|Soo Kim Bee (English)|boey_kim_bee@moe.edu.sg|
+|Asst Year Head|Ms|Lee Ying Xuan (Upper Primary)|lee_ying_xuan@moe.edu.sg|
+|Asst Year Head|Mr|Chua Bingkun Nicholas (Middle Primary)|chua_bingkun_nicholas@moe.edu.sg|
+|Asst Year Head|Mrs|Marissa Joel Rajesh  (Lower Primary)|marissa_joel_rajesh@moe.edu.sg|
 |ST|Miss|Seah Hui Ling (Math)|seah_hui_ling@moe.edu.sg|
 |ST|Mdm|Mok Hsui Hsui Daphne (Science)|mok_hsui_hsui_daphne@moe.edu.sg|
 |ST|Miss|Ng Keow Eng (Chinese)|ng_keow_eng@moe.edu.sg|
 |ST|Mrs|Amutha Samuel (English)|dawson_f_amutha@moe.edu.sg|
 |ST|Miss|Chia Hsu San Suzanne (English)|chia_hsu_san_suzanne@moe.edu.sg|
 |LH|Mdm|Chan Siew Hwee Joyce (English)|joyce_chan_siew_hwee@moe.edu.sg|
-|LH|Mrs|Vanessa Chan Hwee Hoon (Science)|vanessa_chan_hwee_hoon@moe.edu.sg|
+|LH|Mr|Wong Wai Liong (Science)|wong_wai_liong@moe.edu.sg|
+|LH|Mdm|Heng Wen Chi (Science)|heng_wen_chi@moe.edu.sg|
 |LH|Mr|Yap Yew Sean Calvin (GEP)|yap_yew_sean_calvin@moe.edu.sg|
 |LH|Mdm|Chelsia Loh Qiuxia (Math)|chelsia_loh@moe.edu.sg|
 |LH|Mdm|Ng Li Lin Sarah  (English)|ng_li_lin_sarah@moe.edu.sg|
 |LH|Mdm|Yeo Xue Ting  (Chinese)|yeo_xue_ting@moe.edu.sg|
-|SH|Mr|Chua Bingkun Nicholas (Student Leadership)|chua_bingkun_nicholas@moe.edu.sg|
+|SH|Mr|Lai Chee Keen (Student Leadership)|lai_chee_keen@moe.edu.sg|
 |SH|Mdm|Jeanevere Lum Foong Tai (PE/CCA)|jeanevere_lum_foong_tai@moe.edu.sg|
 |SH|Mdm|Chang Chiew Siew Linda (CCE)|chang_chiew_siew_linda@moe.edu.sg|
+|SH|Mdm|Saraswathy d/o Mokhan (CCE)|saraswathy_mokhan@moe.edu.sg|
 |SH|Miss|Tang Hui Jing (Aesthetics)|tang_hui_jing@moe.edu.sg|
 |SH|Mdm|Phua Loke Lin  (KM)|phua_loke_lin@moe.edu.sg|
 |SH|Ms|Wee Huixin  (ICT)|wee_huixin@moe.edu.sg|
+|SH|Mdm|Tan Li Ying (SAP)|tan_li_ying@moe.edu.sg|
 
 #### Primary 1 to 3 Form Teachers
 
