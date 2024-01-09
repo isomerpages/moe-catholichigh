@@ -154,7 +154,7 @@ variant: markdown
 |Mdm Lu An Gui|lu_angui@moe.edu.sg|
 |Mrs Marianne Tay-Eng Siew Yin|eng_siew_yin_marianne@moe.edu.sg|
 |Ms Nirmala D/O K. Balakrishnan|nirmala_k_balakrishnan@moe.edu.sg|
-|Mrs Sharon Tan Huizhen|chong_huizhen_sharon@moe.edu.sg|
+|Mrs Sharon Tan Huizhen|sharon_chong_huizhen@moe.edu.sg|
 |Ms Tan Shihui Tess|tan_shi_hui@moe.edu.sg|
 |Miss Tan Soo Ching|tan_soo_ching_1@moe.edu.sg|
 |Mdm Wong Mee Khoon|wong_mee_khoon@moe.edu.sg|
