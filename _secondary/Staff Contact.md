@@ -138,21 +138,24 @@ variant: markdown
 
 |  	|   |
 |---	|---	|
-|Mr Adrian Peeris|peeris\_adrian@moe.edu.sg|
+|Mr Adrian Peeris|peeris_adrian@moe.edu.sg|
 |Mr Adrian Yao Zhiwei|yao_zhiwei_adrian@moe.edu.sg|
 |Mr Chua Tock Hai|chua_tock_hai@moe.edu.sg|
 |Mr Dave Sim Chong Bian|sim_chong_bian_dave@moe.edu.sg|
+|Mr David Htet Win|david_htet_win_a@moe.edu.sg|
 |Mdm Elsie Fong|fong_elsie@moe.edu.sg|
 |Mr Eugene Chua peng wee|	eugene_chua_peng_wee@moe.edu.sg|
 |Mr Jonathan Lim|lim_leap_ming@moe.edu.sg	|
+|Mr Lee Bing Qian|lee_bingqian_a@moe.edu.sg|
 |Mdm Lee Yin Teng|lee_yin_teng@moe.edu.sg|
 |Ms Lee Tse Ying|lee_tse_ying@moe.edu.sg|
 |Ms Lim Jing Yi Serene|lim_jing_yi_serene@moe.edu.sg|
 |Mdm Lu An Gui|lu_angui@moe.edu.sg|
 |Mrs Marianne Tay-Eng Siew Yin|eng_siew_yin_marianne@moe.edu.sg|
 |Ms Nirmala D/O K. Balakrishnan|nirmala_k_balakrishnan@moe.edu.sg|
-|Mrs Sharon Tan Huizhen|chong_huizhen_sharon@moe.edu.sg|
+|Mrs Sharon Tan Huizhen|sharon_chong_huizhen@moe.edu.sg|
 |Ms Tan Shihui Tess|tan_shi_hui@moe.edu.sg|
+|Miss Tan Soo Ching|tan_soo_ching_1@moe.edu.sg|
 |Mdm Wong Mee Khoon|wong_mee_khoon@moe.edu.sg|
 |Ms Yasmine Chan Hoi Yin|chan_hoi_yin_yasmine@moe.edu.sg|
 
