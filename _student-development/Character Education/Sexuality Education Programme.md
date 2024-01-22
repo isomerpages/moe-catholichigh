@@ -36,19 +36,22 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
 ![Sexuality Education Sec 1 2024](/images/Secondary_1_2024.jpg)
+![Secondary 2 Sexuality 2024](/images/Secondary_2_2024.jpg)
+![Secondary 3 Sexuality 2024](/images/Secondary_3_2024.jpg)
+![Secondary 4 Sexuality 2024](/images/Secondary_4_2024.jpg)
 
 
 **_eTeens_**&nbsp;**Programme**:
 
-8.  eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Level 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
-9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+8.  eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
-**At CATHOLIC HIGH SCHOOL, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:**
+**At CATHOLIC HIGH SCHOOL, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2024:**
 
 | Topics/Lessons 	| Programme Learning Objectives 	| Time Period<br> <br>(e.g. Term 1 Week 9) 	|
 |---	|---	|---	|
-| Mass Talk by HPB appointed vendor  	| •	Awareness of the different STIs and HIV/AIDS <br>•	Modes of transmission <br>•	Modes of protection, specifically on how the condom is used<br>•	Consequences and impact of STIs/HIV 	| Term 3 Week 8 	|
-| Classroom-based Lesson 	| •	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making 	| Term 3 Week 8 	|
+| Mass Talk by HPB appointed vendor  	| •	Raise awareness and provide knowledge on: <br>a) a)	Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use). <br> b)	b)	Managing relationships and risky situations in a healthy way. 	| Term 3 Week 6 	|
+| Classroom-based Lesson 	| •	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making 	| Term 3 Week 7 	|
 
 **Information for Parents**
 
