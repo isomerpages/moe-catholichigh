@@ -155,7 +155,6 @@ variant: markdown
 |Ms Nirmala D/O K. Balakrishnan|nirmala_k_balakrishnan@moe.edu.sg|
 |Mrs Sharon Tan Huizhen|sharon_chong_huizhen@moe.edu.sg|
 |Ms Tan Shihui Tess|tan_shi_hui@moe.edu.sg|
-|Miss Tan Soo Ching|tan_soo_ching_1@moe.edu.sg|
 |Mdm Wong Mee Khoon|wong_mee_khoon@moe.edu.sg|
 |Ms Yasmine Chan Hoi Yin|chan_hoi_yin_yasmine@moe.edu.sg|
 
