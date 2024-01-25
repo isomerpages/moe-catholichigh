@@ -19,8 +19,12 @@ Happy Reading!
 
 |  	|  	|  	|
 |---	|---	|---	|
-|[![](/images/Primary/English/P1_P2.jpg)](/files/Primary/2024_P1_and_P2_Recommended_Reading_List_for_English_Language.pdf))|[![P3 and P4 Reading List](/images/Primary/English/P3_P4.jpg)](/files/Primary/2024_P3_and_P4_Recommended_Reading_List_for_English_Language.pdf)|[![P5 and P6 Reading List](/images/Primary/English/P5_P6.jpg)](/files/Primary/2024_P5_and_P6_Recommended_Reading_List_for_English_Language.pdf)|
 
+
+
+[![P1 and P2 Reading List](/images/Primary/English/P1_P2.jpg)](/files/Primary/2024_P1_and_P2_Recommended_Reading_List_for_English_Language.pdf)
+[![P3 and P4 Reading List](/images/Primary/English/P3_P4.jpg)](/files/Primary/2024_P3_and_P4_Recommended_Reading_List_for_English_Language.pdf)
+[![P5 and P6 Reading List](/images/Primary/English/P5_P6.jpg)](/files/Primary/2024_P5_and_P6_Recommended_Reading_List_for_English_Language.pdf)
 
 
 
