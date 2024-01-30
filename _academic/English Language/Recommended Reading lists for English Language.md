@@ -6,16 +6,16 @@ third_nav_title: English Language
 variant: tiptap
 ---
 <p>Dear Parents,</p>
-<p>The suggested reading lists attached have been categorized into lower,
-middle and upper primary for our gentlemen. The titles chosen are likely
-to be of interest to boys of the respective age groups.</p>
-<p>They are intended to be a handy resource to help you and your child select
-good books to read for leisure.</p>
-<p>We have attempted to suggest titles with a wide variety of themes. Many
-of these books happen to be award winners e. g. Caldecott Medal, Newbery
-Medal winners, or Librarians’ Choice titles.</p>
-<p>We hope our young gentlemen have fun as they immerse themselves in the
-magical world of books.</p>
+<p>The recommended reading lists attached have been organised into lower,
+middle and upper primary categories and are tailored for our young gentlemen.
+These titles have been specifically chosen to capture the interest of boys
+within their respective age groups.</p>
+<p>Designed as a handy resource, these lists aim to help you and your child
+select good books to read for leisure. The suggested titles cover a diverse
+range of themes. Many of them boast prestigious accolades such as the Caldecott
+Medal, Newbery Medal or recognition as Librarians' Choice titles.</p>
+<p>We hope that our young gentlemen will derive joy as they immerse themselves
+into the enchanting world of books.</p>
 <p>Happy Reading!</p>
 <table>
 <tbody>
