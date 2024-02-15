@@ -4,9 +4,10 @@ permalink: /advertisement/canteen-primary/
 description: SCHOOL CANTEEN APPLICATION (Primary)
 variant: markdown
 ---
-|**Type of Stall**| **Closing Date** | **Requirements** |
+|**Type of Stall**| **Closing Date**  |
 | -------- | -------- | -------- |
-| Malay Food Stall | 30 June 2024 | Rice/Noodle stalls are acceptable.|
+|CHINESE NOODLE STALL|29 February 2024|
+| Malay Food Stall | 30 June 2024 |
 
 <br><br>
 **Application Procedure**
