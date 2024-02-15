@@ -6,7 +6,7 @@ variant: markdown
 ---
 |**Type of Stall**| **Closing Date**  |
 | -------- | -------- | -------- |
-|CHINESE NOODLE STALL|29 February 2024|
+| Chinese Noodle Staff | 29 February 2024 |
 | Malay Food Stall | 30 June 2024 |
 
 <br><br>
