@@ -10,7 +10,7 @@ variant: markdown
 |---	|---	|
 | Mr Poh Chun Leck (Principal)<br> Mr Tan Kelly (Vice-Principal(1))<br> Mr Tan Cher Hui Philip (Vice-Principal(2)) <br>Mr Adrian Leow (Vice Principal (3))<br>Mr Fong Kok Wai (Vice-Principal(Administration)) 	| chs_principal@moe.edu.sg 	|
 
-#### Heads of Department (HOD)/Subject Heads (SH)/Level Heads (LH)/Lead Teachers (LT)/Senior Teachers (ST) 2024
+#### Heads of Department (HOD)/Level Heads (LH)/Subject Heads (SH)/Lead Teachers (LT)/Senior Teachers (ST) 2024
 
 |  	|  	|
 |---	|---	|
@@ -39,7 +39,7 @@ variant: markdown
 |Mr Ng Seng Hong (SH/ Chinese Language)|ng_seng_hong@moe.edu.sg|
 |Ms Nurul Amirah Binte Ghazali (SH/ History &amp; SS)|nurul_amirah_ghazali@moe.edu.sg|
 |Mr Steven Quay Kok Khiang (SH/InfoComm Technology)|steven_quay_kok_khiang@moe.edu.sg|
-|Ms Wang Yichun (SH/SAP (Acting))|ong_peiqi_winifred@moe.edu.sg|
+|Ms Wang Yichun (SH/SAP (Acting))|wang_yichun@moe.edu.sg|
 |Mr Winfred Oh Hun Boon (SH/Student Leadership)|oh_hun_boon_winfred@moe.edu.sg|
 |Ms Winifred Ong Peiqi (SH/English Literature)|ong_peiqi_winifred@moe.edu.sg|
 |Miss Zheng Ling Zenia (SH/ Physical Education)|zheng_ling_zenia@moe.edu.sg|
@@ -140,12 +140,11 @@ variant: markdown
 |---	|---	|
 |Mr Adrian Peeris|peeris_adrian@moe.edu.sg|
 |Mr Adrian Yao Zhiwei|yao_zhiwei_adrian@moe.edu.sg|
-|Mr Chua Tock Hai|chua_tock_hai@moe.edu.sg|
-|Mr Dave Sim Chong Bian|sim_chong_bian_dave@moe.edu.sg|
+|Mr Chua Tock Hai|chua_tock_hai_b@moe.edu.sg|
+|Mr Dave Sim Chong Bian|dave_sim_chong_bian@moe.edu.sg|
 |Mr David Htet Win|david_htet_win_a@moe.edu.sg|
 |Mdm Elsie Fong|fong_elsie@moe.edu.sg|
 |Mr Eugene Chua peng wee|	eugene_chua_peng_wee@moe.edu.sg|
-|Mr Jonathan Lim|lim_leap_ming@moe.edu.sg	|
 |Mr Lee Bing Qian|lee_bingqian_a@moe.edu.sg|
 |Mdm Lee Yin Teng|lee_yin_teng@moe.edu.sg|
 |Ms Lee Tse Ying|lee_tse_ying@moe.edu.sg|
