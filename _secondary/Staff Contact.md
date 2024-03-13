@@ -64,6 +64,7 @@ variant: markdown
 |1-2|Mr Ng Wei Kiang Ash|ng_wei_kiang@moe.edu.sg|
 |1-3|Miss Lan Kailuo|lan_kailuo@moe.edu.sg |
 |1-4|Miss Ho Sing Ern|sing_ern_ho@moe.edu.sg|
+|1-4|Ms Yasmine Chan Hoi Yin|chan_hoi_yin_yasmine@moe.edu.sg|
 |1-5|Miss Hsu Li-Wen|hsu_li-wen@moe.edu.sg|
 |1-6|Mr Adrian R W Chong|adrian_raphael_william_chong@moe.edu.sg|
 |1-6|Liu Xue|liu_xue@moe.edu.sg|
@@ -147,7 +148,6 @@ variant: markdown
 |Mr Eugene Chua peng wee|	eugene_chua_peng_wee@moe.edu.sg|
 |Mr Lee Bing Qian|lee_bingqian_a@moe.edu.sg|
 |Mdm Lee Yin Teng|lee_yin_teng@moe.edu.sg|
-|Ms Lee Tse Ying|lee_tse_ying@moe.edu.sg|
 |Ms Lim Jing Yi Serene|lim_jing_yi_serene@moe.edu.sg|
 |Mdm Lu An Gui|lu_angui@moe.edu.sg|
 |Mrs Marianne Tay-Eng Siew Yin|eng_siew_yin_marianne@moe.edu.sg|
@@ -155,7 +155,7 @@ variant: markdown
 |Mrs Sharon Tan Huizhen|sharon_chong_huizhen@moe.edu.sg|
 |Ms Tan Shihui Tess|tan_shi_hui@moe.edu.sg|
 |Mdm Wong Mee Khoon|wong_mee_khoon@moe.edu.sg|
-|Ms Yasmine Chan Hoi Yin|chan_hoi_yin_yasmine@moe.edu.sg|
+
 
 #### School Management Team (2024)
 
