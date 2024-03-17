@@ -674,10 +674,10 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wee Huixin</p>
+<p>Ho Chu Huei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wee_huixin@moe.edu.sg</p>
+<p>ho_chu_huei_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -2029,17 +2029,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chow Suet Ling (SEN Officer)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chow_suet_ling@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2124,17 +2113,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>xaverie_lim_ting_ting@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ho Chu Huei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ho_chu_huei_a@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
