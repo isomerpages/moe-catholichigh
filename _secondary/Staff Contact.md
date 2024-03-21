@@ -145,7 +145,6 @@ variant: markdown
 |Mr Dave Sim Chong Bian|dave_sim_chong_bian@moe.edu.sg|
 |Mr David Htet Win|david_htet_win_a@moe.edu.sg|
 |Mdm Elsie Fong|fong_elsie@moe.edu.sg|
-|Mr Eugene Chua peng wee|	eugene_chua_peng_wee@moe.edu.sg|
 |Mr Lee Bing Qian|lee_bingqian_a@moe.edu.sg|
 |Mdm Lee Yin Teng|lee_yin_teng@moe.edu.sg|
 |Ms Lim Jing Yi Serene|lim_jing_yi_serene@moe.edu.sg|
