@@ -8,6 +8,5 @@ variant: markdown
 
 ![](/images/CHS_Direction_and_parking.jpg)
 
-## <center>(More information coming your way!)
+## <center>(More information coming your way!)</center>
 
-</center>
