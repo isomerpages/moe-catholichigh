@@ -4,7 +4,7 @@ permalink: /prospective-students/open-house/
 description: ""
 variant: markdown
 ---
-![Information Day 2023 - 24 Nov 9AM - 1PM](/images/Secondary/chs%20info%20day%202023%20motd-01.jpg)
+![](/images/Open_House_2024.jpg)
 
 ![](/images/chs%20oh%202023%20direction%20and%20parking.jpeg)
 
