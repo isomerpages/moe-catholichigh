@@ -2,15 +2,17 @@
 title: School Canteen (Secondary)
 permalink: /advertisement/canteen-secondary/
 description: School Canteen (Secondary)
+variant: markdown
 ---
-Catholic High School (Sec) is a single session school with an estimated enrolment of 1216 student and about 130 staff.  
+Catholic High School (Sec) is a single session school with an estimated enrolment of 1190 student and about 130 staff.  
 
 Our canteen operates from Mondays to Fridays, 6.00am to 3.00pm during the school term. We have a canteen stall vacancy details as follow.
 
+Details of the advertisement as posted on our school website are as follows :-
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Muslim Food (Rice, Western or Fusion) | 13 October 2023 | NIL|
+| Muslim Food (Rice, Western or Fusion) | 29 April 2024 | NIL|
 
 **Application Procedure**
 
@@ -27,10 +29,10 @@ Our canteen operates from Mondays to Fridays, 6.00am to 3.00pm during the school
 * Address: Catholic High School(Secondary Section), No.9 Bishan Street 22 Singapore 579767
 * Contact No: 64582177
 * Email: chs@moe.edu.sg
-* Contact Person: Mrs Esther Ding / Mr Yeo Joon Han
+* Contact Person: Mrs Esther Ding / Mr Bernard Han
 
 **How to get there?**
-* Nearest MRT: Bishan MRT (NS17/CC15) – 11 minutes walking distance
+* Nearest MRT: Bishan MRT – 13 minutes walk to school
 
 
 **Interest applicants must meet the following criteria:**

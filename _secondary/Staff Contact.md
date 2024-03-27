@@ -31,7 +31,7 @@ variant: markdown
 |Mr Sin Peng Hwee (Year Head/Upper Levels)|sin_peng_hwee@moe.edu.sg|
 |Mr Lee Joon Kiat (Assistant Year Head/ Lower Levels)|lee_joon_kiat@moe.edu.sg|
 |Mrs Ng-Leong Se Yean (Assistant Year Head/ Upper Levels)|leong_se_yean@moe.edu.sg|
-|Mr Bernard Han Wei Yang (Discipline Master SH/Student Management)"|han_wei_yang@moe.edu.sg|
+|Mr Bernard Han Wei Yang (Discipline Master SH/Student Management)|han_wei_yang@moe.edu.sg|
 |Mrs Lim-Seah Swee Khim (LH/Mathematics)|seah_swee_khim@moe.edu.sg|
 |Mr De Guzman Leonardo Tan (SH/Character &amp; Citizenship Education)|de_guzman_leonardo_tan@moe.edu.sg|
 |Miss Lee Lye Cheng Jasmine (SH/Chemistry)|lee_lye_cheng_jasmine@moe.edu.sg|
@@ -80,6 +80,7 @@ variant: markdown
 |2-1|Mdm Xie Xiaowen|xie_xiaowen@moe.edu.sg|
 |2-1|Mr Loke Yeng Fai|loke_yeng_fai@moe.edu.sg|
 |2-2|Mr Colin Ramsay Peterson|peterson_ramsay_colin@moe.edu.sg|
+|2-2|Miss Leung Xiao Qing, Amy|leung_xiao_qing@moe.edu.sg|
 |2-3|Ms Cheryl Lim|cheryl_lim_a@moe.edu.sg|
 |2-4|Mr Oh Weiqiang|oh_weiqiang@moe.edu.sg|
 |2-4|Miss Janani S Purnima|s_purnima_janani@moe.edu.sg|

@@ -4,19 +4,9 @@ permalink: /prospective-students/open-house/
 description: ""
 variant: markdown
 ---
-![Information Day 2023 - 24 Nov 9AM - 1PM](/images/Secondary/chs%20info%20day%202023%20motd-01.jpg)
+![](/images/Open_House_2024.jpg)
 
-![](/images/chs%20oh%202023%20direction%20and%20parking.jpeg)
+![](/images/CHS_Direction_and_parking.jpg)
 
-### All are welcome! No registration required.
+## <center>(More information coming your way!)</center>
 
-
-#### Directory
-
-|  	|  	|  	|
-|---	|---	|---	|
-| [![](/images/oh2.png)](/chs-experience/)| [![](/images/oh3.png)](/about/Our-CHS-Campus/)|  [![](/images/oh5.png)](/chs-academic-info/)|
-|[![](/images/oh6.png)](/secondary/awards-and-achievements/academic-achievements/)| [![](/images/oh7.png)](/prospective-students/Sec-Admission/direct-school-admission/)| [![](/images/oh8.png)](/secondary/faqs/)|
-
-<br>
-<font size="4">For the Sec 1 cohort of 2024, they will be enrolled into Singapore - Cambridge Secondary Education Certificate Examinations Programme (SP) instead of the O-Level Programme (OP).</font>
