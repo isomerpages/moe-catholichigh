@@ -32,7 +32,7 @@ Details of the advertisement as posted on our school website are as follows :-
 * Contact Person: Mrs Esther Ding / Mr Bernard Han
 
 **How to get there?**
-* Nearest MRT: Bishan MRT (NS17/CC15) – 13 minutes walk to school
+* Nearest MRT: Bishan MRT – 13 minutes walk to school
 
 
 **Interest applicants must meet the following criteria:**
