@@ -2,10 +2,11 @@
 title: Overview
 permalink: /dual-track-curriculum/overview/
 description: ""
+variant: markdown
 ---
 ### Dual Track SEC Programme &amp; Integrated Programme
 
-As a dual track school, we offer the [Joint Integrated Programme and SEC Programme](/dual-track-curriculum/comparing-ip-and-sp/). Both tracks will prepare students for the A-Level in Pre-University institutions, e.g. junior colleges. IP students will join [Eunoia Junior College](https://www.eunoiajc.moe.edu.sg/) at the end of four years. SP students may also opt to articulate to a Polytechnic instead for Diploma courses.&nbsp;**Students joining CHS will choose their track during the DSA Exercise or the Sec 1 (S1) Posting Exercise.**
+As a dual track school, we offer the [Joint Integrated Programme and SEC Programme](/dual-track-curriculum/comparing-ip-and-sp/). Both tracks will prepare students for the A-Level in Pre-University institutions, e.g. junior colleges. IP students will join [Eunoia Junior College](https://www.eunoiajc.moe.edu.sg/) at the end of four years. SP students may also opt to progress to a Polytechnic.&nbsp;**Students joining CHS will choose their track during the DSA Exercise or the Secondary 1  Posting Exercise.**
 
 Whether it is the IP or SEC curriculum, students in both programmes will enjoy opportunities to interact and learn together. For our top tier students who show a strong aptitude and passion for learning, CHS will provide them with our most challenging and rigorous talent development programmes.
 
