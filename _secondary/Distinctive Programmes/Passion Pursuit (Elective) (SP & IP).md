@@ -22,21 +22,62 @@ The&nbsp;**Passion Pursuit programme**&nbsp;in Catholic High School comprises an
 #### Our Approach
 
 <img src="/images/ppe2.png" style="width:290px;height:200px;margin-right:30px;" align="left"> 
-<br><br>
+<br><br><br><br><br><br><br><br><br>
 Approach-wise, students will be offered a wide variety of activities after their end-of-year examinations, expanding their exposure in 3 categories of elective modules:
-<p>
-<br>
+
 *   Ruggedness Electives 
 	<br>
 *   Creative Electives
 	<br>
 *   Inventive Electives
-</p>
+
+
 Students get to try out many experiences that will not be found in the usual school curriculum. This adds to the holistic development of students beyond their academic and CCA involvements.
 
 #### Examples of PP(Elective) Modules
 
-Some of the modules we have offered in the past are:
+The modules we have offered in 2023 are:
 
-<img src="/images/ppe3.png" style="width:60%">
-<img src="/images/ppe4.png" style="width:60%">
+1.  Aikido
+    
+2.  Bowling
+    
+3.  Fencing
+    
+4.  Golf
+    
+5.  Kin Ball
+    
+6.  Rock Wall Climbing
+    
+7.  Trampoline
+    
+8.  3D Doodling
+    
+9.  Beatboxing
+    
+10.  Brush Calligraphy
+    
+11.  Ceramics
+    
+12.  Cyanotype Printmaking
+    
+13.  Drones
+    
+14.  DSLR Photography
+    
+15.  Imagination Express
+    
+16.  K-pop Dance
+    
+17.  Magic
+    
+18.  Nagomi Art
+    
+19.  Popping Dance
+    
+20.  Pop Singing
+    
+21.  Story Challenge
+    
+
