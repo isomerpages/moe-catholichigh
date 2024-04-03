@@ -41,4 +41,3 @@ Students who are keen to volunteer their services at the school-wide level can a
 Basic leadership is also covered through our CCE programme and covers leadership theories and good leadership practises, so that all gentlemen can grow and develop a better appreciation of their aspirations, strengths and areas for growth. For students who are serving in the leadership boards or serving as ambassadors, they will undergo a more comprehensive leadership training that comprises workshops on communication skills, project management, leadership case studies and scenario planning, as well as having the opportunities to participate in intra-school and beyond-school student forums, leadership conferences and community advocacy projects.
 
 IP students also experience Joint IP Student Leadership Development with students from CHIJ St Nicholas Girls’ School and Singapore Chinese Girls’ School.
-
