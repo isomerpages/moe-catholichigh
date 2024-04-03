@@ -3,6 +3,7 @@ title: Overseas Immersion & Cultural Experience
 permalink: /secondary/Distinctive-Programmes/overseas-immersion-and-cultural-experience/
 description: ""
 third_nav_title: Distinctive Programmes
+variant: markdown
 ---
 ### Overseas Immersion &amp; Cross-cultural Experience
 <style>
@@ -44,13 +45,13 @@ We offer 3 main types of cultural immersion trips and hosting programmes:
 
 <img src="/images/oicce1.png" style="width:60%">
 
-(Below) Visiting Washington DC (USA), with the White House in the background
+(Below) Visiting Emirates Stadium (London), Home of Arsenal Football Club
 
-<img src="/images/oicce2.png" style="width:60%">
+![](/images/Below__Visiting_Emirates_Stadium__London___Home_of_Arsenal_Football_Club.png)
 
-(Below) Visiting Hong Kong Science Park
+(Below) Visiting Victoria Peak (Hong Kong)
 
-<img src="/images/oicce3.png" style="width:60%">
+![](/images/Below__Visiting_Victoria_Peak__Hong_Kong_.png)
 
 (Below) Visiting&nbsp;the Great Wall in Beijing as part of BSP immersion trip
 
