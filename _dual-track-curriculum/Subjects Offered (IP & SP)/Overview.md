@@ -3,6 +3,7 @@ title: Overview
 permalink: /dual-track-curriculum/Subjects-Offered-IP-and-OP/overview/
 description: ""
 third_nav_title: Subjects Offered (IP & SP)
+variant: markdown
 ---
 ### Subjects Offered in Our Curriculum
 
@@ -29,11 +30,12 @@ Click [here](/dual-track-curriculum/Integrated-Programme/overview/) if you wan
 *   Humanities (SP students only: Social Studies, Geography/History/Literature In English)
 *   Literature (Chinese)
 *   Literature (English)
+*   Lower Secondary Science
 *   Mathematics
 *   Music
 *   Physical Education
 *   Physics
-*   Science (modular; for Lower Levels)
+
 
 ##### Offered through MOE’s Art Elective Programme (AEP) Centre
 
