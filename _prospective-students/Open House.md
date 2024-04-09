@@ -8,5 +8,10 @@ variant: markdown
 
 ![](/images/CHS_Direction_and_parking.jpg)
 
-## <center>(More information coming your way!)</center>
+#### Directory
 
+| [![](/images/oh2.png)](/chs-experience/)| [![](/images/oh3.png)](/about/Our-CHS-Campus/)|  [![](/images/oh5.png)](/chs-academic-info/)|
+|[![](/images/oh6.png)](/secondary/awards-and-achievements/academic-achievements/)| [![](/images/oh7.png)](/prospective-students/Sec-Admission/direct-school-admission/)| [![](/images/oh8.png)](/secondary/faqs/)|
+
+<br>
+<font size="4">Starting 2024, Sec 1 students will be enrolled into the Singapore - Cambridge Secondary Education Certificate Examinations Programme (SP) instead of the O-Level Programme (OP)..</font>
