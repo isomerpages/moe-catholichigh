@@ -22,7 +22,7 @@ sections:
 
         Invigorate @ Catholic High School!
       button: Click here for more info
-      url: https://www.catholichigh.moe.edu.sg/prospective-students/open-house/
+      url: /prospective-students/open-house/
       image: /images/Open_House_2024.jpg
       alt: Image alt text
   - infobar:
