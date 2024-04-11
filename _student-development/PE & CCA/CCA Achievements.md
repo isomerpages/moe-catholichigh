@@ -39,7 +39,7 @@ Our sportsmen have done us proud with numerous ‘B’ and ‘C’ Division Nati
 | Wushu ‘C’ Division         | National Champions |
 
 #### 2023 Performing Arts Achievements
-It has been a great experience for all six of our Performing Arts Groups, Chinese Drama, Chinese Orchestra, Edward Becheras Choir, English Drama, Modern Dance, and Symphony Band, who performed at the SYF Arts Presentations 2021. Their outstanding performances moved both the adjudicators as well as the audience. Their hours of practice to hone their skills, techniques and processes has enabled them to put into practice and showcase their art form at the highest quality. We are proud of every single CHS performer who exudes confidence on and off the stage!
+It has been a great experience for all six of our Performing Arts Groups, Chinese Drama, Chinese Orchestra, Edward Becheras Choir, English Drama, Modern Dance, and Symphony Band, who performed at the SYF Arts Presentations. Their outstanding performances moved both the adjudicators as well as the audience. Their hours of practice to hone their skills, techniques and processes has enabled them to put into practice and showcase their art form at the highest quality. We are proud of every single CHS performer who exudes confidence on and off the stage!
 
 <img src="/images/about18.png" style="width:60%"> <br>
 
