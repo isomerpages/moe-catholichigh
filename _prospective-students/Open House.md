@@ -9,8 +9,12 @@ variant: markdown
 ![](/images/CHS_Direction_and_parking.jpg)
 
 #### Directory
-| [![](/images/oh2.png)](/chs-experience/)| [![](/images/oh3.png)](/about/Our-CHS-Campus/)|  [![](/images/oh5.png)](/chs-academic-info/)|
-|[![](/images/oh6.png)](/secondary/awards-and-achievements/academic-achievements/)| [![](/images/oh7.png)](/prospective-students/Sec-Admission/direct-school-admission/)| [![](/images/oh8.png)](/secondary/faqs/)|
+
+
+
+| [![](/images/oh2.png)](/chs-experience/) | [![](/images/oh3.png)](/about/Our-CHS-Campus/) | [![](/images/oh5.png)](/chs-academic-info/) |
+| -------- | -------- | -------- |
+| [![](/images/oh6.png)](/secondary/awards-and-achievements/academic-achievements/) | [![](/images/oh7.png)](/prospective-students/Sec-Admission/direct-school-admission/) | [![](/images/oh8.png)](/secondary/faqs/)|
 
 <br>
 <font size="5">We welcome all P6 students and parents to find out more about our school on our Open House Day. See you there!</font>
