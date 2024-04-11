@@ -6,6 +6,9 @@ variant: markdown
 ---
 <iframe width="429" height="315" src="https://www.youtube.com/embed/sk9JNgL0-9w" title="Learning @ CHS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+<br>
+Starting 2024, Sec 1 students will be enrolled into the Singapore - Cambridge Secondary Education Certificate Examinations Programme (SP) instead of the O-Level Programme (OP).
+
 We offer a broad spectrum of opportunities for our students to&nbsp;**explore their passion and interests**, and to&nbsp;**transform their gifts into talents**.&nbsp;
 
 *   [Our extensive subject choices in core curriculum](/secondary/distinctive-programmes/overview/)
