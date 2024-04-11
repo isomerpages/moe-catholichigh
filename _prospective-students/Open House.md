@@ -14,4 +14,4 @@ variant: markdown
 |[![](/images/oh6.png)](/secondary/awards-and-achievements/academic-achievements/)| [![](/images/oh7.png)](/prospective-students/Sec-Admission/direct-school-admission/)| [![](/images/oh8.png)](/secondary/faqs/)|
 
 <br>
-<font size="4">Starting 2024, Sec 1 students will be enrolled into the Singapore - Cambridge Secondary Education Certificate Examinations Programme (SP) instead of the O-Level Programme (OP)..</font>
+<font size="4">Starting 2024, Sec 1 students will be enrolled into the Singapore - Cambridge Secondary Education Certificate Examinations Programme (SP) instead of the O-Level Programme (OP).</font>
