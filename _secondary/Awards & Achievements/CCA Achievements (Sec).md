@@ -13,12 +13,55 @@ Catholic High School offers a wide range of Co-curricular Activities to provide 
 
 ---
 
-| Co-Curricular | Updates on achievements (Oct 2021 - Dec 2023) |
-| -------- | -------- |
-|2023 CCA Physical Sports Results| -NATIONAL SCHOOL GAMES [BASKETBALL B DIVISION] Zone 1st<br> -NATIONAL SCHOOL GAMES [BASKETBALL C DIVISION] Zone 1st, National 3rd<br> -NATIONAL SCHOOL GAMES [FLOORBALL B DIVISION] National 3rd <br> -NATIONAL SCHOOL GAMES [FLOORBALL C DIVISION] National 3rd <br> -NATIONAL SCHOOL GAMES [SOFTBALL B DIVISION] National 4th <br> -NATIONAL SCHOOL GAMES [SOFTBALL C DIVISION] National 3rd<br> -NATIONAL SCHOOL GAMES [TABLE TENNIS B DIVISION]Zone 1st<br> -NATIONAL SCHOOL GAMES [TABLE TENNIS C DIVISION]Zone 1st<br>-NATIONAL SCHOOL GAMES [TRACK &amp; FIELD B DIVISION]National 6th<br>-NATIONAL SCHOOL GAMES [TRACK &amp; FIELD C DIVISION]National 6th<br>-NATIONAL SCHOOL GAMES [CROSS-COUNTRY B DIVISION] National 7th<br>-NATIONAL SCHOOL GAMES [CROSS-COUNTRY C DIVISION] National 6th <br>-NATIONAL SCHOOL GAMES [VOLLEYBALL B DIVISION]Zone 1st, National 1st<br>-NATIONAL SCHOOL GAMES [VOLLEYBALL C DIVISION]Zone 1st <br>-NATIONAL SCHOOL GAMES [WUSHU B DIVISION]National 2nd<br>-NATIONAL SCHOOL GAMES [WUSHU C DIVISION]National 1st|
-|2023 Performing Arts Achievements | -CHINESE ORCHESTRA: Certificate of Distinction <br>-CHINESE DRAMA: Certification of Accomplishment <br>-ENGLISH DRAMA: Certificate of Distinction<br>-EDWARD BECHERAS CHOIR: Certificate of Distinction<br>-MODERN DANCE: Certificate of Distinction<br>-SYMPHONY BAND: Certificate of Distinction|
-|2023 Uniformed Groups Achievements| UNIT RECOGNITION AWARD [NCC(AIR)]Distinction <br>UNIT RECOGNITION AWARD [NCC (LAND)]Distinction<br>UNIT OVERALL PROFICIENCY AWARD [NPCC]Gold<br>FRANK COOPER SAND AWARD [SCOUTS]Gold<br>CORP ACHIEVEMENT AWARD [ST JOHN BRIGADE]Gold|
-| 2022 CCA Physical Sports Results     | - B Division Basketball: Zone 3rd<br>- C Division Basketball: Zone 2nd<br>- B Division Floorball: National Top 8<br>- C Division Floorball: National 2nd<br>- B Division Softball: National 2nd<br>- C Division Softball: National 1st<br>- B Division Table Tennis: Zone 1st<br>- C Division Table Tennis: Zone 1st<br>- B Division Track &amp; Field: National 7th<br>- C Division Track &amp; Field: National 5th<br>- B Division Cross-country: National 6th<br>- C Division Cross-country: National 8th<br>- B Division Volleyball: Zone 1st<br>- C Division Volleyball: Zone 1st<br>- B Division Wushu: National 3rd<br>- C Division Wushu: National 3rd |
-|2021 Performing Arts Achievements|- SYF AP Chinese Orchestra: Certificate of Distinction<br>- SYF AP Chinese Drama: Certificate of Distinction<br>- SYF AP English Drama: Certificate of Distinction<br>- SYF AP Modern Dance: Certificate of Accomplishment<br>- SYF AP Symphony Band: Certificate of Distinction|
-|2021 Uniformed Groups Achievements|- Unit Recognition Award NCC Air: Distinction<br>- Unit Recognition Award NCC Land: Distinction<br>- Unit Overall Proficiency Award NPCC: Gold<br>- Frank Cooper Sand Award Scouts - Gold<br>- Corp Achievement Award St John Brigade - Gold|
-|2022 Clubs &amp; Societies Achievements| Digital for Life Youth Awards - Distinction|
+#### 2023 CCA Physical Sports Results
+
+Our sportsmen have done us proud with numerous ‘B’ and ‘C’ Division National School Games – National and Zone achievements, bettering their personal best, gaining top positions and most importantly, for many of them, prevailing against all odds with an unyielding individual focus and a strong team spirit. Our heartiest congratulations to our sportsmen for being faster, higher, and stronger, as they fought and soared through the preliminaries to the play-offs, to the semis and finally to the finals! Beyond the medals and positions, we would like to commend our boys for demonstrating the spirit of “Discipline, Character, Championship” in their sporting endeavours.
+
+![](/images/about17.png) <br>
+
+| CCA    | Results     |
+|----------------------------|--------------------|
+| Basketball ‘B’ Division    | Zone Champions     |
+| Basketball ‘C’ Division    | National 3rd       |
+| Cross-country ‘B’ Division | National 7th       |
+| Cross-country ‘C’ Division | National 6th       |
+| Floorball ‘B’ Division     | National 3rd       |
+| Floorball ‘C’ Division     | National 3rd       |
+| Softball ‘B’ Division      | National 4th       |
+| Softball ‘C’ Division      | National 3rd       |
+| Table Tennis ‘B’ Division  | Zone Champions     |
+| Table Tennis ‘C’ Division  | Zone Champions     |
+| Track &amp; Field ‘B’ Division | National 6th       |
+| Track &amp; Field ‘C’ Division | National 6th       |
+| Volleyball ‘B’ Division    | National Champions |
+| Volleyball ‘C’ Division    | Zone Champions     |
+| Wushu ‘B’ Division         | National 2nd       |
+| Wushu ‘C’ Division         | National Champions |
+
+#### 2023 Performing Arts Achievements
+It has been a great experience for all six of our Performing Arts Groups, Chinese Drama, Chinese Orchestra, Edward Becheras Choir, English Drama, Modern Dance, and Symphony Band, who performed at the SYF Arts Presentations. Their outstanding performances moved both the adjudicators as well as the audience. Their hours of practice to hone their skills, techniques and processes has enabled them to put into practice and showcase their art form at the highest quality. We are proud of every single CHS performer who exudes confidence on and off the stage!
+
+<img src="/images/about18.png" style="width:60%"> <br>
+
+| CCA    | Results     |
+|----------------------------|--------------------|
+| Chinese Orchestra     | Certificate of Distinction    |
+| Chinese Drama         | Certificate of Accomplishment |
+| English Drama         | Certificate of Distinction    |
+| Edward Becheras Choir | Certificate of Distinction    |
+| Modern Dance          | Certificate of Distinction    |
+| Symphony Band         | Certificate of Distinction    |
+
+#### 2023 Uniformed Groups Achievements
+Catholic High’s Uniformed Groups belong to one of the greatest traditions of the school, with the focus on leadership development and robust characteristics. This year, we are very proud to celebrate, once again, the highest UG awards attained by all the five Uniformed Groups and their Cadets, testifying to their resilience, camaraderie and leadership. They further distinguished themselves in many creative expressions such as precision drills and free-style drills. Kudos to our cadets for their achievements in the orienteering competitions, first aid competitions as well as the National Patrol Camp &amp; many more accolades for many more years to come!
+
+<img src="/images/about19.png" style="width:60%"> <br>
+
+
+| CCA    | Results     |
+|----------------------------|--------------------|
+| NCC Air         | Distinction (Unit Recognition Award)  |
+| NCC Land        | Distinction (Unit Recognition Award)  |
+| NPCC            | Gold (Unit Overall Proficiency Award) |
+| Scouts          | Gold (Frank Cooper Sand Award)        |
+| St John Brigade | Gold (Corp Achievement Award)         |
