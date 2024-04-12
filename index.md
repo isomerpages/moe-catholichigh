@@ -13,6 +13,18 @@ sections:
           description: ""
           url: /prospective-students/prospectus-sec/overview/
       title: Catholic High  School
+  - infopic:
+      title: Open House 2024
+      subtitle: Latest News
+      id: infopic
+      description: |-
+        11 May 2024 | 9AM - 12PM
+
+        Invigorate @ Catholic High School!
+      button: Click here for more info
+      url: /prospective-students/open-house/
+      image: /images/Open_House_2024.jpg
+      alt: Image alt text
   - infobar:
       title: Level 1 (2024) Registration
       subtitle: Lastest news
@@ -24,18 +36,6 @@ sections:
       subtitle: LATEST NEWS
       id: infopic
       image: /images/ready for school kit 2024.png
-      alt: Image alt text
-  - infopic:
-      title: Information Day 2023
-      subtitle: Latest News
-      id: infopic
-      description: |-
-        24 Nov 2023 - 9AM - 1PM
-
-        Invigorate @ Catholic High School!
-      button: Click here for more info
-      url: https://www.catholichigh.moe.edu.sg/prospective-students/open-house/
-      image: /images/Secondary/chs info day 2023 motd-01.jpg
       alt: Image alt text
   - infobar:
       title: 2023 Direct School Admission – Secondary (DSA-Sec) Exercise
