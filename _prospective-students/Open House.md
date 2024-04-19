@@ -4,7 +4,7 @@ permalink: /prospective-students/open-house/
 description: ""
 variant: markdown
 ---
-![](/images/Open_House_2024.jpg)
+![](/images/Open_House_2024_New_Pic.jpg)
 
 ![](/images/CHS_Direction_and_parking.jpg)
 
