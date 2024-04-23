@@ -5,6 +5,7 @@ permalink: /resources/secondary-school-news/presidents-award-2019/
 date: 2018-10-23
 layout: post
 description: ""
+variant: markdown
 ---
 ### President’s Award for Teachers (PAT) & Outstanding Youth in Education Award (OYEA)
 
@@ -20,13 +21,12 @@ This award is open to all teacher who are presently serving in a school. Nomine
 *   lead in and contribute to the professional growth of other teachers
 *   are role models for the teaching profession.
 
-You may submit your nomination at this [**link**](https://www.academyofsingaporeteachers.moe.gov.sg/professional-excellence/awards/other/public&aid=6).
 
 The deadline for nomination is **22 Jan 2019**.
 
 **_Outstanding Youth in Education Award_**  
 This award honours the achievements of young educators who have a passion and commitment to teaching, inspiring and nurturing their students. It seeks to recognise excellent younger teachers for their youthful idealism, enthusiasm, energy and active involvement in the development of youth beyond the formal curriculum.
 
-This award is open to teachers born on or after 30 Jun 1984. You may submit your nomination at this [**link**](https://www.academyofsingaporeteachers.moe.gov.sg/professional-excellence/awards/other/public&aid=5).
+This award is open to teachers born on or after 30 Jun 1984. 
 
 The deadline for nomination is **08 Jan 2019**.
