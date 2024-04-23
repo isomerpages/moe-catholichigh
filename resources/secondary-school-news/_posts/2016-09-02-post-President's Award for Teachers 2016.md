@@ -15,4 +15,4 @@ We also congratulate her&nbsp;[team of Georgraphy teachers who won the MOE Inner
 
 ##### About the President’s Award for Teachers
 
-##### The President’s Award for Teachers (PAT) recognises excellent teachers for their role in moulding the future of our nation. These teachers inspire both their students and peers, through their words and deeds. They are role models that exemplify the Ethos of the Teaching Profession. This Award is conferred by the President of the Republic of Singapore on Teachers’ Day.
+The President’s Award for Teachers (PAT) recognises excellent teachers for their role in moulding the future of our nation. These teachers inspire both their students and peers, through their words and deeds. They are role models that exemplify the Ethos of the Teaching Profession. This Award is conferred by the President of the Republic of Singapore on Teachers’ Day.
