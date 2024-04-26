@@ -55,7 +55,7 @@ sections:
       subtitle: Latest News
       button: Read more here
       url: /President-Scouts-Award/
-      image: /images/Scout President Award.jpeg
+      image: /images/President_s_Scout_Award_2023.jpg
       alt: Image alt text
   - infopic:
       title: Bishan-Toa Payoh and Marymount Grassroots Bursary Award 2024
