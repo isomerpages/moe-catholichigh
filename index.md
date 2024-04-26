@@ -51,11 +51,11 @@ sections:
       image: /images/CNA 2023.jpg
       alt: Image alt text
   - infopic:
-      title: President's Scout Awardees
+      title: President's Scout Award
       subtitle: Latest News
       button: Read more here
-      url: /President-Scouts-Award/
-      image: /images/Scout President Award.jpeg
+      url: /president-scouts-award/
+      image: /images/President_s_Scout_Award_2023.jpg
       alt: Image alt text
   - infopic:
       title: Bishan-Toa Payoh and Marymount Grassroots Bursary Award 2024
