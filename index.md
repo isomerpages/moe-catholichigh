@@ -54,7 +54,7 @@ sections:
       title: President's Scout Award
       subtitle: Latest News
       button: Read more here
-      url: /President-Scouts-Award/
+      url: /president-scouts-award/
       image: /images/Scout President Award.jpeg
       alt: Image alt text
   - infopic:
