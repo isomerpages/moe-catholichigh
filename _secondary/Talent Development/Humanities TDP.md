@@ -33,17 +33,17 @@ Students selected for this programme can expect to participate in the following:
 *   Guest speakers will be invited to dialogue with students, in a friendly and discussion-driven setting. Over the years, we've engaged with established academics, policymakers, curators, urban planners and more.
 
 
-2.  Societal Research
+2. Societal Research
 
 *   As part of the HTDP experience, students will investigate pressing societal questions in Singapore, collecting and analysing qualitative and quantitative data to answer these questions.&nbsp;Platforms for this will include participating in the Humanities and Social Sciences Research Programme organised by Gifted Education Branch, MOE or via our in-house Reserach Mentoring programmes.
 
-3.  Learning Journeys
+3. Learning Journeys
 
 *   Learning Journeys aim to provide students with authentic experiential learning outside the classroom, during which students will be able to immerse themselves in what Humanities-related knowledge and methods look like in the real world. 
 *   These experiences can range from industrial visits, virtual school exchanges, youth forums, sustainability day camps to catching musicals together as a cohort
 
 
-4.  Competitions and Events
+4. Competitions and Events
 
 *   We provide opportunities to promote friendly competition and fun, as well as avenues for the students to apply and demonstrate their knowledge and thinking skills. Some of these examples include the NUS Geography Challenge and MOE History Challenge.
 
