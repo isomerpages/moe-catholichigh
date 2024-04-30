@@ -12,8 +12,7 @@ p {text-align: justify;}
 
 The Humanities Talent Development Programme seeks to maximise the learning experiences of students through experiential learning and infusing critical thinking skills via an enriched curriculum. This is achieved by providing them with a very R.E.A.L. humanities experience centered on being Relevant, Experiential, Authentic and for Life-long Learning. This programme focuses on the disciplines of Economics, Geography, History and Literature.
 
-|  	|  	|  	|
-|---	|---	|---	|
+
 | <img src="/images/HTDP_2024_1.jpg" style="width:70%"> 	| <img src="/images/HTDP_2024_2.jpg" style="width:70%"> 	| <img src="/images/HTDP_2024_3.jpg" style="width:70%"> 	|
 
 #### Aims/Objectives
@@ -32,6 +31,7 @@ Students selected for this programme can expect to participate in the following:
 
 *   Guest speakers will be invited to dialogue with students, in a friendly and discussion-driven setting. Over the years, we've engaged with established academics, policymakers, curators, urban planners and more.
 <br>
+
 2.  Societal Research
 
 *   As part of the HTDP experience, students will investigate pressing societal questions in Singapore, collecting and analysing qualitative and quantitative data to answer these questions.&nbsp;Platforms for this will include participating in the Humanities and Social Sciences Research Programme organised by Gifted Education Branch, MOE or via our in-house Reserach Mentoring programmes.
