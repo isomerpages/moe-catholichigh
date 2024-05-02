@@ -44,8 +44,7 @@ Students selected for this programme can expect to participate in the following:
 
 <u>Learning Journeys</u>
 
-*   Learning Journeys aim to provide students with authentic experiential learning outside the classroom, during which students will be able to immerse themselves in what Humanities-related knowledge and methods look like in the real world. 
-*   These experiences can range from industrial visits, virtual school exchanges, youth forums, sustainability day camps to catching musicals together as a cohort
+*   Learning Journeys aim to provide students with authentic experiential learning outside the classroom, during which students will be able to immerse themselves in what Humanities-related knowledge and methods look like in the real world. These experiences can range from industrial visits, virtual school exchanges, youth forums, sustainability day camps to catching musicals together as a cohort
 
 
 <u>Competitions and Events</u>
