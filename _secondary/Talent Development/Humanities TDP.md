@@ -35,7 +35,7 @@ Students selected for this programme can expect to participate in the following:
 
 <u>Societal Research</u>
 
-*   As part of the HTDP experience, students will investigate pressing societal questions in Singapore, collecting and analysing qualitative and quantitative data to answer these questions.&nbsp;Platforms for this will include participating in the Humanities and Social Sciences Research Programme organised by Gifted Education Branch, MOE or via our in-house Reserach Mentoring programmes.
+*   As part of the HTDP experience, students will investigate pressing societal questions in Singapore, collecting and analysing qualitative and quantitative data to answer these questions.&nbsp;Platforms for this will include participating in the Humanities and Social Sciences Research Programme organised by Gifted Education Branch, MOE or via our in-house Research Mentoring programmes.
 
 
 |![](/images/HTDP_2024_4.jpg) | ![](/images/HTDP_2024_5.jpg) | 
