@@ -20,7 +20,7 @@ The Humanities Talent Development Programme seeks to maximise the learning exper
 This programme aims to:
 
 1.  Imbue a sense of fun into the study of the Humanities;
-2.  Develop potential humanities scholars for the prestigious Humanities Scholarship Programme (HSP) at the Junior College level; and,
+2.  Develop potential humanities scholars for the prestigious Humanities Scholarship Programme (HSP) at the Junior College level;
 3.  Promote interest in regional studies.
 
 #### The HTDP Experience
@@ -44,7 +44,7 @@ Students selected for this programme can expect to participate in the following:
 
 <u>Learning Journeys</u>
 
-*   Learning Journeys aim to provide students with authentic experiential learning outside the classroom, during which students will be able to immerse themselves in what Humanities-related knowledge and methods look like in the real world. These experiences can range from industrial visits, virtual school exchanges, youth forums, sustainability day camps to catching musicals together as a cohort
+*   Learning Journeys aim to provide students with authentic experiential learning outside the classroom, during which students will be able to immerse themselves in what Humanities-related knowledge and methods look like in the real world. These experiences can range from industrial visits, virtual school exchanges, youth forums, sustainability day camps to catching musicals together as a cohort.
 
 
 <u>Competitions and Events</u>
@@ -61,10 +61,10 @@ Students can expect to enjoy the following:
 
 *   Membership in a community of motivated and like-minded peers.
 *   Learning experiences that are in-depth and interdisciplinary in nature.
-*   Opportunities to participate in seminar and small group sessions conducted with experts from both the public and private sector
+*   Opportunities to participate in seminar and small group sessions conducted with experts from both the public and private sector.
 *   Priority selection for Humanities-based learning journeys;
 *   Full subsidisation for all local learning journeys, seminars, and in-school sessions.
 
 #### Duration of Programme
 
-*   1 year (Year 3/Sec 3), with possibility for renewal for Year 4/Sec 4
+*   1 year (Year 3/Sec 3), with possibility for renewal for Year 4/Sec 4.
