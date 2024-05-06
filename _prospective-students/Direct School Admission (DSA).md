@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## 2024 Direct School Admission – Secondary (DSA-Sec) Exercise
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. More information, including application timeline, authentication, number of choices allowed is available via \[https://www.moe.gov.sg/dsa-sec\](https://www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. More information, including application timeline, authentication, number of choices allowed is available via [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
  
 
 Application is free-of-charge and the period of application is as listed below:
@@ -96,7 +96,7 @@ Applicants should conduct themselves with decorum, and have a positive attitude 
 
   
 
-We will further update the selection criteria, process and admin details for the talent areas by early-June. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
+We will further update the selection process and admin details for the talent areas by early-June. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
 
 
 
