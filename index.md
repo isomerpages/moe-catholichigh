@@ -26,6 +26,12 @@ sections:
       image: /images/Open_House_2024.jpg
       alt: Image alt text
   - infobar:
+      title: 2024 Direct School Admission – Secondary (DSA-Sec) Exercise
+      subtitle: Latest News
+      description: Want to join CHS(Secondary) via DSA?
+      button: Click Here to find out more!
+      url: /prospective-students/Sec-Admission/direct-school-admission/
+  - infobar:
       title: Level 1 (2024) Registration
       subtitle: Lastest news
       id: infobar
@@ -37,12 +43,6 @@ sections:
       id: infopic
       image: /images/ready for school kit 2024.png
       alt: Image alt text
-  - infobar:
-      title: 2023 Direct School Admission – Secondary (DSA-Sec) Exercise
-      subtitle: Latest News
-      description: Want to join CHS(Secondary) via DSA?
-      button: Click Here to find out more!
-      url: /prospective-students/Sec-Admission/direct-school-admission/
   - infopic:
       title: "Hope Hub: An Intelligent Bot to provide timely help!"
       subtitle: LATEST NEWS
