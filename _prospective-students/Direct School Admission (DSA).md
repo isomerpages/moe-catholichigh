@@ -96,7 +96,7 @@ Applicants should conduct themselves with decorum, and have a positive attitude 
 
   
 
-We will further update the selection criteria, process and admin details for the talent areas by early-June. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
+We will further update the selection process and admin details for the talent areas by early-June. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
 
 
 
