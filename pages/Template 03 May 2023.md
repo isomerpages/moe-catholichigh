@@ -12,7 +12,7 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 Application is free-of-charge and the period of application is as listed below:
  
 
-Start of Application:&nbsp; 1100 hrs, Tuesday, 7 May 2024
+Start of Application: 1100 hrs, Tuesday, 7 May 2024
   
 
 End of Application: 1500 hrs, Monday, 3 June 2024
