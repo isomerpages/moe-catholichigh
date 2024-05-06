@@ -4,18 +4,18 @@ permalink: /template-03-may-2023/
 variant: markdown
 description: Draft before upload
 ---
-## 2023 Direct School Admission – Secondary (DSA-Sec) Exercise
+## 2024 Direct School Admission – Secondary (DSA-Sec) Exercise
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of- charge and will be open from. More information, including application timeline, authentication, number of choices allowed is available via \[https://www.moe.gov.sg/dsa-sec\](https://www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of- charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. More information, including application timeline, authentication, number of choices allowed is available via \[https://www.moe.gov.sg/dsa-sec\](https://www.moe.gov.sg/dsa-sec).
  
 
 Application is free-of-charge and the period of application is as listed below:
  
 
-Start of Application:&nbsp; 1100hrs, Thursday, 4 May 2023
+Start of Application:&nbsp; 1100 hrs, Tuesday, 7 May 2024
   
 
-End of Application: 1500hrs, Wednesday, 31 May 2023
+End of Application: 1500 hrs, Monday, 3 June 2024
 
 
   
@@ -129,5 +129,4 @@ For inquiries regarding CHS DSA-Sec, please contact us at:
 
   
 
-Information updated 06 May 2023
-
+Information updated 6 May 2024
