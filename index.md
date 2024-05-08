@@ -21,6 +21,7 @@ sections:
         11 May 2024 | 9AM - 12PM
 
         Invigorate @ Catholic High School!
+        The Principal's talk will take place at 10 am in the hall.
       button: Click here for more info
       url: /prospective-students/open-house/
       image: /images/Open_House_2024.jpg
