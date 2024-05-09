@@ -17,4 +17,4 @@ variant: markdown
 | [![](/images/oh6.png)](/secondary/awards-and-achievements/academic-achievements/) | [![](/images/oh7.png)](/prospective-students/Sec-Admission/direct-school-admission/) | [![](/images/oh8.png)](/secondary/faqs/)|
 
 <br>
-<font size="5">We welcome all P6 students and parents to find out more about our school on our Open House Day. See you there!</font>
+<font size="5">We welcome all P6 students and parents to find out more about our school on our Open House Day. The Principal's talk will take place at 10 am in the hall.  See you there!</font>
