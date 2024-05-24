@@ -142,7 +142,6 @@ variant: markdown
 |---	|---	|
 |Mr Adrian Peeris|peeris_adrian@moe.edu.sg|
 |Mr Adrian Yao Zhiwei|yao_zhiwei_adrian@moe.edu.sg|
-|Mr Chua Tock Hai|chua_tock_hai_b@moe.edu.sg|
 |Mr Dave Sim Chong Bian|dave_sim_chong_bian@moe.edu.sg|
 |Mr David Htet Win|david_htet_win_a@moe.edu.sg|
 |Mdm Elsie Fong|fong_elsie@moe.edu.sg|
