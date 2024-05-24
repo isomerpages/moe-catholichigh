@@ -7,6 +7,8 @@ variant: markdown
 Catholic High School publishes the Parents Bulletin on a termly basis to keep parents updated on upcoming events and matters. We have been alerting parents to newly published Bulletins via SMS; links to these Bulletins may be also found on our website.
 
 #### 2024
+
+ * [Parents Bulletin 2024 Term 3](https://drive.google.com/file/d/1MN6xuuVsUoUqmGvKaHhUyyaO9yjeO9-V/view?usp=drivesdk)
  * [Parents Bulletin 2024 Term 2](https://drive.google.com/file/d/1hwHWb2nY2Oq4DP58ya5BVx23Yz9wBCfR/view?usp=sharing)
  * [Parents Bulletin 2024 Term 1](https://drive.google.com/file/d/1aYgtrYWphekRvSJ27Y6MR3vKN_uXVgZ9/view?usp=sharing)
 
