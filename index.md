@@ -13,6 +13,12 @@ sections:
           description: ""
           url: /prospective-students/prospectus-sec/overview/
       title: Catholic High  School
+  - infobar:
+      title: 2024 Direct School Admission – Secondary (DSA-Sec) Exercise
+      subtitle: Latest News
+      description: Want to join CHS(Secondary) via DSA?
+      button: Click Here to find out more!
+      url: /prospective-students/Sec-Admission/direct-school-admission/
   - infopic:
       title: Open House 2024
       subtitle: Latest News
@@ -26,12 +32,6 @@ sections:
       url: /prospective-students/open-house/
       image: /images/Open_House_2024.jpg
       alt: Image alt text
-  - infobar:
-      title: 2024 Direct School Admission – Secondary (DSA-Sec) Exercise
-      subtitle: Latest News
-      description: Want to join CHS(Secondary) via DSA?
-      button: Click Here to find out more!
-      url: /prospective-students/Sec-Admission/direct-school-admission/
   - infobar:
       title: Level 1 (2024) Registration
       subtitle: Lastest news
