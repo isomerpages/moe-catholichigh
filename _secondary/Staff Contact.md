@@ -70,6 +70,7 @@ variant: markdown
 |1-6|Liu Xue|liu_xue@moe.edu.sg|
 |1-7|Mr Tan Zong Neng Max|tan_zong_neng@moe.edu.sg|
 |1-8|Mr Cai Wenchuan|cai_wenchuan@moe.edu.sg|
+|1-8|Mr Tan Nian Kai|tan_nian_kai@moe.edu.sg|
 |1-9|Mdm Koh Puey Leng|koh_puey_leng@moe.edu.sg|
 
 #### Level 2 Form Teachers (2024)
@@ -82,6 +83,7 @@ variant: markdown
 |2-2|Mr Colin Ramsay Peterson|peterson_ramsay_colin@moe.edu.sg|
 |2-2|Miss Leung Xiao Qing, Amy|leung_xiao_qing@moe.edu.sg|
 |2-3|Ms Cheryl Lim|cheryl_lim_a@moe.edu.sg|
+|2-3|Mr Fok Chee Wel Ernest|fok_chee_wel@moe.edu.sg|
 |2-4|Mr Oh Weiqiang|oh_weiqiang@moe.edu.sg|
 |2-4|Miss Janani S Purnima|s_purnima_janani@moe.edu.sg|
 |2-5|Miss Lim Boon Chee|lim_boon_chee@moe.edu.sg
@@ -123,12 +125,14 @@ variant: markdown
 |4-1|Mrs Ng-Leong Se Yean|leong_se_yean@moe.edu.sg|
 |4-1|Mr Glenn Tay Kew Yeow|tay_kew_yeow_glenn@moe.edu.sg|
 |4-2|Mrs Lim-Seah Swee Khim|seah_swee_khim@moe.edu.sg|
-|4-2|Mr Muhammad Norhafiz Bin Samsudin|muhammad_norhafiz_samsudin@moe.edu.sg|
+|4-2|Mdm Chng Xun Qi|chng_xun_qi@moe.edu.sg|
 |4-3|Mr Suah Yee Leng|suah_yee_leng@moe.edu.sg|
 |4-3|Miss Tnay Huifang Priscilla|tnay_huifang_priscilla@moe.edu.sg|
 |4-4|Mrs Tai Pei Shan|wu_pei_shan@moe.edu.sg|
 |4-5|Mdm Wang Yichun|wang_yichun@moe.edu.sg|
+|4-5|Ms Sonia How Kai Tong|how_kai_tong_sonia@moe.edu.sg|
 |4-6|Mrs Chew Soak Cheng|tan_soak_cheng@moe.edu.sg|
+|4-6|Mr Tan Wai Mun Danny|danny_tan_wai_mun@moe.edu.sg|
 |4-7|Miss Syuhaida Binte Dol Mat|syuhaida_dol_mat@moe.edu.sg|
 |4-8|Ms Chua Wee Nee|chua_wee_nee@moe.edu.sg|
 |4-8|Miss Lee Lye Cheng Jasmine|lee_lye_cheng_jasmine@moe.edu.sg|
@@ -150,9 +154,9 @@ variant: markdown
 |Mdm Lu An Gui|lu_angui@moe.edu.sg|
 |Mrs Marianne Tay-Eng Siew Yin|eng_siew_yin_marianne@moe.edu.sg|
 |Ms Nirmala D/O K. Balakrishnan|nirmala_k_balakrishnan@moe.edu.sg|
-|Mrs Sharon Tan Huizhen|sharon_chong_huizhen@moe.edu.sg|
 |Ms Tan Shihui Tess|tan_shi_hui@moe.edu.sg|
 |Mdm Wong Mee Khoon|wong_mee_khoon@moe.edu.sg|
+|Mr Tang Kum Leong James|tang_kum_leong_a@moe.edu.sg|
 
 
 #### School Management Team (2024)
