@@ -156,6 +156,7 @@ variant: markdown
 |Ms Tan Shihui Tess|tan_shi_hui@moe.edu.sg|
 |Mdm Wong Mee Khoon|wong_mee_khoon@moe.edu.sg|
 |Mr Tang Kum Leong James|tang_kum_leong_a@moe.edu.sg|
+|Miss Leung Xiao Qing, Amy|leung_xiao_qing@moe.edu.sg|
 
 
 #### School Management Team (2024)
