@@ -81,7 +81,6 @@ variant: markdown
 |2-1|Mdm Xie Xiaowen|xie_xiaowen@moe.edu.sg|
 |2-1|Mr Loke Yeng Fai|loke_yeng_fai@moe.edu.sg|
 |2-2|Mr Colin Ramsay Peterson|peterson_ramsay_colin@moe.edu.sg|
-|2-2|Miss Leung Xiao Qing, Amy|leung_xiao_qing@moe.edu.sg|
 |2-3|Ms Cheryl Lim|cheryl_lim_a@moe.edu.sg|
 |2-3|Mr Fok Chee Wel Ernest|fok_chee_wel@moe.edu.sg|
 |2-4|Mr Oh Weiqiang|oh_weiqiang@moe.edu.sg|
