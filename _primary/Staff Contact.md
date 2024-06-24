@@ -1510,13 +1510,13 @@ variant: tiptap
 <p>4 Gentleness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tay Hak Peng</p>
+<p>Chow Zi Hui Zoey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_hak_peng@moe.edu.sg</p>
+<p>chow_zi_hui_zoey@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -2015,10 +2015,10 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Kum Chee Helen</p>
+<p>Song Gek Kin Lilian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_kum_chee_helen_b@moe.edu.sg</p>
+<p>song_gek_kin_lilian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -2140,6 +2140,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>xaverie_lim_ting_ting@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheong Ju Li Geraldine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cheong_ju_li_Geraldinne@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
