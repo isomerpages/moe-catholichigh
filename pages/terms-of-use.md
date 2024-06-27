@@ -27,7 +27,8 @@ and other forms of proprietary rights. All rights, title and interest in
 the Contents are owned by, licensed to or controlled by Catholic High School.</p>
 <p><strong>Privacy Policy</strong>
 </p>
-<p>5. Click here to review this Web Site Privacy Statement.</p>
+<p>5. Click <a href="https://www.catholichigh.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+review this Web Site Privacy Statement.</p>
 <p><strong>Restrictions on Use of Materials</strong>
 </p>
 <p>6. Except as otherwise provided, the Contents of this Web Site shall not
