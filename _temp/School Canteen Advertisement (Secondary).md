@@ -1,7 +1,8 @@
 ---
 title: School Canteen Advertisement (Secondary)
-permalink: /schcanteenad/
+permalink: /temp/schcanteenad/
 description: School Canteen Advertisement
+variant: tiptap
 ---
 ### School Canteen Advertisement
 

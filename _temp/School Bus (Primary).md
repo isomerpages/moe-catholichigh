@@ -1,7 +1,8 @@
 ---
 title: School Bus (Primary)
-permalink: /advertisement/school-bus-primary/
+permalink: /temp/school-bus-primary/
 description: SCHOOL BUS APPLICATION (Primary)
+variant: tiptap
 ---
 ## SCHOOL BUS APPLICATION
 

@@ -1,6 +1,6 @@
 ---
 title: School Canteen (Primary)
-permalink: /advertisement/canteen-primary/
+permalink: /temp/canteen-primary/
 description: SCHOOL CANTEEN APPLICATION (Primary)
 variant: markdown
 ---

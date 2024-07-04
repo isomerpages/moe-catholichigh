@@ -149,7 +149,6 @@ variant: markdown
 |Mdm Elsie Fong|fong_elsie@moe.edu.sg|
 |Mr Lee Bing Qian|lee_bingqian_a@moe.edu.sg|
 |Mdm Lee Yin Teng|lee_yin_teng@moe.edu.sg|
-|Miss Leung Xiao Qing, Amy|leung_xiao_qing@moe.edu.sg|
 |Ms Lim Jing Yi Serene|lim_jing_yi_serene@moe.edu.sg|
 |Mdm Lu An Gui|lu_angui@moe.edu.sg|
 |Mrs Marianne Tay-Eng Siew Yin|eng_siew_yin_marianne@moe.edu.sg|
