@@ -63,20 +63,6 @@ variant: tiptap
 <p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grace Quek (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_bee_hong_grace@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Jayaram Amoss (English)</p>
 </td>
 <td rowspan="1" colspan="1">
