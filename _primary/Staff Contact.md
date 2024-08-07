@@ -1051,13 +1051,13 @@ variant: tiptap
 <p>2 Gentleness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leong Jun Wei</p>
+<p>Cheong Ju Li Geraldine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>leong_jun_wei@moe.edu.sg</p>
+<p>cheong_ju_li_geraldinne_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1226,20 +1226,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_song_woon@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Goodness</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Claire Marie Tan En Xin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>claire_marie_tay_en@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -2097,17 +2083,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Liew Jun Yi, Sean (School Counsellor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>liew_jun_yi_sean@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2126,28 +2101,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>xaverie_lim_ting_ting@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cheong Ju Li Geraldine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>cheong_ju_li_geraldinne_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chua Hao Loong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_hao_loong@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
