@@ -1,8 +1,9 @@
 ---
 title: Pri Section Emails
-permalink: /contact-and-outreach/contact-school-and-services/pri-section-emails/
+permalink: /primary/staff-contact/
 description: ""
 third_nav_title: Contact School & Services
+variant: tiptap
 ---
 ### Catholic High School(Primary)
 
@@ -19,12 +20,12 @@ third_nav_title: Contact School & Services
 | HOD 	| Mr 	| Loh Wai Choong Andrew<br>(MT) 	| loh_wai_choong_andrew@moe.edu.sg 	|
 | HOD 	| Mr 	| Tay Hak Peng<br>(GEP) 	| tay_hak_peng@moe.edu.sg 	|
 | HOD 	| Mdm 	| Ng Hwee San Vanessa<br>(PE/CCA/Aesth) 	| ng_hwee_san@moe.edu.sg 	|
-| HOD 	| Mdm 	| Poh Woon Ying<br>(Comms & Partnerships) 	| poh_woon_ying@moe.edu.sg 	|
+| HOD 	| Mdm 	| Poh Woon Ying<br>(Comms &amp; Partnerships) 	| poh_woon_ying@moe.edu.sg 	|
 | HOD 	| Mr 	| Tan Boon Leng<br>(SAP) 	| tan_boon_leng_a@moe.edu.sg 	|
 | HOD 	| Mrs 	| Jacquelynn Khuan<br>(Math) 	| jacquelynn_khuan@moe.edu.sg 	|
 | HOD 	| Mr 	| Yogeeindran Ramerchandra<br>(Student Management) 	| yogeeindran_ramerchandra@moe.edu.sg 	|
 | HOD 	| Ms 	| Wong Wan Hui (CCE) 	| wong_wan_hui@moe.edu.sg 	|
-| HOD 	| Miss 	| Tee Ngah Loui<br>(Knowledge & Digital Edn) 	| tee_ngah_loui@moe.edu.sg 	|
+| HOD 	| Miss 	| Tee Ngah Loui<br>(Knowledge &amp; Digital Edn) 	| tee_ngah_loui@moe.edu.sg 	|
 | Year Head 	| Ms 	| Huang Anna (Upper Primary) 	| huang_anna@moe.edu.sg 	|
 | Year Head 	| Mr 	| Ong Hwee Kiat<br>(Middle Primary) 	| ong_hwee_kiat@moe.edu.sg 	|
 | Year Head 	| Ms 	| Yeo Qiting (Lower Primary) 	| yeo_qiting@moe.edu.sg 	|
@@ -169,7 +170,7 @@ third_nav_title: Contact School & Services
 | Mdm 	| Lim Peck Sin 	| lim_peck_sin@moe.edu.sg 	|
 | Mr 	| M Rameshon 	| m_rameshon@moe.edu.sg 	|
 | Mdm 	| Ng Sui San<br>(SEN Officer) 	| ng_sui_san@moe.edu.sg 	|
-| Mdm 	| Nuraini Bte Ab Jabar<br>(AED T & L) 	| nuraini_a@moe.edu.sg 	|
+| Mdm 	| Nuraini Bte Ab Jabar<br>(AED T &amp; L) 	| nuraini_a@moe.edu.sg 	|
 | Miss 	| Nur Izdihar Bte Mohd Aron<br>(SEN Officer) 	| nur_izdihar_mohamed_aron@moe.edu.sg 	|
 | Mr 	| Ng Dillon<br>(English) 	| ng_dillon@moe.edu.sg 	|
 | Mdm 	| Parameswary Veerasingam<br>(English) 	| parameswary_veerasingam@moe.edu.sg 	|
