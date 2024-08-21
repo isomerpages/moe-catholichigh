@@ -5,86 +5,48 @@ description: ""
 third_nav_title: Contact School & Services
 variant: markdown
 ---
-### Location of School Campus
-
-
-
-### Secondary&nbsp;Section
-
-General Office: 6458 2177 <br>
-HOD Room: 6458 5416<br>
-Staff Room: 6458 2186 and 6458 6251 <br>
-Fax Number: 6456 1322
-
-Email: [chs@moe.edu.sg](mailto:chs@moe.edu.sg)&nbsp;(including DSA-related queries)
-
-[Click here for the latest&nbsp;contact list](/contact-and-outreach/contact-school-and-services/sec-section-emails/)&nbsp;of Secondary Section staff overseeing specific areas, &nbsp;e.g. Science department.
-
-Teachers’ Email: ([Click here](/secondary/staff-contact/)&nbsp;to for look for Teachers’ Email)
-
-### Primary School
-
-General Office: 6458 9869  
-Fax Number: 6459 3938  
-Email:&nbsp;[chs\_ps@moe.edu.sg](mailto:chs_ps@moe.edu.sg)  
-Address: 9 Bishan Street 22, Singapore 579767
-
-### Map of School
-
-<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7032996847083!2d103.84254847554966!3d1.354604898632575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da171801ceddc1%3A0xd0094c72de6e6469!2z5YWs5pWZ5Lit5a2m!5e0!3m2!1szh-CN!2ssg!4v1671174263389!5m2!1szh-EN!2ssg"></iframe>
-
-### Other School Services
-
-#### SCHOOL BOOKSHOP
-
-##### Casco Educational Supplies
-
-Person in-charge: Ms Agnes Heng  
-Tel: 64572101  
-Opening Hours:  
-Mondays to Fridays : 9am to 3pm  
-Saturdays : Closed
-
-#### SCHOOL UNIFORM &amp; P.E. ATTIRE
-
-##### Bibi &amp; Baba Uniformsmart
-
-Retail shop (off-the-shelf only):  
-545 Orchard Road, #02-28,  
-Far East Shopping Centre  
-Singapore 238882
-
-Head office/factory (made-to-measure):  
-213 Henderson Road #01-12  
-Singapore 159553
-
-#### BUS SERVICE OPERATOR
-
-##### TONG TAR TRANSPORT SERVICE PTE LTD
-8 Soon Lee Road  
-Singapore 628073
-
-Tel: (65) 6261 5537  
-Fax: (65) 6268 6620  
-Email: transport@tongtar.com  
-Website: https://www.tongtar.com/
-
-[Bus fares wef 1 Jan 2024](/files/Primary/bus%20fares_tong%20tar_1%20jan%202024_final.pdf)
-#### Dental Clinic
-
-##### Catholic High School Dental Clinic 
-HP: 8764 6507 (_WhatsApp call or text preferably or Audio call preferably after 4pm_)  
-Opening hours:  
-8 am to 1 pm &amp; 2 pm to 5 pm ( Closed for lunch at 1pm to 2pm )
-
-First appointment: 8:40 am  
-Last appointment: 4 pm
-
-_\*Clinic is operating based on alternate week schedule. Kindly make an appointment before proceeding to the school dental clinic_
-
-**Dental Emergencies**  
-For dental emergencies on other days,  
-
-Please contact:  
-**Kuo Chuan Presbyterian Primary School Dental Clinic**  
-HP: 8764 8243 (_WhatsApp call or text preferably or Audio call preferably after 4pm_)
+<p>Get in touch with</p>
+<p><strong>Catholic High School</strong></p>
+<p><strong>Location of School Campus</strong></p>
+<p>Address: 9 Bishan Street 22, Singapore 579767</p>
+<p>Map of School</p>
+<p><strong>CONTACT US</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="312">
+<p>Primary Section</p>
+<p>General Office: 6458 9869<br>Fax Number: 6459 3938<br>Email:&nbsp;<a href="mailto:chs_ps@moe.edu.sg">chs_ps@moe.edu.sg</a><br><a href="https://www.catholichigh.moe.edu.sg/primary/staff-contact/">Staff Contact Email</a> (Primary)&nbsp;</p>
+</td>
+<td width="312">
+<p>Secondary&nbsp;Section</p>
+<p>General Office: 6458 2177<br>Fax Number: 6456 1322</p>
+<p>Email:&nbsp;<a href="mailto:chs@moe.edu.sg">chs@moe.edu.sg</a>&nbsp;</p>
+<p>(including DSA-related queries)</p>
+<p><a href="https://www.catholichigh.moe.edu.sg/secondary/staff-contact/">Staff Contact Email</a> (Secondary)&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>SCHOOL SERVICES</strong></p>
+<p><strong>SCHOOL BOOKSHOP</strong></p>
+<p><strong>Casco Educational Supplies</strong></p>
+<p>Person in-charge: Ms Agnes Heng<br>Tel: 64572101<br>Opening Hours:<br>Mondays to Fridays: 9.00 a.m. to 3.00 p.m.<br>Saturdays: Closed</p>
+<p><strong>SCHOOL UNIFORM &amp; P.E. ATTIRE</strong></p>
+<p><strong>Bibi &amp; Baba Uniformsmart</strong></p>
+<p>Retail shop (off-the-shelf only):<br>545 Orchard Road, #02-28,<br>Far East Shopping Centre<br>Singapore 238882</p>
+<p>Head office/factory (made-to-measure):<br>213 Henderson Road #01-12<br>Singapore 159553</p>
+<p><strong>BUS SERVICE OPERATOR</strong></p>
+<p><strong>Tong Tar Transport Service Pte Ltd</strong></p>
+<p>8 Soon Lee Road<br>Singapore 628073</p>
+<p>Tel: (65) 6261 5537<br>Fax: (65) 6268 6620<br>Email: transport@tongtar.com<br>Website: https://www.tongtar.com/</p>
+<p><a href="https://www.catholichigh.moe.edu.sg/files/Primary/bus%20fares_tong%20tar_1%20jan%202024_final.pdf">Bus fares wef 1 Jan 2024</a></p>
+<p><strong>DENTAL </strong></p>
+<p><strong>Catholic High School Dental Clinic</strong></p>
+<p>HP: 8764 6507 (<em>WhatsApp call or text preferably or Audio call preferably after 4.00 p.m.</em>)<br>Opening hours:<br>8.00 a.m. to 1.00 p.m. &amp; 2.00 p.m. to 5.00 p.m. (Closed for lunch at 1.00 p.m. to 2.00 p.m.)</p>
+<p>First appointment: 8.40 a.m.<br>Last appointment: 4.00 p.m.</p>
+<p><em>*Clinic is operating based on alternate week schedule. Kindly make an appointment before proceeding to the school dental clinic</em></p>
+<p><strong>Dental Emergencies</strong><br>For dental emergencies on other days, please contact:<br>Kuo Chuan Presbyterian Primary School Dental Clinic<br>HP: 8764 8243 (<em>WhatsApp call or text preferably or Audio call preferably after 4.00 p.m.</em>)</p>
+<p><br><strong>STUDENT CARE </strong></p>
+<p><strong>Commit Learning School House</strong></p>
+<p>Tel: (65) 6366 3666 / 9836 6898<br>Email: enquiry@commitlearning.com.sg</p>
