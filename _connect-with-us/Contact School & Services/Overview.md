@@ -35,21 +35,21 @@ Email:&nbsp;<a href="mailto:chs@moe.edu.sg">chs@moe.edu.sg</a>(including DSA-rel
 <p><strong>Casco Educational Supplies</strong></p>
 <p>Person in-charge: Ms Agnes Heng<br>Tel: 64572101<br>Opening Hours:<br>Mondays to Fridays: 9.00 a.m. to 3.00 p.m.<br>Saturdays: Closed</p>
 <p style="text-align:left; color: black; font-size: 16pt;"><strong>SCHOOL UNIFORM &amp; P.E. ATTIRE</strong></p>
-<p style="text-align:left; color: black; font-size: 12pt;"><strong>Bibi &amp; Baba Uniformsmart</strong></p>
+<p style="text-align:left; color: black; font-size: 12pt;"><strong><span style="color: green;">Bibi &amp; Baba Uniformsmart</span></strong></p>
 <p>Retail shop (off-the-shelf only):<br>545 Orchard Road, #02-28,<br>Far East Shopping Centre<br>Singapore 238882</p>
 <p>Head office/factory (made-to-measure):<br>213 Henderson Road #01-12<br>Singapore 159553</p>
 <p style="text-align:left; color: black; font-size: 16pt;"><strong>BUS SERVICE OPERATOR</strong></p>
-<p style="text-align:left; color: black; font-size: 12pt;"><strong>Tong Tar Transport Service Pte Ltd</strong></p>
+<p style="text-align:left; color: black; font-size: 12pt;"><strong><span style="color: green;">Tong Tar Transport Service Pte Ltd</span></strong></p>
 <p>8 Soon Lee Road<br>Singapore 628073</p>
 <p>Tel: (65) 6261 5537<br>Fax: (65) 6268 6620<br>Email: transport@tongtar.com<br>Website: https://www.tongtar.com/</p>
 <p><a href="https://www.catholichigh.moe.edu.sg/files/Primary/bus%20fares_tong%20tar_1%20jan%202024_final.pdf">Bus fares wef 1 Jan 2024</a></p>
-<p style="text-align:left; color: black; font-size: 16pt;"><strong>DENTAL </strong></p>
+<p style="text-align:left; font-size: 16pt;"><strong><span style="color: green;">DENTAL</span></strong></p>
 <p style="text-align:left; color: black; font-size: 12pt;"><strong>Catholic High School Dental Clinic</strong></p>
 <p>HP: 8764 6507 (<em>WhatsApp call or text preferably or Audio call preferably after 4.00 p.m.</em>)<br>Opening hours:<br>8.00 a.m. to 1.00 p.m. &amp; 2.00 p.m. to 5.00 p.m. (Closed for lunch at 1.00 p.m. to 2.00 p.m.)</p>
 <p>First appointment: 8.40 a.m.<br>Last appointment: 4.00 p.m.</p>
 <p><em>*Clinic is operating based on alternate week schedule. Kindly make an appointment before proceeding to the school dental clinic</em></p>
 <p style="text-align:left; color: black; font-size: 16pt;"><strong>Dental Emergencies</strong></p><p>For dental emergencies on other days, please contact:<br>Kuo Chuan Presbyterian Primary School Dental Clinic<br>HP: 8764 8243 (<em>WhatsApp call or text preferably or Audio call preferably after 4.00 p.m.</em>)</p>
 
-<p style="text-align:left; color: black; font-size: 16pt;"><strong>STUDENT CARE</strong></p>
+<p style="text-align:left; font-size: 16pt;"><strong><span style="color: green;">STUDENT CARE</span></strong></p>
 <p style="text-align:left; color: black; font-size: 12pt;"><strong>Commit Learning School House</strong></p>
 <p>Tel: (65) 6366 3666 / 9836 6898<br>Email: enquiry@commitlearning.com.sg</p>
