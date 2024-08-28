@@ -15,24 +15,22 @@ Students currently studying in CHS will be notified via various internal platfor
 
 #### Selection Criteria
 
-1\.  A successful applicants would have:
+1\.  A successful applicants would have:<br>
+  a.  excellent academic results in Secondary 1 and 2;<br>
+	b.  positive dispositions needed to thrive in the IP curriculum (e.g. self-directed and collaborative learner, intellectual curiosity, creative problem solver). <br>
+	c.  a strong record of participation, achievement, and service in CCA. Demonstration of leadership qualities and competencies would be an advantage.<br>
 
-     a.  excellent academic results in Secondary 1 and 2;
-     b.  positive dispositions needed to thrive in the IP curriculum (e.g. self-directed and collaborative learner, intellectual curiosity, creative problem solver). 
-     c.  a strong record of participation, achievement, and service in CCA. Demonstration of leadership qualities and competencies would be an advantage.
-
-2\.  The successful applicant must
-
-      a.  **not** be a student who was previously admitted through DSA to the school that he is currently in;<br>
-     b.  be already offering CL or HCL in his current school;<br>
-     c.  be a current student of a Singapore mainstream secondary school;<br>
+2\.  The successful applicant must<br>
+   a.  **not** be a student who was previously admitted through DSA to the school that he is currently in;<br>
+	 b.  be already offering CL or HCL in his current school;<br>
+	 c.  be a current student of a Singapore mainstream secondary school;<br>
 
 
 #### Application Process
 
 3\.  The timeline for the Admission Exercise to Year 3 IP starting in 2025 is as follows. <br>
 
-| Date | Activity | 
+| **Date** | **Activity** | 
 | -------- | -------- | 
 | 2 September 2024 (Monday)    | Application opens.     | 
 |27 September 2024 (Friday), 4.00pm SGT |Application closes.|
@@ -41,13 +39,11 @@ Students currently studying in CHS will be notified via various internal platfor
 
 4\.  The application must be made via the school’s [online form](https://go.gov.sg/chsip). 
 
-5\.  The application must be made via the school’s [online form](https://go.gov.sg/chsip). 
-
-     a. certified true copies of PSLE results; <br>
-     b. certified true copies of Secondary 1 (full year) and Secondary 2 (up to WA 2, and where possible, WA3) results;<br>
-     c. certified true copies of certificates participation, achievement and/or leadership in CCA and VIA; and<br>
-     d. certificates of achievements in academic or co-curricular areas.
-
+5\.  The following supporting documents must be submitted via the [online form](https://go.gov.sg/chsip). <br>
+   a. certified true copies of PSLE results; <br>
+	 b. certified true copies of Secondary 1 (full year) and Secondary 2 (up to WA 2, and where possible, WA3) results;<br>
+	 c. certified true copies of certificates participation, achievement and/or leadership in CCA and VIA; and<br>
+	 d. certificates of achievements in academic or co-curricular areas.
 
 #### Instructions for Applying
 
