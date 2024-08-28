@@ -17,7 +17,7 @@ Students currently studying in CHS will be notified via various internal platfor
 
 #### Selection Criteria
 
-1\.  A successful applicants would have:<br>
+1\.  A successful applicant would have:<br>
   a.  excellent academic results in Secondary 1 and 2;<br>
 	b.  positive dispositions needed to thrive in the IP curriculum (e.g. self-directed and collaborative learner, intellectual curiosity, creative problem solver). <br>
 	c.  a strong record of participation, achievement, and service in CCA. Demonstration of leadership qualities and competencies would be an advantage.<br>
@@ -43,7 +43,7 @@ Students currently studying in CHS will be notified via various internal platfor
 
 5\.  The following supporting documents must be submitted via the [online form](https://go.gov.sg/chsip). <br>
    a. certified true copies of PSLE results; <br>
-	 b. certified true copies of Secondary 1 (full year) and Secondary 2 (up to WA 2, and where possible, WA3) results;<br>
+	 b. certified true copies of Secondary 1 (full year) and Secondary 2 (up to and including WA3) results;<br>
 	 c. certified true copies of certificates participation, achievement and/or leadership in CCA and VIA; and<br>
 	 d. certificates of achievements in academic or co-curricular areas.
 
