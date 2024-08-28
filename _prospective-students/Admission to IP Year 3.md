@@ -8,6 +8,8 @@ variant: markdown
 
 <img src="/images/ps2.png" style="width:80%">
 
+#### Introduction
+
 Catholic High School (CHS), together with CHIJ St. Nicholas Girls’ School (SNGS),  Singapore Chinese Girls’ School (SCGS) and Eunoia Junior College (EJC), offers the 6-year Joint Integrated Programme. Admission to the CHS Integrated Programme (IP) Year 3 for 2025 is now open for application to boys in Secondary 2 in 2024. Successful students will spend two years in CHS and the final two years in EJC. Students admitted to the IP will by-pass the GCE ‘O’ Level Examinations and proceed directly to EJC after the two years in CHS.
 Students currently studying in CHS will be notified via various internal platforms by the HOD/IP and Year Heads. The contents of this web page is not applicable to current Secondary 2 students of CHS.
 
@@ -57,4 +59,4 @@ Students currently studying in CHS will be notified via various internal platfor
 
 #### Enquiries about IP Year 3
 
-9\.  For further questions regarding CHS IP, please contact us at chs@moe.edu.sg or 6458 2177. More details about the school are also found at our [**FAQ page**](https://www.catholichigh.moe.edu.sg/secondary/faqs/). [**Click here to go to the FAQ page.**](https://www.catholichigh.moe.edu.sg/secondary/faqs/)
+9\.  For further questions regarding CHS IP, please contact us at chs@moe.edu.sg or 6458 2177. More details about the school are also found at our [**FAQ page**](https://www.catholichigh.moe.edu.sg/secondary/faqs/).   [**Click here to go to the FAQ page.**](https://www.catholichigh.moe.edu.sg/secondary/faqs/)
