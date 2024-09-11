@@ -2,10 +2,12 @@
 title: Partnerships
 permalink: /about/partnerships/
 description: ""
+variant: markdown
 ---
 ### Our Extensive Network of Partners
 
-**Our school forms partnerships and collaborations with our &nbsp;[JIP partner schools](https://www.catholichigh.moe.edu.sg/about/joint-integrated-programme/overview/),&nbsp;[alumni](https://www.cha.org.sg/),&nbsp;[Parent Support Group (PSG)](https://www.facebook.com/psg.chs/),&nbsp;[Dads@CHS](https://www.facebook.com/CHS.Dads4Life/), multiple external agencies, Institutes of High Learning (IHLs), overseas schools and the&nbsp;[Roman Catholic Archdiocese of Singapore](https://www.catholic.sg/).**
+**Our school forms partnerships and collaborations with our &nbsp;[JIP partner schools](https://www.catholichigh.moe.edu.sg/about/joint-integrated-programme/overview/),&nbsp;[alumni](https://www.cha.org.sg/),&nbsp;[Parent Support Group (PSG)](https://www.facebook.com/psg.chs/),&nbsp;[Dads@CHS](https://www.facebook.com/CHS.Dads4Life/),&nbsp;[Catholic Parents Community
+](https://www.facebook.com/groups/240335456548718), multiple external agencies, Institutes of High Learning (IHLs), overseas schools and the&nbsp;[Roman Catholic Archdiocese of Singapore](https://www.catholic.sg/).**
 
 <img src="/images/about28.png" style="width:60%">
 <img src="/images/about29.png" style="width:60%">
