@@ -676,10 +676,10 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ho Chu Huei</p>
+<p>Wee Huixin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ho_chu_huei_a@moe.edu.sg</p>
+<p>wee_huixin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -2090,6 +2090,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>xaverie_lim_ting_ting@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Chu Huei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ho_chu_huei_a@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
