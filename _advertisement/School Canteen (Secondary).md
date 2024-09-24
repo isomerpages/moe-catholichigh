@@ -4,7 +4,7 @@ permalink: /advertisement/canteen-secondary/
 description: School Canteen (Secondary)
 variant: markdown
 ---
-Catholic High School (Sec) is a single session school with an estimated enrolment of 1190 student and about 130 male and female staff.  
+Catholic High School (Sec) is a single session school with an estimated enrolment of 1190 male students and about 130 male and female staff.  
 
 Our canteen operates from Mondays to Fridays, 6.00am to 3.00pm during the school term.
 
