@@ -16,7 +16,7 @@ The details of the advertisement as follows :-
 
 **Application Procedure**
 
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+1. Download and complete the application form.
 * [Canteen Application Form](/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf)
 
 2. Attach the following documents together with the application form:
