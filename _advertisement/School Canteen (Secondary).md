@@ -10,9 +10,9 @@ Our canteen operates from Mondays to Fridays, 7.00am to 3.00pm during the school
 
 The details of the advertisement as follows :-
 
-| Type of Stall | Closing Date | Requirements |
-| -------- | -------- | -------- |
-| Muslim Food (Rice, Western or Fusion) | 31 October 2024 | NIL|
+| Type of Stall | Closing Date |
+| -------- | -------- |
+| Muslim Food (Rice, Western or Fusion) | 31 October 2024 |
 
 **Application Procedure**
 
@@ -25,7 +25,6 @@ The details of the advertisement as follows :-
 * Relevant certificates such as Basic Food Hygiene Course, etc
 
 3. Submit the completed application form and documents by closing date via email.
-
 * Contact Person: Mrs Esther Ding / Mr Bernard Han
 * Contact No: 64582177
 * Email: chs@moe.edu.sg
