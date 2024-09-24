@@ -12,7 +12,7 @@ Details of the advertisement as posted on our school website are as follows :-
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Muslim Food (Rice, Western or Fusion) | 29 April 2024 | NIL|
+| Muslim Food (Rice, Western or Fusion) | 31 October 2025 | NIL|
 
 **Application Procedure**
 
@@ -24,7 +24,7 @@ Details of the advertisement as posted on our school website are as follows :-
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+3. Submit the completed application form and documents by closing date via email.
 
 * Address: Catholic High School(Secondary Section), No.9 Bishan Street 22 Singapore 579767
 * Contact No: 64582177
