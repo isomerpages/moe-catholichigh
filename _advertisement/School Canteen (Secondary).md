@@ -23,7 +23,6 @@ The details of the advertisement as follows :-
 * NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Relevant certificates such as Basic Food Hygiene Course, etc
-
 3. Submit the completed application form and documents by closing date via email.
 * Contact Person: Mrs Esther Ding / Mr Bernard Han
 * Contact No: 64582177
