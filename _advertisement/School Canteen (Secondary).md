@@ -12,7 +12,7 @@ Details of the advertisement as posted on our school website are as follows :-
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Muslim Food (Rice, Western or Fusion) | 31 October 2025 | NIL|
+| Muslim Food (Rice, Western or Fusion) | 31 October 2024 | NIL|
 
 **Application Procedure**
 
