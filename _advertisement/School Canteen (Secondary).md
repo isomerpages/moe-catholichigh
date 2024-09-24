@@ -42,7 +42,7 @@ The details of the advertisement as follows :-
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
 * Be in personal attendance at the stall during operating hours.
-* Prior experience in running a school canteen stall is an added advantage.
+* Prior experience in catering or operating a food stall is an added advantage.
 * Apply for a food stall license from Singapore Food Agency (SFA) if successful.
 
 
