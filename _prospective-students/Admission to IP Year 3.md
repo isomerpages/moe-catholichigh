@@ -39,9 +39,9 @@ Students currently studying in CHS will be notified via various internal platfor
 |From 16 October to 25 October 2024 (Tentative dates) | **Shortlisted** applicant attends an interview. |
 |3 October 2024 (Tentative dates)|Notification of outcome via email. |
 
-4\.  The application must be made via the school’s [online form](https://go.gov.sg/chsip). 
+4\.  The application must be made via the school’s [online form](https://form.gov.sg/66f632c3485a6607b3fc1fd7). 
 
-5\.  The following supporting documents must be submitted via the [online form](https://go.gov.sg/chsip). <br>
+5\.  The following supporting documents must be submitted via the [online form](https://form.gov.sg/66f632c3485a6607b3fc1fd7). <br>
    a. certified true copies of PSLE results; <br>
 	 b. certified true copies of Secondary 1 (full year) and Secondary 2 (up to and including WA3) results;<br>
 	 c. certified true copies of certificates participation, achievement and/or leadership in CCA and VIA; and<br>
@@ -49,7 +49,7 @@ Students currently studying in CHS will be notified via various internal platfor
 
 #### Instructions for Applying
 
-6\.  Submit an online application (only for students who are presently **not** studying in CHS) at https://go.gov.sg/chsip. 
+6\.  Submit an online application (only for students who are presently **not** studying in CHS) at https://form.gov.sg/66f632c3485a6607b3fc1fd7. 
 
 7\.  The deadline is 27 September 2024, 4.00pm. Late applications will not be accepted.
 
