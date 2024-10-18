@@ -8,7 +8,7 @@ variant: markdown
 
 |  	|  	|
 |---	|---	|
-| Mr Poh Chun Leck (Principal)<br> Mr Tan Cher Hui Philip  (Vice-Principal(1))<br>Mr Adrian Leow (Vice-Principal(2)) <br>Mr Fong Kok Wai (Vice-Principal(Administration)) 	| chs_principal@moe.edu.sg 	|
+| Mr Poh Chun Leck (Principal)<br> Mr Tan Cher Hui Philip  (Vice-Principal 1)<br>Mr Adrian Leow (Vice-Principal 2) <br>Mr Fong Kok Wai (Vice-Principal / Administration) 	| chs_principal@moe.edu.sg 	|
 
 #### Heads of Department (HOD)/Level Heads (LH)/Subject Heads (SH)/Lead Teachers (LT)/Senior Teachers (ST) 2024
 
