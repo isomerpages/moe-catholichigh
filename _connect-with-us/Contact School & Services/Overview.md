@@ -24,7 +24,7 @@ variant: markdown
 <td style="width: 417.969px;">
 <p style="text-align:left; color: black; font-size: 16pt;"><strong>Secondary&nbsp;Section</strong></p>
 <p>General Office: 6458 2177<br>Fax Number: 6456 1322<br>
-Email:&nbsp;<a href="mailto:chs@moe.edu.sg">chs@moe.edu.sg</a>(including DSA-related queries)<br>
+Email:&nbsp;<a href="mailto:chs@moe.edu.sg">chs@moe.edu.sg</a> (including DSA-related queries)<br>
 <a href="https://www.catholichigh.moe.edu.sg/secondary/staff-contact/">Staff Contact Email</a> (Secondary)&nbsp;</p>
 </td>
 </tr>
