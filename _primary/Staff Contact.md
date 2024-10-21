@@ -1057,7 +1057,7 @@ variant: tiptap
 <p>Cheong Ju Li Geraldine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cheong_ju_li_geraldinne_a@moe.edu.sg</p>
+<p>geraldine_cheong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
