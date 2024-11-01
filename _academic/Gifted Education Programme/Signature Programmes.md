@@ -65,11 +65,11 @@ programme:</p>
 <img style="width: 100%" height="auto" width="100%" alt="第14届国际青少年双语演讲大会" src="/images/Primary/GEP/GEP%20Signature%20Programmes/14th%20international%20youth%20bilingual%20performance%20conference.jpeg">
 </div>
 <p></p>
-<p></p>
-<p></p>
+<br>
+<hr>
 <h3>Learning Beyond the Classroom</h3>
 <p>At CHS, having the opportunity to learn beyond the classroom plays an
-important role for our GEP pupils. We believe that learning is not just
+important role for our pupils in the Gifted Education Programme. We believe that learning is not just
 confined to the four walls of the classroom; experiential learning goes
 beyond that so as to contextualise pupils’ learning back in school and
 to broaden their horizons. Here are some Learning Journeys and fun activities
