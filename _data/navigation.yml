@@ -29,8 +29,6 @@ links:
         url: /academic/english-language/overview/
       - title: Non-Academic
         url: /non-academic/cca/overview/
-      - title: Staff Contact
-        url: /staff/primary-section/
   - title: Secondary
     url: /secondary/prospectus/
     sublinks:
@@ -48,8 +46,6 @@ links:
         url: /secondary/awards-and-achievements/overview/
       - title: FAQs (Secondary Section)
         url: /secondary/faqs/
-      - title: Staff Contact
-        url: /staff/secondary/
   - title: Contact Us
     url: /contact-and-outreach/contact-school-and-services/overview/
     sublinks:
