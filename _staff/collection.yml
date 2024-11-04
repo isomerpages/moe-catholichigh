@@ -2,5 +2,5 @@ collections:
   staff:
     output: true
     order:
-      - Staff Contact.md
+      - Secondary Section.md
       - Primary Section.md
