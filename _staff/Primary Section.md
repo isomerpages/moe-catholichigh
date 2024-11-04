@@ -1,6 +1,6 @@
 ---
-title: Staff Contact
-permalink: /primary/staff-contact/
+title: Primary Section
+permalink: /staff/primary-section/
 description: ""
 variant: tiptap
 ---

@@ -1,0 +1,6 @@
+collections:
+  staff:
+    output: true
+    order:
+      - Primary Section.md
+      - Secondary Section.md

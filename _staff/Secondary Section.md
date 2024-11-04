@@ -1,6 +1,6 @@
 ---
-title: Staff Contact
-permalink: /secondary/staff-contact/
+title: Secondary Section
+permalink: /staff/secondary-section/
 description: ""
 variant: markdown
 ---

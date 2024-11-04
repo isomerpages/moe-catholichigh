@@ -19,13 +19,13 @@ variant: markdown
 <tr>
 <td style="width: 301.031px;">
 <p style="text-align:left; color: black; font-size: 16pt;"><strong>Primary Section</strong></p>
-<p>General Office: 6458 9869<br>Fax Number: 6459 3938<br>Email:&nbsp;<a href="mailto:chs_ps@moe.edu.sg">chs_ps@moe.edu.sg</a><br><a href="https://www.catholichigh.moe.edu.sg/primary/staff-contact/">Staff Contact Email</a> (Primary)&nbsp;</p>
+<p>General Office: 6458 9869<br>Fax Number: 6459 3938<br>Email:&nbsp;<a href="mailto:chs_ps@moe.edu.sg">chs_ps@moe.edu.sg</a><br><a href="https://www.catholichigh.moe.edu.sg/staff/primary-section/">Staff Contact Email</a> (Primary)&nbsp;</p>
 </td>
 <td style="width: 417.969px;">
 <p style="text-align:left; color: black; font-size: 16pt;"><strong>Secondary&nbsp;Section</strong></p>
 <p>General Office: 6458 2177<br>Fax Number: 6456 1322<br>
 Email:&nbsp;<a href="mailto:chs@moe.edu.sg">chs@moe.edu.sg</a> (including DSA-related queries)<br>
-<a href="https://www.catholichigh.moe.edu.sg/secondary/staff-contact/">Staff Contact Email</a> (Secondary)&nbsp;</p>
+<a href="https://www.catholichigh.moe.edu.sg/staff/secondary-section/">Staff Contact Email</a> (Secondary)&nbsp;</p>
 </td>
 </tr>
 </tbody>

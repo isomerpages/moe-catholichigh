@@ -1,5 +1,4 @@
 collections:
   primary:
     output: true
-    order:
-      - Staff Contact.md
+    order: []
