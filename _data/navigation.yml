@@ -17,7 +17,9 @@ links:
         url: /about/Our-CHS-Campus/
   - title: Our People
     url: "#"
-    sublinks: []
+    sublinks:
+      - title: Staff
+        url: /staff/primary-section
   - title: Primary
     url: "#"
     sublinks:
