@@ -19,7 +19,7 @@ sections:
       id: infobar
       description: For interested P6 students - Information about Catholic High School
       button: CLICK HERE TO FIND OUT MORE!
-      url: /prospective-students/open-house/
+      url: /prospective-students/information-about-chs/
   - infobar:
       title: 2024 Direct School Admission – Secondary (DSA-Sec) Exercise
       subtitle: Latest News
