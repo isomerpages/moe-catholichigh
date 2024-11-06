@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Leaving a&nbsp;Legacy
 
-Catholic High School offers a wide range of Co-curricular Activities to provide our students in IP and OP with a platform to discover their interests and talents. Through the guidance by our expert CCA Instructors and dedicated teachers-in-charge, and with the support of parents and alumni, our students have maximised their potential and achieved much in all the areas of CCA.
+Catholic High School offers a wide range of Co-curricular Activities to provide our students in IP and SP with a platform to discover their interests and talents. Through the guidance by our expert CCA Instructors and dedicated teachers-in-charge, and with the support of parents and alumni, our students have maximised their potential and achieved much in all the areas of CCA.
 
 ([Click here if you are looking for a list of our students’ more recent academic achievements](/secondary/awards-and-achievements/academic-achievements/)
 
