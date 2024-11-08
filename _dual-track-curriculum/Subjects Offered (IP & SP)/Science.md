@@ -3,6 +3,7 @@ title: Science
 permalink: /dual-track-curriculum/Subjects-Offered-IP-and-OP/science/
 description: ""
 third_nav_title: Subjects Offered (IP & SP)
+variant: markdown
 ---
 <img src="/images/scie1.png" style="width:30%"> [Click here for our Science Prospectus ](https://drive.google.com/file/d/155SWFfGAriWTZuWd68rs3Ov9PMYp6UZ3/view)<br>(which provides in-depth information about our general science curriculum, research programmes, enrichment and talent development)
 
@@ -13,7 +14,7 @@ Catholic High School recognises that our gentlemen have strong aptitude and pass
 *   The CHS Science curriculum -offered in tandem with our Mathematics curriculum- believes in equipping our students to view the world through the perspective of science, nurturing them to have a passion for discovery and innovation in life and guiding them to use their scientific knowledge to lead others for the betterment of our society.
 *   **We aim to nurture Inquirers, Investigators and Innovators.**&nbsp;At the heart of our&nbsp;**interdisciplinary**&nbsp;**Science**&nbsp;**curriculum**&nbsp;are these 4 ‘E’s:&nbsp;**enhance**,&nbsp;**excite**,&nbsp;**engage**&nbsp;and&nbsp;**empower**.
 *   Our programmes enhance the learning of Science by adopting an exploratory approach that excites and stimulates our students’ intellectual curiosity, and empowers them to find their own passion area in Science.
-*   A vast range of learning opportunities are available to IP and OP students, be it our Space and Flight Science Programme, CΩERGY science talent development programme, Japan Overseas Immersion and Cultural Programme and more, as shown by the diagram below:
+*   A vast range of learning opportunities are available to IP and SP students, be it our Space and Flight Science Programme, CΩERGY science talent development programme, Japan Overseas Immersion and Cultural Programme and more, as shown by the diagram below:
 
 <img src="/images/scie2.png" style="width:60%"> 
 
