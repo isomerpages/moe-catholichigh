@@ -38,7 +38,7 @@ Our sportsmen have done us proud with numerous ‘B’ and ‘C’ Division Nati
 | Wushu ‘B’ Division         | National 3rd       |
 | Wushu ‘C’ Division         | National 4th |
 
-#### 2024 Performing Arts Achievements
+#### 2023 Performing Arts Achievements
 It has been a great experience for all six of our Performing Arts Groups, Chinese Drama, Chinese Orchestra, Edward Becheras Choir, English Drama, Modern Dance, and Symphony Band, who performed at the SYF Arts Presentations. Their outstanding performances moved both the adjudicators as well as the audience. Their hours of practice to hone their skills, techniques and processes has enabled them to put into practice and showcase their art form at the highest quality. We are proud of every single CHS performer who exudes confidence on and off the stage!
 
 <img src="/images/about18.png" style="width:60%"> <br>
@@ -52,7 +52,7 @@ It has been a great experience for all six of our Performing Arts Groups, Chines
 | Modern Dance          | Certificate of Distinction    |
 | Symphony Band         | Certificate of Distinction    |
 
-#### 2024 Uniformed Groups Achievements
+#### 2023 Uniformed Groups Achievements
 Catholic High’s Uniformed Groups belong to one of the greatest traditions of the school, with the focus on leadership development and robust characteristics. This year, we are very proud to celebrate, once again, the highest UG awards attained by all the five Uniformed Groups and their Cadets, testifying to their resilience, camaraderie and leadership. They further distinguished themselves in many creative expressions such as precision drills and free-style drills. Kudos to our cadets for their achievements in the orienteering competitions, first aid competitions as well as the National Patrol Camp &amp; many more accolades for many more years to come!
 
 <img src="/images/about19.png" style="width:60%"> <br>
