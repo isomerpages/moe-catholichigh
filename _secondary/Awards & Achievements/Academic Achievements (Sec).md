@@ -23,7 +23,7 @@ _(Above: 2018 Young Defence Scientist Programme (YDSP) Scholarship Awardees Tan 
 
 _(Above: Ong Chong Yu, IP/2017, who is the 2018 Prime Minister’s Book Prize winner)_
 
-| Department | Achievements 2023|
+| Department | 2023 and 2024 Achievements|
 | -------- | -------- |
 | English Language     |  - 2024 Secondary Schools Debating Championship: Quarter-finalists, 3rd and 13th Best Speaker<br>- 2024 Mid-year Debate Invitationals: Gold<br>- 2024 National Poetry Competition Top 10 Winner in both Junior and Super Junior Category<br>- 2023 Queen’s Commonwealth Essay Competition: 3 Golds, 9 Silvers , 21 Bronzes<br>- 2023 Eunoia Debating Championship: 12th Best Speaker, 18th Best Speaker​<br>- 2023 Asian International Schools Debating Championship: Quarter finalist<br>- 2023 Singapore Secondary Schools Debating Championship: Semi finalist , 5th Best Speaker, 16th Best Speaker<br>- 2023 Mid-year Debate Invitationals: Semi-finalists,1st, 2nd, 5th and 6th Best Speaker<br>- 2023 Hwa Chong British Parliamentaries: Semi-finalists<img src="/images/Hwa_Chong_British_Parliamentaries_2023_Semi_Finalist.jpg" style="width:60%">
 |Mother Tongue Language| - 2024 年中学生中英口译邀请赛：季军、优秀奖<br>- 2024 年第22届​全国中学生华文创作比赛——新蕾爱拍客：IG人气奖<br>- 2024 第38届全国中学相声表演赛：优胜奖<br>​- 2024 第17届 “汉语桥”世界中学生中文比赛 : 第二名<br>- 2024 第17届全国中学生翻译比赛: 个人优异奖​<br>- 2024 华文大比拼: 优秀奖<br> ​- 2024 第17届联合杯写作大赛: 首奖、感动奖<br>- 2024 第20届幼苗计划: 幼苗奖​<br>- 2024 全国学生中英互译比赛: 冠军、优胜奖​<br>- 2024 年狮城杯新加坡华语辩论比赛：初赛阶段最佳辩论手<br><img src="/images/2024_CL_MT_Achievement.jpg" style="width:60%">
