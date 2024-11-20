@@ -8,7 +8,7 @@ variant: markdown
 <style>
 p {text-align: justify;}
 </style>
-<img src="/images/principal.png" style="width:223px;height:240px;margin-right:15px;" align="left"> 
+<img src="/images/Principal_1.jpg" style="width:223px;height:312px;margin-right:15px;" align="left"> 
 
 Catholic High School is an educational institution of excellence rooted in 90 years of rich heritage. Founded in 1935 by Father Edward Becheras, Catholic High School has grown from its humble beginnings at a small shack in Queen Street to a school distinguished by its diverse educational offering catering to boys aged 6 to 16. As an Autonomous School offering both the Integrated Programme and the SEC Programme, our enriched curriculum broadens and deepens our gentlemen’s intellectual pursuits and 21st century competencies in the context of a fast-changing global world. As a Special Assistance Plan School offering the MOE Bicultural Studies Programme, we are committed to developing effectively bilingual and bicultural scholars with a passion for the language and understanding of the culture. We also offer the MOE Music Elective
 Programme and school-based talent development programmes for English, Humanities, Mathematics and Sciences to give our gentlemen ample opportunities to develop their interests and strengths. Beyond academic endeavours, our gentlemen further develop their passion and leadership qualities through a wide range of enrichment programmes and CCAs.
