@@ -3,6 +3,7 @@ title: Cnergy Programme
 permalink: /secondary/Talent-Development/cnergy-programme/
 description: ""
 third_nav_title: Talent Development
+variant: markdown
 ---
 ### Science Talent Development Programme:&nbsp;CΩERGY Programme
 
@@ -12,7 +13,7 @@ p {text-align: justify;}
 
 **[[Click here for our Science@CHS Prospectus that provides greater details about our science programmes, enrichment&nbsp;and talent development](https://drive.google.com/file/d/155SWFfGAriWTZuWd68rs3Ov9PMYp6UZ3/view)].**
 
-<img align="right" style="width:243px;height:180px;margin-left:15px;" src="/images/cnergy4.png"> The&nbsp;**CΩERGY Programme is a stretch programme whereby consistently high-performing IP and OP students who exhibit strong aptitude and interest in science are selected at the end of Level 1 based on a set of criteria**. In Level 2, the students attend lessons after school and participate in enrichment programmes and activities that aim to broaden their experience and advance their learning in science and technology. In Level 3 and 4, these students go through an accelerated curriculum during curriculum time when their counterparts are going through the mainstream curriculum.
+<img align="right" style="width:243px;height:180px;margin-left:15px;" src="/images/cnergy4.png"> The&nbsp;**CΩERGY Programme is a stretch programme whereby consistently high-performing IP and SP students who exhibit strong aptitude and interest in science are selected at the end of Level 1 based on a set of criteria**. In Level 2, the students attend lessons after school and participate in enrichment programmes and activities that aim to broaden their experience and advance their learning in science and technology. In Level 3 and 4, these students go through an accelerated curriculum during curriculum time when their counterparts are going through the mainstream curriculum.
 
 <img align="left" style="width:243px;height:180px;margin-right:15px;" src="/images/cnergy2.png"> The origin of the word “CΩERGY” comes from the word “energy” which is a common theme and big idea that cuts across all science subjects. The letter “C” replaces “e” and it represents Catholic High School. The ohm symbol Ω is the SI derived unit for electrical resistance and it symbolises the scientific nature of the programme within the department. The Latin phrase fiduciam in scientia means confidence in science which all students in the programme is expected to possess.
 

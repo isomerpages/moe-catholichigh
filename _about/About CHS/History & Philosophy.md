@@ -19,7 +19,7 @@ Reverend Father Becheras envisioned the school as an institution of learning, an
 
 As a Special Assistance Plan (SAP) school, CHS is grounded in the philosophy of&nbsp;**bilingualism and biculturalism**. Offering the unique&nbsp;**Dual Track model with both the O-Level Programme (OP) and Integrated Programme (IP)**, the CHS experience offers a curriculum strong in academic distinctions, leadership and character development, and sports and aesthetics excellence.&nbsp;In over 80 years’ of educating students,&nbsp;CHS has&nbsp;nurtured a crop of leaders and professionals in various fields who give back to society and our school. ([Click here for a list of some of our illustrious alumni](https://www.catholichigh.moe.edu.sg/about/about-chs/tradition-of-excellence/)
 
-In this 21st century, all students in our OP and IP tracks continue to benefit from our forward-looking curriculum centred on developing 21st century competencies such as critical and creative thinking, civic literacy as well as communication skills, through inquiry-based learning, research and passion pursuits. Our IP students will spend their first 4 years in CHS before progressing to the new Eunoia Junior College to complete the IP.
+In this 21st century, all students in our SP and IP tracks continue to benefit from our forward-looking curriculum centred on developing 21st century competencies such as critical and creative thinking, civic literacy as well as communication skills, through inquiry-based learning, research and passion pursuits. Our IP students will spend their first 4 years in CHS before progressing to the new Eunoia Junior College to complete the IP.
 
 <img src="/images/about2.png">
 

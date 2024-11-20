@@ -13,7 +13,7 @@ Catholic High School offers a wide range of Co-curricular Activities to provide 
 
 ---
 
-#### 2023 CCA Physical Sports Results
+#### 2024 CCA Physical Sports Results
 
 Our sportsmen have done us proud with numerous ‘B’ and ‘C’ Division National School Games – National and Zone achievements, bettering their personal best, gaining top positions and most importantly, for many of them, prevailing against all odds with an unyielding individual focus and a strong team spirit. Our heartiest congratulations to our sportsmen for being faster, higher, and stronger, as they fought and soared through the preliminaries to the play-offs, to the semis and finally to the finals! Beyond the medals and positions, we would like to commend our boys for demonstrating the spirit of “Discipline, Character, Championship” in their sporting endeavours.
 
@@ -21,22 +21,22 @@ Our sportsmen have done us proud with numerous ‘B’ and ‘C’ Division Nati
 
 | CCA    | Results     |
 |----------------------------|--------------------|
-| Basketball ‘B’ Division    | Zone Champions     |
-| Basketball ‘C’ Division    | National 3rd       |
-| Cross-country ‘B’ Division | National 7th       |
-| Cross-country ‘C’ Division | National 6th       |
-| Floorball ‘B’ Division     | National 3rd       |
+| Basketball ‘B’ Division    | National Top 16     |
+| Basketball ‘C’ Division    | League 2 Top 16       |
+| Cross-country ‘B’ Division | National 11th       |
+| Cross-country ‘C’ Division | National 4th       |
+| Floorball ‘B’ Division     | National 4th       |
 | Floorball ‘C’ Division     | National 3rd       |
-| Softball ‘B’ Division      | National 4th       |
-| Softball ‘C’ Division      | National 3rd       |
-| Table Tennis ‘B’ Division  | Zone Champions     |
-| Table Tennis ‘C’ Division  | Zone Champions     |
+| Softball ‘B’ Division      | National 1st       |
+| Softball ‘C’ Division      | National 4th       |
+| Table Tennis ‘B’ Division  | National 4th     |
+| Table Tennis ‘C’ Division  | League 1 Top 16     |
 | Track &amp; Field ‘B’ Division | National 6th       |
-| Track &amp; Field ‘C’ Division | National 6th       |
-| Volleyball ‘B’ Division    | National Champions |
-| Volleyball ‘C’ Division    | Zone Champions     |
-| Wushu ‘B’ Division         | National 2nd       |
-| Wushu ‘C’ Division         | National Champions |
+| Track &amp; Field ‘C’ Division | National 7th       |
+| Volleyball ‘B’ Division    | National Top 8 |
+| Volleyball ‘C’ Division    | League 2 Top 8     |
+| Wushu ‘B’ Division         | National 3rd       |
+| Wushu ‘C’ Division         | National 4th |
 
 #### 2023 Performing Arts Achievements
 It has been a great experience for all six of our Performing Arts Groups, Chinese Drama, Chinese Orchestra, Edward Becheras Choir, English Drama, Modern Dance, and Symphony Band, who performed at the SYF Arts Presentations. Their outstanding performances moved both the adjudicators as well as the audience. Their hours of practice to hone their skills, techniques and processes has enabled them to put into practice and showcase their art form at the highest quality. We are proud of every single CHS performer who exudes confidence on and off the stage!

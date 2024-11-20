@@ -3,12 +3,13 @@ title: SAP Flagship Programme 特选学校旗舰计划
 permalink: /secondary/Distinctive-Programmes/sap-flagship-programme/
 description: ""
 third_nav_title: Distinctive Programmes
+variant: markdown
 ---
 ### SAP Flagship Programme 特选学校旗舰计划
 <style>
 p {text-align: justify;}
 </style>
-<img src="/images/sapfp1.png" style="width:183px;height:240px;margin-left:15px;" align="right"> As a&nbsp;**Special Assistance Plan (SAP) school**, CHS runs our&nbsp;**SAP Flagship Programme “Deepening the Roots, Charting the Future” “深濡文化，放眼天下”**&nbsp;for all lower level students in IP and OP. Through this SAP Flagship Programme, we develop our students’ understanding and appreciation of Chinese Culture. The Programme is mainly delivered through the Appreciation of Chinese Culture (ACC) lessons, which educate our students in the five domains of Qin, Qi, Shu, Hua, Shi (琴, 棋, 书, 画, 史), i.e. Music, Chess, Calligraphy, Ink Painting, and History and Classics. During these ACC lessons,&nbsp;comparative&nbsp;study will also be made with Western cultures to provide a holistic understanding.
+<img src="/images/sapfp1.png" style="width:183px;height:240px;margin-left:15px;" align="right"> As a&nbsp;**Special Assistance Plan (SAP) school**, CHS runs our&nbsp;**SAP Flagship Programme “Deepening the Roots, Charting the Future” “深濡文化，放眼天下”**&nbsp;for all lower level students in IP and SP. Through this SAP Flagship Programme, we develop our students’ understanding and appreciation of Chinese Culture. The Programme is mainly delivered through the Appreciation of Chinese Culture (ACC) lessons, which educate our students in the five domains of Qin, Qi, Shu, Hua, Shi (琴, 棋, 书, 画, 史), i.e. Music, Chess, Calligraphy, Ink Painting, and History and Classics. During these ACC lessons,&nbsp;comparative&nbsp;study will also be made with Western cultures to provide a holistic understanding.
 #### Our&nbsp;Philosophy
 
 **“深濡文化，放眼天下”**

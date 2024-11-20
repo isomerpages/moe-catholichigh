@@ -2,6 +2,7 @@
 title: Comparing IP & SP
 permalink: /dual-track-curriculum/comparing-ip-and-sp/
 description: ""
+variant: markdown
 ---
 ### Similarities and Differences between IP and SP Tracks
 
@@ -9,7 +10,7 @@ Click&nbsp;[here](/dual-track-curriculum/Integrated-Programme/overview/)&nbsp;if
 
 **Rich and diverse student development and enrichment opportunities**&nbsp;are offered by CHS to&nbsp;both&nbsp;IP and SP track students as far as possible to complete our students’ education experience, e.g. Passion Pursuit (Elective) modules are offered to both IP and SP students.
 
-The more significant differentiation is&nbsp;that&nbsp;**IP students have more time than SP students for learning news skills and knowledge or participating in experiential learning**, e.g. going on immersion trips in Year 4. OP students have to prepare and sit for the Singapore-Cambridge Secondary Education Certificate (SEC) examinations in Sec 4.
+The more significant differentiation is&nbsp;that&nbsp;**IP students have more time than SP students for learning news skills and knowledge or participating in experiential learning**, e.g. going on immersion trips in Year 4. SP students have to prepare and sit for the Singapore-Cambridge Secondary Education Certificate (SEC) examinations in Sec 4.
 
 The following diagram provides an overview of our&nbsp;Dual Track curriculum, and highlights some of our signature programmes such as:
 
