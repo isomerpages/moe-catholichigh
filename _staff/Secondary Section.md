@@ -154,7 +154,7 @@ variant: markdown
 |Mdm Wong Mee Khoon|wong_mee_khoon@moe.edu.sg|
 
 
-#### School Management Team (2024)
+#### School Care Team (2024)
 
 |  	|  	|
 |---	|---	|
