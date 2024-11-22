@@ -22,7 +22,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Yvonne (Principal)
-<br>Ms Tan Pey San (Vice-Principal)
+<br>Mrs Beverly Toh (Vice-Principal)
 <br>Mrs Kellie Woo (Vice-Principal)
 <br>Mr Fong Kok Wai (Vice-Principal / Administration)</p>
 </td>
