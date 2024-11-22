@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Poh Chun Leck (Principal)
+<p>Mdm Teo Yvonne (Principal)
 <br>Ms Tan Pey San (Vice-Principal)
 <br>Mrs Kellie Woo (Vice-Principal)
 <br>Mr Fong Kok Wai (Vice-Principal / Administration)</p>
