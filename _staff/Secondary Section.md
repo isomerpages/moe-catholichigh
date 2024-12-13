@@ -85,7 +85,7 @@ variant: markdown
 |2-4|Ms Yasmine Chan Hoi Yin|chan_hoi_yin_yasmine@moe.edu.sg|
 |2-5|Miss Hsu Li-Wen|hsu_li-wen@moe.edu.sg|
 |2-6|Mr Adrian R W Chong|adrian_raphael_william_chong@moe.edu.sg|
-|2-6|Liu Xue|liu_xue@moe.edu.sg|
+|2-6|Miss Liu Xue|liu_xue@moe.edu.sg|
 |2-7|Mr Tan Zong Neng Max|tan_zong_neng@moe.edu.sg|
 |2-8|Mrs Chew Soak Cheng|tan_soak_cheng@moe.edu.sg|
 |2-8|Mr Tan Seng Choon|tan_seng_choon@moe.edu.sg|
