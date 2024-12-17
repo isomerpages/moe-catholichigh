@@ -135,10 +135,9 @@ Dec, 23:59.</p>
 <li>
 <p><a href="https://ask.gov.sg/chs" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a>
 </p>
+<p></p>
 </li>
 </ul>
-<p>*Please note that DSA students also need to submit Level 1 (2025) Registration
-Form.</p>
 <h4>Sec 1 &amp; Year 1 Appeal (2025)</h4>
 <p>The appeal for joining our Secondary 1 and Year 1 (2025 cohort) will open
 on the day of PSLE Posting Results and close on 20 December, 11.59 pm.
