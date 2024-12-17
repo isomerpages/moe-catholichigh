@@ -14,6 +14,12 @@ sections:
           url: /prospective-students/prospectus-sec/overview/
       title: Catholic High  School
   - infobar:
+      title: Level 1 (2025) Registration
+      subtitle: Lastest news
+      id: infobar
+      button: Click Here for more Information
+      url: /prospective-students/sec-admission/level-1-registration/
+  - infobar:
       title: Information about CHS
       subtitle: Latest News
       id: infobar
@@ -26,12 +32,6 @@ sections:
       description: Want to join CHS(Secondary) via DSA?
       button: Click Here to find out more!
       url: /prospective-students/Sec-Admission/direct-school-admission/
-  - infobar:
-      title: Level 1 (2024) Registration
-      subtitle: Lastest news
-      id: infobar
-      button: Click Here for more Information
-      url: /prospective-students/sec-admission/level-1-registration/
   - infopic:
       title: READY FOR SCHOOL KIT 2024
       subtitle: LATEST NEWS
