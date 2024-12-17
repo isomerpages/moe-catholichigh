@@ -24,7 +24,7 @@ continue to forge extraordinary pathways in touching lives and transforming futu
 
 
 Mdm Teo Yvonne<br>
-Principal (Designate)
+Principal
 
 
 
@@ -70,6 +70,6 @@ Principal (Designate)
 
 	
 	
-<p style="text-align: right;">张依雯 校长 (候任)</p>
+<p style="text-align: right;">张依雯 校长</p>
 
 <p>* The GCE O-Level will be replaced with the new Singapore-Cambridge Secondary Education Certificate (SEC) examinations from the 2024 S1 cohort onwards.</p>
