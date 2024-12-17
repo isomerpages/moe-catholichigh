@@ -141,15 +141,12 @@ variant: markdown
 |Mdm Lee Yin Teng|lee_yin_teng@moe.edu.sg|
 |Mdm Wong Mee Khoon|wong_mee_khoon@moe.edu.sg|
 |Mr Adrian Peeris|peeris_adrian@moe.edu.sg|
-|Mr Lionel Lim Rui Qi|lionel_lim_rui_qi@moe.edu.sg|
 |Mr Adrian Yao Zhiwei|yao_zhiwei_adrian@moe.edu.sg|
-|Mrs Liow Pei Yun|low_pei_yun@moe.edu.sg|
 |Mrs Marianne Tay-Eng Siew Yin|eng_siew_yin_marianne@moe.edu.sg|
 |Mrs Sharon Tan Huizhen|sharon_tan_huizhen@moe.edu.sg|
 |Ms Nirmala D/O K. Balakrishnan|nirmala_k_balakrishnan@moe.edu.sg|
 |Ms She Guihe|she_guihe@moe.edu.sg|
 |Ms Tan Shihui Tess|tan_shi_hui@moe.edu.sg|
-
 
 #### School Care Team (2025)
 
