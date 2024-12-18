@@ -147,10 +147,10 @@ with the school to which your son has been posted.</p>
 <p>*Your son would need to meet the following cut-off for PSLE Score:</p>
 <ul>
 <li>
-<p>SEC Programme (SP) – TBC&nbsp;</p>
+<p>SEC Programme (SP) – 8P&nbsp;</p>
 </li>
 <li>
-<p>Integrated Programme (IP) – TBC</p>
+<p>Integrated Programme (IP) – 7M</p>
 </li>
 </ul>
 <p>Please prepare a write-up of not more than 300 words to share why you
