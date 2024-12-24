@@ -2,6 +2,6 @@ collections:
   advertisement:
     output: true
     order:
-      - School Canteen (Primary).md
       - School Bus Service.md
+      - School Canteen (Primary).md
       - School Canteen (Secondary).md
