@@ -132,8 +132,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Miss</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Tang Hui Jing (Aesthetics &amp; Communications [Acting])</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tang_hui_jing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
