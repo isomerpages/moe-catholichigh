@@ -1110,7 +1110,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Boon Leng (SAP)</p>
+<p>Tan Boon Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_boon_leng_a@moe.edu.sg</p>
@@ -1219,7 +1219,7 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chelsia Loh Qiuxia (Math)</p>
+<p>Chelsia Loh Qiuxia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chelsia_loh@moe.edu.sg</p>
@@ -1359,7 +1359,7 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wee Huixin (ICT)</p>
+<p>Wee Huixin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wee_huixin@moe.edu.sg</p>
@@ -1401,7 +1401,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yap Yew Sean Calvin (GEP)</p>
+<p>Yap Yew Sean Calvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yap_yew_sean_calvin@moe.edu.sg</p>
@@ -1569,7 +1569,7 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Ying Xuan (Upper Primary)</p>
+<p>Lee Ying Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_ying_xuan@moe.edu.sg</p>
@@ -1653,7 +1653,7 @@ variant: tiptap
 <p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Amutha Samuel (English)</p>
+<p>Amutha Samuel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>dawson_f_amutha@moe.edu.sg</p>
@@ -1667,7 +1667,7 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chang Chiew Siew Linda (CCE)</p>
+<p>Chang Chiew Siew Linda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chang_chiew_siew_linda@moe.edu.sg</p>
@@ -1695,7 +1695,7 @@ variant: tiptap
 <p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tee Ngah Loui (Knowledge &amp; Digital Edn)</p>
+<p>Tee Ngah Loui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tee_ngah_loui@moe.edu.sg</p>
@@ -1709,7 +1709,7 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Li Lin Sarah (English)</p>
+<p>Ng Li Lin Sarah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_li_lin_sarah@moe.edu.sg</p>
@@ -1751,7 +1751,7 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yeo Xue Ting (Chinese)</p>
+<p>Yeo Xue Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_xue_ting@moe.edu.sg</p>
@@ -1835,7 +1835,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lai Chee Keen (Student Leadership)</p>
+<p>Lai Chee Keen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lai_chee_keen@moe.edu.sg</p>
