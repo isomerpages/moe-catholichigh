@@ -46,13 +46,13 @@ variant: tiptap
 <p>HOD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chang Chiew Siew Linda (Knowledge &amp; Digital Edn [Acting])</p>
+<p>Jayaram Amoss (English)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chang_chiew_siew_linda@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -88,13 +88,13 @@ variant: tiptap
 <p>HOD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jayaram Amoss (English)</p>
+<p>Loh Wai Choong Andrew (MT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jayaram_amoss@moe.edu.sg</p>
+<p>loh_wai_choong_andrew@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -105,10 +105,10 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loh Wai Choong Andrew (MT)</p>
+<p>Tay Hak Peng (GEP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_wai_choong_andrew@moe.edu.sg</p>
+<p>tay_hak_peng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -130,13 +130,38 @@ variant: tiptap
 <p>HOD</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Miss</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Tang Hui Jing (Aesthetics &amp; Communications [Acting])</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tay Hak Peng (GEP)</p>
+<p>Tan Boon Leng (SAP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_hak_peng@moe.edu.sg</p>
+<p>tan_boon_leng_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chang Chiew Siew Linda (Knowledge &amp; Digital Edn [Acting])</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chang_chiew_siew_linda@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -165,34 +190,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yogeeindran_ramerchandra@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Boon Leng (ASP)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_boon_leng_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tang Hui Jing (Aesthetics &amp; Communications [Acting])</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
