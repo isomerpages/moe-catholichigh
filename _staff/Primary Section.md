@@ -525,7 +525,7 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Phua Loke Lin KM [Acting])</p>
+<p>Phua Loke Lin (KM [Acting])</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>phua_loke_lin@moe.edu.sg</p>
