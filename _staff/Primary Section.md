@@ -1001,7 +1001,7 @@ variant: markdown
 <p>Rafidah Binti Muhammad Dahri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>rafidah_muhammad_dahri@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1057,7 +1057,7 @@ variant: markdown
 <p>Yahya Bin Abdul Razak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yahya_abdul_razak@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1085,7 +1085,7 @@ variant: markdown
 <p>Pang Mee Mee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>pang_mee_mee_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1275,10 +1275,10 @@ variant: markdown
 <p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Athena Taang Jingwen</p>
+<p>Athena Tang Jingwen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>athena_tang_jingwen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1516,7 +1516,7 @@ variant: markdown
 <p>Ng Jingge Jeanne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_jingge_jeanne@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1887,7 +1887,7 @@ variant: markdown
 <p>Balwinder O Gill</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Balwinder_o_gill@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1898,7 +1898,7 @@ variant: markdown
 <p>Lee Beng Hong Jenny Esther</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_beng_hong_jenny_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1909,7 +1909,7 @@ variant: markdown
 <p>Sarah Ho Yan Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sarah_ho_yan_ching_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1942,7 +1942,7 @@ variant: markdown
 <p>Chow Suet Ling (SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chow_suet_ling_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1953,7 +1953,7 @@ variant: markdown
 <p>Teo Shu Lin Jacinta</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>teo_shu_lin_jacinta_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1975,7 +1975,7 @@ variant: markdown
 <p>Teng Meow Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>teng_meow_kheng_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1986,7 +1986,7 @@ variant: markdown
 <p>Lim Ting Ting Xaverie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_ting_ting_xaverie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1997,7 +1997,7 @@ variant: markdown
 <p>Woo Jak May Carol</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>woo_jak_may_carol@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
