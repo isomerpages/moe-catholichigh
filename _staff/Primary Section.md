@@ -30,6 +30,14 @@ variant: tiptap
 <p>chs_principal@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Key Personnel and Senior Teachers</h4>
@@ -41,6 +49,20 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>HOD</p>
@@ -529,6 +551,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>phua_loke_lin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1170,6 +1206,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chung_li_chien_judith@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1869,6 +1919,20 @@ variant: tiptap
 <p>ren_jing@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Other Teachers and Allied Educators</h4>
@@ -1879,6 +1943,17 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss</p>
@@ -1892,24 +1967,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Beng Hong Jenny Esther</p>
+<p>Chow Suet Ling (SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_beng_hong_jenny_b@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sarah Ho Yan Ching</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sarah_ho_yan_ching_a@moe.edu.sg</p>
+<p>chow_suet_ling_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1925,6 +1989,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Beng Hong Jenny Esther</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_beng_hong_jenny_b@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Ting Ting Xaverie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_ting_ting_xaverie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1936,13 +2022,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chow Suet Ling (SEN Officer)</p>
+<p>Sarah Ho Yan Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chow_suet_ling_a@moe.edu.sg</p>
+<p>sarah_ho_yan_ching_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teng Meow Kheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teng_meow_kheng_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1969,28 +2066,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teng Meow Kheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teng_meow_kheng_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Ting Ting Xaverie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_ting_ting_xaverie@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1998,6 +2073,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>woo_jak_may_carol@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
