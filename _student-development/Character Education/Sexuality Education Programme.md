@@ -137,9 +137,9 @@ are the key messages.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Raise awareness and provide knowledge on:
-<br>a) a)&nbsp;&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what
-it is, how it spreads, how to prevent infection mainly through ABC (abstinence,
-being faithful, correct, and consistent condom use).
+<br>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
+to prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).
 <br>b) Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
