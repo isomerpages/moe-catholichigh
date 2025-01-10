@@ -79,20 +79,21 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 1 2024" src="/images/Secondary_1_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/SeD_Table_Sec_1_2025.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary 2 Sexuality 2024" src="/images/Secondary_2_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/SeD_Table_Sec_2_2025.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary 3 Sexuality 2024" src="/images/Secondary_3_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/SeD_Table_Sec_3_2025.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary 4 Sexuality 2024" src="/images/Secondary_4_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/SeD_Table_Sec_4_2025.jpg">
 </div>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
