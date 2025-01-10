@@ -1962,7 +1962,7 @@ variant: tiptap
 <p>Balwinder O Gill</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Balwinder_o_gill@moe.edu.sg</p>
+<p>balwinder_o_gill@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
