@@ -131,9 +131,7 @@ are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk delivered</p>
-<p>through a pre-recorded</p>
-<p>video</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Raise awareness and provide knowledge on:
