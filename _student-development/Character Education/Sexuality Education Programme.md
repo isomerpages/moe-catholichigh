@@ -128,7 +128,7 @@ are the key messages.</p>
 <th rowspan="1" colspan="1">
 <p>Time Period
 <br>
-<br>(e.g. Term 1 Week 9)</p>
+</p>
 </th>
 </tr>
 <tr>
