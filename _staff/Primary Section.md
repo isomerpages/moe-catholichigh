@@ -292,13 +292,13 @@ variant: tiptap
 <p>Asst Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Bingkun Nicholas (Middle Primary)</p>
+<p>Marissa Joel Rajesh (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_bingkun_nicholas@moe.edu.sg</p>
+<p>marissa_joel_rajesh@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -306,13 +306,13 @@ variant: tiptap
 <p>Asst Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marissa Joel Rajesh (Lower Primary)</p>
+<p>Chua Bingkun Nicholas (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>marissa_joel_rajesh@moe.edu.sg</p>
+<p>chua_bingkun_nicholas@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
