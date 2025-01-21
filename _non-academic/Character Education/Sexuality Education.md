@@ -5,11 +5,8 @@ description: ""
 third_nav_title: Character Education
 variant: tiptap
 ---
-<p><strong>CATHOLIC HIGH SCHOOL (PRIMARY)</strong>
-</p>
-<p></p>
-<p><strong>Moe Sexuality Education in Schools</strong>
-</p>
+<h4><strong>CATHOLIC HIGH SCHOOL (PRIMARY)</strong></h4>
+<h4><strong>Moe Sexuality Education in Schools</strong></h4>
 <p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 (SEd) in schools aims to enable students to understand the physiological,
@@ -103,18 +100,12 @@ healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<p></p>
-<p></p>
-<p>&nbsp;</p>
-<p><strong>At Catholic High School (Primary), the following Sexuality Education lessons will be taught in 2025:&nbsp;</strong>
-</p>
-<p></p>
-<p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE&nbsp;</strong>
-</p>
-<p></p>
-<p><strong>Primary 5</strong>
-</p>
+<h4><strong>At Catholic High School (Primary), the following Sexuality Education lessons will be taught in 2025:&nbsp;</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/MOE_logo.jpg">
+</div>
+<h4><strong>2025 Sexuality Education Lessons in CCE&nbsp;</strong></h4>
+<h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -206,12 +197,11 @@ and how to seek help for themselves and their friends.</p>
 </table>
 <p></p>
 <p>&nbsp;</p>
-<p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE&nbsp;</strong>
-</p>
-<p></p>
-<p><strong>Primary 6</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/MOE_logo.jpg">
+</div>
+<h4><strong>2025 Sexuality Education Lessons in CCE&nbsp;</strong></h4>
+<h4><strong>Primary 6</strong></h4>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
