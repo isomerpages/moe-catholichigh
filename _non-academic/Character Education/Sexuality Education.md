@@ -21,42 +21,25 @@ different ethnic and religious communities in Singapore on sexuality issues.</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
 Sexuality Education are:</p>
-<ol>
-<li>
-<p>Support students in managing their physiological, social and emotional
+<p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
-</li>
-<li>
-<p>Guide students to make wise, informed and responsible decisions on sexuality
-matters.</p>
-</li>
-<li>
-<p>Help students develop a moral compass and respect for themselves and others
-by having positive mainstream values and attitudes about sexuality that
-are premised on the family as the basic unit of society.</p>
-</li>
-</ol>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The&nbsp;<strong>Key Messages</strong> of
 Sexuality Education are:</p>
 <p></p>
-<ol>
-<li>
-<p>Love and respect yourself as you love and respect others;</p>
-</li>
-<li>
-<p>Build positive relationships based on love and respect (which are the
-foundation for strong families);</p>
-</li>
-<li>
-<p>Make responsible decisions for yourself, your family and society; and</p>
-</li>
-<li>
-<p>Abstinence before marriage is the best protection against STIs/HIV and
-unintended pregnancies. Casual sex can harm and hurt you and your loved
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-</li>
-</ol>
 <p></p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer" target="_blank">here</a> for
 more information on MOE Sexuality Education.&nbsp;</p>
@@ -71,14 +54,8 @@ and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe
 information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
 topics on sexuality include:</p>
-<ol>
-<li>
-<p>Science&nbsp;</p>
-</li>
-<li>
-<p>Character and Citizenship Education (CCE)</p>
-</li>
-</ol>
+<p>(a) Science&nbsp;</p>
+<p>(b) Character and Citizenship Education (CCE)</p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:&nbsp;</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years
 mark the onset of puberty. With better nutrition and improved health care,
@@ -148,8 +125,6 @@ caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
 affected, even when one’s body is experiencing changes due to puberty.&nbsp;</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2-4</p>
@@ -168,8 +143,6 @@ of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
 own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.&nbsp;</strong>
 </p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2-4</p>
@@ -186,8 +159,6 @@ own responses when they encounter pornography by applying the strategy <strong>�
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2-4</p>
@@ -280,10 +251,8 @@ children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.&nbsp;</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
-an opt-out form <a href="https://form.gov.sg/678f38e23e92a1d8e2e12e20" rel="noopener nofollow" target="_blank">here</a> (please
-upload MOE Sexuality Education In Schools Parent Opt-Out Form and insert
-a hyperlink for parents to download the form). The completed opt-out form
-is to be submitted by 14/03/2025.</p>
+an opt-out form <a href="https://form.gov.sg/678f38e23e92a1d8e2e12e20" rel="noopener nofollow" target="_blank">here</a> .
+The completed opt-out form is to be submitted by 14/03/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6458 9869 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
