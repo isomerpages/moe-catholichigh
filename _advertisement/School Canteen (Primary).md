@@ -30,7 +30,7 @@ variant: tiptap
 <p>Chinese Cuisine Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 Feb 2025</p>
+<p>28 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Breakfast Items.</p>
