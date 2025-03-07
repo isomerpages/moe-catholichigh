@@ -35,5 +35,5 @@ Description automatically generated with medium confidence"></span></p></td><td 
 
 <figcaption> Above: Students continue to achieve excellence in many areas, e.g. C. B. Paul Science Quiz, Singapore Junior Olympiad and National Science Challenge</figcaption>
 
-[Science @ CHS Prospectus](https://drive.google.com/file/d/155SWFfGAriWTZuWd68rs3Ov9PMYp6UZ3/view)
+[Science @ CHS Prospectus](https://drive.google.com/file/d/1iBqm6jmE3wvbyEhf3duSdei4zZncSvaJ/view)
 [Click here for our Science Prospectus which provides in-depth information about our general science curriculum, research programmes, enrichment and talent development.]
