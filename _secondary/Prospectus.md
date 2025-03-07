@@ -2,6 +2,7 @@
 title: Prospectus
 permalink: /secondary/prospectus/
 description: ""
+variant: markdown
 ---
 ### Prospectus
 
