@@ -42,9 +42,9 @@ Apart from the traditionally strong and rigorous academic teaching and learning 
 
 **Academic Programmes**
 
-*   [Space &amp; Flight Science Programme](/secondary/Distinctive-Programmes/space-and-flight-science-programme/)
+*   [Space &amp; Flight Science Programme](https://www.catholichigh.moe.edu.sg/secondary/Distinctive-Programmes/space-and-flight-science-programme/)
 
-<p><a href="/secondary/Distinctive-Programmes/space-and-flight-science-programme/"><img style="width:65%" src="/images/scie5.png"></a></p>
+<p><a href="https://www.catholichigh.moe.edu.sg/secondary/Distinctive-Programmes/space-and-flight-science-programme/"><img style="width:65%" src="/images/scie5.png"></a></p>
 
 *   CNERGY Programme (Sec 2 to 4)
 
