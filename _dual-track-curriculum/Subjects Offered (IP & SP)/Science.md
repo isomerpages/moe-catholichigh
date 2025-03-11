@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Subjects Offered (IP & SP)
 variant: markdown
 ---
-<img src="/images/scie1.png" style="width:30%"> [Click here for our Science Prospectus ](https://drive.google.com/file/d/155SWFfGAriWTZuWd68rs3Ov9PMYp6UZ3/view)<br>(which provides in-depth information about our general science curriculum, research programmes, enrichment and talent development)
+<img src="/images/scie1.png" style="width:30%"> [Click here for our Science Prospectus ](https://drive.google.com/file/d/1iBqm6jmE3wvbyEhf3duSdei4zZncSvaJ/view)<br>(which provides in-depth information about our general science curriculum, research programmes, enrichment and talent development)
 
 ### Our STEM Curriculum
 
