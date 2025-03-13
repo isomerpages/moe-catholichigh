@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Subjects Offered (IP & SP)
 variant: markdown
 ---
-<img src="/images/scie1.png" style="width:30%"> [Click here for our Science Prospectus ](https://drive.google.com/file/d/155SWFfGAriWTZuWd68rs3Ov9PMYp6UZ3/view)<br>(which provides in-depth information about our general science curriculum, research programmes, enrichment and talent development)
+<img src="/images/scie1.png" style="width:30%"> [Click here for our Science Prospectus ](https://drive.google.com/file/d/1iBqm6jmE3wvbyEhf3duSdei4zZncSvaJ/view)<br>(which provides in-depth information about our general science curriculum, research programmes, enrichment and talent development)
 
 ### Our STEM Curriculum
 
@@ -42,9 +42,9 @@ Apart from the traditionally strong and rigorous academic teaching and learning 
 
 **Academic Programmes**
 
-*   [Space &amp; Flight Science Programme](/secondary/Distinctive-Programmes/space-and-flight-science-programme/)
+*   [Space &amp; Flight Science Programme](https://www.catholichigh.moe.edu.sg/secondary/Distinctive-Programmes/space-and-flight-science-programme/)
 
-<p><a href="/secondary/Distinctive-Programmes/space-and-flight-science-programme/"><img style="width:65%" src="/images/scie5.png"></a></p>
+<p><a href="https://www.catholichigh.moe.edu.sg/secondary/Distinctive-Programmes/space-and-flight-science-programme/"><img style="width:65%" src="/images/scie5.png"></a></p>
 
 *   CNERGY Programme (Sec 2 to 4)
 
