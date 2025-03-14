@@ -33,12 +33,6 @@ sections:
       button: Click Here to find out more!
       url: /prospective-students/Sec-Admission/direct-school-admission/
   - infopic:
-      title: READY FOR SCHOOL KIT 2024
-      subtitle: LATEST NEWS
-      id: infopic
-      image: /images/ready for school kit 2024.png
-      alt: Image alt text
-  - infopic:
       title: "Hope Hub: An Intelligent Bot to provide timely help!"
       subtitle: LATEST NEWS
       button: READ MORE HERE
@@ -52,9 +46,4 @@ sections:
       url: /president-scouts-award/
       image: /images/President_s_Scout_Award_2023.jpg
       alt: Image alt text
-  - infopic:
-      title: Bishan-Toa Payoh and Marymount Grassroots Bursary Award 2024
-      id: infopic
-      image: /images/community bursary award 2024.png
-      alt: Community Bursary Award 2024
 ---
