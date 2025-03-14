@@ -58,7 +58,6 @@ variant: markdown
 |---	|---	|
 | Class 	| Level 1 Form Teachers (2025)	|
 |1-1|Mdm Xie Xiaowen|xie_xiaowen@moe.edu.sg|
-|1-2|Ms Cheryl Lim|cheryl_lim_a@moe.edu.sg|
 |1-2|Mdm Khoo Ru Yu Melissa|melissa_khoo@moe.edu.sg|
 |1-3|Mr Fok Chee Wel Ernest|fok_chee_wel@moe.edu.sg|
 |1-4|Miss Janani S Purnima|s_purnima_janani@moe.edu.sg|
