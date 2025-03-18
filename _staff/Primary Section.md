@@ -27,7 +27,7 @@ variant: markdown
 <br>Mr Fong Kok Wai (Vice-Principal / Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chs_principal@moe.edu.sg</p>
+<p>chs_sch_leaders@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
