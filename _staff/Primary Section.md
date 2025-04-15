@@ -2,7 +2,7 @@
 title: Primary Section
 permalink: /staff/primary-section/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Catholic High School(Primary)</h3>
 <table style="minWidth: 50px">
@@ -684,10 +684,10 @@ variant: markdown
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eng Tze Hwee</p>
+<p>Jaclyn Marissa Watson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eng_tze_hwee@moe.edu.sg</p>
+<p>jaclyn_marissa_watson@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1143,13 +1143,13 @@ variant: markdown
 <p>3 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Boon Leng</p>
+<p>Lee Yen Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_boon_leng_a@moe.edu.sg</p>
+<p>lee_yen_ling_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1476,13 +1476,13 @@ variant: markdown
 <p>5 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ho Sze Hwei Grace&nbsp;</p>
+<p>Yogeeindran Ramerchandra&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ho_sze_hwei_grace_b@moe.edu.sg</p>
+<p>yogeeindran_ramerchandra@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -2077,13 +2077,24 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Enid Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sim_lin_enid@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leong John Woon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>leong_john_woon@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
