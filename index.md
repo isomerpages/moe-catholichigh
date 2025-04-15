@@ -20,7 +20,7 @@ sections:
       description: Join us to explore our campus, meet our students, and learn about
         our academic and co-curricular programmes
       button: CLICK HERE TO FIND OUT MORE!
-      url: /prospective-students/information-about-chs/
+      url: /prospective-students/openhouse/
   - infobar:
       title: Level 1 (2025) Registration
       subtitle: Lastest news
