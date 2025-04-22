@@ -27,7 +27,7 @@ variant: tiptap
 <br>Mr Fong Kok Wai (Vice-Principal / Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chs_sch_leaders@moe.edu.sg</p>
+<p>chs_sch_leaders@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
