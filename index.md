@@ -28,7 +28,7 @@ sections:
       button: Click Here for more Information
       url: /prospective-students/sec-admission/level-1-registration/
   - infobar:
-      title: 2024 Direct School Admission – Secondary (DSA-Sec) Exercise
+      title: 2025 Direct School Admission – Secondary (DSA-Sec) Exercise
       subtitle: Latest News
       description: Want to join CHS(Secondary) via DSA?
       button: Click Here to find out more!
