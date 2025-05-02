@@ -696,7 +696,7 @@ will be notified accordingly.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="22" colspan="1">
+<td rowspan="13" colspan="1">
 <p><strong>DSA Trial/ Audition 2</strong>
 </p>
 <p><em>(For applicants who are unwell or are unable to attend DSA Trials/ Auditions 1)</em>
@@ -706,7 +706,7 @@ will be notified accordingly.</p>
 <br>
 </p>
 </td>
-<td rowspan="11" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Thursday, 24 Jul&nbsp;</p>
 <p>(4 pm to 5 pm)</p>
 <p>
@@ -716,67 +716,7 @@ will be notified accordingly.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Chinese Drama&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Auditorium</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Chinese Orchestra&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>CO Room</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Choir&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music Room</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Concert Band&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Band Room</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>English Drama&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Multi-purpose Room</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Floorball</p>
+<p>Basketball &nbsp;</p>
 </li>
 </ul>
 </td>
@@ -788,60 +728,12 @@ will be notified accordingly.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Modern Dance&nbsp;</p>
+<p>Wushu</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance Studio</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Softball&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Field</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Table Tennis&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Table Tennis Room</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Track and Field&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Track</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Volleyball&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall Level 1</p>
+<p>Indoor Sports Hall Level 1&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -857,7 +749,7 @@ will be notified accordingly.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indoor Sports Hall Level 2</p>
+<p>Auditorium</p>
 </td>
 </tr>
 <tr>
