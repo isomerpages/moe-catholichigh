@@ -526,18 +526,6 @@ will be notified accordingly.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Wushu&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall Level 1&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
 <p>Chinese Drama&nbsp;</p>
 </li>
 </ul>
@@ -659,6 +647,18 @@ will be notified accordingly.</p>
 <ul>
 <li>
 <p>Volleyball&nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall Level 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Wushu&nbsp;</p>
 </li>
 </ul>
 </td>
