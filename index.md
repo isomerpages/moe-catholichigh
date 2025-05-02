@@ -22,17 +22,17 @@ sections:
       button: CLICK HERE TO FIND OUT MORE!
       url: /prospective-students/openhouse/
   - infobar:
-      title: Level 1 (2025) Registration
-      subtitle: Lastest news
-      id: infobar
-      button: Click Here for more Information
-      url: /prospective-students/sec-admission/level-1-registration/
-  - infobar:
       title: 2025 Direct School Admission – Secondary (DSA-Sec) Exercise
       subtitle: Latest News
       description: Want to join CHS(Secondary) via DSA?
       button: Click Here to find out more!
       url: /prospective-students/Sec-Admission/direct-school-admission/
+  - infobar:
+      title: Level 1 (2025) Registration
+      subtitle: Lastest news
+      id: infobar
+      button: Click Here for more Information
+      url: /prospective-students/sec-admission/level-1-registration/
   - infopic:
       title: "Hope Hub: An Intelligent Bot to provide timely help!"
       subtitle: LATEST NEWS
