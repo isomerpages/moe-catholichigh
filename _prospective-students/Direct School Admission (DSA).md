@@ -7,7 +7,8 @@ variant: tiptap
 <h2>2025 Direct School Admission – Secondary (DSA-Sec) Exercise</h2>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 Jun 2025, 3pm. For more details, please refer to MOE website - <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+to 3 June 2025, 3pm. For more details, please refer to MOE website -
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p>The application is free-of-charge and the period of application is as
 listed below</p>
 <p></p>
