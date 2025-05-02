@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>2025 Direct School Admission – Secondary (DSA-Sec) Exercise</h2>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+<p>Application for DSA-Sec can be submitted through the <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener nofollow" target="_blank">online DSA-Sec Portal</a>.
 The application is free-of-charge and will be open from 7 May 2025, 11am
 to 3 June 2025, 3pm. For more details, please refer to MOE website -
 <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
@@ -519,38 +519,22 @@ will be notified accordingly.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>Thu, 11 Jul&nbsp;</p>
-<p>(4 pm to 6 pm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Basketball&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall Level 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Wushu</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall Level 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="11" colspan="1">
+<td rowspan="12" colspan="1">
 <p>Monday, 21 July&nbsp;</p>
 <p>(4 pm to 6 pm)</p>
 </td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Wushu&nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall Level 1&nbsp;</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
@@ -683,23 +667,36 @@ will be notified accordingly.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Fri, 15 Jul&nbsp;</p>
-<p>(3 pm to 5 pm)</p>
+<td rowspan="2" colspan="1">
+<p>Tuesday, 22 July&nbsp;</p>
+<p>(4 pm to 6 pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Music Elective Programme&nbsp;</p>
+<p>Basketball &nbsp;</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>MEP Studio 1 and 2</p>
+<p>Indoor Sports Hall Level 2</p>
 </td>
 </tr>
 <tr>
-<td rowspan="14" colspan="1">
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Wushu</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall Level 1</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="22" colspan="1">
 <p><strong>DSA Trial/ Audition 2</strong>
 </p>
 <p><em>(For applicants who are unwell or are unable to attend DSA Trials/ Auditions 1)</em>
@@ -710,7 +707,7 @@ will be notified accordingly.</p>
 </p>
 </td>
 <td rowspan="11" colspan="1">
-<p>Mon, 15 Jul&nbsp;</p>
+<p>Thursday, 24 Jul&nbsp;</p>
 <p>(4 pm to 5 pm)</p>
 <p>
 <br>
@@ -848,14 +845,14 @@ will be notified accordingly.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>Tue, 16 Jul&nbsp;</p>
+<td rowspan="11" colspan="1">
+<p>Friday, 25 July&nbsp;</p>
 <p>(4 pm to 5 pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Basketball&nbsp;</p>
+<p>Chinese Drama &nbsp;</p>
 </li>
 </ul>
 </td>
@@ -865,30 +862,122 @@ will be notified accordingly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Orchestra &nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>CO Room&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Choir &nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Concert Band &nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Room&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>English Drama &nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Multi-purpose Room&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Floorball&nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall Level 2&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Modern Dance &nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance Studio&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Softball &nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Field&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Table Tennis &nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Table Tennis Room&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Track and Field &nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Track&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Wushu&nbsp;</p>
+<p>Volleyball &nbsp;</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sports Hall Level 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fri, 16 Jul&nbsp;</p>
-<p>(3 pm to 5 pm)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Music Elective Programme&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>MEP Studio 1 and 2</p>
 </td>
 </tr>
 </tbody>
@@ -907,7 +996,7 @@ school will assess applicants based on the selection criteria, which may
 include assessing the potential of the applicants.</p>
 <p>4. You will receive notification from the school by 5 July if your child
 has been shortlisted to undergo Direct School Admission (DSA) selection.
-.All applicants will receive their application outcomes between 25 August
+All applicants will receive their application outcomes between 25 August
 and 4 September 2025.</p>
 <p>5. Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and programme (4 years for the
@@ -915,7 +1004,7 @@ Singapore-Cambridge Secondary Education Certificate Programme or 6 years
 for the Integrated Programme. The Integrated Programme comprises 4 years
 at Catholic High School and 2 years at Eunoia Junior College) and participate
 in the activities related to the talent they are selected for from year
-1-30</p>
+1-4.</p>
 <p>For inquiries regarding CHS DSA-Sec, please contact us at:</p>
 <p>1.&nbsp; Email Address:&nbsp; <a href="mailto:chs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chs@moe.edu.sg</a>
 </p>
