@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h3>Catholic High School(Primary)</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 0px">
 <colgroup>
 <col>
 <col>
@@ -41,7 +41,7 @@ variant: markdown
 </tbody>
 </table>
 <h4>Key Personnel and Senior Teachers</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 0px">
 <colgroup>
 <col>
 <col>
