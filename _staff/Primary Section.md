@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Catholic High School(Primary)</h3>
-<table style="minWidth: 0px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -41,7 +41,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Key Personnel and Senior Teachers</h4>
-<table style="minWidth: 0px">
+<table style="minWidth: 100px">
 <colgroup>
 <col>
 <col>
@@ -709,10 +709,10 @@ variant: tiptap
 <p>1 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sim Lin Enid</p>
+<p>Enid Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sim_lin_enid@moe.edu.sg</p>
@@ -2115,28 +2115,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>woo_jak_may_carol@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Enid Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sim_lin_enid@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Leong John Woon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leong_john_woon@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
