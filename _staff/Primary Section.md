@@ -706,6 +706,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 Patience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sim Lin enid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_lin_enid@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
