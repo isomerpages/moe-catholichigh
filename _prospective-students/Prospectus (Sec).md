@@ -12,4 +12,5 @@ You can download our various prospectuses through the following links:
 
 [![The Joint Integrated Programme Prospectus](/images/Secondary/JointIntegratedProgramme.png)](https://drive.google.com/file/d/1HDosgSsvWyIUklkdmHWl248aWnxbHESw/view)
 
-[![Science@CHS Prospectus](/images/Secondary/ScienceCHS.png)](https://drive.google.com/file/d/1iBqm6jmE3wvbyEhf3duSdei4zZncSvaJ/view)
+[![Science@CHS Prospectus](/images/Secondary/2025_CHS_Science_Prospectus_Cover.png)](https://drive.google.com/file/d/1UbqshmiS29vefxyaEMNPg0trMwBRzE_t/view)
+
