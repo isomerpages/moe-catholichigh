@@ -11,7 +11,7 @@ variant: markdown
 p {text-align: justify;}
 </style>
 
-**[[Click here for our Science@CHS Prospectus that provides greater details about our science programmes, enrichment&nbsp;and talent development](https://drive.google.com/file/d/1UbqshmiS29vefxyaEMNPg0trMwBRzE_t/view)].**
+**[[Click here for our Science@CHS Prospectus that provides greater details about our science programmes, enrichment&nbsp;and talent development](https://drive.google.com/file/d/1TPOrWrrDJRzePJye82XZbagVIUTBoifP/view].**
 
 <img align="right" style="width:243px;height:180px;margin-left:15px;" src="/images/cnergy4.png"> The&nbsp;**CΩERGY Programme is a stretch programme whereby consistently high-performing IP and SP students who exhibit strong aptitude and interest in science are selected at the end of Level 1 based on a set of criteria**. In Level 2, the students attend lessons after school and participate in enrichment programmes and activities that aim to broaden their experience and advance their learning in science and technology. In Level 3 and 4, these students go through an accelerated curriculum during curriculum time when their counterparts are going through the mainstream curriculum.
 
