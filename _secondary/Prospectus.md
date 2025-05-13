@@ -14,4 +14,3 @@ You can download our various prospectuses through the following links:
 
 [![Science@CHS Prospectus](/images/Secondary/2025_CHS_Science_Prospectus_Cover.png)](https://drive.google.com/file/d/1TPOrWrrDJRzePJye82XZbagVIUTBoifP/view)
 
-[](/files/2025_CHS_Science_Prospectus__3_.pdf)
