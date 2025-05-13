@@ -8,9 +8,8 @@ variant: markdown
 
 
 You can download our various prospectuses through the following links:
-[![Catholic High School Prospectus](/images/Secondary/CatholichighschoolProspectus.png)](https://drive.google.com/file/d/1mz5LgrF0QK0vGy1L4HmwSl02pwGMWe5w/view)
+[![Catholic High School Prospectus](/images/Secondary/CatholichighschoolProspectus.png)](https://drive.google.com/file/d/1qA1PFhMwWPSSoQHfZkwo7OKckC-r_pIU/view)
 
 [![The Joint Integrated Programme Prospectus](/images/Secondary/JointIntegratedProgramme.png)](https://drive.google.com/file/d/1HDosgSsvWyIUklkdmHWl248aWnxbHESw/view)
 
 [![Science@CHS Prospectus](/images/Secondary/2025_CHS_Science_Prospectus_Cover.png)](https://drive.google.com/file/d/1UbqshmiS29vefxyaEMNPg0trMwBRzE_t/view)
-
