@@ -3,6 +3,7 @@ title: Overview
 permalink: /secondary/Talent-Development/overview/
 description: ""
 third_nav_title: Talent Development
+variant: markdown
 ---
 ### Transforming Gifts into Talents
 <style>
@@ -72,8 +73,3 @@ CHS offers the following MOE Special Programmes:
 
 <img src="/images/tdps2.png" style="width:60%">
 
-#### Achievements by Students in Talent Areas
-
-<img src="/images/tdps3.png" style="width:60%">
-<img src="/images/tdps4.png" style="width:60%">
-<img src="/images/tdps5.png" style="width:60%">
