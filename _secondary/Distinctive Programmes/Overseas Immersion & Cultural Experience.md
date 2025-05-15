@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Distinctive Programmes
 variant: markdown
 ---
-### Overseas Immersion &amp; Cross-cultural Experience
+### Overseas Immersion &amp; Cultural Experience
 <style>
 p {text-align: justify;}
 </style>
