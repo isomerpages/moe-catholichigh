@@ -43,7 +43,6 @@ p {text-align: justify;}
 
 ![](/images/about38.png)
 
-![](/images/about39.png)
 
 ##### Multi-purpose Halls 多用途礼堂
 
@@ -120,8 +119,6 @@ The Space Exploration Gallery captures important achievements or major events in
 *   Our schools offers wide-ranging and varied student activities and CCAs, and we have a variety of facilities to support&nbsp;these on top of supporting our daily lessons. Our facilities -many of which you can find on level 1- include CCA rooms such as Symphonic Band and Chinese Orchestra rooms, Dance studio, auditorium and lecture theatre. As a full-school, we have two of most facilities, e.g. 2 Indoor Sports Halls, 2 Multi-Purpose Halls and even 2 canteens to support the primary and secondary sections. We also have&nbsp;a table tennis training centre and a 400-m full-size running track with facilities for track-and-field sports.
 *   As an all-boy school, our students often engage in rugged activities and sports, be it during their CCA, PE lessons, school-organised sports events (such as our&nbsp;[Passion Pursuit Elective](/secondary/distinctive-programmes/passion-pursuit/elective/)&nbsp;modules, inter-class sports competitions and our whole-school My B.I.G Run) or just unstructured play (e.g. frisbee games) during our 30-minute recess.
 *   Our school focuses on holistic education, with a strong emphasis on&nbsp;[Co-curricular Activities (CCAs)](/student-development/pe-and-cca/overview/). We have a wide range of CCAs for students to choose from, including Uniformed Groups, Sports, Performing Arts and a media and ICT club.&nbsp;Our&nbsp;[CCAs have also been performing well consistently](/secondary/awards-and-achievements/cca-achievements/), clinching several awards throughout the year.
-
-![](/images/about56.png)
 
 ![](/images/about57.png)
 
