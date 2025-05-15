@@ -36,7 +36,7 @@ Students get to try out many experiences that will not be found in the usual sch
 
 #### Examples of PP(Elective) Modules
 
-The modules we have offered in 2023 are:
+The modules we have offered are:
 
 1.  Aikido
     
