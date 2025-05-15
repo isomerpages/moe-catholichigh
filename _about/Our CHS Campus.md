@@ -72,7 +72,7 @@ variant: markdown
 
 ##### Aviation Milestones Gallery
 
-The Aviation Milestones Gallery celebrates the progression of flight in human history by showcasing the past, present and future of aviation. Th gallery serves to educate and inspire students with a strong interest in aviation and aerospace through the showcase of the history of aviation, science of aviation and the development of aviation in Singapore.
+The Aviation Milestones Gallery celebrates the progression of flight in human history by showcasing the past, present and future of aviation. The gallery serves to educate and inspire students with a strong interest in aviation and aerospace through the showcase of the history of aviation, science of aviation and the development of aviation in Singapore.
 
 ![](/images/about46.png)
 
