@@ -13,8 +13,8 @@ p {text-align: justify;}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0GfoAlCKVn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 *   As a full-school, we have a wide range of facilities to support our students’ learning and growth.
-*   We have a full-size 400-metre six-lane running track, a Clock Tower with chapel, an Outdoor Adventure Learning Centre, and two sets of most facilities (e.g. 2 Multi-purpose Halls, 2 Indoor Sports Halls and even 2 canteens to support the primary and secondary sections). These facilities are shared by the sections, giving us the flexibility and space to offer a greater spread of opportunities for our students.
-*   We are constantly improving and optimising the physical environment to support teaching and learning. For instance, since 2018, we have added a digital music studio to support our Music Elective Programme, the Science, Technology and Research Space lab to support the school’s distinctive programme in Space and Flight Science, a broadcasting studio to promote a bicultural environment as well as the student-designed Bunker to advocate student voice and agency.
+*   We have a full-size 400-metre six-lane running track, a Clock Tower with chapel and two sets of most facilities (e.g. 2 Multi-purpose Halls, 2 Indoor Sports Halls and even 2 canteens to support the primary and secondary sections). These facilities are shared by the sections, giving us the flexibility and space to offer a greater spread of opportunities for our students.
+*   We constantly improve and optimise the physical environment to support teaching and learning. For instance, since 2018, we have added a digital music studio to support our Music Elective Programme, the Science, Technology and Research Space (STARS) to support the school’s distinctive programme in Space and Flight Science, a broadcasting studio to promote a bicultural environment as well as the student-designed Bunker to advocate student voice and agency. We are immensely proud of our newly created Aerospace Simulation Centre, which has incubated batches of young scientific minds.
 
 ![](/images/about31.png)
 
@@ -25,7 +25,7 @@ p {text-align: justify;}
 ##### Our Signature Clock Tower, Chapel and Beautiful School Ground
 
 *   Our signature Clock Tower is representative of our school’s spiritual origin and mission school identity, as it reminds us daily of our purpose in proving quality education for the masses, regardless of their social background and religious affiliation. The Clock Tower houses our Chapel as well.
-*   Our school ground is beautifully landscaped with many trees and shrubs, ponds and and sculptures to provide serene and tranquil places for students to study, rest or&nbsp;just socialise with friends. Many of these sculptures depict aspiring sportsmen and students, and provide inspiration and motivation for our students too.
+*   Our school ground is beautifully landscaped with many trees and shrubs, ponds and sculptures to provide serene and tranquil places for students to study, rest or&nbsp;just socialise with friends. Many of these sculptures depict aspiring sportsmen and students, and provide inspiration and motivation for our students too.
 
 ![](/images/about34.png)
 
@@ -51,10 +51,9 @@ p {text-align: justify;}
 
 ![](/images/about40.png)
 
-##### Study Area and Bonsai Garden 盆栽园与公教牌匾
+##### Study Area 公教牌匾
 
-*   The Bonsai Garden is situated in between the classrooms block and the staff room.  
-    The words on the Level 3 roof “培养双语精英的摇篮” means “The place where we groom bilingual scholars and leaders”.
+*  The words on the Level 3 roof “培养双语精英的摇篮” means “The place where we groom bilingual scholars and leaders”.
 *   The&nbsp;traditional&nbsp;plaque (seen also at our former school compound in Queen Street) reads “Sino-English Catholic School”, and this was our original school name that gave hint to our origin as a bilingual education institution.
 *   As one of the 11 Special Assistance Plan (SAP) schools in Singapore, Catholic High School aims to nurture students to be proficient in both English Language and Chinese Language, and to have a good understanding and appreciation of Chinese culture. One of our SAP signature programme is the Appreciation of Chinese Culture (ACC) module, which is a module taken by Level 1s and 2s, to expose them to Chinese culture such as Chinese calligraphy, chess, philosophy and history.
 
