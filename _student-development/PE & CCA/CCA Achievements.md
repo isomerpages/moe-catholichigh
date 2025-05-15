@@ -63,5 +63,5 @@ Catholic High’s Uniformed Groups belong to one of the greatest traditions of t
 | NCC Air         | Distinction (Unit Recognition Award)  |
 | NCC Land        | Distinction (Unit Recognition Award)  |
 | NPCC            | Gold (Unit Overall Proficiency Award) |
-| Scouts          | Gold (Frank Cooper Sand Award)        |
+| Scouts          | Frank Cooper Sands Award        |
 | St John Brigade | Gold (Corp Achievement Award)         |
