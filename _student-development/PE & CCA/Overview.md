@@ -10,10 +10,6 @@ variant: markdown
 
 The&nbsp;**Physical Education &amp; Co-curricular Activities**&nbsp;in CHS aims to deliver a thinking and differentiated curriculum with innovative student-centric and values-driven programmes that promote psychomotor, cognitive and affective development of Catholic High Gentlemen. The end in mind is to develop holistic health amongst students through promotion of a healthy lifestyle in Physical Education and Co-curricular Activities, and groom 21st century CHS leaders with a robust character and a passion to serve.
 
-“PE lessons are something that everyone in my class looks forward to! I have learned to play well in more sports than I could ever imagine. For example, we had the Softball and Floorball modules in Level 1, and the Basketball and Football modules in Level 2. I am excited to learn that we will be picking up Frisbee and Handball when we are in the upper levels!” –&nbsp;_Shipley Owen Tyan (Year 2/2018)_
-
-“Although OBS was tough, it should be made compulsory for future generations, such that they will learn independence and ruggedness from the wilderness.”&nbsp;_– Teo Yee Shuen (Year 4/2018)_
-
 ##### Co-curricular Activities
 
 The CCA Programme in Catholic High School provides students with a platform to discover their interests and talents. Students progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation. CCA also offer excellent platforms for students to learn core values, social and emotional competencies and the emerging 21st Century Competencies. All CCA emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds. Through CCA, students develop a sense of identity and belonging to the school. Schools enable all students to have active and meaningful CCA participation when they provide a balanced, inclusive and diverse CCA programme which caters to a broad spectrum of interests and talents.
@@ -84,9 +80,5 @@ These are some of the PE programmes we offer to students in IP and SP:
     *   Student Leadership Development&nbsp;
         *   Physical Education Ambassadors
         *   Co-curricular Activities Leaders
-
-_(Below_: Student on high-elements at our ODLC)
-
-<img src="/images/sd2.png" style="width:40%">
 
 <img src="/images/sd3.png" style="width:60%">
