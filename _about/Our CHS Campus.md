@@ -5,12 +5,7 @@ description: ""
 variant: markdown
 ---
 ### A Welcoming Home for Gentlemen, Leaders and Bilingual Scholars
-<style>
-p {text-align: justify;}
-	iframe {display: block;margin: auto;}
-</style>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0GfoAlCKVn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 *   As a full-school, we have a wide range of facilities to support our students’ learning and growth.
 *   We have a full-size 400-metre six-lane running track, a Clock Tower with chapel and two sets of most facilities (e.g. 2 Multi-purpose Halls, 2 Indoor Sports Halls and even 2 canteens to support the primary and secondary sections). These facilities are shared by the sections, giving us the flexibility and space to offer a greater spread of opportunities for our students.
