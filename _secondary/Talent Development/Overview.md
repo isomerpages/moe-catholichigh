@@ -55,7 +55,7 @@ CHS offers the following Subject-Based Talent Development Programmes:
 
 CHS offers the following MOE Special Programmes:
 
-(1)&nbsp;[**Bicultural Studies**&nbsp;**Programme**&nbsp;](secondary/Talent-Development/bicultural-studies-programme/)&nbsp;is a MOE Special Programme that aims to nurture a core group of students who can understand and engage China, as well as relate to the West with a focus on contemporary developments, for example China’s&nbsp;_The Belt and Road_&nbsp;_I__nitiative_&nbsp;(“一带一路”).
+(1)&nbsp;[**Bicultural Studies**&nbsp;**Programme**](/secondary/Talent-Development/bicultural-studies-programme/) is a MOE Special Programme that aims to nurture a core group of students who can understand and engage China, as well as relate to the West with a focus on contemporary developments, for example China’s&nbsp;_The Belt and Road_&nbsp;_I__nitiative_&nbsp;(“一带一路”).
 
 *   BSP(C) students will be exposed to experiential learning and other approaches that cultivate their interests and deepen their learning in topics related to China and how the development of China affects them, Singapore and the world.
 *   Students will have opportunities to carry out research studies, attend camps and symposiums organised by MOE and the school, as well as go for overseas immersion programmes in both China and Western countries.
