@@ -44,7 +44,7 @@ We offer 2 main types of cultural immersion trips and hosting programmes:
 
 <img src="/images/oicce1.png" style="width:60%">
 
-(Below) Visiting Emirates Stadium (London), Home of Arsenal Football Club
+(Below) Visiting Emirates Stadium (London), home of Arsenal Football Club
 
 ![](/images/Below__Visiting_Emirates_Stadium__London___Home_of_Arsenal_Football_Club.png)
 
