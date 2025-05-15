@@ -25,7 +25,7 @@ p {text-align: justify;}
 ##### Our Signature Clock Tower, Chapel and Beautiful School Ground
 
 *   Our signature Clock Tower is representative of our school’s spiritual origin and mission school identity, as it reminds us daily of our purpose in proving quality education for the masses, regardless of their social background and religious affiliation. The Clock Tower houses our Chapel as well.
-*   Our school ground is beautifully landscaped with many trees and shrubs, ponds and and sculptures to provide serene and tranquil places for students to study, rest or&nbsp;just socialise with friends. Many of these sculptures depict aspiring sportsmen and students, and provide inspiration and motivation for our students too.
+*   Our school ground is beautifully landscaped with many trees and shrubs, ponds and sculptures to provide serene and tranquil places for students to study, rest or&nbsp;just socialise with friends. Many of these sculptures depict aspiring sportsmen and students, and provide inspiration and motivation for our students too.
 
 ![](/images/about34.png)
 
