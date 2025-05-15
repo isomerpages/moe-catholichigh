@@ -74,7 +74,7 @@ Scholars will have the opportunity for extended immersion to China and/or a West
 所有中三双文化课程的学生将有机会到中国进行2 周的浸濡活动。  
 双文化奖学金得主将有机会在四年级时继续参加双文化浸濡活动。
 
-<img src="/images/bsp3.png" style="width:80%">
+
 <img src="/images/bsp4.png" style="width:80%">
 
 #### Assessments
