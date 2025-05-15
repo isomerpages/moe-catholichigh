@@ -64,8 +64,6 @@ p {text-align: justify;}
 
 *   Our ‘Chinese Cultural Corridor’ showcases some of the bilingual and bicultural experiences that our CHS gentlemen goes through in their 4 years of education. The Chinese Cultural Corridor also helps to promote the learning of Chinese language and culture, and reminds our students of their evolving identity as a bilingual scholar. The wall murals along this corridor can be divided into a few section which includes our SAP school history and heritage, SAP flagship programme,（琴棋书画史）Appreciation of Chinese Culture, Bicultural Studies Programme and Chinese Literature curriculum.&nbsp;
 
-&nbsp;
-
 *   The various Confucian quotes on the curved pillars aim to further reinforce moral values and Eastern wisdom in our students. The parapet along the traditional long corridors (长廊) are designed to mirror those at our former school compound at Queen Street, serving to remind present and past students the binding history and deep heritage of our school.
 
 * You can even find full-sized replicas of the Terracotta Army (兵马俑) around our school, showing the sculptures depicting the armies of Qin Shi Huang, the first Emperor of China. These give insights to our students on the imperial funerary art in China from 210–209 BCE and whose purpose was to protect the emperor in his afterlife.
