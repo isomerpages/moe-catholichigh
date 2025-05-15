@@ -32,9 +32,11 @@ variant: markdown
 
 ##### Plaza 广场
 
-*   The Plaza is where our secondary section students gather daily for their morning assembly at 8.00am. Apart from the singing of the National Anthem and&nbsp;taking of the National Pledge, the assembly includes sharing on values by our school chaplain and teachers, prize presentation to recognise the achievements of our students, and also other ceremonies such as the celebration of Racial Harmony Day and National Cadet Corps Day parade.
-*   In addition, students will also have Breakfast Sessions, during which students meet their Form Teachers in small groups to talk about their school life and welfare.
-*   The Plaza is also one of the venues where we hold our bi-annual Family Day and Homecoming event.
+* The Plaza is a significant venue where we host our bi-annual Family Day and Homecoming events. Together with the School Hall, it also serves as a gathering space for our secondary students during their morning assembly at 8:00 a.m.
+
+* Morning assembly typically includes the singing of the National Anthem, the recitation of the National Pledge, and value-based sharing by our school chaplain and teachers. It may also feature prize presentations to recognise student achievements, as well as special observances such as Racial Harmony Day celebrations and the National Cadet Corps Day parade.
+
+* In addition, students participate in Breakfast Sessions - small-group meetings with their Form Teachers to discuss school life and student well-being.
 
 ![](/images/about38.png)
 
