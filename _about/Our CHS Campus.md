@@ -39,9 +39,9 @@ variant: markdown
 ![](/images/about38.png)
 
 
-##### Multi-purpose Halls 多用途礼堂
+##### Multi-Purpose Halls 多用途礼堂
 
-*   As a full-school, CHS has two multi-purpose halls: one for the primary section and another for the secondary section. The two sections also share these halls, allowing for flexibility of use, e.g. our secondary section Open House uses both halls for different activities.
+*   As a full-school, CHS has two Multi-Purpose Halls: one for the primary section and another for the secondary section. The two sections also share these halls, allowing for flexibility of use, e.g. our secondary section Open House uses both halls for different activities.
 
 ![](/images/about40.png)
 
