@@ -12,7 +12,7 @@ Prospective students may apply to join CHS through various channels, depending o
 
 
 *   **[Click here to apply to join CHS through Direct School Admission (DSA)](https://www.catholichigh.moe.edu.sg/prospective-students/Sec-Admission/direct-school-admission/)**
-*   [Click here to apply to join CHS Year 3 IP](https://www.catholichigh.moe.edu.sg/prospective-students/admission-to-ip-year-3/)
+*   [Click here to apply to join CHS Year 3 IP](https://www.catholichigh.moe.edu.sg/prospective-students/sec-admission/admission-to-ip-year-3/)
 *   [Click here for Sec 1 Registration information](https://www.catholichigh.moe.edu.sg/prospective-students/Sec-Admission/level-1-registration/)
 
 For more information, you can [contact us](https://www.catholichigh.moe.edu.sg/contact-and-outreach/contact-school-and-services/overview/) or refer to the&nbsp;[MOE admissions website](https://www.moe.gov.sg/secondary/s1-posting).
