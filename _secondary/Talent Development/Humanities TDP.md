@@ -51,7 +51,7 @@ Students selected for this programme can expect to participate in the following:
 
 *   We provide opportunities to promote friendly competition and fun, as well as avenues for the students to apply and demonstrate their knowledge and thinking skills. Some of these examples include the NUS Geography Challenge and MOE History Challenge.
 
-(/images/Humanities_2023_2.jpg)
+![](/images/Humanities_2023_2.jpg) 
 
 *Kindly note that actual programme and experiences differ year on year*
 
