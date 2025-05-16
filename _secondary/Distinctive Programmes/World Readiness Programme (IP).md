@@ -29,4 +29,7 @@ The table below gives a glimpse of how WRP unfolds over four years in CHS.
 |---	|---	|
 | <img src="/images/wrp3.png" style="width:88%"> 	|  <img src="/images/wrp6.png" style="width:88%">	|
 
+
+<img src="/images/Secondary/WRP_1.jpg" style="width:88%">
+
 ![](/images/Secondary/WRP_1.jpg)![](/images/Secondary/WRP_2s.jpg)![](/images/Secondary/WRP_3ss.jpg)
