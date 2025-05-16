@@ -37,23 +37,23 @@ aims to nurture students’ passion in areas such as data analytics, artificial
 intelligence and Python Programming. Through this collaboration, students
 are able to gain valuable insights and be inspired to apply the knowledge
 that they learnt on real life engineering, infocomm technology and cybersecurity.</p>
-<p>(Below:&nbsp;MTDP&nbsp;students at a training session)</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtdp1.png">
-</div>
-<p>(Below:&nbsp;MTDP&nbsp;students at the Hong Kong Science Park during an
-immersion trip)</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtdp2.png">
-</div>
-<p>(Below:&nbsp;MTDP&nbsp;students at a workshop on exploring the relations
-and applications of mathematics&nbsp;in magic<em>)</em>
+<p><em>(Below)&nbsp;MTDP&nbsp;students at a training session</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtdp3.png">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtdp1.png">
+</div>
+<p><em>(Below)&nbsp;MTDP&nbsp;students at the Hong Kong Science Park during an immersion trip</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtdp2.png">
+</div>
+<p><em>(Below)&nbsp;MTDP&nbsp;students at a workshop on exploring the relations and applications of mathematics&nbsp;in magic</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtdp3.png">
 </div>
 <p>(Below: Students competing in the Singapore Mathematics Project Festival)</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtdp4.png">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtdp4.png">
 </div>
 <p></p>
