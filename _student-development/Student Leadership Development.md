@@ -30,7 +30,7 @@ The pathways and opportunities for leadership development are varied and depende
 
 <img src="/images/sd5.png" style="width:80%">
 
-_Our 2017 winner for the Lee Kuan Yew Award for All-Round Excellence, Benjamin Soh_
+_(Above) Our 2017 winner for the Lee Kuan Yew Award for All-Round Excellence, Benjamin Soh_
 
 Students who are keen to volunteer their services at the school-wide level can also apply to our Student Leadership Board (SLB) as probates to be developed and qualify as Prefects, Student Councillors or Class Management Committee leaders. They can also indicate their interest to their respective teachers-in-charge should they wish to pursue a leadership position within their CCAs.
 
