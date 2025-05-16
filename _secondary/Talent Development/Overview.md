@@ -130,7 +130,7 @@ equipped with advanced problem-solving skills.</p>
 <a href="/secondary/Talent-Development/bicultural-studies-programme/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a><strong><a href="/secondary/Talent-Development/bicultural-studies-programme/" rel="noopener noreferrer nofollow" target="_blank">Programme</a></strong> is
 a MOE Special Programme that aims to nurture a core group of students who
 can understand and engage China, as well as relate to the West with a focus
-on contemporary developments, for example China’s&nbsp;<em>The Belt and Road</em>&nbsp;<em>I__nitiative</em>&nbsp;(“一带一路”).</p>
+on contemporary developments, for example China’s&nbsp;<em>The Belt and Road</em>&nbsp;<em>Initiative</em>&nbsp;(“一带一路”).</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>BSP(C) students will be exposed to experiential learning and other approaches
