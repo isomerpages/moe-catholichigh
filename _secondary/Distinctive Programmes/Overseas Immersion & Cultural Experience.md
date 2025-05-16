@@ -67,7 +67,7 @@ We offer 2 main types of cultural immersion trips and hosting programmes:
 (Below)&nbsp;Learning together with Japanese students in Toyonaka High School (Osaka)
 
 <img src="/images/oicce6.png" style="width:60%">
-<br>
+
 
 (Below) 2023 Hong Kong - Macau Cultural Immersion
 <img src="/images/OIP_1.jpg" style="width:60%">
