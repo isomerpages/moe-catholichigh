@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sec Admission
 variant: markdown
 ---
-### Application for Admission to Year 3 Integrated Programme in 2025i
+### Application for Admission to Year 3 Integrated Programme in 2025
 
 <img src="/images/ps2.png" style="width:80%">
 
