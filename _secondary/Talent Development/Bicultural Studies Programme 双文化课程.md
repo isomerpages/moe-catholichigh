@@ -21,7 +21,7 @@ This is a four-year programme. Students successfully admitted to BSP(C) will com
 
 双文化课程是为期四年的课程。修读双文化课程的学生将会在公教中学完成两年的双文化课程，并在诺雅初级学院完成第三至第四年的课程。
 
-(_Photo below_: One of our BSP scholars from class of 2016-2017, Ong Chong Yu, at the award ceremony for his Prime Minister’s Book Prize. Established in 1974, the Prime Minister’s Book Prize is a national award recognising outstanding students for bilingualism.)
+_(Below) One of our BSP scholars from class of 2016-2017, Ong Chong Yu, at the award ceremony for his Prime Minister’s Book Prize. Established in 1974, the Prime Minister’s Book Prize is a national award recognising outstanding students for bilingualism._
 
 <img src="/images/bsp2.png" style="width:80%">
 
