@@ -9,7 +9,7 @@ variant: markdown
 
 *   As a full-school, we have a wide range of facilities to support our students’ learning and growth.
 *   We have a full-size 400-metre six-lane running track, a Clock Tower with chapel and two sets of most facilities (e.g. 2 Multi-Purpose Halls, 2 Indoor Sports Halls and even 2 canteens to support the primary and secondary sections). These facilities are shared by the sections, giving us the flexibility and space to offer a greater spread of opportunities for our students.
-*   We constantly improve and optimise the physical environment to support teaching and learning. For instance, since 2018, we have added a Digital Music Studio to support our Music Elective Programme, the Science, Technology and Research Space (STARS) to support the school’s distinctive programme in Space and Flight Science, a broadcasting studio to promote a bicultural environment as well as the student-designed Bunker to advocate student voice and agency. We are immensely proud of our newly created Aerospace Simulation Centre, which has incubated batches of young scientific minds.
+*   We constantly improve and optimise our physical environment to support teaching and learning. For instance, since 2018, we have added a Digital Music Studio to support our Music Elective Programme, the Science, Technology and Research Space (STARS) to support the school’s distinctive programme in Space and Flight Science, a broadcasting studio to promote a bicultural environment as well as the student-designed Bunker to advocate student voice and agency. We are immensely proud of our newly created Aerospace Simulation Centre, which has incubated batches of young scientific minds.
 
 ![](/images/about31.png)
 
