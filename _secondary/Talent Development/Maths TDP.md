@@ -31,7 +31,7 @@ In our MTDP, students are engaged in various rich learning experiences such as:
 
 <img src="/images/mtdp1.png" style="width:60%">
 
-(_Below:_&nbsp;MITDP&nbsp;_students at the Hong Kong Science Park during an immersion trip_)
+(_Below:_&nbsp;MTDP&nbsp;_students at the Hong Kong Science Park during an immersion trip_)
 
 <img src="/images/mtdp2.png" style="width:60%">
 
