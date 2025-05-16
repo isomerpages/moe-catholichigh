@@ -25,7 +25,6 @@ The pathways and opportunities for leadership development are varied and depende
 *   These students went on to excel in both academic and non-academic spheres and were recognised through the Lee Kuan Yew Award for All-Round Excellence (LKYARE) for Secondary Schools.&nbsp;Our 2017 winner, Benjamin Soh was a Staff Sergeant in NPCC, our Head Prefect as well as an Assistant Chief Editor for our school’s Chinese student newsletter.&nbsp;Siauw Yu Chuan, winner of 2019 LKYARE was our Scouts Troop Leader and a Prefect serving the school. One of our Class Chairmen, Damien Kang, also a Scouts Troop Leader won the LKYARE in 2020.
 
 “In my years in Catholic High School, I met many different leaders, and witnessed and experienced many forms of leadership. Being exposed to a multitude of activities, in Prefectorial Board, National Police Cadet Corps and 燎原报 (Chinese Newsletter), offered me the opportunities to learn and practise different forms of leadership, equipping me with critical thinking and evaluative skills, and allowing me to hone my bilingual competency. Most importantly, igniting in me the passion to serve not only the school but also the community.”
-
 –&nbsp;_Mr Benjamin Koh Zikang (Catholic High Alumni/2016), Recipient of Lee Kuan Yew Award for All-Round_&nbsp;Excellence
 
 <img src="/images/sd5.png" style="width:80%">
