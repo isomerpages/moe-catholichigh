@@ -21,7 +21,7 @@ You can view FAQs about admission&nbsp;[here](https://www.catholichigh.moe.edu.s
 
 
 
-#### **Application Process for Sec 2 Students&nbsp;to Join Year&nbsp;3 Integrated Programme**
+#### **Application Process for Secondary 2 Students&nbsp;to Join Year&nbsp;3 Integrated Programme**
 
 *   We will be inviting Secondary 2 boys presently in O-Level programme in secondary schools to apply for admission to our Year 3 IP every September.
 *   Successful applicants&nbsp;will spend two years (Year 3 and Year 4) in CHS and the final two years (JC1 and JC2) in the new Eunoia Junior College leading to the GCE ‘A’ Level Examinations.
