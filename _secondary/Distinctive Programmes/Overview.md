@@ -44,7 +44,7 @@ Click&nbsp;[here](/dual-track-curriculum/Integrated-Programme/overview/)&nbsp;if
 
 **Flagship Programmes for IP and SP**
 
-*   [Bilingual and Bicultural Enrichment](/secondary/Distinctive-Programmes/bilingual-and-bicultural-education/)
+*   [Bilingual and Bicultural Education](/secondary/Distinctive-Programmes/bilingual-and-bicultural-education/)
 *   [SAP Flagship Programme (with&nbsp;Appreciation Of Chinese Culture)](/secondary/Distinctive-Programmes/sap-flagship-programme/)
 *   [Overseas Immersion and Cultural Experience](/secondary/Distinctive-Programmes/overseas-immersion-and-cultural-experience/)
 *   [Passion Pursuit (Elective)](/secondary/distinctive-programmes/passion-pursuit/elective/)
