@@ -17,7 +17,7 @@ Prospective students may apply to join CHS through various channels, depending o
 
 For more information, you can [contact us](https://www.catholichigh.moe.edu.sg/contact-and-outreach/contact-school-and-services/overview/) or refer to the&nbsp;[MOE admissions website](https://www.moe.gov.sg/secondary/s1-posting).
 
-You can view FAQs about admission&nbsp;[here](https://www.catholichigh.moe.edu.sg/secondary/faqs/)
+You can view FAQs about admission&nbsp;[here].(https://www.catholichigh.moe.edu.sg/secondary/faqs/)
 
 
 
