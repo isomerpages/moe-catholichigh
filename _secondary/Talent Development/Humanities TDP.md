@@ -12,7 +12,7 @@ p {text-align: justify;}
 
 The Humanities Talent Development Programme seeks to maximise the learning experiences of students through experiential learning and infusing critical thinking skills via an enriched curriculum. This is achieved by providing them with a very R.E.A.L. humanities experience centered on being Relevant, Experiential, Authentic and for Life-long Learning. This programme focuses on the disciplines of Economics, Geography, History and Literature.
 
-<img src="/images/HTDP_2024_1.jpg" style="width:80%"> 	| <img src="/images/HTDP_2024_2.jpg" style="width:80%"> 	| <img src="/images/HTDP_2024_3.jpg" style="width:80%"> 	|
+<img src="/images/HTDP_2024_1.jpg" style="width:80%"> 	| <img src="/images/HTDP_2024_2.jpg" style="width:80%"> 	| <img src="/images/HTDP_2024_3.jpg" style="width:100%"> 	|
 
 #### Aims/Objectives
 
@@ -52,7 +52,7 @@ Students selected for this programme can expect to participate in the following:
 
 ![](/images/Humanities_2023_2.jpg) 
 
-*Kindly note that actual programme and experiences differ year on year.*
+*Kindly note that actual programme and experiences differ year on year*
 
 
 
