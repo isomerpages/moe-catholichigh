@@ -37,7 +37,7 @@ You can view FAQs about admission&nbsp;[here](https://www.catholichigh.moe.edu.s
 
 *   International students who are not presently enrolled in a Singapore mainstream school should view the Ministry of Education’s website for information about the ["Admissions Exercise for International Students (AEIS)"](https://www.moe.gov.sg/international-students/aeis).
 
-*   The Admissions Exercise for International Students (AEIS) is a centralised admissions exercise conducted by MOE around September or October each year for international students who wish to join our mainstream primary and secondary schools in January of the following year.
+*   The "Admissions Exercise for International Students (AEIS)" is a centralised admissions exercise conducted by MOE around September or October each year for international students who wish to join our mainstream primary and secondary schools in January of the following year.
 
 #### **Other Relevant Information**
 
