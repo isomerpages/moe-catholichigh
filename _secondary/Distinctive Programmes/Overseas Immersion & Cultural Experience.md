@@ -70,4 +70,5 @@ We offer 2 main types of cultural immersion trips and hosting programmes:
 
 
 (Below) 2023 Hong Kong - Macau Cultural Immersion
+
 <img src="/images/OIP_1.jpg" style="width:60%">
