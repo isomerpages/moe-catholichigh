@@ -129,7 +129,7 @@ will be challenged intellectually with advanced mathematical concepts and
 equipped with advanced problem-solving skills.</p>
 <h4>MOE Special Programmes</h4>
 <p>CHS offers the following MOE Special Programmes:</p>
-<p>(1)&nbsp;<strong><a href="/secondary/Talent-Development/bicultural-studies-programme/" rel="noopener nofollow" target="_blank">Bicultural Studies Programme</a></strong> is
+<p>1.&nbsp;<strong><a href="/secondary/Talent-Development/bicultural-studies-programme/" rel="noopener nofollow" target="_blank">Bicultural Studies Programme</a></strong> is
 a MOE Special Programme that aims to nurture a core group of students who
 can understand and engage China, as well as relate to the West with a focus
 on contemporary developments, for example China’s&nbsp;<em>The Belt and Road</em>&nbsp;<em>Initiative</em>&nbsp;(“一带一路”).</p>
@@ -156,7 +156,7 @@ apply to join in Year 3.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/tdps.png">
 </div>
-<p>(2)&nbsp;<strong><a href="/secondary/Talent-Development/music-elective-programme/" rel="noopener nofollow" target="_blank">Music Elective Programme (MEP)</a></strong> is
+<p>2.&nbsp;<strong><a href="/secondary/Talent-Development/music-elective-programme/" rel="noopener nofollow" target="_blank">Music Elective Programme (MEP)</a></strong> is
 a 4-year MOE Special Programme that offers a comprehensive music programme
 for students with the aptitude and passion for music.</p>
 <ul data-tight="true" class="tight">
