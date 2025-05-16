@@ -52,7 +52,7 @@ variant: markdown
 *   The traditional plaque (seen also at our former school compound in Queen Street) reads “Sino-English Catholic School”, and this was our original school name that gave hint to our origin as a bilingual education institution.
 *  The words on the Level 3 roof “培养双语精英的摇篮” means “The place where we groom bilingual scholars and leaders”.
 
-*   As one of the 11 Special Assistance Plan (SAP) schools in Singapore, Catholic High School aims to nurture students to be proficient in both English Language and Chinese Language, and to have a good understanding and appreciation of Chinese culture. One of our SAP signature programme is the Appreciation of Chinese Culture (ACC) module, which is a module taken by Level 1s and 2s, to expose them to Chinese culture such as Chinese calligraphy, chess, philosophy and history.
+*   As one of the 11 Special Assistance Plan (SAP) schools in Singapore, Catholic High School aims to nurture students to be proficient in both English Language and Chinese Language, and to have a good understanding and appreciation of Chinese culture. One of our SAP signature programmes is the Appreciation of Chinese Culture (ACC) module (taken by Level 1 and 2 students) to expose them to Chinese culture such as Chinese calligraphy, chess, philosophy and history.
 
 ![](/images/about41.png)
 
