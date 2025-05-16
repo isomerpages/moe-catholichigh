@@ -41,9 +41,10 @@ You can view FAQs about admission&nbsp;[here](https://www.catholichigh.moe.edu.s
 
 #### **Other Relevant Information**
 
-1.&nbsp;**What are the school fees for Catholic High School?**&nbsp;(_Information accurate as of 21 Oct 2021_)
+_(Information accurate as of 21 Oct 2021)_
 
-The school fees for Catholic High School is prescribed by the Ministry as follows.
+The school fees for Catholic High School is prescribed by the Ministry as follows:
 
 *   **For a Singaporean citizen, he will pay $5 (school fees) + $10 (standard miscellaneous fees) + $10 (second-tier miscellaneous fees) + $3 (autonomous school) =&nbsp;$28 per month.**
-*   From 2022, a student who is PR, IS (ASEAN) and IS will pay $440, $840 and $1600 respectively each month, including the miscellaneous and other fees.&nbsp;_(Information accurate as of 21 Oct 2021; these fees will further increase in 2023._&nbsp;[_Please check MOE website for updates.)_](https://www.moe.gov.sg/financial-matters/fees)
+*   From 2022, a student who is PR, IS (ASEAN) and IS will pay $440, $840 and $1600 respectively each month, including the miscellaneous and other fees.&nbsp;
+*   _These fees will further increase in 2023._&nbsp;[_Please check MOE website for updates._](https://www.moe.gov.sg/financial-matters/fees)*)*
