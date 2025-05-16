@@ -94,7 +94,7 @@ The Space Exploration Gallery captures important achievements or major events in
 ##### Media Resource Library and Bunker 图书馆与 &lt;堡垒&gt;
 
 *   Our Media Resource Library is a favourite place among students, housing a wide collection of books and multimedia resources. It is designed for not just reading, but also for seminars and group works.
-*   Our&nbsp;school encourages students to read widely, and we also have our weekly morning BrainGym. Students will read materials specially prepared by the teachers across all departments, with wide-ranging topics covering the arts to economics, from technology to politics.
+*   Our&nbsp;school encourages students to read widely, and we also have our weekly morning Brain Gym. Students will read materials specially prepared by the teachers across all departments, with wide-ranging topics covering the arts to economics, from technology to politics.
 *   Another highly popular spot is the Bunker, a space designed and run by students leaders for students. This space has been home to many discussions amongst students on various school events and projects.
 
 ![](/images/about52.png)
