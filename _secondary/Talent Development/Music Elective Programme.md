@@ -18,7 +18,7 @@ The Music Elective Programme (MEP) is an&nbsp;**MOE special programme**&nbsp;tha
 *   The&nbsp;**MEP can also be offered in JC1 and JC2**&nbsp;in JCs such as Eunoia Junior College.
 *   One outstanding MEP student from each level will be awarded CHS’Joseph Wallace Family Music Scholarship. This is a non-renewable 1-year scholarship.
 
-<img src="/images/mep1.png" style="width:60%">
+
 
 #### MEP Curriculum
 
