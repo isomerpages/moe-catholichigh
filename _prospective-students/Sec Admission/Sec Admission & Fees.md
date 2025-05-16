@@ -47,4 +47,4 @@ The school fees for Catholic High School is prescribed by the Ministry as follow
 
 *   **For a Singaporean citizen, he will pay $5 (school fees) + $10 (standard miscellaneous fees) + $10 (second-tier miscellaneous fees) + $3 (autonomous school) =&nbsp;$28 per month.**
 *   From 2022, a student who is PR, IS (ASEAN) and IS will pay $440, $840 and $1600 respectively each month, including the miscellaneous and other fees.&nbsp;
-*   _These fees will further increase in 2023._&nbsp;[_Please check MOE website for updates._](https://www.moe.gov.sg/financial-matters/fees)*)*
+*   _These fees will further increase in 2023._&nbsp;[_Please check MOE website for updates_](https://www.moe.gov.sg/financial-matters/fees).
