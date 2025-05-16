@@ -34,7 +34,7 @@ Approach-wise, students will be offered a wide variety of activities after their
 
 Students get to try out many experiences that will not be found in the usual school curriculum. This adds to the holistic development of students beyond their academic and CCA involvements.
 
-#### Examples of PP(Elective) Modules
+#### Examples of PP (Elective) Modules
 
 The modules we have offered are:
 
