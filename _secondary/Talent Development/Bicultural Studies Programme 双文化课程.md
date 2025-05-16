@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Talent Development
 variant: markdown
 ---
-<img src="/images/bsp1.png" style="width:60%">
+<img src="/images/bsp1.png" style="width:80%">
 
 #### Overview
 <style>
 p {text-align: justify;}
 </style>
-Catholic High School started the Bicultural Studies Programme (Chinese) \[BSP(C)\] in 2016. We offer this programme to Year 3 students who are passionate about learning from the cultures of the East and West. Year 1 and 2 students may prepare themselves for the BSP selection process (at end of Year 2), by applying for development programmes such as our Cultural Ambassador Programme (华青班).
+Catholic High School started the Bicultural Studies Programme (Chinese), BSP(C) in 2016. We offer this programme to Year 3 students who are passionate about learning from the cultures of the East and West. Year 1 and 2 students may prepare themselves for the BSP selection process (at end of Year 2), by applying for development programmes such as our Cultural Ambassador Programme (华青班).
 
 This is a four-year programme. Students successfully admitted to BSP(C) will complete their Year 3 and Year 4 of BSP in Catholic High School and continue the programme at the Eunoia Junior College.
 
@@ -21,9 +21,9 @@ This is a four-year programme. Students successfully admitted to BSP(C) will com
 
 双文化课程是为期四年的课程。修读双文化课程的学生将会在公教中学完成两年的双文化课程，并在诺雅初级学院完成第三至第四年的课程。
 
-(_Photo below_: One of our BSP scholars from class of 2016-2017, Ong Chong Yu, at the award ceremony for his Prime Minister’s Book Prize. Established in 1974, the Prime Minister’s Book Prize is a national award recognising outstanding students for bilingualism.)
+_(Below) One of our BSP scholars from class of 2016-2017, Ong Chong Yu, at the award ceremony for his Prime Minister’s Book Prize. Established in 1974, the Prime Minister’s Book Prize is a national award recognising outstanding students for bilingualism._
 
-<img src="/images/bsp2.png" style="width:60%">
+<img src="/images/bsp2.png" style="width:80%">
 
 #### Vision
 

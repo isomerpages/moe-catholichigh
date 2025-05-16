@@ -14,7 +14,7 @@ The&nbsp;**Physical Education &amp; Co-curricular Activities**&nbsp;in CHS aims 
 
 The CCA Programme in Catholic High School provides students with a platform to discover their interests and talents. Students progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation. CCA also offer excellent platforms for students to learn core values, social and emotional competencies and the emerging 21st Century Competencies. All CCA emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds. Through CCA, students develop a sense of identity and belonging to the school. Schools enable all students to have active and meaningful CCA participation when they provide a balanced, inclusive and diverse CCA programme which caters to a broad spectrum of interests and talents.
 
-<img src="/images/sd1.png" style="width:183px;height:240px;margin-left:15px;" align="right"> **[Click here to view some of the recent CCA achievements.](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/awards-and-achievements/cca-achievements/)**
+<img src="/images/sd1.png" style="width:183px;height:240px;margin-left:15px;" align="right"> **[Click here to view some of the recent CCA achievements](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/awards-and-achievements/cca-achievements/)**
 
 **(1) Performing Arts**&nbsp;instil in students a sense of graciousness and an appreciation for the rich culture and heritage of our multi-racial society. We offer 6 Performing Arts CCA, and all have achieved credible results at the Singapore Youth Festival Arts Presentations
 
