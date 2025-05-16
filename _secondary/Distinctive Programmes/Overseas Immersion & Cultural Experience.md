@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Distinctive Programmes
 variant: markdown
 ---
-### Overseas Immersion &amp; Cross-cultural Experience
+### Overseas Immersion &amp; Cultural Experience
 <style>
 p {text-align: justify;}
 </style>
@@ -36,7 +36,7 @@ We offer 2 main types of cultural immersion trips and hosting programmes:
 *   Our school leverages stakeholders and the community such as alumni experts to provide support, advice and resources, especially in the area of overseas cultural experiences, industrial visits and attachments.
 *   Our students have travelled to China, Germany, Japan, Thailand, United States of America, United Kingdom, Vietnam and other places for immersion.
 *   In turn, we have forged collaborations and partnerships with overseas schools, and our students have hosted teacher and/or students from China, Taiwan and Japan for immersion in our school.
-*   We work with several schools in Bangkok, Tokyo, Osaka, Hong Kong, Suzhou, Nanjing, Beijing and Taipei for immersion, for examples Toyonaka High School in Osaka (大阪府立豊中高等学校), Nanjing Hong Guang Middle School (南京市弘光中学), Suzhou Jinji Lake School (苏州工业园区金鸡湖学校), Taipei Municipal Zhongshan Junior High School (台北市立中山国民中学), and Rittiyawanalai School in Bangkok.
+*   We work with several schools in Bangkok, Tokyo, Osaka, Hong Kong, Suzhou, Nanjing, Beijing and Taipei for immersion, for example: Toyonaka High School in Osaka (大阪府立豊中高等学校), Nanjing Hong Guang Middle School (南京市弘光中学), Suzhou Jinji Lake School (苏州工业园区金鸡湖学校), Taipei Municipal Zhongshan Junior High School (台北市立中山国民中学), and Rittiyawanalai School in Bangkok.
 
 **_Photos from some of the overseas immersion trips undertaken by our students:_**
 
@@ -44,7 +44,7 @@ We offer 2 main types of cultural immersion trips and hosting programmes:
 
 <img src="/images/oicce1.png" style="width:60%">
 
-(Below) Visiting Emirates Stadium (London), Home of Arsenal Football Club
+(Below) Visiting Emirates Stadium (London), home of Arsenal Football Club
 
 ![](/images/Below__Visiting_Emirates_Stadium__London___Home_of_Arsenal_Football_Club.png)
 

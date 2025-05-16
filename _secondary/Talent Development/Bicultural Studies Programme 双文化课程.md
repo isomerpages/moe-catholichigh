@@ -3,6 +3,7 @@ title: Bicultural Studies Programme 双文化课程
 permalink: /secondary/Talent-Development/bicultural-studies-programme/
 description: ""
 third_nav_title: Talent Development
+variant: markdown
 ---
 <img src="/images/bsp1.png" style="width:60%">
 
@@ -36,7 +37,7 @@ This is a four-year programme. Students successfully admitted to BSP(C) will com
 
 The objectives of the BSP(C) are to:
 
-1\.  Nurture principled, bicultural and enterprising leaders who are able to engage with China and understand the West;<br>
+1.  Nurture principled, bicultural and enterprising leaders who are able to engage with China and understand the West;<br>
 2.  Develop bilingual scholars who are passionate about analyzing and projecting the historical, cultural and contemporary developments of both the East and West; and <br>
 3.  Broaden our students’ horizon, and cultivate their global perspectives and world readiness as part of the global diaspora.
 
@@ -73,7 +74,7 @@ Scholars will have the opportunity for extended immersion to China and/or a West
 所有中三双文化课程的学生将有机会到中国进行2 周的浸濡活动。  
 双文化奖学金得主将有机会在四年级时继续参加双文化浸濡活动。
 
-<img src="/images/bsp3.png" style="width:80%">
+
 <img src="/images/bsp4.png" style="width:80%">
 
 #### Assessments

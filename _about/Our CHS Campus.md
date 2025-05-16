@@ -5,16 +5,11 @@ description: ""
 variant: markdown
 ---
 ### A Welcoming Home for Gentlemen, Leaders and Bilingual Scholars
-<style>
-p {text-align: justify;}
-	iframe {display: block;margin: auto;}
-</style>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0GfoAlCKVn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 *   As a full-school, we have a wide range of facilities to support our students’ learning and growth.
-*   We have a full-size 400-metre six-lane running track, a Clock Tower with chapel and two sets of most facilities (e.g. 2 Multi-purpose Halls, 2 Indoor Sports Halls and even 2 canteens to support the primary and secondary sections). These facilities are shared by the sections, giving us the flexibility and space to offer a greater spread of opportunities for our students.
-*   We constantly improve and optimise the physical environment to support teaching and learning. For instance, since 2018, we have added a digital music studio to support our Music Elective Programme, the Science, Technology and Research Space (STARS) to support the school’s distinctive programme in Space and Flight Science, a broadcasting studio to promote a bicultural environment as well as the student-designed Bunker to advocate student voice and agency. We are immensely proud of our newly created Aerospace Simulation Centre, which has incubated batches of young scientific minds.
+*   We have a full-size 400-metre six-lane running track, a Clock Tower with chapel and two sets of most facilities (e.g. 2 Multi-Purpose Halls, 2 Indoor Sports Halls and even 2 canteens to support the primary and secondary sections). These facilities are shared by the sections, giving us the flexibility and space to offer a greater spread of opportunities for our students.
+*   We constantly improve and optimise the physical environment to support teaching and learning. For instance, since 2018, we have added a Digital Music Studio to support our Music Elective Programme, the Science, Technology and Research Space (STARS) to support the school’s distinctive programme in Space and Flight Science, a broadcasting studio to promote a bicultural environment as well as the student-designed Bunker to advocate student voice and agency. We are immensely proud of our newly created Aerospace Simulation Centre, which has incubated batches of young scientific minds.
 
 ![](/images/about31.png)
 
@@ -37,24 +32,26 @@ p {text-align: justify;}
 
 ##### Plaza 广场
 
-*   The Plaza is where our secondary section students gather daily for their morning assembly at 7.40am. Apart from the singing of the National Anthem and&nbsp;taking of the National Pledge, the assembly includes sharing on values by our school chaplain and teachers, prize presentation to recognise the achievements of our students, and also other ceremonies such as the celebration of Racial Harmony Day and National Cadet Corps Day parade.
-*   In addition, students will also have Breakfast Sessions, during which students meet their Form Teachers in small groups to talk about their school life and welfare.
-*   The Plaza is also one of the venues where we hold our annual Family Day and Homecoming event.
+* The Plaza is a significant venue where we host our bi-annual Family Day and Homecoming events. Together with the School Hall, it also serves as a gathering space for our secondary students during their morning assembly at 8:00 a.m.
+
+* Morning assembly typically includes the singing of the National Anthem, the recitation of the National Pledge, and value-based sharing by our school chaplain and teachers. It may also feature prize presentations to recognise student achievements, as well as special observances such as Racial Harmony Day celebrations and the National Cadet Corps Day parade.
+
+* In addition, students participate in Breakfast Sessions - small-group meetings with their Form Teachers to discuss school life and student well-being.
 
 ![](/images/about38.png)
 
-![](/images/about39.png)
 
-##### Multi-purpose Halls 多用途礼堂
+##### Multi-Purpose Halls 多用途礼堂
 
-*   As a full-school, CHS has two multi-purpose halls: one for the primary section and another for the secondary section. The two sections also share these halls, allowing for flexibility of use, e.g. our secondary section Open House uses both halls for different activities.
+*   As a full-school, CHS has two Multi-Purpose Halls: one for the primary section and another for the secondary section. The two sections also share these halls, allowing for flexibility of use, e.g. our secondary section Open House uses both halls for different activities.
 
 ![](/images/about40.png)
 
-##### Study Area 公教牌匾
+##### Sino-English Catholic School 公教牌匾
 
+*   The traditional plaque (seen also at our former school compound in Queen Street) reads “Sino-English Catholic School”, and this was our original school name that gave hint to our origin as a bilingual education institution.
 *  The words on the Level 3 roof “培养双语精英的摇篮” means “The place where we groom bilingual scholars and leaders”.
-*   The&nbsp;traditional&nbsp;plaque (seen also at our former school compound in Queen Street) reads “Sino-English Catholic School”, and this was our original school name that gave hint to our origin as a bilingual education institution.
+
 *   As one of the 11 Special Assistance Plan (SAP) schools in Singapore, Catholic High School aims to nurture students to be proficient in both English Language and Chinese Language, and to have a good understanding and appreciation of Chinese culture. One of our SAP signature programme is the Appreciation of Chinese Culture (ACC) module, which is a module taken by Level 1s and 2s, to expose them to Chinese culture such as Chinese calligraphy, chess, philosophy and history.
 
 ![](/images/about41.png)
@@ -62,8 +59,6 @@ p {text-align: justify;}
 ##### Interactive Chinese Cultural Gallery
 
 *   Our ‘Chinese Cultural Corridor’ showcases some of the bilingual and bicultural experiences that our CHS gentlemen goes through in their 4 years of education. The Chinese Cultural Corridor also helps to promote the learning of Chinese language and culture, and reminds our students of their evolving identity as a bilingual scholar. The wall murals along this corridor can be divided into a few section which includes our SAP school history and heritage, SAP flagship programme,（琴棋书画史）Appreciation of Chinese Culture, Bicultural Studies Programme and Chinese Literature curriculum.&nbsp;
-
-&nbsp;
 
 *   The various Confucian quotes on the curved pillars aim to further reinforce moral values and Eastern wisdom in our students. The parapet along the traditional long corridors (长廊) are designed to mirror those at our former school compound at Queen Street, serving to remind present and past students the binding history and deep heritage of our school.
 
@@ -79,7 +74,7 @@ p {text-align: justify;}
 
 ##### Aviation Milestones Gallery
 
-The Aviation Milestones Gallery celebrates the progression of flight in human history by showcasing the past, present and future of aviation. Th gallery serves to educate and inspire students with a strong interest in aviation and aerospace through the showcase of the history of aviation, science of aviation and the development of aviation in Singapore.
+The Aviation Milestones Gallery celebrates the progression of flight in human history by showcasing the past, present and future of aviation. The gallery serves to educate and inspire students with a strong interest in aviation and aerospace through the showcase of the history of aviation, science of aviation and the development of aviation in Singapore.
 
 ![](/images/about46.png)
 
@@ -96,10 +91,10 @@ The Space Exploration Gallery captures important achievements or major events in
 ![](/images/about51.png)
 
 
-##### Media Resource Library and Bunker 图书楼与 &lt;堡垒&gt;
+##### Media Resource Library and Bunker 图书馆与 &lt;堡垒&gt;
 
 *   Our Media Resource Library is a favourite place among students, housing a wide collection of books and multimedia resources. It is designed for not just reading, but also for seminars and group works.
-*   Our&nbsp;school encourages students to read widely, and we also have our weekly Morning Reading Programme. Students will read materials specially prepared by the teachers across all departments, with wide-ranging topics covering the arts to economics, from technology to politics.
+*   Our&nbsp;school encourages students to read widely, and we also have our weekly morning BrainGym. Students will read materials specially prepared by the teachers across all departments, with wide-ranging topics covering the arts to economics, from technology to politics.
 *   Another highly popular spot is the Bunker, a space designed and run by students leaders for students. This space has been home to many discussions amongst students on various school events and projects.
 
 ![](/images/about52.png)
@@ -118,11 +113,9 @@ The Space Exploration Gallery captures important achievements or major events in
 
 ##### Sports and CCA Facilities 操场, 球场, 跑道,学生活动中心与课外活动室
 
-*   Our schools offers wide-ranging and varied student activities and CCAs, and we have a variety of facilities to support&nbsp;these on top of supporting our daily lessons. Our facilities -many of which you can find on level 1- include CCA rooms such as Symphonic Band and Chinese Orchestra rooms, Dance studio, auditorium and lecture theatre. As a full-school, we have two of most facilities, e.g. 2 Indoor Sports Halls, 2 Multi-purpose Halls, 2 tennis courts, even 2 canteens to support the primary and secondary sections. We also have&nbsp;a table tennis training centre,&nbsp; an Outdoor Adventure Learning Centre and a 400-m full-size running tracks with facilities for track-and-field sports.
-*   As an all-boy school, our students often engage in rugged activities and sports, be it during their CCA, PE lessons, school-organised sports events (such as our&nbsp;[Passion Pursuit Elective](/secondary/distinctive-programmes/passion-pursuit/elective/)&nbsp;modules, inter-class sports competitions and our whole-school spots carnival) or just unstructured play (e.g. frisbee games) during our 50-minute recess.
+*   Our schools offers wide-ranging and varied student activities and CCAs, and we have a variety of facilities to support&nbsp;these on top of supporting our daily lessons. Our facilities -many of which you can find on level 1- include CCA rooms such as Symphonic Band and Chinese Orchestra rooms, Dance studio, auditorium and lecture theatre. As a full-school, we have two of most facilities, e.g. 2 Indoor Sports Halls, 2 Multi-Purpose Halls and even 2 canteens to support the primary and secondary sections. We also have&nbsp;a table tennis training centre and a 400-m full-size running track with facilities for track-and-field sports.
+*   As an all-boy school, our students often engage in rugged activities and sports, be it during their CCA, PE lessons, school-organised sports events (such as our&nbsp;[Passion Pursuit Elective](/secondary/distinctive-programmes/passion-pursuit/elective/)&nbsp;modules, inter-class sports competitions and our whole-school My B.I.G Run) or just unstructured play (e.g. frisbee games) during our 30-minute recess.
 *   Our school focuses on holistic education, with a strong emphasis on&nbsp;[Co-curricular Activities (CCAs)](/student-development/pe-and-cca/overview/). We have a wide range of CCAs for students to choose from, including Uniformed Groups, Sports, Performing Arts and a media and ICT club.&nbsp;Our&nbsp;[CCAs have also been performing well consistently](/secondary/awards-and-achievements/cca-achievements/), clinching several awards throughout the year.
-
-![](/images/about56.png)
 
 ![](/images/about57.png)
 

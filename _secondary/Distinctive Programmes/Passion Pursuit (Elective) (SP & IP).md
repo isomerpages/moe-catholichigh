@@ -22,7 +22,7 @@ The&nbsp;**Passion Pursuit programme**&nbsp;in Catholic High School comprises an
 #### Our Approach
 
 <img src="/images/ppe2.png" style="width:290px;height:200px;margin-right:30px;" align="left"> 
-<br><br><br><br><br><br><br><br><br>
+<br>
 Approach-wise, students will be offered a wide variety of activities after their end-of-year examinations, expanding their exposure in 3 categories of elective modules:
 
 *   Ruggedness Electives 
@@ -36,7 +36,7 @@ Students get to try out many experiences that will not be found in the usual sch
 
 #### Examples of PP(Elective) Modules
 
-The modules we have offered in 2023 are:
+The modules we have offered are:
 
 1.  Aikido
     

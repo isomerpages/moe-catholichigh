@@ -3,6 +3,7 @@ title: World Readiness Programme (IP)
 permalink: /secondary/Distinctive-Programmes/world-readiness-programme/
 description: ""
 third_nav_title: Distinctive Programmes
+variant: markdown
 ---
 ### World Readiness Programme
 <style>
@@ -26,9 +27,8 @@ The table below gives a glimpse of how WRP unfolds over four years in CHS.
 
 |  	|  	|
 |---	|---	|
-| <img src="/images/wrp3.png" style="width:80%"> 	| <img src="/images/wrp4.png" style="width:70%"> 	|
-|  <img src="/images/wrp5.png" style="width:70%">	|  <img src="/images/wrp6.png" style="width:88%">	|
-|  	|  	|
+| <img src="/images/wrp3.png" style="width:80%"> 	|  <img src="/images/wrp6.png" style="width:88%">	|
+
 
 _Above left: JIP WRP symposium graced by the Ambassador from the New Zealand High Commission_  
 &nbsp;_Above right: EU at Your School engagement with Deputy Head of Mission from the Embassy of Greece_
