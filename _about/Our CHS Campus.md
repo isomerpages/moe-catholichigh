@@ -47,7 +47,7 @@ variant: markdown
 
 ![](/images/about40.png)
 
-##### Sino-English Catholic School 公教牌匾
+##### "Sino-English Catholic School" Traditional Plaque 公教牌匾
 
 *   The traditional plaque (seen also at our former school compound in Queen Street) reads “Sino-English Catholic School”, and this was our original school name that gave hint to our origin as a bilingual education institution.
 *  The words on the Level 3 roof “培养双语精英的摇篮” means “The place where we groom bilingual scholars and leaders”.
