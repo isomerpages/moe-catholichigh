@@ -16,7 +16,7 @@ The Music Elective Programme (MEP) is an&nbsp;**MOE special programme**&nbsp;tha
 *   MEP students in Catholic High School enjoy the&nbsp;**opportunity to study Music at a deeper level**&nbsp;in an enhanced curriculum for Music in custom-built MEP Studios.
 *   Students will be prepared to sit the&nbsp;**GCE O-Level Higher Music Examination**&nbsp;in their Secondary/Year 4 year, at which their musical knowledge and skills will be assessed via the activities of listening and analysis, performing, and music writing.
 *   The&nbsp;**MEP can also be offered in JC1 and JC2**&nbsp;in JCs such as Eunoia Junior College.
-*   One outstanding MEP student from each level will be awarded CHS’Joseph Wallace Family Music Scholarship. This is a non-renewable 1-year scholarship.
+*   One outstanding MEP student from each level will be awarded CHS’ Joseph Wallace Family Music Scholarship. This is a non-renewable 1-year scholarship.
 
 
 
