@@ -52,7 +52,7 @@ Students selected for this programme can expect to participate in the following:
 
 ![](/images/Humanities_2023_2.jpg) 
 
-*Kindly note that actual programme and experiences differ year on year*
+*Kindly note that actual programme and experiences differ year on year.*
 
 
 
