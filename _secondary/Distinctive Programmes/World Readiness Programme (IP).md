@@ -19,7 +19,7 @@ The values, skills, knowledge and perspectives that our IP students acquire in Y
 
 The table below gives a glimpse of how WRP unfolds over four years in CHS.
 
-<img src="/images/wrp2.png" style="width:70%">
+<img src="/images/wrp2.png" style="width:100%">
 
 #### WRP Symposium
 
