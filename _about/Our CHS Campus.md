@@ -58,7 +58,7 @@ variant: markdown
 
 ##### Interactive Chinese Cultural Gallery
 
-*   Our ‘Chinese Cultural Corridor’ showcases some of the bilingual and bicultural experiences that our CHS gentlemen goes through in their 4 years of education. The Chinese Cultural Corridor also helps to promote the learning of Chinese language and culture, and reminds our students of their evolving identity as a bilingual scholar. The wall murals along this corridor can be divided into a few section which includes our SAP school history and heritage, SAP flagship programme,（琴棋书画史）Appreciation of Chinese Culture, Bicultural Studies Programme and Chinese Literature curriculum.&nbsp;
+*   Our ‘Chinese Cultural Corridor’ showcases some of the bilingual and bicultural experiences that our CHS gentlemen goes through in their 4 years of education. The Chinese Cultural Corridor also helps to promote the learning of Chinese language and culture, and reminds our students of their evolving identity as a bilingual scholar. The wall murals along this corridor can be divided into a few sections, which include our SAP school history and heritage, SAP flagship programme, Appreciation of Chinese Culture (琴棋书画史), Bicultural Studies Programme and Chinese Literature curriculum.&nbsp;
 
 *   The various Confucian quotes on the curved pillars aim to further reinforce moral values and Eastern wisdom in our students. The parapet along the traditional long corridors (长廊) are designed to mirror those at our former school compound at Queen Street, serving to remind present and past students the binding history and deep heritage of our school.
 

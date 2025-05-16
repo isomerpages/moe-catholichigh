@@ -1,6 +1,6 @@
 ---
 title: Admission to IP Year 3
-permalink: /prospective-students/admission-to-ip-year-3/
+permalink: /prospective-students/sec-admission/admission-to-ip-year-3/
 description: ""
 third_nav_title: Sec Admission
 variant: markdown

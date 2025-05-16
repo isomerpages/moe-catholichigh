@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - PE & CCA/Overview.md
-      - PE & CCA/CCA Achievements.md
       - PE & CCA/.keep
       - Student Leadership Development.md
       - Character Education/Overview.md
