@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Talent Development
 variant: markdown
 ---
-<img src="/images/bsp1.png" style="width:60%">
+<img src="/images/bsp1.png" style="width:80%">
 
 #### Overview
 <style>
