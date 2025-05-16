@@ -11,9 +11,8 @@ variant: markdown
 In CHS, our leadership development programme “领” is offered to students who have demonstrated potential in taking up school-wide leadership roles and with a heart to serve. The concept of ‘Leader’ is integral to the Catholic High experience, and it is rooted in our strong heritage of nurturing generations of leaders for the nation in numerous fields – public service, academia, culture, business and many more.
 
 Through the curricular, co-curricular and community experiences and signature programmes, Catholic High students are developed to become leaders who are visionary, grounded upon strong moral principles, and who lead with empathy and by example: to inspire, to serve and to leave a collective legacy. Whatever the pathways and opportunities, we take a stand on developing Principled Leaders who can touch lives and transform the futures of himself and others. At CHS, our student leaders “Represent, Role Model and Re-Imagine”.
-![](/images/Secondary/2024_2025_SLB_Heads.jpg)
 
-Our 2024/2025 Heads of Boards - Bryce Kwan, Head Prefect (3rd from left), Low Cheng Yang, President of Students' Council (4th from left) and Lancelot Leung, President of Class Management Committee (5th from left), with our School Management Committee Chairman and School Leaders.
+![](/images/Secondary/SLB_1s.jpg)
 
 #### Pathways &amp; Opportunities
 
