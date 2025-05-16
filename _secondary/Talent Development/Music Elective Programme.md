@@ -55,7 +55,7 @@ Monday, 30 December 2024, 2.30pm: MEP Selection listening test, audition and int
 
 ##### Useful links:
 
-[MOE MEP Webpage](https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Music%20Programmes&amp;subterm=Music%20Elective%20Programme%20(MEP))
+[MOE MEP Webpage](https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec)
 
 [EMP and MEP Online Showcase webpage](https://www.youtube.com/@empandmepyoutubepage9130/featured)
 
