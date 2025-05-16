@@ -29,6 +29,7 @@ The table below gives a glimpse of how WRP unfolds over four years in CHS.
 |---	|---	|
 | <img src="/images/wrp3.png" style="width:80%"> 	|  <img src="/images/wrp6.png" style="width:88%">	|
 
+![](/images/Secondary/WRP_1.jpg)![](/images/Secondary/WRP_2s.jpg)![](/images/Secondary/WRP_3ss.jpg)
 
 _Above left: JIP WRP symposium graced by the Ambassador from the New Zealand High Commission_  
 &nbsp;_Above right: EU at Your School engagement with Deputy Head of Mission from the Embassy of Greece_
