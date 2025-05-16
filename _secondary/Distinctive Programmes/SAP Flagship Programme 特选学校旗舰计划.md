@@ -32,8 +32,8 @@ As&nbsp;an SAP&nbsp;school, the Catholic High School SAP flagship programme aims
 
 *   环境：为双语双文化的学习，提供优质的学习环境
 *   Environment: To create an environment that promotes bilingualism and biculturalism
-*   双文化意识：通过校本课程和活动，提高学生对中西文化的认识。
-*   Exposure: To create greater awareness of biculturalism.
+*   双文化意识：通过校本课程和活动，提高学生对中西文化的认识
+*   Exposure: To create greater awareness of biculturalism
 *   学生参与：通过课程与活动，培养学生对学习双语双文化的兴趣
 *   Engagement: To engage students in bilingual and bicultural learning through curriculum and programme
 
