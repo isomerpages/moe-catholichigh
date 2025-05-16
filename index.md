@@ -14,7 +14,7 @@ sections:
           url: /prospective-students/prospectus-sec/overview/
       title: Catholic High  School
   - infobar:
-      title: Open House 2025
+      title: 2025 Open House
       subtitle: Latest News
       id: infobar
       description: Join us to explore our campus, meet our students, and learn about
@@ -24,11 +24,11 @@ sections:
   - infobar:
       title: 2025 Direct School Admission – Secondary (DSA-Sec) Exercise
       subtitle: Latest News
-      description: Want to join CHS(Secondary) via DSA?
+      description: Want to join CHS (Secondary) via DSA?
       button: Click Here to find out more!
       url: /prospective-students/Sec-Admission/direct-school-admission/
   - infobar:
-      title: Level 1 (2025) Registration
+      title: 2025 Level 1 Registration
       subtitle: Lastest news
       id: infobar
       button: Click Here for more Information
