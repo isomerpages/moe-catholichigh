@@ -11,7 +11,7 @@ p {text-align: justify;}
 </style>
 Catholic High School offers an extensive range of&nbsp;subjects in our core curriculum, special programmes and flagship programmes. Many of these are offered to our IP and SP students, while a few are IP-specific (and not offered to SP students due to time and difference in objectives of programme).
 
-Click&nbsp;[here](/dual-track-curriculum/Integrated-Programme/overview/)&nbsp;if you want to learn more about our IP that is co-designed and offered together with our&nbsp;**Joint Integrated&nbsp;Programme&nbsp;(JIP) partner schools**:&nbsp;**[About the JIP](/dual-track-curriculum/Integrated-Programme/overview/)**
+Click&nbsp;[here](/dual-track-curriculum/Integrated-Programme/overview/)&nbsp;if you want to learn more about our IP that is co-designed and offered together with our&nbsp;**Joint Integrated&nbsp;Programme&nbsp;(JIP) partner schools**.
 
 **Subjects offered to IP/SP students**&nbsp;
 
