@@ -96,7 +96,7 @@ Education</p>
 <h4>Subject-Based Talent Development Programmes</h4>
 <p>CHS offers the following Subject-Based Talent Development Programmes:</p>
 <p>1. <strong><a href="/secondary/Talent-Development/cnergy-programme/" rel="noopener noreferrer nofollow" target="_blank">CΩERGY Programme</a></strong>&nbsp;(science
-talent development)**&nbsp;provides opportunities for high-performing students
+talent development)&nbsp;provides opportunities for high-performing students
 to further engage their interest and deepen their knowledge of science,
 technology and engineering, beyond striving for academic excellence. Students
 are trained for the Chemistry and Physics Olympiads, and they also participate
