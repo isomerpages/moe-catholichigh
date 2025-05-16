@@ -65,3 +65,6 @@ We offer 2 main types of cultural immersion trips and hosting programmes:
 
 (Below) 2023 Hong Kong - Macau Cultural Immersion
 <img src="/images/OIP_1.jpg" style="width:60%">
+
+(Below) 2024 BSP-UK Immersion Trip co-organized with SCGS BSP Programme
+<img src="/images/Secondary/OIP_2.jpg" style="width:60%">
