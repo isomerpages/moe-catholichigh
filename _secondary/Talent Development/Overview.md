@@ -153,9 +153,9 @@ apply to join in Year 3.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/tdps.png">
 </div>
-<p>(2)&nbsp;<strong><a href="/secondary/Talent-Development/music-elective-programme/" rel="noopener noreferrer nofollow" target="_blank">Music Elective Programme</a></strong>
-<a href="/secondary/Talent-Development/music-elective-programme/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;(MEP)</a>&nbsp;is a 4-year MOE Special Programme that offers a comprehensive
-music programme for students with the aptitude and passion for music.</p>
+<p>(2)&nbsp;<a href="/secondary/Talent-Development/music-elective-programme/" rel="noopener nofollow" target="_blank"> Music Elective Programme (MEP)</a> is
+a 4-year MOE Special Programme that offers a comprehensive music programme
+for students with the aptitude and passion for music.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The MEP&nbsp;aims to nurture graduands who would be Scholars and Practitioners
