@@ -22,7 +22,7 @@ _(Below) Our PSG has whipped up sumptuous cuisines from different cultures for o
 *   We work with many&nbsp;**science&nbsp;agencies**&nbsp;such as DSTA, A\*STAR, Singapore Science Centre and DSO for our STEM programme.
 *   We also work closely with&nbsp;**IHLs such as NUS, SUTD and Osaka University**&nbsp;on various learning opportunities for our students.
 *   For service to the community and social&nbsp;enterprise, we&nbsp;**partner agencies such as Central Singapore CDC and Bishan North CC**.
-*   Our school also leverages stakeholders and the community such as alumni experts to provide support, advice and resources, especially in the area of overseas cultural experiences, industrial visits and attachments.
+*   Our school also leverages on stakeholders and the community such as alumni experts to provide support, advice and resources, especially in the area of overseas cultural experiences, industrial visits and attachments.
 
 In turn, we have forged&nbsp;**collaborations and partnerships with several overseas schools**, and our students have hosted teacher and/or students from China, Taiwan and Japan for immersion in our school.
 
