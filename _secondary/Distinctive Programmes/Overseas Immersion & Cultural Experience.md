@@ -43,32 +43,25 @@ We offer 2 main types of cultural immersion trips and hosting programmes:
 **_Photos from some of the overseas immersion trips undertaken by our students:_**
 
 (Below) Visiting Japan Aerospace Exploration Agency’s&nbsp;Tsukuba Space Center, located in Tsukuba Science City
-
 <img src="/images/oicce1.png" style="width:60%">
 
 (Below) Visiting Emirates Stadium (London), home of Arsenal Football Club
-
 <img src="/images/Below__Visiting_Emirates_Stadium__London___Home_of_Arsenal_Football_Club.png" style="width:60%">
 
 
 (Below) Visiting Victoria Peak (Hong Kong)
-
 <img src="/images/Below__Visiting_Victoria_Peak__Hong_Kong_.png" style="width:60%">
 
 
 (Below) Visiting&nbsp;the Great Wall in Beijing as part of BSP immersion trip
-
 <img src="/images/oicce4.png" style="width:60%">
 
 (Below)&nbsp;Learning to plant rice in Vietnam, and appreciate the value of labour and rice (“谁知盘中餐，粒粒皆辛苦”)
-
 <img src="/images/oicce5.png" style="width:60%">
 
 (Below)&nbsp;Learning together with Japanese students in Toyonaka High School (Osaka)
-
 <img src="/images/oicce6.png" style="width:60%">
 
 
 (Below) 2023 Hong Kong - Macau Cultural Immersion
-
 <img src="/images/OIP_1.jpg" style="width:60%">
