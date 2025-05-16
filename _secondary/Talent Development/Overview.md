@@ -101,14 +101,16 @@ to further engage their interest and deepen their knowledge of science,
 technology and engineering, beyond striving for academic excellence. Students
 are trained for the Chemistry and Physics Olympiads, and they also participate
 in the Science Mentoring Programme (SMP) where they are mentored by researchers
-from A*STAR, NUS and NTU.
+from A*STAR, NUS and NTU.</p>
+<p>
 <br>2. <strong><a href="/secondary/Talent-Development/english-talent-development-programme/" rel="noopener noreferrer nofollow" target="_blank">English Talent Development Programme</a></strong>&nbsp;provides
 opportunities for high-performing students to develop their ability in
 English Language and Literature. Students attend seminars, workshops and
 theatre productions to learn from professional writers and performers,
 and to equip them with the skills to engage in speaking, creative writing,
 journalistic writing, and theatre appreciation. Students also participate
-in writing and debate&nbsp;training and competitions.
+in writing and debate&nbsp;training and competitions.</p>
+<p>
 <br>3. <strong><a href="/secondary/Talent-Development/humanities-tdp/" rel="noopener noreferrer nofollow" target="_blank">Humanities Talent Development Programme</a></strong>&nbsp;provides
 opportunities for high-performing students to broaden and deepen their
 understanding of the disciplines of Economics, Geography, History and Literature.
@@ -116,7 +118,8 @@ Students attend seminars conducted by teachers, academics and leaders from
 the public and private sectors in order to develop their critical thinking
 and research skills. Students also participate in independent social science
 research projects and competitions such as the Model United Nations and
-NUS Geography Challenge.
+NUS Geography Challenge.</p>
+<p>
 <br>4. <strong><a href="/secondary/Talent-Development/maths-tdp/" rel="noopener noreferrer nofollow" target="_blank">Maths Talent Development Programme</a></strong>&nbsp;provides
 opportunities for high-performing students to delve into mathematical research
 guided by teachers and external mentors. Students will attend lectures
