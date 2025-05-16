@@ -6,15 +6,16 @@ variant: markdown
 ---
 ### Our Extensive Network of Partners
 
-**Our school forms partnerships and collaborations with our &nbsp;[JIP partner schools](https://www.catholichigh.moe.edu.sg/about/joint-integrated-programme/overview/),&nbsp;[alumni](https://www.cha.org.sg/),&nbsp;[Parent Support Group (PSG)](https://www.facebook.com/psg.chs/),&nbsp;[Dads@CHS](https://www.facebook.com/CHS.Dads4Life/),&nbsp;[Catholic Parents Community
-](https://www.facebook.com/groups/240335456548718), multiple external agencies, Institutes of High Learning (IHLs), overseas schools and the&nbsp;[Roman Catholic Archdiocese of Singapore](https://www.catholic.sg/).**
+Our school forms partnerships and collaborations with our &nbsp;[JIP partner schools](https://www.catholichigh.moe.edu.sg/about/joint-integrated-programme/overview/),&nbsp;[alumni](https://www.cha.org.sg/),&nbsp;[Parent Support Group (PSG)](https://www.facebook.com/psg.chs/),&nbsp;[Dads@CHS](https://www.facebook.com/CHS.Dads4Life/),&nbsp;[Catholic Parents Community](https://www.facebook.com/groups/240335456548718), multiple external agencies, Institutes of High Learning (IHLs), overseas schools and the&nbsp;[Roman Catholic Archdiocese of Singapore](https://www.catholic.sg/).
 
-<img src="/images/about28.png" style="width:60%">
-<img src="/images/about29.png" style="width:60%">
+<img src="/images/about28.png" style="width:1000%">
+<br>
+<img src="/images/about29.png" style="width:100%">
+<br>
 
 *   Our&nbsp;**Parent Support Group (PSG)**&nbsp;is a pillar in terms of support for our school. They support our many school matters,&nbsp;especially&nbsp;in terms of close support for student welfare and events.
 
-(_In the photo below, our PSG has whipped up sumptuous cuisines from different cultures for our International Friendship Day_)
+_(Below) Our PSG has whipped up sumptuous cuisines from different cultures for our International Friendship Day_
 
 <img src="/images/about30.png" style="width:60%">
 
