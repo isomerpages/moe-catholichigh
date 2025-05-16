@@ -10,7 +10,7 @@ variant: markdown
 p {text-align: justify;}
 </style>
 
-![](/images/OIP_1.jpg)
+
 In Catholic High, we strive to develop the cultural intelligence of our students through authentic and situated learning. Authentic learning for world-readiness can take the form of our students going on experiential learning and internships, and this can be greatly enhanced through immersion in an overseas context, engaging other cultures and making a positive impact on the lives of people around the world.
 
 
@@ -48,11 +48,13 @@ We offer 2 main types of cultural immersion trips and hosting programmes:
 
 (Below) Visiting Emirates Stadium (London), home of Arsenal Football Club
 
-![](/images/Below__Visiting_Emirates_Stadium__London___Home_of_Arsenal_Football_Club.png)
+<img src="/images/Below__Visiting_Emirates_Stadium__London___Home_of_Arsenal_Football_Club.png" style="width:60%">
+
 
 (Below) Visiting Victoria Peak (Hong Kong)
 
-![](/images/Below__Visiting_Victoria_Peak__Hong_Kong_.png)
+<img src="/images/Below__Visiting_Victoria_Peak__Hong_Kong_.png" style="width:60%">
+
 
 (Below) Visiting&nbsp;the Great Wall in Beijing as part of BSP immersion trip
 
@@ -65,3 +67,6 @@ We offer 2 main types of cultural immersion trips and hosting programmes:
 (Below)&nbsp;Learning together with Japanese students in Toyonaka High School (Osaka)
 
 <img src="/images/oicce6.png" style="width:60%">
+<br>
+
+<img src="/images/OIP_1.jpg" style="width:60%">
