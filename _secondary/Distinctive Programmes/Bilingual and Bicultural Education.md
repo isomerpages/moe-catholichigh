@@ -19,9 +19,10 @@ _Ever heard a 13-year-old give a political speech in the persona of one of the a
 *   Hence, both our English and Chinese curriculum have additional components of Media Literacy, Public Speaking, Theatre Craft and Creative Writing.
 *   At the same time, we have opportunities for students to develop and demonstrate bilingual and bicultural competencies, for example, our Lit Night at CHS, the Singapore Seminar, 华青班、燎原报&nbsp;and overseas immersion trips to China and Western countries.
 
-
+![](/images/Secondary/BBE_1.jpg)
+<br>
+![](/images/Secondary/BBE_2.jpg)
 
 **你知不知道公教中学特有的双语双文化节 (Bilingual and Bicultural Festival)？**
 
 我们特别主办了公教中学特有的双语双文化节。这为期两周的活动包括特别为各年级主办的年级活动，如中一的弘孝会、中二的双文化竞、中三的文化讲座和中四的双语辩论；还包括广受同学们喜爱的文化竞赛活动。
-
