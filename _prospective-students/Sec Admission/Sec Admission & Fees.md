@@ -25,7 +25,7 @@ You can view FAQs about admission&nbsp;[here](https://www.catholichigh.moe.edu.s
 
 *   We will be inviting Secondary 2 boys presently in O-Level programme in secondary schools to apply for admission to our Year 3 IP every September.
 *   Successful applicants&nbsp;will spend two years (year 3 and 4) in CHS and the final two years (JC1 and JC2) in the new Eunoia Junior College leading to the GCE ‘A’ Level Examinations.
-*   Please visit this&nbsp;[web page](https://www.catholichigh.moe.edu.sg/prospective-students/admission-to-ip-year-3/)&nbsp;from end-August for current year information:&nbsp;
+*   Please visit this&nbsp;[page](https://www.catholichigh.moe.edu.sg/prospective-students/sec-admission/admission-to-ip-year-3/)&nbsp;from end-August for current year information.&nbsp;
 
 
 #### Returning Singaporeans
