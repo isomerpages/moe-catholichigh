@@ -9,7 +9,7 @@ variant: markdown
 
 *   As a full-school, we have a wide range of facilities to support our students’ learning and growth.
 *   We have a full-size 400-metre six-lane running track, a Clock Tower with chapel and two sets of most facilities (e.g. 2 Multi-Purpose Halls, 2 Indoor Sports Halls and even 2 canteens to support the primary and secondary sections). These facilities are shared by the sections, giving us the flexibility and space to offer a greater spread of opportunities for our students.
-*   We constantly improve and optimise the physical environment to support teaching and learning. For instance, since 2018, we have added a Digital Music Studio to support our Music Elective Programme, the Science, Technology and Research Space (STARS) to support the school’s distinctive programme in Space and Flight Science, a broadcasting studio to promote a bicultural environment as well as the student-designed Bunker to advocate student voice and agency. We are immensely proud of our newly created Aerospace Simulation Centre, which has incubated batches of young scientific minds.
+*   We constantly improve and optimise our physical environment to support teaching and learning. For instance, since 2018, we have added a Digital Music Studio to support our Music Elective Programme; the Science, Technology and Research Space (STARS) to support the school’s distinctive programme in Space and Flight Science; a broadcasting studio to promote a bicultural environment as well as the student-designed Bunker to advocate student voice and agency. We are immensely proud of our newly created Aerospace Simulation Centre, which has incubated batches of young scientific minds.
 
 ![](/images/about31.png)
 
@@ -47,12 +47,12 @@ variant: markdown
 
 ![](/images/about40.png)
 
-##### Sino-English Catholic School 公教牌匾
+##### "Sino-English Catholic School" Traditional Plaque 公教牌匾
 
 *   The traditional plaque (seen also at our former school compound in Queen Street) reads “Sino-English Catholic School”, and this was our original school name that gave hint to our origin as a bilingual education institution.
 *  The words on the Level 3 roof “培养双语精英的摇篮” means “The place where we groom bilingual scholars and leaders”.
 
-*   As one of the 11 Special Assistance Plan (SAP) schools in Singapore, Catholic High School aims to nurture students to be proficient in both English Language and Chinese Language, and to have a good understanding and appreciation of Chinese culture. One of our SAP signature programme is the Appreciation of Chinese Culture (ACC) module, which is a module taken by Level 1s and 2s, to expose them to Chinese culture such as Chinese calligraphy, chess, philosophy and history.
+*   As one of the 11 Special Assistance Plan (SAP) schools in Singapore, Catholic High School aims to nurture students to be proficient in both English Language and Chinese Language, and to have a good understanding and appreciation of Chinese culture. One of our SAP signature programmes is the Appreciation of Chinese Culture (ACC) module (taken by Level 1 and 2 students) to expose them to Chinese culture such as Chinese calligraphy, chess, philosophy and history.
 
 ![](/images/about41.png)
 
@@ -94,7 +94,7 @@ The Space Exploration Gallery captures important achievements or major events in
 ##### Media Resource Library and Bunker 图书馆与 &lt;堡垒&gt;
 
 *   Our Media Resource Library is a favourite place among students, housing a wide collection of books and multimedia resources. It is designed for not just reading, but also for seminars and group works.
-*   Our&nbsp;school encourages students to read widely, and we also have our weekly morning BrainGym. Students will read materials specially prepared by the teachers across all departments, with wide-ranging topics covering the arts to economics, from technology to politics.
+*   Our&nbsp;school encourages students to read widely, and we also have our weekly morning Brain Gym. Students will read materials specially prepared by the teachers across all departments, with wide-ranging topics covering the arts to economics, from technology to politics.
 *   Another highly popular spot is the Bunker, a space designed and run by students leaders for students. This space has been home to many discussions amongst students on various school events and projects.
 
 ![](/images/about52.png)
@@ -114,7 +114,7 @@ The Space Exploration Gallery captures important achievements or major events in
 ##### Sports and CCA Facilities 操场, 球场, 跑道,学生活动中心与课外活动室
 
 *   Our schools offers wide-ranging and varied student activities and CCAs, and we have a variety of facilities to support&nbsp;these on top of supporting our daily lessons. Our facilities -many of which you can find on level 1- include CCA rooms such as Symphonic Band and Chinese Orchestra rooms, Dance studio, auditorium and lecture theatre. As a full-school, we have two of most facilities, e.g. 2 Indoor Sports Halls, 2 Multi-Purpose Halls and even 2 canteens to support the primary and secondary sections. We also have&nbsp;a table tennis training centre and a 400-m full-size running track with facilities for track-and-field sports.
-*   As an all-boy school, our students often engage in rugged activities and sports, be it during their CCA, PE lessons, school-organised sports events (such as our&nbsp;[Passion Pursuit Elective](/secondary/distinctive-programmes/passion-pursuit/elective/)&nbsp;modules, inter-class sports competitions and our whole-school My B.I.G Run) or just unstructured play (e.g. frisbee games) during our 30-minute recess.
+*   As an all-boys school, our students often engage in rugged activities and sports, be it during their CCA, PE lessons, school-organised sports events (such as our&nbsp;[Passion Pursuit (Elective)](/secondary/distinctive-programmes/passion-pursuit/elective/)&nbsp;modules, inter-class sports competitions and our whole-school My B.I.G Run), or just unstructured play (e.g. frisbee games) during our 30-minute recess.
 *   Our school focuses on holistic education, with a strong emphasis on&nbsp;[Co-curricular Activities (CCAs)](/student-development/pe-and-cca/overview/). We have a wide range of CCAs for students to choose from, including Uniformed Groups, Sports, Performing Arts and a media and ICT club.&nbsp;Our&nbsp;[CCAs have also been performing well consistently](/secondary/awards-and-achievements/cca-achievements/), clinching several awards throughout the year.
 
 ![](/images/about57.png)
