@@ -22,6 +22,9 @@ p {text-align: justify;}
 
 As&nbsp;an SAP&nbsp;school, the Catholic High School SAP flagship programme aims to deepen students’ understanding and appreciation of Chinese Culture. Aligned to the school’s vision, Catholic high SAP flagship programme also aims to develop students to be bilingual and bicultural scholars well versed in both languages and nuanced in both Western and Eastern perspectives.
 
+![](/images/Secondary/SAP_1.jpg)
+<br>
+![](/images/Secondary/SAP_2.jpg)
 
 #### Our Approach
 
