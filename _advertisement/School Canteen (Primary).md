@@ -30,7 +30,7 @@ variant: tiptap
 <p>Malay Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 June 2025</p>
+<p>31 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice/Noodle stalls are acceptable.</p>

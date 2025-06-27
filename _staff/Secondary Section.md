@@ -146,7 +146,6 @@ variant: markdown
 |Mrs Sharon Tan Huizhen|sharon_tan_huizhen@moe.edu.sg|
 |Ms Nirmala D/O K. Balakrishnan|nirmala_k_balakrishnan@moe.edu.sg|
 |Ms Olyna Ong|olyna_ong@moe.edu.sg|
-|Ms She Guihe|she_guihe@moe.edu.sg|
 |Ms Tan Shihui Tess|tan_shi_hui@moe.edu.sg|
 
 #### School Care Team (2025)
