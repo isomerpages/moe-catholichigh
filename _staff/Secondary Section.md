@@ -5,6 +5,7 @@ description: ""
 variant: markdown
 ---
 #### Catholic High School (Secondary Section) 2025
+(as of 30 May 2025)
 
 |  	|  	|
 |---	|---	|
