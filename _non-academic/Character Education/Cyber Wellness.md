@@ -3,6 +3,7 @@ title: Cyber Wellness
 permalink: /non-academic/Character-Education/cyber-wellness/
 description: ""
 third_nav_title: Character Education
+variant: markdown
 ---
 #### Overview and Purpose
 
@@ -45,23 +46,4 @@ To promote Cyber Wellness at home, parents are encouraged to do the following:
 Information taken from MOE Parent Kit, Cyber Wellness for Your Child.
 
 #### CW Resources
-
-##### From MOE
-
-*   [Parents, the guardians of internet](https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety)
-*   [Guide for parents on setting parental controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)
-*   [Understanding cyber wellness](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)
-*   [Navigating the cyber world safely](https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely)
-*   [ICT in schools: To use or not to use?](https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use)
-*   [Play safe – avoid online gaming addiction](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction)
-*   [Safeguarding your child online](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
-*   [Exploring online, safely and confidently](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
-
-#### From external agencies
-
-*   [Media Literacy Council](https://www.betterinternet.sg/)
-*   [National Crime Prevention Council](https://www.scamalert.sg/resources/videos)
-*   [S.U.R.E. by National Library Board](https://sure.nlb.gov.sg/)
-*   [Cyber Security Agency](https://www.csa.gov.sg/gosafeonline)
-
-Source: [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+Source:&nbsp;[https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
