@@ -3,8 +3,9 @@ title: Overview
 permalink: /academic/english-language/overview/
 description: ""
 third_nav_title: English Language
+variant: markdown
 ---
-The **English Language Department’s** vision is for the CH student to possess a fine mastery of the English language and demonstrate a love and an ardent appreciation in acquiring the language and a flair for its culture.
+The&nbsp;**English Language Department’s**&nbsp;vision is for the CH student to possess a fine mastery of the English language and demonstrate a love and an ardent appreciation in acquiring the language and a flair for its culture.
 
 We believe that the learner is at the centre of the learning process in the mastery of the English language where our pupils are taught the critical life skills of listening, speaking, reading and writing through effective and engaging strategies that are developmentally appropriate. We share STELLAR’s Vision of developing children who love reading and have a strong foundation in the English language. Through a spiral progression of explicit teaching and modelling of language skills in the English curriculum, the learner acquires the language in context. As such, our pupils are exposed to a rich English language culture through our programmes, some of which are highlighted below.
 
@@ -33,5 +34,3 @@ S.T.A.G.E., an acronym for Show Tell Act Gateway to Expressing your linguistic-s
 ##### Philosophy for Children (P4C)
 
 Philosophy for Children (P4C) has, since its introduction to the UK in the 1990s, developed as a powerful pedagogical approach and met with ever-increasing popularity. Questions and dialogue are central to P4C, which helps to develop pupils’ thinking skills, their confidence to speak and listen to others, and their respect of other people’s viewpoints. In Catholic High School, the English curriculum is enriched by the strategies in the STELLAR programme, extended by our Explicit Instructional Programme (EIP in-house resources) and enhanced with the integration of P4C into English language lessons.
-
-For more information on STELLAR, please visit [http://www.stellarliteracy.sg/](http://www.stellarliteracy.sg/)
