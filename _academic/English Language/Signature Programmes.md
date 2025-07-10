@@ -3,6 +3,7 @@ title: Signature Programmes
 permalink: /academic/english-language/signature-programmes/
 description: ""
 third_nav_title: English Language
+variant: markdown
 ---
 #### Department Vision
 
@@ -38,4 +39,3 @@ S.T.A.G.E., an acronym for Show Tell Act Gateway to Expressing your linguistic-s
 #### Philosophy for Children (P4C)
 
 Philosophy for Children (P4C) has, since its introduction to the UK in the 1990s, developed as a powerful pedagogical approach and met with ever-increasing popularity. Questions and dialogue are central to P4C, which helps to develop pupils’ thinking skills, their confidence to speak and listen to others, and their respect of other people’s viewpoints. In Catholic High School, the English curriculum is enriched by the strategies in the STELLAR programme, extended by our Explicit Instructional Programme (EIP in-house resources) and enhanced with the integration of P4C into English language lessons.  
-For more information on STELLAR, please visit [http://www.stellarliteracy.sg](http://www.stellarliteracy.sg/)
