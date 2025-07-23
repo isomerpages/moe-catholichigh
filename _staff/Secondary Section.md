@@ -7,7 +7,6 @@ variant: markdown
 #### Catholic High School (Secondary Section) 
 
 <p style="font-size: 16px;">(as of 30 Jun 2025)</p>
-
 |  	|  	|
 |---	|---	|
 | Mdm Teo Yvonne (Principal)<br> Mr Cher Hui Tan (Vice-Principal)<br>Mr Fong Kok Wai (Vice-Principal/Administration) 	| chs_sch_leaders@schools.gov.sg 	|
