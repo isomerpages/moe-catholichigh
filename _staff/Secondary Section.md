@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### Catholic High School (Secondary Section) 
 
-<p>(as of 30 Jun 2025)</p>
+<p style="font-size: 16px;">(as of 30 Jun 2025)</p>
 
 |  	|  	|
 |---	|---	|
