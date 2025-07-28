@@ -51,5 +51,5 @@ Email:&nbsp;<a href="mailto:chs@moe.edu.sg">chs@moe.edu.sg</a> (including DSA-re
 <p style="text-align:left; color: black; font-size: 16pt;"><strong>Dental Emergencies</strong></p><p>For dental emergencies on other days, please contact:<br>Kuo Chuan Presbyterian Primary School Dental Clinic<br>HP: 8764 8243 (<em>WhatsApp call or text preferably or Audio call preferably after 4.00 p.m.</em>)</p>
 
 <p style="text-align:left; font-size: 18pt;"><strong><span style="color: green;">STUDENT CARE</span></strong></p>
-<p style="text-align:left; color: black; font-size: 16pt;"><strong>Commit Learning School House</strong></p>
-<p>Tel: (65) 6366 3666 / 9836 6898<br>Email: enquiry@commitlearning.com.sg</p>
+<p style="text-align:left; color: black; font-size: 16pt;"><strong>NASCANS</strong></p>
+<p>Tel: 8157 5340<br>Email: <a href="mailto:chscc@nascans.com">chscc@nascans.com</a></p>
