@@ -166,13 +166,13 @@ variant: tiptap
 <p>HOD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Boon Leng (SAP)</p>
+<p>Ng-Tan Jun Hui (SAP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_boon_leng_a@moe.edu.sg</p>
+<p>tan_jun_hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -2049,6 +2049,39 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_ting_ting_xaverie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Sui San (SEN Officer)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_sui_san@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Sok Kian Joyce (PE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_sok_kian_joyce@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Iffah Amirah Binte Nor Sahid (SEN Officer)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_iffah_amirah_nor@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
