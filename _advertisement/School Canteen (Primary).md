@@ -36,6 +36,17 @@ variant: tiptap
 <p>Rice/Noodle stalls are acceptable.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Noodle Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIL</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
