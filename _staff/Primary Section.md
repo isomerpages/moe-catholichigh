@@ -68,20 +68,6 @@ variant: tiptap
 <p>HOD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jayaram Amoss (English)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1893,20 +1879,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Goodness</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Karen Mohan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>karen_kanchana_mohan_c@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>6 Faithfulness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2005,17 +1977,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>balwinder_o_gill@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chow Suet Ling (SEN Officer)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chow_suet_ling_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
