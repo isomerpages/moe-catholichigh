@@ -505,7 +505,7 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wee Huixin (ICT [Acting])</p>
+<p>Wee Huixin (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wee_huixin@moe.edu.sg</p>
@@ -519,7 +519,7 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Li Ying (SAP [Acting])</p>
+<p>Tan Li Ying (SAP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_li_ying@moe.edu.sg</p>
@@ -533,7 +533,7 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Phua Loke Lin (KM [Acting])</p>
+<p>Phua Loke Lin (KM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>phua_loke_lin@moe.edu.sg</p>
@@ -1073,13 +1073,13 @@ variant: tiptap
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teo Minghong, Marcus</p>
+<p>Wu Simin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_minghong_marcus@moe.edu.sg</p>
+<p>wu_simin_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -2025,13 +2025,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Sok Kian Joyce (PE)</p>
+<p>Jensen Lee Chang Sheng (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_sok_kian_joyce@moe.edu.sg</p>
+<p>jensen_lee_chang_sheng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -2109,6 +2109,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>woo_jak_may_carol@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wu Simin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wu_simin_b@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
