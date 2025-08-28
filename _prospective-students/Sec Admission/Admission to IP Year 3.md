@@ -42,7 +42,7 @@ Students currently studying in CHS will be notified via various internal platfor
 
 4\.  The application must be made via the school’s [online form](https://form.gov.sg/66f632c3485a6607b3fc1fd7). 
 
-5\.  The following supporting documents must be submitted via the [online form](https://form.gov.sg/66f632c3485a6607b3fc1fd7). <br>
+5\.  The following supporting documents must be submitted via the online form. <br>
    a. true copies of PSLE results; <br>
 	 b. true copies of Secondary 1 (full year) and Secondary 2 (up to and including WA3) results;<br>
 	 c. true copies of certificates participation, achievement and/or leadership in CCA and VIA; and<br>
