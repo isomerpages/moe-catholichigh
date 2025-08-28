@@ -48,8 +48,6 @@ Students currently studying in CHS will be notified via various internal platfor
 	 c. true copies of certificates participation, achievement and/or leadership in CCA and VIA; and<br>
 	 d. certificates of achievements in academic or co-curricular areas.
 
-#### Instructions for Applying
-
 6\.  The deadline is 26 September 2025, 4.00pm. Late applications will not be accepted.
 
 #### Important Information
