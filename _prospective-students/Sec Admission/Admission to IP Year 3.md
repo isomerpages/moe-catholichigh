@@ -37,7 +37,7 @@ Students currently studying in CHS will be notified via various internal platfor
 | -------- | -------- | 
 | 1 September 2025 (Monday)    | Application opens.     | 
 |26 September 2025 (Friday), 4.00pm SGT |Application closes.|
-|From 15 October to 24 October 2024 (Tentative dates) | **Shortlisted** applicant attends an interview. |
+|From 15 October to 24 October 2025 (Tentative dates) | **Shortlisted** applicant attends an interview. |
 |3 November 2025 (Tentative dates)|Notification of outcome via email. |
 
 4\.  The application must be made via the school’s [online form](https://form.gov.sg/66f632c3485a6607b3fc1fd7). 
