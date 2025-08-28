@@ -56,4 +56,4 @@ Students currently studying in CHS will be notified via various internal platfor
 
 #### Enquiries about IP Year 3
 
-8\.  For further questions regarding CHS IP, please contact us at chs@moe.edu.sg or 6458 2177. More details about the school are also found at our [**FAQ page**](https://www.catholichigh.moe.edu.sg/secondary/faqs/).   [**Click here to go to the FAQ page.**](https://www.catholichigh.moe.edu.sg/secondary/faqs/)
+8\.  For further questions regarding CHS IP, please contact us at chs@moe.edu.sg or 6458 2177. More details about the school are also found at our FAQ page.   [**Click here to go to the FAQ page.**](https://www.catholichigh.moe.edu.sg/secondary/faqs/)
