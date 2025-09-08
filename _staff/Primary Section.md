@@ -681,27 +681,13 @@ variant: tiptap
 <p>1 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parameswary d/o Veera Singam</p>
+<p>Eng Tze Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>parameswary_veerasingam@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Patience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Enid Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sim_lin_enid@moe.edu.sg</p>
+<p>eng_tze_hwee@moe.ed.sg</p>
 </td>
 </tr>
 <tr>
@@ -1073,13 +1059,13 @@ variant: tiptap
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wu Simin</p>
+<p>Marcus Teo Minghong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wu_simin_b@moe.edu.sg</p>
+<p>teo_minghong_marcus@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -2028,10 +2014,10 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jensen Lee Chang Sheng (PE)</p>
+<p>Tan Chia Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jensen_lee_chang_sheng@moe.edu.sg</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -2109,17 +2095,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>woo_jak_may_carol@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wu Simin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wu_simin_b@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
