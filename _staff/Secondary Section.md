@@ -84,7 +84,6 @@ variant: markdown
 |2-3|Mr Suah Yee Leng|suah_yee_leng@moe.edu.sg|
 |2-4|Miss Ho Sing Ern|sing_ern_ho@moe.edu.sg|
 |2-4|Ms Yasmine Chan Hoi Yin|chan_hoi_yin_yasmine@moe.edu.sg|
-|2-4|Miss Sun Guizi|sun_guizi_a@moe.edu.sg|
 |2-5|Miss Hsu Li-Wen|hsu_li-wen@moe.edu.sg|
 |2-6|Mr Adrian R W Chong|adrian_raphael_william_chong@moe.edu.sg|
 |2-6|Miss Liu Xue|liu_xue@moe.edu.sg|
