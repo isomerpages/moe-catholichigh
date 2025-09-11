@@ -2017,7 +2017,7 @@ variant: tiptap
 <p>Tan Chia Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>tan_chia_seng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
