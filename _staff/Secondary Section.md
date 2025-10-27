@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### Catholic High School (Secondary Section) 
 
-<p style="font-size: 16px;">(as of 9 Sep 2025)</p>
+<p style="font-size: 16px;">(As of 27 October 2025)</p>
 
 |  	|  	|
 |---	|---	|
@@ -146,7 +146,6 @@ variant: markdown
 |Mr Adrian Yao Zhiwei|yao_zhiwei_adrian@moe.edu.sg|
 |Mr Loke Yeng Fai|loke_yeng_fai@moe.edu.sg|
 |Mr Yip Cheng Hou|yip_cheng_hou@moe.edu.sg|
-|Ms Karen Alexander|karen_alexander@moe.edu.sg|
 |Ms Nirmala D/O K. Balakrishnan|nirmala_k_balakrishnan@moe.edu.sg|
 |Ms Olyna Ong|olyna_ong@moe.edu.sg|
 |Ms Tan Shihui Tess|tan_shi_hui@moe.edu.sg|
@@ -157,5 +156,4 @@ variant: markdown
 |  	|  	|
 |---	|---	|
 |Miss Grace Lim Hui Wei (School Counsellor)|lim_hui_wei@moe.edu.sg|
-|Miss Lee Suet Fong, Lisa|lee_suet_fong_lisa@moe.edu.sg|
 |Mdm Nirmala d/o Balakrishnan (Senior Special Needs Officer)|nirmala_balakrishnan@moe.edu.sg|
