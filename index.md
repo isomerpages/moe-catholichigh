@@ -44,9 +44,8 @@ sections:
       title: "2025 Information for Primary 6 Parents: WEBINAR"
       subtitle: Latest News
       id: infopic
-      button: Registration link
-      url: https://for.edu.sg/chs-sec-info-for-p6parents-webinar
       image: /images/Secondary/Programme_overview_Nov_2025.jpg
       alt: Image alt text
-      description: Registration Link <a href="https://www.example.com">Register here</a>
+      description: 'Registration link: <a
+        href="https://for.edu.sg/chs-sec-info-for-p6parents-webinar">for.edu.sg/chs-sec-info-for-p6parents-webinar</a>'
 ---
