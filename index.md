@@ -48,6 +48,6 @@ sections:
       url: https://for.edu.sg/chs-sec-info-for-p6parents-webinar
       image: /images/Secondary/Programme_overview_Nov_2025.jpg
       alt: Image alt text
-      description: "[Registeration
+      description: "[Registration
         Link](https://for.edu.sg/chs-sec-info-for-p6parents-webinar)"
 ---
