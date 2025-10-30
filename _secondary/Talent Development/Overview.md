@@ -177,7 +177,7 @@ contexts of the various historical and cultural periods.</p>
 upon admission to CHS via the Secondary 1 posting.</p>
 </li>
 <li>
-<p>Outstanding CHS Level 1 MEP student enrolled in 2019 may be awarded CHS’&nbsp;<strong>Joseph Wallace Family Music Scholarship</strong>.
+<p>One outstanding CHS MEP student in each level may be awarded CHS’&nbsp;<strong>Joseph Wallace Family Music Scholarship</strong>.
 This is a non-renewable 1-year scholarship, i.e. the outstanding MEP student
 from each level will stand a chance of being awarded this scholarship.</p>
 </li>
