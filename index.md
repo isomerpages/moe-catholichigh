@@ -22,14 +22,6 @@ sections:
       description: 'Registration link: <a
         href="https://for.edu.sg/chs-sec-info-for-p6parents-webinar">for.edu.sg/chs-sec-info-for-p6parents-webinar</a>'
   - infobar:
-      title: 2025 Open House
-      subtitle: Latest News
-      id: infobar
-      description: Join us to explore our campus, meet our students, and learn about
-        our academic and co-curricular programmes
-      button: CLICK HERE TO FIND OUT MORE!
-      url: /prospective-students/openhouse/
-  - infobar:
       title: 2025 Direct School Admission – Secondary (DSA-Sec) Exercise
       subtitle: Latest News
       description: Want to join CHS (Secondary) via DSA?
