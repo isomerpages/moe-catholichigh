@@ -13,6 +13,14 @@ sections:
           description: ""
           url: /prospective-students/prospectus-sec/overview/
       title: Catholic High  School
+  - infopic:
+      title: "2025 Information for Primary 6 Parents: WEBINAR"
+      subtitle: Latest News
+      id: infopic
+      image: /images/Secondary/Programme_overview_Nov_2025.jpg
+      alt: Image alt text
+      description: 'Registration link: <a
+        href="https://for.edu.sg/chs-sec-info-for-p6parents-webinar">for.edu.sg/chs-sec-info-for-p6parents-webinar</a>'
   - infobar:
       title: 2025 Open House
       subtitle: Latest News
@@ -40,12 +48,4 @@ sections:
       url: https://www.channelnewsasia.com/brandstudio/imc-youthawards/catholichigh?cid=adv_fb_paid_20230109&fbclid=IwAR1IOCoLXxXngYvkKM4N9VIEUzXv48Y8Ayc46YyA162fwI83hz7ndRiU414&mibextid=Zxz2cZlnewsasia.com/brandstudio/imc-youthawards/catholichigh?cid=adv_fb_paid_20230109&fbclid=IwAR1IOCoLXxXngYvkKM4N9VIEUzXv48Y8Ayc46YyA162fwI83hz7ndRiU414&mibextid=Zxz2cZ
       image: /images/CNA 2023.jpg
       alt: Image alt text
-  - infopic:
-      title: "2025 Information for Primary 6 Parents: WEBINAR"
-      subtitle: Latest News
-      id: infopic
-      image: /images/Secondary/Programme_overview_Nov_2025.jpg
-      alt: Image alt text
-      description: 'Registration link: <a
-        href="https://for.edu.sg/chs-sec-info-for-p6parents-webinar">for.edu.sg/chs-sec-info-for-p6parents-webinar</a>'
 ---
