@@ -40,4 +40,12 @@ sections:
       url: https://www.channelnewsasia.com/brandstudio/imc-youthawards/catholichigh?cid=adv_fb_paid_20230109&fbclid=IwAR1IOCoLXxXngYvkKM4N9VIEUzXv48Y8Ayc46YyA162fwI83hz7ndRiU414&mibextid=Zxz2cZlnewsasia.com/brandstudio/imc-youthawards/catholichigh?cid=adv_fb_paid_20230109&fbclid=IwAR1IOCoLXxXngYvkKM4N9VIEUzXv48Y8Ayc46YyA162fwI83hz7ndRiU414&mibextid=Zxz2cZ
       image: /images/CNA 2023.jpg
       alt: Image alt text
+  - infopic:
+      title: "2025 Information for Primary 6 Parents: WEBINAR"
+      subtitle: Latest News
+      id: infopic
+      button: Registration link
+      url: https://for.edu.sg/chs-sec-info-for-p6parents-webinar
+      image: /images/Secondary/Programme_overview_Nov_2025.jpg
+      alt: Image alt text
 ---
