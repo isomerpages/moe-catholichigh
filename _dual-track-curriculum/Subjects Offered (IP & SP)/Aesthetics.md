@@ -3,6 +3,7 @@ title: Aesthetics
 permalink: /dual-track-curriculum/Subjects-Offered-IP-and-OP/aesthetics/
 description: ""
 third_nav_title: Subjects Offered (IP & SP)
+variant: markdown
 ---
 ### Aesthetics Department
 
@@ -24,10 +25,10 @@ Comprising Art, Design &amp; Technology, Food and Consumer Education and Music, 
 | General Music 	| Learning about<br><br>– Elements of Music<br>– Drumming / Keyboard<br>– Song Cover 	| Learning about<br><br>– Instrument: Guitar<br>– Soundscape / Song Writing<br>Digital Audio Workstation 	|
 | Food and Consumer Education 	| Learning about<br><br>Food and Nutrition<br>Culinary Skills 	|  	|
 
-Insert video here.
+
 
 #### Signature Programmes
 
-MEP@CHS offers a comprehensive music programme for students with the aptitude and passion for music. Find out more about MEP@CHS&nbsp;[here](https://staging.d26k7rl81eo6rb.amplifyapp.com/secondary/Talent-Development/music-elective-programme/).
+MEP@CHS offers a comprehensive music programme for students with the aptitude and passion for music. Find out more about MEP@CHS&nbsp;[here](https://www.catholichigh.moe.edu.sg/secondary/Talent-Development/music-elective-programme/).
 
 One of the signature programmes in our Aesthetics programme is Rapid Prototyping with 3D printers under Design and Technology class. In this programme, students use a 3D design software and work with rapid prototyping and&nbsp;fabrication&nbsp;tools, i.e. the 3-D printing machine, to experiment and realize their designs. Students will be able to improve their abstract designs by looking at the prototypes and refine their designs towards a final product. This process of integrating technology with rapid prototyping skills aims to nurture our students towards a community of makers.
