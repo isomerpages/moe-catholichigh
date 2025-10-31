@@ -13,14 +13,14 @@ sections:
           description: ""
           url: /prospective-students/prospectus-sec/overview/
       title: Catholic High  School
-  - infobar:
-      title: 2025 Open House
+  - infopic:
+      title: "2025 Information for Primary 6 Parents: WEBINAR"
       subtitle: Latest News
-      id: infobar
-      description: Join us to explore our campus, meet our students, and learn about
-        our academic and co-curricular programmes
-      button: CLICK HERE TO FIND OUT MORE!
-      url: /prospective-students/openhouse/
+      id: infopic
+      image: /images/Secondary/Programme_overview_Nov_2025.jpg
+      alt: Image alt text
+      description: 'Registration link: <a
+        href="https://for.edu.sg/chs-sec-info-for-p6parents-webinar">for.edu.sg/chs-sec-info-for-p6parents-webinar</a>'
   - infobar:
       title: 2025 Direct School Admission – Secondary (DSA-Sec) Exercise
       subtitle: Latest News
