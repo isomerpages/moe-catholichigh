@@ -2,7 +2,7 @@
 title: Primary Section
 permalink: /staff/primary-section/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Catholic High School(Primary)</h3>
 <table style="minWidth: 50px">
@@ -2085,6 +2085,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>woo_jak_may_carol@moe.edu.sg</p>
 </td>
-</tr></tbody>
+</tr>
+</tbody>
 </table>
 <p></p>
