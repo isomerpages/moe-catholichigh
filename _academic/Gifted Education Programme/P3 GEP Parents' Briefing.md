@@ -9,7 +9,7 @@ variant: markdown
 
 |  	|  	|
 |---	|---	|
-|  **P3 GEP Parents’ Briefing eBooklet**	|[ ![](/images/gep13.png)](/files/Primary/GEP/P3_Parent_Briefing_Booklet_2024.pdf)	|
+|  **P3 GEP Parents’ Briefing eBooklet**	|[ ![](/images/gep13.png)](/files/P3_Parent_Briefing_Booklet_2025.pdf)	|
 |  **P3 Parents’ Briefing Consolidated Q and A**	|  <a href="https://for.edu.sg/p3parentsbriefingchsp"><img style="width:25%" src="/images/gep14.png"></a>	|
 | 
 

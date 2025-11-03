@@ -1970,7 +1970,7 @@ variant: tiptap
 <p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ho Si Yan Gereldinne (SEN Officer)</p>
+<p>Ho Si Yan Gereldinne (Senior SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ho_si_yan_gereldinne@moe.edu.sg</p>
@@ -2007,17 +2007,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_sui_san@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Chia Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_chia_seng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
