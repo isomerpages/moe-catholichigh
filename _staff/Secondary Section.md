@@ -4,7 +4,7 @@ permalink: /staff/secondary-section/
 description: ""
 variant: markdown
 ---
-#### Catholic High School (Secondary Section) 
+#### Catholic High School (Secondary) 
 
 |  	|  	|
 |---	|---	|
