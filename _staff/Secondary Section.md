@@ -6,8 +6,6 @@ variant: markdown
 ---
 #### Catholic High School (Secondary Section) 
 
-<p style="font-size: 16px;">(As of 05 November 2025)</p>
-
 |  	|  	|
 |---	|---	|
 | Mdm Teo Yvonne (Principal)<br> Mr Cher Hui Tan (Vice-Principal)<br>Mr Fong Kok Wai (Vice-Principal/Administration) 	| chs_sch_leaders@schools.gov.sg 	|
@@ -144,7 +142,6 @@ variant: markdown
 |Mdm Wong Mee Khoon|wong_mee_khoon@moe.edu.sg|
 |Mr Adrian Peeris|peeris_adrian@moe.edu.sg|
 |Mr Adrian Yao Zhiwei|yao_zhiwei_adrian@moe.edu.sg|
-|Mr Yip Cheng Hou|yip_cheng_hou@moe.edu.sg|
 |Ms Nirmala D/O K. Balakrishnan|nirmala_k_balakrishnan@moe.edu.sg|
 |Ms Olyna Ong|olyna_ong@moe.edu.sg|
 |Ms Tan Shihui Tess|tan_shi_hui@moe.edu.sg|
