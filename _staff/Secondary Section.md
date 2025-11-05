@@ -4,9 +4,7 @@ permalink: /staff/secondary-section/
 description: ""
 variant: markdown
 ---
-#### Catholic High School (Secondary Section) 
-
-<p style="font-size: 16px;">(As of 27 October 2025)</p>
+#### Catholic High School (Secondary) 
 
 |  	|  	|
 |---	|---	|
@@ -144,8 +142,6 @@ variant: markdown
 |Mdm Wong Mee Khoon|wong_mee_khoon@moe.edu.sg|
 |Mr Adrian Peeris|peeris_adrian@moe.edu.sg|
 |Mr Adrian Yao Zhiwei|yao_zhiwei_adrian@moe.edu.sg|
-|Mr Loke Yeng Fai|loke_yeng_fai@moe.edu.sg|
-|Mr Yip Cheng Hou|yip_cheng_hou@moe.edu.sg|
 |Ms Nirmala D/O K. Balakrishnan|nirmala_k_balakrishnan@moe.edu.sg|
 |Ms Olyna Ong|olyna_ong@moe.edu.sg|
 |Ms Tan Shihui Tess|tan_shi_hui@moe.edu.sg|
