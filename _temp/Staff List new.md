@@ -14,8 +14,7 @@ description: ""
 | Vice-Principal / Administration   | Mr Fong Kok Wai        |       |
 
 
-**Key Personnel (HOD / ST / LH / SH / Year Heads)
-**
+**Key Personnel (HOD / ST / LH / SH / Year Heads)**
 
 | Role                                               | Name                                | Email |
 |----------------------------------------------------|-------------------------------------|-------|
@@ -199,5 +198,3 @@ description: ""
 | Miss Teo Shu Lin Jacinta                           | [✉️](mailto:teo_shu_lin_jacinta_a@moe.edu.sg) |
 | Mr Theng Siming (Senior School Counsellor)         | [✉️](mailto:theng_siming@moe.edu.sg) |
 | Ms Woo Jak May Carol                               | [✉️](mailto:woo_jak_may_carol@moe.edu.sg) |
-
-
