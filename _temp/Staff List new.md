@@ -1,7 +1,7 @@
 ---
 title: Staff List new
 permalink: /staff-list-new/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p><strong>School Leaders</strong>
@@ -31,7 +31,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Yvonne</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -42,10 +42,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Mrs Beverly Toh</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chs_sch_leaders@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -53,9 +49,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kellie Woo</p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
