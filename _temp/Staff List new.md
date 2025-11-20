@@ -34,7 +34,8 @@ description: ""
 <td rowspan="4" colspan="1">
 <p></p>
 <p></p>
-<p>abc</p>
+<p><a href="mailto:chs_sch_leaders@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
+</p>
 </td>
 </tr>
 <tr>
