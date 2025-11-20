@@ -585,7 +585,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>1 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -598,9 +599,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Patience</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Eng Tze Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -609,7 +607,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>1 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -622,9 +621,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Kindness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Zhong Ya</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -633,7 +629,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>1 Goodness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -646,9 +643,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Goodness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Xian Shaun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -657,8 +651,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>1 Faithfulness</p>
+<td rowspan="2" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Bingkun Nicholas</p>
@@ -670,9 +664,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Faithfulness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Wong Wan Hui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -681,7 +672,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>1 Gentleness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -693,9 +685,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>1 Gentleness</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Miss Bernice Toh En Wei</p>
 </td>
@@ -727,7 +716,8 @@ description: ""
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>2 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -740,9 +730,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Charity</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Rebekah Sim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -751,7 +738,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -764,9 +752,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Joy</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Lim Peck Sin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -775,7 +760,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>2 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -788,9 +774,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Peace</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr How Peng Peng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -799,7 +782,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>2 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -812,9 +796,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Patience</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Huang Jiamin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -823,7 +804,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>2 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -836,9 +818,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Kindness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Phua Loke Lin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -847,7 +826,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>2 Goodness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -860,9 +840,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Goodness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Samantha Tan Shu Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -871,7 +848,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>2 Faithfulness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -884,9 +862,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Faithfulness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Sim Jieh Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -895,7 +870,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>2 Gentleness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -907,9 +883,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2 Gentleness</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Rafidah Binti Muhammad Dahri</p>
 </td>
@@ -941,7 +914,8 @@ description: ""
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>3 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -954,9 +928,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Charity</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Goh Lay San</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -965,7 +936,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -978,9 +950,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Joy</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Yahya Bin Abdul Razak</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -989,7 +958,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>3 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1002,9 +972,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Peace</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Pang Mee Mee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1013,7 +980,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>3 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1026,9 +994,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Patience</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lee Yen Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1037,7 +1002,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>3 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1050,9 +1016,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Kindness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Marissa Joel Rajesh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1061,7 +1024,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>3 Goodness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1073,9 +1037,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>3 Goodness</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chung Li Chien Judith</p>
 </td>
@@ -1107,8 +1068,10 @@ description: ""
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
+<p></p>
 <p>4 Charity</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Boo Han Ting</p>
@@ -1120,9 +1083,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Charity</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Chelsia Loh Qiuxia</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1132,9 +1092,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Charity</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Leong John Woon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1143,7 +1100,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1156,9 +1114,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Joy</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Jeanevere Lum Foong Tai</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1167,7 +1122,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>4 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1180,9 +1136,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Peace</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Athena Tang Jingwen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1191,7 +1144,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>4 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1204,9 +1158,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Patience</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Chan Siew Hwee Joyce</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1215,7 +1166,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>4 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1228,9 +1180,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Kindness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Revinesh s/o K. Kanaiah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1239,7 +1188,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>4 Goodness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1252,9 +1202,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Goodness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Wee Huixin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1263,7 +1210,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>4 Faithfulness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1276,9 +1224,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Faithfulness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Chow Zi Hui Zoey</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1287,7 +1232,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>4 Gentleness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1299,9 +1245,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>4 Gentleness</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Chua Pei Fen Audrey</p>
 </td>
@@ -1333,7 +1276,8 @@ description: ""
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>5 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1346,9 +1290,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Charity</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Lim Song Woon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1357,7 +1298,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>5 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1370,9 +1312,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Joy</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Seah Hui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1381,7 +1320,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>5 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1394,9 +1334,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Peace</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lock Jing Wen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1405,7 +1342,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>5 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1418,9 +1356,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Patience</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Chin Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1429,7 +1364,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>5 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1442,9 +1378,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Kindness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Nani Iryanni Binte Tajuddin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1453,7 +1386,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>5 Goodness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1466,9 +1400,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Goodness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Kang Zhang Mei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1477,7 +1408,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>5 Faithfulness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1490,9 +1422,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Faithfulness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Tay Wan Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1501,7 +1430,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>5 Gentleness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1513,9 +1443,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5 Gentleness</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tu Kee Wui</p>
 </td>
@@ -1547,7 +1474,8 @@ description: ""
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>6 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1560,9 +1488,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Charity</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Chang Chiew Siew Linda</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1571,7 +1496,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>6 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1584,9 +1510,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Joy</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Tee Ngah Loui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1595,7 +1518,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>6 Peace</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1608,9 +1532,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Peace</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Tan Ley Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1619,7 +1540,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>6 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1632,9 +1554,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Patience</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Yeo Xue Ting</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1643,7 +1562,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>6 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1656,9 +1576,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Kindness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Cheong Wai Fang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1667,7 +1584,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>6 Goodness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1680,9 +1598,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Goodness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Oh Ji Ji</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1691,7 +1606,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>6 Faithfulness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1704,9 +1620,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Faithfulness</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Lai Chee Keen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1715,7 +1628,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
 <p>6 Gentleness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1727,9 +1641,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>6 Gentleness</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ren Jing</p>
 </td>
