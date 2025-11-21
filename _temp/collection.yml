@@ -2,6 +2,7 @@ collections:
   temp:
     output: true
     order:
+      - StaffListv2.md
       - Staff List new.md
       - School Bus (Primary).md
       - School Canteen Advertisement (Secondary).md
