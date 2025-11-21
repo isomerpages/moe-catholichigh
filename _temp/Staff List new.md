@@ -1,7 +1,7 @@
 ---
 title: Staff List new
 permalink: /staff-list-new/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p><strong>School Leaders</strong>
@@ -649,6 +649,7 @@ description: ""
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
+<p>1 Faithfulness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Bingkun Nicholas</p>
