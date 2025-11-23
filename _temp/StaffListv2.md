@@ -8,8 +8,6 @@ description: ""
 <p style="font-family: Arial; color: #444;">
   Here’s the list of staff at our school. For any inquiries, please use the provided email contacts.
 </p>
-
-
 <h2 style="font-family: Arial; margin-top: 32px;">School Leaders</h2>
 <table style="background:#fff; border:1px solid #ddd; border-radius:6px; font-family:Arial;" cellpadding="10" cellspacing="0">
 <tbody><tr>
@@ -19,8 +17,6 @@ description: ""
 </tr>
 </tbody></table>
 <br>
-
-
 <table style="font-family:Arial;" width="100%" cellpadding="12" cellspacing="0">
   <tbody><tr>
     <td style="background:#fff; border:1px solid #ddd; border-radius:8px; width:33%;">
@@ -37,8 +33,6 @@ description: ""
     </td>
   </tr>
 </tbody></table>
-
-
 <h2 style="font-family: Arial; margin-top: 32px;">
   Key Personnel (HOD / ST / LH / SH / Year Heads)
 </h2>
@@ -55,11 +49,9 @@ description: ""
 </tbody></table>
 
 <h2 style="font-family: Arial; margin-top: 32px;">Primary 1 Classes</h2>
-
 <table style="font-family:Arial;" width="100%" cellpadding="12" cellspacing="0">
   <tbody><tr>
-    
-    <td style="background:#fff; border:1px solid #ddd; border-radius:8px; width:50%;">
+   <td style="background:#fff; border:1px solid #ddd; border-radius:8px; width:50%;">
       <p style="font-size:16px; font-weight:bold; margin:0;">1 Charity</p>
       <p style="color:#555; margin:0;">
         Form Teachers:<br>
@@ -71,7 +63,6 @@ description: ""
         <a style="background:#eef2ff; padding:6px 10px; margin-left:6px; text-decoration:none; border-radius:6px;" href="mailto:kelvin.ong@example.com">Email Kelvin</a>
       </p>
     </td>
-    
     <td style="background:#fff; border:1px solid #ddd; border-radius:8px; width:50%;">
       <p style="font-size:16px; font-weight:bold; margin:0;">1 Joy</p>
       <p style="color:#555; margin:0;">
@@ -86,4 +77,3 @@ description: ""
     </td>
   </tr>
 </tbody></table>
-
