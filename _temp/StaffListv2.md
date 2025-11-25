@@ -37,19 +37,19 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Beverly Toh</strong>
-Vice-Principal</p>
+<br>Vice-Principal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Kellie Woo</strong>
-Vice-Principal</p>
+<br>Vice-Principal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Fong Kok Wai</strong>
-Vice-Principal / Administration</p>
+<br>Vice-Principal / Administration</p>
 </td>
 </tr>
 </tbody>
