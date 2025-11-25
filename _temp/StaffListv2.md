@@ -6,7 +6,7 @@ description: ""
 ---
 <h3>Catholic High School(Primary)</h3>
 <h4><strong>School Leaders</strong></h4>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 </colgroup>
