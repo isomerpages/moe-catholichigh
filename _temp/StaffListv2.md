@@ -55,6 +55,7 @@ description: ""
 </tbody>
 </table>
 <h4><strong>Key Personnel and Senior Teachers</strong></h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1717,8 +1718,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>Other Teachers and Allied Educators</strong>
-</p>
+<h4><strong>Other Teachers and Allied Educators</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1745,26 +1745,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Ho Si Yan Gereldinne</strong>
-<br>Senior SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_si_yan_gereldinne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Lee Beng Hong Jenny Esther</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_beng_hong_jenny_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Lim Ting Ting Xaverie</strong>
 </p>
 </td>
@@ -1775,31 +1755,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Ng Sui San</strong>
-<br>SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_sui_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
+<p><strong>Mdm Lee Beng Hong Jenny Esther</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Nur Iffah Amirah Binte Nor Sahid</strong>
-<br>SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_iffah_amirah_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Ong Siying Natalie</strong>
-<br>SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_siying_natalie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
+<p><a href="mailto:lee_beng_hong_jenny_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
 </p>
 </td>
 </tr>
@@ -1835,6 +1795,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Woo Jak May Carol</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:woo_jak_may_carol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Theng Siming</strong>
 <br>Senior School Counsellor</p>
 </td>
@@ -1845,14 +1823,45 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Woo Jak May Carol</strong>
-</p>
+<p><strong>Miss Ho Si Yan Gereldinne</strong>
+<br>Senior SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:woo_jak_may_carol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
+<p><a href="mailto:ho_si_yan_gereldinne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Ng Sui San</strong>
+<br>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_sui_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Nur Iffah Amirah Binte Nor Sahid</strong>
+<br>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_iffah_amirah_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Ong Siying Natalie</strong>
+<br>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_siying_natalie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
