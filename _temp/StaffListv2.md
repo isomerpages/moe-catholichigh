@@ -6,28 +6,17 @@ description: ""
 ---
 <h3>Catholic High School(Primary)</h3>
 <h4><strong>School Leaders</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Shared Mailbox: <a href="mailto:chs_sch_leaders@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Shared Mailbox: <a href="mailto:chs_sch_leaders@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chs_sch_leaders@schools.gov.sg</a></strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Teo Yvonne</strong>
