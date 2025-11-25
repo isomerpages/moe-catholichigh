@@ -4,7 +4,7 @@ permalink: /stafflistv2/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Staff List</strong></h1>
+<h3>Catholic High School(Primary)</h3>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
