@@ -4,8 +4,8 @@ permalink: /staff-list-new/
 variant: tiptap
 description: ""
 ---
-<p><strong>School Leaders</strong>
-</p>
+<h1>Catholic High School(Primary)</h1>
+<h4>School Leaders</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -64,8 +64,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Key Personnel (HOD / ST / LH / SH / Year Heads)</strong>
-</p>
+<h4>Key Personnel and Senior Teachers</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -494,8 +493,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 1 Classes</strong>
-</p>
+<h4>Primary 1 Classes</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -692,8 +690,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 2 Classes</strong>
-</p>
+<h4>Primary 2 Classes</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -890,8 +887,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 3 Classes</strong>
-</p>
+<h4>Primary 3 Classes</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1044,8 +1040,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 4 Classes</strong>
-</p>
+<h4>Primary 4 Classes</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1252,8 +1247,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 5 Classes</strong>
-</p>
+<h4>Primary 5 Classes</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1450,8 +1444,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 6 Classes</strong>
-</p>
+<h4>Primary 6 Classes</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1648,8 +1641,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>SEN &amp; Student Support / Counsellors</strong>
-</p>
+<h4>Key Personnel and Senior Teachers</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
