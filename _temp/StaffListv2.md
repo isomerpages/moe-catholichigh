@@ -13,7 +13,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Shared Mailbox: <a href="mailto:chs_sch_leaders@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chs_sch_leaders@schools.gov.sg</a></strong>
+<p><strong>Shared Mailbox: </strong>chs_sch_leaders@schools.gov.sg
 </p>
 </td>
 </tr>
