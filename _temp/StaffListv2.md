@@ -1,7 +1,7 @@
 ---
 title: StaffListv2
 permalink: /stafflistv2/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3>Catholic High School(Primary)</h3>
@@ -13,8 +13,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Shared Mailbox: </strong>chs_sch_leaders@schools.gov.sg
-</p>
+<p><strong>Shared Mailbox: </strong>chs_sch_leaders@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
