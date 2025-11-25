@@ -1,7 +1,7 @@
 ---
 title: StaffListv2
 permalink: /stafflistv2/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h1><strong>Staff List</strong></h1>
