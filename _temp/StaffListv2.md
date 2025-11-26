@@ -13,7 +13,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Shared Mailbox: </strong>chs_sch_leaders@schools.gov.sg<a href="mailto:heng_wen_chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a></p>
+<p><strong>Shared Mailbox: </strong>chs_sch_leaders@schools.gov.sg<a href="mailto:heng_wen_chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a></p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ description: ""
 <br>HOD (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:heng_wen_chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a>
+<p><a href="mailto:heng_wen_chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
