@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Catholic High School(Primary)</h3>
-<h4><strong>School Leaders</strong></h4>
+<h3><strong>School Leaders</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -43,8 +43,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Key Personnel and Senior Teachers</strong></h4>
-<p></p>
+<h3><strong>Key Personnel and Senior Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -403,7 +402,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4><strong>Primary 1 Classes</strong></h4>
+<h3><strong>Primary 1 Classes</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -421,7 +420,7 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Charity</p>
+<h4>1 Charity</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -447,7 +446,7 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Joy</p>
+<h4>1 Joy</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -473,8 +472,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Peace</strong>
-</p>
+<h4>1 Peace</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -500,8 +498,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Patience</strong>
-</p>
+<h4>1 Patience</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -527,8 +524,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Kindness</strong>
-</p>
+<h4>1 Kindness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -554,8 +550,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Goodness</strong>
-</p>
+<h4>1 Goodness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -581,8 +576,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Faithfulness</strong>
-</p>
+<h4>1 Faithfulness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -608,8 +602,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Gentleness</strong>
-</p>
+<h4>1 Gentleness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -636,7 +629,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4><strong>Primary 2 Classes</strong></h4>
+<h3><strong>Primary 2 Classes</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -654,7 +647,7 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2 Charity</p>
+<h4>2 Charity</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -680,8 +673,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Joy</strong>
-</p>
+<h4>2 Joy</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -707,8 +699,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Peace</strong>
-</p>
+<h4>2 Peace</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -734,8 +725,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Patience</strong>
-</p>
+<h4>2 Patience</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -761,8 +751,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Kindness</strong>
-</p>
+<h4>2 Kindness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -788,8 +777,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Goodness</strong>
-</p>
+<h4>2 Goodness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -815,8 +803,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Faithfulness</strong>
-</p>
+<h4>2 Faithfulness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -842,8 +829,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Gentleness</strong>
-</p>
+<h4>2 Gentleness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -870,7 +856,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4><strong>Primary 3 Classes</strong></h4>
+<h3><strong>Primary 3 Classes</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -888,7 +874,7 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>3 Charity</p>
+<h4>3 Charity</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -914,8 +900,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 Joy</strong>
-</p>
+<h4>3 Joy</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -941,8 +926,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 Peace</strong>
-</p>
+<h4>3 Peace</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -968,8 +952,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 Patience</strong>
-</p>
+<h4>3 Patience</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -995,8 +978,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 Kindness</strong>
-</p>
+<h4>3 Kindness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1022,8 +1004,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 Goodness</strong>
-</p>
+<h4>3 Goodness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1050,7 +1031,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4><strong>Primary 4 Classes</strong></h4>
+<h3><strong>Primary 4 Classes</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1068,7 +1049,7 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>4 Charity</p>
+<h4>4 Charity</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -1103,8 +1084,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Joy</strong>
-</p>
+<h4>4 Joy</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1130,8 +1110,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Peace</strong>
-</p>
+<h4>4 Peace</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1157,7 +1136,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Patience</p>
+<h4>4 Patience</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1183,8 +1162,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Kindness</strong>
-</p>
+<h4>4 Kindness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1210,8 +1188,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Goodness</strong>
-</p>
+<h4>4 Goodness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1237,8 +1214,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Faithfulness</strong>
-</p>
+<h4>4 Faithfulness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1264,8 +1240,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Gentleness</strong>
-</p>
+<h4>4 Gentleness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1292,7 +1267,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4><strong>Primary 5 Classes</strong></h4>
+<h3><strong>Primary 5 Classes</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1310,8 +1285,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 Charity</strong>
-</p>
+<h4>5 Charity</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1337,8 +1311,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 Joy</strong>
-</p>
+<h4>5 Joy</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1364,8 +1337,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 Peace</strong>
-</p>
+<h4>5 Peace</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1391,8 +1363,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 Patience</strong>
-</p>
+<h4>5 Patience</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1418,8 +1389,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 Kindness</strong>
-</p>
+<h4>5 Kindness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1445,8 +1415,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 Goodness</strong>
-</p>
+<h4>5 Goodness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1472,8 +1441,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 Faithfulness</strong>
-</p>
+<h4>5 Faithfulness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1499,8 +1467,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 Gentleness</strong>
-</p>
+<h4>5 Gentleness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1527,7 +1494,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4><strong>Primary 6 Classes</strong></h4>
+<h3><strong>Primary 6 Classes</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1545,7 +1512,7 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>6 Charity</p>
+<h4>6 Charity</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -1571,8 +1538,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6 Joy</strong>
-</p>
+<h4>6 Joy</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1598,8 +1564,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6 Peace</strong>
-</p>
+<h4>6 Peace</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1625,8 +1590,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6 Patience</strong>
-</p>
+<h4>6 Patience</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1652,8 +1616,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6 Kindness</strong>
-</p>
+<h4>6 Kindness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1679,8 +1642,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6 Goodness</strong>
-</p>
+<h4>6 Goodness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1706,8 +1668,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6 Faithfulness</strong>
-</p>
+<h4>6 Faithfulness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1733,8 +1694,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6 Gentleness</strong>
-</p>
+<h4>6 Gentleness</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1761,7 +1721,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4><strong>Other Teachers and Allied Educators</strong></h4>
+<h3><strong>Other Teachers and Allied Educators</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
