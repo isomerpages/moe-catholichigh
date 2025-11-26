@@ -13,7 +13,10 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Shared Mailbox: </strong>chs_sch_leaders@schools.gov.sg<a href="mailto:heng_wen_chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉️</a></p>
+<p><strong>Shared Mailbox: </strong>chs_sch_leaders@schools.gov.sg<a href="mailto:heng_wen_chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><button class="bp-button">
+            <i class="sgds-icon sgds-icon-mail is-size-4">
+            </i>
+            </button>✉️</a></p>
 </td>
 </tr>
 <tr>
