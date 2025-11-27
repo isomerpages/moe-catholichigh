@@ -9,7 +9,7 @@ variant: markdown
 <style>
 p {text-align: justify;}
 </style>
-The English Talent Development Programme is guided by Catholic High’s&nbsp;desire to develop students who are moving from novice to expert in their discipline/domain of interest, with a view towards preparing exceptionally talented students for more advanced disciplinary work after secondary education.
+The English Talent Development Programme (ELTDP) is guided by Catholic High’s&nbsp;desire to develop students who are moving from novice to expert in their discipline/domain of interest, with a view towards preparing exceptionally talented students for more advanced disciplinary work after secondary education.
 
 ### Programme&nbsp;Features
 
