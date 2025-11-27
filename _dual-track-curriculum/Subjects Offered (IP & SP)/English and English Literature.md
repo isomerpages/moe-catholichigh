@@ -42,12 +42,6 @@ To equip and enable our students with the ability to:
 
 <img src="/images/english2.png" style="width:60%">
 
-#### Language Arts Curriculum
-
-|  	|  	|
-|---	|---	|
-| Literature Special Programme and Talent Development (Upper levels) 	| Literature Speaker’s Forums<br>Creative Writing Circle<br>Industry Journeys and Workshops and Attachments<br>Film and Media Circle<br>CH Debates 	|
-
 #### Literature Curriculum
 
 |  	|  	|
