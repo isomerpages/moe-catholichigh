@@ -50,8 +50,8 @@ To equip and enable our students with the ability to:
 | Years 3-4 Literature Special Programme 	| o    Year 3-4: Critical and Comparative Studies<br>o    Leading towards JC HSP and JC Literature<br>o    Fundamentals of Practical Criticism<br>o    Comparative Studies in Themes – Socio-political-economic 	|
 
 *   Special Talent Development opportunities
-*   CH Literature Canon.
-*   Practitioner’s Insight Projects (E.g. Character’s Journal, Literature Presentations)
+*   CH Literature Canon
+*   Practitioner’s Insight Projects (e.g. Character’s Journal, Literature Presentations)
 *   Literature Festival &amp; Sharing Sessions (E.g. Lit Night)
 
 #### Skills Sets
