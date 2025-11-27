@@ -27,10 +27,9 @@ data to present meaningful findings for a real-world scenario context problem.</
 <p><strong>Mathematics Training, Workshops and Competitions</strong>&nbsp;–Trainings,
 workshops and competitions emphasise on problem solving, creativity and
 developing students’ interest in the learning of mathematics. Some examples
-of competitions are Singapore Mathematics Olympiad, International Competitions
-and Assessments for Schools (ICAS) and Singapore Mathematics Project Festival.
-Workshops on mathematical investigations, puzzles and paradoxes are also
-conducted to encourage critical thinking.</p>
+of competitions are Singapore Mathematics Olympiad and Singapore Mathematics
+Project Festival. Workshops on mathematical investigations, puzzles and
+paradoxes are also conducted to encourage critical thinking.</p>
 <p><strong>External Collaboration</strong>&nbsp;– In close collaboration
 with Young Defence Scientists Programme (YDSP), Catholic High School MTDP
 aims to nurture students’ passion in areas such as data analytics, artificial
