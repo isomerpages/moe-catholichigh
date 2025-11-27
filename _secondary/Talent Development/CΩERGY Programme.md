@@ -1,6 +1,6 @@
 ---
-title: Cnergy Programme
-permalink: /secondary/Talent-Development/cnergy-programme/
+title: CΩERGY Programme
+permalink: /secondary/talent-development/cnergy-programme/
 description: ""
 third_nav_title: Talent Development
 variant: markdown
@@ -19,7 +19,7 @@ p {text-align: justify;}
 
 Through the involvement and participation in external competitions and workshops, students are often exposed to real-world problems and products. Field trips or visits provide students with first-hand experience and an opportunity to apply content knowledge with field experts. Such outside classroom platforms also allow for independent learning and access to different environments, materials and equipment.&nbsp;Students may also join overseas trips to Japan for immersions with Toyonaka High School and Osaka University.
 
-In keeping up with our tradition of strong academic achievements, our talented students continue to achieve excellence in many areas like competitions and proficiency tests. In the recent Asian Try Zero-G, our gentlemen’s proposed experiment “Double Pendulum” was performed by JAXA astronaut Koichi Wakata onboard the Japanese Experiment Module “KIBO” on the International Space Station. The school also emerged as Runner-up in the 2022 Singapore Junior Biology Olympiad.We have also consistently done well in other competitions like the National Air Race and Drone Odyssey Challenge. We have also produced many A\*STAR and YDSP scholars over the years.
+In keeping up with our tradition of strong academic achievements, our talented students continue to achieve excellence in many competitions and proficiency tests. We clinched the National STEM Championship in 2025. In the 2023 Asian Try Zero-G, our gentlemen’s proposed experiment “Double Pendulum” was performed by JAXA astronaut Koichi Wakata onboard the Japanese Experiment Module “KIBO” on the International Space Station. We have also consistently done well in other competitions like the National Air Race and Drone Odyssey Challenge.
 
     
 
@@ -33,7 +33,7 @@ Description automatically generated with medium confidence"></span></p></td><td 
 
 
 
-<figcaption> Above: Students continue to achieve excellence in many areas, e.g. C. B. Paul Science Quiz, Singapore Junior Olympiad and National Science Challenge</figcaption>
+<figcaption> (Above) Students continue to achieve excellence in many areas, e.g. C. B. Paul Science Quiz, Singapore Junior Olympiad and National Science Challenge </figcaption>
 
 [Science @ CHS Prospectus](https://drive.google.com/file/d/1TPOrWrrDJRzePJye82XZbagVIUTBoifP/view)
 [Click here for our Science Prospectus which provides in-depth information about our general science curriculum, research programmes, enrichment and talent development.]
