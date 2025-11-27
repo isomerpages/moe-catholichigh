@@ -2,7 +2,7 @@
 title: Primary Section
 permalink: /staff/primary-section/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3>Catholic High School(Primary)</h3>
 <table style="minWidth: 50px">

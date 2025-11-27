@@ -45,7 +45,7 @@ They will require a pass in the Selection Exercise by the school, consisting of:
 
 The Selection Exercise for 2026 Level 1 CHS MEP:
 
-Friday, 26 December 2025, 9.00am: Submission deadline for MEP applications
+Friday, 26 December 2025, 9.00am: Submission deadline for [MEP application](http://go.gov.sg/2026chsmep)
 
 Monday, 29 December 2025, 2.00 - 2.30pm: MEP briefing for all applicants and 1 parent / guardian
 <br>Parents / Guardians may leave after the briefing and fetch their son / ward after the audition.
