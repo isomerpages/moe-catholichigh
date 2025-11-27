@@ -4,7 +4,7 @@ permalink: /staff/primary-section/
 description: ""
 variant: markdown
 ---
-<h3>Catholic High School(Primary)</h3>
+<h3>Catholic High School (Primary)</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
