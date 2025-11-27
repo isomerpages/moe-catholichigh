@@ -52,7 +52,7 @@ To equip and enable our students with the ability to:
 *   Special Talent Development opportunities
 *   CH Literature Canon
 *   Practitioner’s Insight Projects (e.g. Character’s Journal, Literature Presentations)
-*   Literature Festival &amp; Sharing Sessions (E.g. Lit Night)
+*   Literature Festival &amp; Sharing Sessions (e.g. Lit Night)
 
 #### Skills Sets
 
@@ -68,7 +68,7 @@ Contextual / Thematic situations &nbsp;--&gt;&nbsp;**MORAL IMAGINATION**&nbsp;--
 
 *   General Knowledge Reading Programme (All Levels)&nbsp;&nbsp;/ Literary Appreciation of Narrative Texts
 *   Bilingual and Bicultural Festival (All Levels)
-*   Authentic Alternative Assessments, e.g. Short Stories Anthologies, Letters to Agencies, Social Advocacy, Film and Media. (Years 1, 2 and 3)
+*   Authentic Alternative Assessments, e.g. Short Stories Anthologies, Letters to Agencies, Social Advocacy, Film and Media (Years 1, 2 and 3)
 *   Singapore Seminar (Level 2)
 *   Overseas Immersion Experience (Year 3)
 *   International Perspectives (Year 4)
