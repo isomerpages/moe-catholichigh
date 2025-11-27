@@ -56,8 +56,6 @@ We offer 2 main types of cultural immersion trips and hosting programmes:
 (Below) Visiting&nbsp;the Great Wall in Beijing as part of BSP immersion trip
 <img src="/images/oicce4.png" style="width:60%">
 
-(Below)&nbsp;Learning to plant rice in Vietnam, and appreciate the value of labour and rice (“谁知盘中餐，粒粒皆辛苦”)
-<img src="/images/oicce5.png" style="width:60%">
 
 (Below)&nbsp;Learning together with Japanese students in Toyonaka High School (Osaka)
 <img src="/images/oicce6.png" style="width:60%">
@@ -77,3 +75,6 @@ We offer 2 main types of cultural immersion trips and hosting programmes:
 
 (Below) 2024 Interaction with students of Rittayawanalai School in Bangkok
 <img src="/images/Secondary/OIP_5.jpg" style="width:60%">
+
+(Below) 2024 Visit to 寒山寺 苏州 as part of the Shanghai-Suzhou Immersion Programme
+![](/images/Suzhou_Shanghai_007.jpg)
