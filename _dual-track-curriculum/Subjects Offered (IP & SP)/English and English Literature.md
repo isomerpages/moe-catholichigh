@@ -46,8 +46,8 @@ To equip and enable our students with the ability to:
 
 |  	|  	|
 |---	|---	|
-| Levels 1 -2 	| o    Fundamentals of Literature (Poems, Set Text, Drama) 	|
-| Levels 3-4 Literature Special Programme 	| o    Critical and Comparative Studies<br>o    Leading towards JC HSP and JC Literature<br>o    Comparative Studies (Themes) 	|
+| Levels 1 -2   o    Fundamentals of Literature (Poems, Set Text, Drama) 	|
+| Levels 3-4 | o    Critical and Comparative Studies<br>o    Leading towards JC HSP and JC Literature<br>o    Comparative Studies (Themes) 	|
 
 *   Special Talent Development opportunities
 *   CH Literature Canon
