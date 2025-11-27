@@ -46,7 +46,7 @@ Apart from the traditionally strong and rigorous academic teaching and learning 
 
 <p><a href="https://www.catholichigh.moe.edu.sg/secondary/Distinctive-Programmes/space-and-flight-science-programme/"><img style="width:65%" src="/images/scie5.png"></a></p>
 
-*   CNERGY Programme (Sec 2 to 4)
+*   CΩERGY Programme (Sec 2 to 4)
 
 <img src="/images/scie6.png" style="width:50%">
 
@@ -62,31 +62,3 @@ Apart from the traditionally strong and rigorous academic teaching and learning 
 *   Research Exposure Program (REP) by A\*STAR
 *   Youth Science Conference
 *   Young Defence Scientists Programme (YDSP) by DSO
-*   CRADL Research Programme by Singapore Science Centre
-
-**Work Attachment Programmes**
-
-*   Singapore Science Centre Attachment
-*   YDSP Camp by DSO
-
-**Enrichment Workshops**
-
-*   SUTD-CHS Flagship Drone Programme
-*   NUS-CHS ENGnite 720˚ Programme
-
-<img src="/images/scie7.png" style="width:50%">
-
-*   PET Rocket Workshop
-*   Musical Keyboard
-
-**Fieldtrips and Visits**
-
-*   Singapore Institute of Manufacturing Technology (SIMTech)
-*   NUS Cryo Electron Microscopy Facility
-*   NUS Anatomy Museum
-*   NTU Satellite Research Centre (SaRC)
-*   NUS Centre for Remote Imaging, Sensing and Processing
-*   Singapore Youth Flying Club
-*   .. and more.
-
-Click here for our [Space and Flight Science Programme](/secondary/Distinctive-Programmes/space-and-flight-science-programme/) !
