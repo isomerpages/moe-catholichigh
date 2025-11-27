@@ -46,8 +46,8 @@ To equip and enable our students with the ability to:
 
 |  	|  	|
 |---	|---	|
-| Years 1 -2 Literature Fundamentals 	| o    Year 1: Literature Fundamentals<br><br>o    Year 2: Comparative Fundamentals 	|
-| Years 3-4 Literature Special Programme 	| o    Year 3-4: Critical and Comparative Studies<br><br>o    Leading towards JC HSP and JC Literature<br>o    Fundamentals of Practical Criticism<br>o    Comparative Studies in Themes – Socio-political-economic 	|
+| Years 1 -2 Literature Fundamentals 	| o    Year 1: Literature Fundamentals<br>o    Year 2: Comparative Fundamentals 	|
+| Years 3-4 Literature Special Programme 	| o    Year 3-4: Critical and Comparative Studies<br>o    Leading towards JC HSP and JC Literature<br>o    Fundamentals of Practical Criticism<br>o    Comparative Studies in Themes – Socio-political-economic 	|
 
 *   Special Talent Development opportunities
 *   CH Literature Canon.
