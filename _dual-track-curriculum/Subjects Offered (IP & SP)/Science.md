@@ -7,12 +7,12 @@ variant: markdown
 ---
 <img src="/images/scie1.png" style="width:30%"> [Click here for our Science Prospectus ](https://drive.google.com/file/d/1iBqm6jmE3wvbyEhf3duSdei4zZncSvaJ/view)<br>(which provides in-depth information about our general science curriculum, research programmes, enrichment and talent development)
 
-### Our STEM Curriculum
+### Our Curriculum
 
 Catholic High School recognises that our gentlemen have strong aptitude and passion for Science, Technology, Engineering and Mathematics (STEM).
 
-*   The CHS Science curriculum -offered in tandem with our Mathematics curriculum- believes in equipping our students to view the world through the perspective of science, nurturing them to have a passion for discovery and innovation in life and guiding them to use their scientific knowledge to lead others for the betterment of our society.
-*   **We aim to nurture Inquirers, Investigators and Innovators.**&nbsp;At the heart of our&nbsp;**interdisciplinary**&nbsp;**Science**&nbsp;**curriculum**&nbsp;are these 4 ‘E’s:&nbsp;**enhance**,&nbsp;**excite**,&nbsp;**engage**&nbsp;and&nbsp;**empower**.
+*   The CHS Science curriculum believes in equipping our students to view the world through the perspective of science, nurturing them to have a passion for discovery and innovation in life and guiding them to use their scientific knowledge to lead others for the betterment of our society.
+*   **We aim to nurture Inquirers, Investigators and Innovators.** At the heart of our **interdisciplinary Science curriculum** are these **4 ‘E’s**:&nbsp;**Enhance**,&nbsp;**Excite**,&nbsp;**Engage**&nbsp;and&nbsp;**Empower**.
 *   Our programmes enhance the learning of Science by adopting an exploratory approach that excites and stimulates our students’ intellectual curiosity, and empowers them to find their own passion area in Science.
 *   A vast range of learning opportunities are available to IP and SP students, be it our Space and Flight Science Programme, CΩERGY science talent development programme, Japan Overseas Immersion and Cultural Programme and more, as shown by the diagram below:
 
@@ -25,7 +25,7 @@ Catholic High School recognises that our gentlemen have strong aptitude and pass
 The CHS Science&nbsp;curriculum&nbsp;aims to produce students who are inquirers, investigators and innovators who will make meaningful contributions to the society.
 
 *   In the 21st century, students must not only have knowledge and skills but the right attitudes and values as well. Making sound and ethical decisions will allow them to make a positive impact and benefit the people around them.
-*   The&nbsp;**4 ‘E’s of the programme are Enhance, Excite, Engage and Empower.**
+*   The&nbsp;**4 ‘E’s of the programme are: Enhance, Excite, Engage and Empower.**
 *   The programme inspires to enhance the learning of science through an enriched curriculum and excite the students about the forces of science, technology and engineering around them. We hope that the interdisciplinary nature of our curriculum will eventually enhance the learning of our students, both in and out of class.
 *   Students will no longer see science as learning and memorising facts but rather see science as a way of thinking and something more relevant to what is happening around them. Science is exploratory and must stimulates their curiosity and motivates them to find out more. Once such curiosity is evident, students will be excited to find out more.
 *   We believe excitement is a first step to engaged learning. By engaging in authentic real-world scientific and technological problems, students may then recognize that science and engineering can contribute to meeting many of the major challenges that confront society today and future problems of tomorrow.
@@ -46,7 +46,7 @@ Apart from the traditionally strong and rigorous academic teaching and learning 
 
 <p><a href="https://www.catholichigh.moe.edu.sg/secondary/Distinctive-Programmes/space-and-flight-science-programme/"><img style="width:65%" src="/images/scie5.png"></a></p>
 
-*   CNERGY Programme (Sec 2 to 4)
+*   CΩERGY Programme (Sec 2 to 4)
 
 <img src="/images/scie6.png" style="width:50%">
 
@@ -62,31 +62,3 @@ Apart from the traditionally strong and rigorous academic teaching and learning 
 *   Research Exposure Program (REP) by A\*STAR
 *   Youth Science Conference
 *   Young Defence Scientists Programme (YDSP) by DSO
-*   CRADL Research Programme by Singapore Science Centre
-
-**Work Attachment Programmes**
-
-*   Singapore Science Centre Attachment
-*   YDSP Camp by DSO
-
-**Enrichment Workshops**
-
-*   SUTD-CHS Flagship Drone Programme
-*   NUS-CHS ENGnite 720˚ Programme
-
-<img src="/images/scie7.png" style="width:50%">
-
-*   PET Rocket Workshop
-*   Musical Keyboard
-
-**Fieldtrips and Visits**
-
-*   Singapore Institute of Manufacturing Technology (SIMTech)
-*   NUS Cryo Electron Microscopy Facility
-*   NUS Anatomy Museum
-*   NTU Satellite Research Centre (SaRC)
-*   NUS Centre for Remote Imaging, Sensing and Processing
-*   Singapore Youth Flying Club
-*   .. and more.
-
-Click here for our [Space and Flight Science Programme](/secondary/Distinctive-Programmes/space-and-flight-science-programme/) !
