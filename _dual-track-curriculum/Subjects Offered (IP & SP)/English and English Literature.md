@@ -20,7 +20,7 @@ _– Gideon Law (4-3/2016)_
 
 <img src="/images/english1.png" style="width:60%">
 
-Our students presenting at the Singapore Seminar 2017 and meeting Minister Mrs Josephine Teo
+*Our students presenting at the Singapore Seminar 2017 and meeting Minister Mrs Josephine Teo*
 
 ### Our Approach
 
