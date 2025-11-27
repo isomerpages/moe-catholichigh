@@ -6,8 +6,6 @@ variant: markdown
 ---
 ### Developing Principled Leaders
 
-##### Others before Self; Honour above Duty; Leadership by Example
-
 In CHS, our leadership development programme “领” is offered to students who have demonstrated potential in taking up school-wide leadership roles and with a heart to serve. The concept of ‘Leader’ is integral to the Catholic High experience, and it is rooted in our strong heritage of nurturing generations of leaders for the nation in numerous fields – public service, academia, culture, business and many more.
 
 Through the curricular, co-curricular and community experiences and signature programmes, Catholic High students are developed to become leaders who are visionary, grounded upon strong moral principles, and who lead with empathy and by example: to inspire, to serve and to leave a collective legacy. Whatever the pathways and opportunities, we take a stand on developing Principled Leaders who can touch lives and transform the futures of himself and others. At CHS, our student leaders “Represent, Role Model and Re-Imagine”.

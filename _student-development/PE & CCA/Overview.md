@@ -65,7 +65,7 @@ These are some of the PE programmes we offer to students in IP and SP:
 
 *   Physical Education Programmes&nbsp;
     *   Territorial, Net Barrier, Striking / Fielding Games and Sports
-    *   Physical Health &amp; Fitness
+    *   Physical Health &amp; Safety
     *   Outdoor Education
 *   Sports Participation Programmes&nbsp;
     *   Inter-class Sports Carnival
