@@ -77,4 +77,4 @@ We offer 2 main types of cultural immersion trips and hosting programmes:
 <img src="/images/Secondary/OIP_5.jpg" style="width:60%">
 
 (Below) 2024 Visit to 寒山寺 苏州 as part of the Shanghai-Suzhou Immersion Programme
-![](/images/Suzhou_Shanghai_007.jpg)
+<img src="/images/Suzhou_Shanghai_007.jpg" style="width:60%">
