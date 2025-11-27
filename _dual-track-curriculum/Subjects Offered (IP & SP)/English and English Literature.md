@@ -67,21 +67,13 @@ Contextual / Thematic situations &nbsp;--&gt;&nbsp;**MORAL IMAGINATION**&nbsp;--
 #### &nbsp;Signature Programmes
 
 *   General Knowledge Reading Programme (All Levels)&nbsp;&nbsp;/ Literary Appreciation of Narrative Texts
-*   In Focus Current Affairs – Commentaries, Panel Discussions, Forums. (All Levels)
-*   Bicultural Festival (All Levels)
-*   Practitioner’s Insight Projects. E.g. Short Stories Anthologies, Letters to Agencies, Social Advocacy, Film and Media. (Years 1, 2 and 3)
-*   Lit Night (Years 1 and 2)
-*   Public Speaking Stages 1, 2 and 3 (Years 1, 2 and 3)
-*   The Singapore Seminar (Year 2)
+*   Bilingual and Bicultural Festival (All Levels)
+*   Authentic Alternative Assessments, e.g. Short Stories Anthologies, Letters to Agencies, Social Advocacy, Film and Media. (Years 1, 2 and 3)
+*   Singapore Seminar (Level 2)
 *   Overseas Immersion Experience (Year 3)
 *   International Perspectives (Year 4)
 
-_Literature Special Programme_&nbsp;and&nbsp;_Talent Development_&nbsp;(Upper levels)
+English Talent Development Programme (Upper Levels)
 
-*   Literature Speaker’s Forums
-*   Creative Writing Circle
-*   Industry Journeys and Workshops and Attachments
-*   Film and Media Circle
-*   CH Debates and CH Theatre
-
-<img src="/images/english4.png" style="width:60%">
+*   Debates
+*   Writing
