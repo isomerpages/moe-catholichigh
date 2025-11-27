@@ -1,6 +1,6 @@
 ---
 title: School Management Committee
-permalink: /smc/
+permalink: /our-partners/smc/
 variant: tiptap
 description: ""
 ---
