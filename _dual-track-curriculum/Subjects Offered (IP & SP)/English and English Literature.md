@@ -3,15 +3,15 @@ title: English and English Literature
 permalink: /dual-track-curriculum/Subjects-Offered-IP-and-OP/English-and-english-literature/
 description: ""
 third_nav_title: Subjects Offered (IP & SP)
+variant: markdown
 ---
 ### English &amp; English Literature
 
 Our school believes in the infinite potential of every child to love and enjoy the English language:
 
-*   We introduce full Shakespearean texts at the lower levels as part of the curriculum.
 *   We conduct drama in&nbsp;the curriculum&nbsp;also at the lower levels to give budding thespians a chance to express themselves.
 *   At the upper levels, we have projects like Instapoetry that combine social media and literature appreciation.
-*   Theatre outings several times a year for all levels for out -of -classroom literary experiences.
+*   Theatre outing once a year for Upper Levels for out-of-classroom literary experiences.
 *   Our students do real-world projects such as writing a policy paper and designing a school curriculum.
 
 _“The English department teachers in Catholic High are very inspiring and have on multiple occasions prompted me to think above and beyond what is in the syllabus, and applying the skills I learned to analysing and understanding the real world.”_
