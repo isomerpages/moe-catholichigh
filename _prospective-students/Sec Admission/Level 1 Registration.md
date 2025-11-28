@@ -5,20 +5,19 @@ description: ""
 third_nav_title: Sec Admission
 variant: tiptap
 ---
-<p><strong>Catholic High School</strong>
-</p>
-<p><strong>Secondary 1 &amp; Year 1</strong>
-</p>
+<p><strong><u>For the new Level 1 students posted to CHS for 2026:</u></strong> this
+page will be updated on the day of release of Secondary 1 posting results
+on either Thursday, 18 December or Friday, 19 December 2025 (tentative
+from MOE)</p>
+<h2><strong>Level 1 Registration (2025)</strong></h2>
 <h3>Welcome to 公教 !</h3>
-<p><strong>Level 1 (2025) Registration</strong>
-</p>
 <p>Our heartiest congratulations to all P6 students who have completed their
 Primary School education. If you have been posted or accepted via DSA to
 Catholic High School (Sec), please complete the registration form by 18
-Dec, 23:59.</p>
+Dec 2024, 23:59.</p>
 <ul>
 <li>
-<p><a href="https://form.gov.sg/6715c5c0a04a3d156d860bef" rel="noopener noreferrer nofollow" target="_blank"><u>Level 1 (2025) Registration Form (Available until 18 Dec 23:59)</u></a>
+<p><a href="https://form.gov.sg/6715c5c0a04a3d156d860bef" rel="noopener noreferrer nofollow" target="_blank"><u>Level 1 (2025) Registration Form (available until 18 Dec 23:59)</u></a>
 </p>
 <p>
 <br>Please click on the links for information.</p>
