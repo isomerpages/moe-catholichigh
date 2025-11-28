@@ -5,10 +5,8 @@ description: ""
 third_nav_title: Sec Admission
 variant: tiptap
 ---
-<p><strong><u>For the new Level 1 students posted to CHS for 2026:</u></strong> this
-page will be updated on the day of release of Secondary 1 posting results
-on either Thursday, 18 December or Friday, 19 December 2025 (tentative
-from MOE)</p>
+<p><strong><em><u>For the new Level 1 students posted to CHS for 2026:</u></em></strong><em> this page will be updated on the day of release of Secondary 1 posting results on either Thursday, 18 December or Friday, 19 December 2025 (tentative from MOE)</em>
+</p>
 <h2><strong>Level 1 Registration (2025)</strong></h2>
 <h3>Welcome to 公教 !</h3>
 <p>Our heartiest congratulations to all P6 students who have completed their
