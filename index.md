@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Prospective Students (iNCLUDING dsa)
           description: ""
-          url: /prospective-students/prospectus-sec/overview/
+          url: /prospective-students/Sec-Admission/direct-school-admission/
       title: Catholic High  School
   - infobar:
       title: 2026 Level 1 Registration
