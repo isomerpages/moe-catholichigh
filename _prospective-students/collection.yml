@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Direct School Admission (DSA).md
-      - Prospectus (Sec).md
       - Sec Admission/.keep
       - Sec Admission/Sec Admission & Fees.md
       - Sec Admission/Level 1 Registration.md
       - Sec Admission/Admission to IP Year 3.md
       - Sec Admission/Frequently Asked Questions (Secondary Section).md
       - Open House.md
+      - Prospectus (Sec).md
       - P1 Registration.md
