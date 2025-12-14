@@ -24,7 +24,7 @@ variant: markdown
 <p>Mdm Teo Yvonne (Principal)
 <br>Mrs Beverly Toh (Vice-Principal)
 <br>Mrs Kellie Woo (Vice-Principal)
-<br>Mr Fong Kok Wai (Vice-Principal / Administration)</p>
+<br>Mr Fong Kok Wai (Vice-Principal/Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chs_sch_leaders@schools.gov.sg</p>
