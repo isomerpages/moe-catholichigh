@@ -18,8 +18,9 @@ sections:
       subtitle: Lastest news
       id: infobar
       description: This page will be updated on the day of release of Secondary 1
-        posting results on either Thursday, 18 December or Friday, 19 December
-        2025 (tentative from MOE)
+        posting results on Friday, 19 December 2025.
+      url: /prospective-students/sec-admission/level-1-registration/
+      button: CLICK HERE TO FIND OUT MORE!
   - infopic:
       title: "2025 Information for Primary 6 Parents: WEBINAR"
       subtitle: Latest News
