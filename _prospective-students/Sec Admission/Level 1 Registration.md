@@ -69,7 +69,7 @@ Dec 2025, 11:59pm.</p>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/presentation/d/1itgUJ8TPQiOG-URHsoQ7xMFrEMai3DSn/edit?slide=id.p26#slide=id.p26" rel="noopener noreferrer nofollow" target="_blank"><u>Reporting Details and Parent-Teacher Meeting&nbsp; on 2 Jan 202</u></a><u>6</u>
+<p><a href="https://docs.google.com/presentation/d/1itgUJ8TPQiOG-URHsoQ7xMFrEMai3DSn/edit?slide=id.p26#slide=id.p26" rel="noopener noreferrer nofollow" target="_blank"><u>Reporting Details and Parent-Teacher Meeting&nbsp; on 2 Jan 2026</u></a>
 </p>
 </li>
 </ul>
