@@ -1,7 +1,7 @@
 ---
 title: Templatetest
 permalink: /templatetest/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h2><strong>Level 1 Registration (2026)</strong></h2>
@@ -22,7 +22,7 @@ Dec 2025, 11:59pm.</p>
 <img style="float: right;width:183px;height:240px;margin-right:25px;" height="auto" width="100%" src="/images/pro1.png">
 </div>
 <p></p>
- <ul style="margin-top:0; margin-bottom:0;">
+<ol data-tight="true" class="tight">
 <li>
 <p><a href="https://youtu.be/5OoQX2ZQ-M0" rel="noopener nofollow" target="_blank">Principal’s Address</a>
 </p>
@@ -126,7 +126,7 @@ Dec 2025, 11:59pm.</p>
 </p>
 <p></p>
 </li>
-</ul>
+</ol>
 <h4>Sec 1 &amp; Year 1 Appeal (2026)</h4>
 <p>The appeal for joining our Secondary 1 and Year 1 (2026 cohort) will open
 on the day of PSLE Posting Results and close on 22 December, 11.59 pm.
