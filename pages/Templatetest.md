@@ -29,7 +29,7 @@ Dec 2025, 11:59pm.</p>
 </li>
 <li>
 <p>General Information
-<br><a href="https://docs.google.com/presentation/d/1itgUJ8TPQiOG-URHsoQ7xMFrEMai3DSn/edit?slide=id.p13#slide=id.p13" rel="noopener noreferrer nofollow" target="_blank"><u>General Matters</u></a>
+<br><a class="no-icon" href="https://docs.google.com/presentation/d/1itgUJ8TPQiOG-URHsoQ7xMFrEMai3DSn/edit?slide=id.p13#slide=id.p13" rel="noopener noreferrer nofollow" target="_blank"><u>General Matters</u></a>
 <br><a href="https://docs.google.com/presentation/d/1itgUJ8TPQiOG-URHsoQ7xMFrEMai3DSn/edit?slide=id.p11#slide=id.p11" rel="noopener noreferrer nofollow" target="_blank"><u>School Programme</u></a><u>&nbsp;</u>
 <br><a href="https://docs.google.com/presentation/d/1itgUJ8TPQiOG-URHsoQ7xMFrEMai3DSn/edit?slide=id.p6#slide=id.p6" rel="noopener noreferrer nofollow" target="_blank"><u>Traffic &amp; Student Safety reminders</u></a><u>&nbsp;</u>
 <br><a href="https://docs.google.com/presentation/d/1itgUJ8TPQiOG-URHsoQ7xMFrEMai3DSn/edit?slide=id.g10969a0da72_0_0#slide=id.g10969a0da72_0_0" rel="noopener noreferrer nofollow" target="_blank"><u>Personalised Digital Learning Programme</u></a>
