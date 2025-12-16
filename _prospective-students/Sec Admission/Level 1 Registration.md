@@ -29,8 +29,7 @@ Dec 2025, 11:59pm.</p>
 </p>
 </li>
 <li>
-<p><u>General Information</u>
-</p>
+<p>General Information</p>
 <ul>
 <li>
 <p><a href="https://docs.google.com/presentation/d/1itgUJ8TPQiOG-URHsoQ7xMFrEMai3DSn/edit?slide=id.p13#slide=id.p13" rel="noopener noreferrer nofollow" target="_blank"><u>General Matters</u></a>
@@ -77,11 +76,9 @@ Dec 2025, 11:59pm.</p>
 <li>
 <p><a href="https://drive.google.com/file/d/1QWQr4OGLdE2MigfienIqgPZcRILdo0TF/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>Third Language Programme</u></a>
 </p>
-<p></p>
 </li>
 <li>
-<p><u>MEP Information</u>
-</p>
+<p>MEP Information</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/file/d/1HGPEKsTDUKWihQ8Wd9yQZlQMIfZe1tv9/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>MEP Briefing slides</u></a>
@@ -94,8 +91,7 @@ Dec 2025, 11:59pm.</p>
 </ul>
 </li>
 <li>
-<p><u>AEP Information</u>
-</p>
+<p>AEP Information</p>
 <ul>
 <li>
 <p><a href="https://drive.google.com/file/d/1YU8Og8hMHRkZKt5YLnqz2maiCwV7NAyO/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>AEP Briefing slides</u></a>
@@ -118,8 +114,7 @@ Dec 2025, 11:59pm.</p>
 </ul>
 </li>
 <li>
-<p><u>Information on newspaper collection to Level 1 parents</u>
-</p>
+<p>Information on newspaper collection to Level 1 parents</p>
 <ul>
 <li>
 <p><a href="https://drive.google.com/file/d/1i3ooqTS5MJzw9wsQ0psGGZ3aowTYReMl/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>Sign-up form for parent volunteers</u></a>
