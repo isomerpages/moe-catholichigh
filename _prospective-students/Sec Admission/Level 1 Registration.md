@@ -79,7 +79,7 @@ Dec 2025, 11:59pm.</p>
 </ul>
 <h4>Sec 1 &amp; Year 1 Appeal (2026)</h4>
 <p>The appeal for joining our Secondary 1 and Year 1 (2026 cohort) will open
-on the day of PSLE Posting Results and close on 22 December, 11.59 pm.
+on the day of PSLE Posting Results and close on 23 December, 11.59 pm.
 The appeal can only be submitted online; we do not accept walk-in appeal.
 Only successful applicants will hear from us. In the meantime, do register
 with the school to which your son has been posted.</p>
