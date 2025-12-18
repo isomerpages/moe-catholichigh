@@ -17,8 +17,6 @@ sections:
       title: 2026 Level 1 Registration
       subtitle: Lastest news
       id: infobar
-      description: This page will be updated on the day of release of Secondary 1
-        posting results on Friday, 19 December 2025.
       url: /prospective-students/sec-admission/level-1-registration/
       button: CLICK HERE TO FIND OUT MORE!
   - infopic:
