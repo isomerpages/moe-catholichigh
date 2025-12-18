@@ -58,7 +58,7 @@ Dec 2025, 11:59pm.</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/19OSMwdSWBpSW-MQ9k6bSJZkjrmkwuUMQ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>Orientation Programme &amp; Information</u></a>
+<p><a href="https://drive.google.com/file/d/1izdUuujWDbOWO210p3LVH3NuKvb3a41C/view?usp=drivesdk" rel="noopener noreferrer nofollow" target="_blank"><u>Orientation Programme &amp; Information</u></a>
 </p>
 </li>
 <li>
