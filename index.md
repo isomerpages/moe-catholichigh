@@ -19,17 +19,6 @@ sections:
       id: infobar
       url: /prospective-students/sec-admission/level-1-registration/
       button: CLICK HERE TO FIND OUT MORE!
-  - infopic:
-      title: "2025 Information for Primary 6 Parents: WEBINAR"
-      subtitle: Latest News
-      id: infopic
-      image: /images/Secondary/Programme_overview_Nov_2025.jpg
-      alt: Image alt text
-      description: Dear parents, a big thank-you for joining us at the webinar
-        earlier. Parents who were not able to join us can watch the webinar
-        recording below.
-      url: https://www.youtube.com/watch?v=_IG4ds04KvE
-      button: Principal's address (webinar)
   - infobar:
       title: 2025 Direct School Admission – Secondary (DSA-Sec) Exercise
       subtitle: Latest News
