@@ -8,11 +8,8 @@ Catholic High School (Sec) is a single session school with an estimated enrolmen
 
 Our canteen operates from Mondays to Fridays, 7.00am to 3.00pm during the school term.
 
-The details of the advertisement as follows :-
-
-| Type of Stall | Closing Date |
-| -------- | -------- |
-| Muslim Food (Rice, Western or Fusion) | 31 October 2024 |
+* There are no stall vacancies at the moment.
+* Please check [MOE's "School Canteen Advertisements"](https://schadmsvc.moe.gov.sg/schcanteenads/) for any latest stall vacancies.
 
 **Application Procedure**
 
