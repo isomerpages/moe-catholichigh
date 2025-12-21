@@ -135,6 +135,7 @@ Categories)
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>-x</p>
 <p>- 2025 Singapore Mathematics Olympiad: Silver (Category 1 Schools Award),
 2 Gold, 11 Silver, 29 Bronze, 35 Honorable Mention
 <br>- 2025 Singapore Mathematics Project Festival: 1 Silver, 1 Bronze​
