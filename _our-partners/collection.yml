@@ -2,5 +2,5 @@ collections:
   our-partners:
     output: true
     order:
-      - Catholic High Alumni (CHA).md
       - School Management Committee.md
+      - Catholic High Alumni (CHA).md
