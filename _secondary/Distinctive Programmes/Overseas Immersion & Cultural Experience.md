@@ -22,7 +22,7 @@ These overseas immersion trip aim to:
 *  Expose students to transformation and progress in Asia and around the world, and sensitise them to the place of Singapore in the world; *and*
 *   Provide platforms and opportunities for students to work collaborative and learn through real-life experiences and problem-solving, while communicating their learning effectively and clearly to others.
 
-Our school leverages stakeholders and community such as alumni experts to provide support, advice and resources, especially in the area of overseas cultural experiences, industrial visits and attachments. Our students have travelled to China, Japan, Thailand, USA, United Kingdom, Vietnam and other countries for immersion. In turn, we have forged collaborations and partnerships with overseas schools, and our students have hosted teacher and/or students from China, Taiwan and Japan for immersion in our school.
+Our school leverages stakeholders and community such as alumni experts to provide support, advice and resources, especially in the area of overseas cultural experiences, industrial visits and attachments. Our students have travelled to China, Japan, Thailand, USA, United Kingdom, Vietnam and other countries for immersion. In turn, we have forged collaborations and partnerships with overseas schools, and our students have hosted teacher and/or students from China and Japan for immersion in our school.
 
 ##### Types of Cultural Immersion
 
