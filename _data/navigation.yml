@@ -18,16 +18,18 @@ links:
   - title: Our People
     url: "#"
     sublinks:
-      - title: Staff
+      - title: School Staff
         url: /staff/primary-section
       - title: School Management Committee
         url: /our-partners/smc/
       - title: Catholic High Alumni (CHA)
         url: https://cha.org.sg/
-      - title: Parent Support Group (FB)
-        url: https://www.facebook.com/psg.chs/
-      - title: Dads4Life (FB)
+      - title: Catholic Parents Community
+        url: https://docs.google.com/forms/d/1hNNZZL0DSz2lLWBlXAE468_Qz6w5PLnMCF7Zs6WMJdk/viewform?edit_requested=true
+      - title: Dads4Life FB
         url: https://www.facebook.com/CHS.Dads4Life/
+      - title: Parent Support Group FB
+        url: https://www.facebook.com/psg.chs/
   - title: Primary
     url: "#"
     sublinks:
