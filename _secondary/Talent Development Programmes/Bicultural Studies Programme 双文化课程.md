@@ -39,7 +39,7 @@ The scholarship is tenable for 4 years, from Year 3 to Year 6, and scholars are 
 2. At Pre-University: Offer H2 China Studies (Chinese); and
 3. Participate in BSP(C) activities organised by the MOE and school.
 
-Please refer to the MOE website for more details about the scholarship. 
+Please refer to the [MOE website](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships/bicultural-studies-programme-scholarship) for more details about the scholarship. 
 
 
 xxx
