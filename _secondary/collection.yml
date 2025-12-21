@@ -3,6 +3,10 @@ collections:
     output: true
     order:
       - Prospectus.md
+      - Awards & Achievements/.keep
+      - Awards & Achievements/Overview.md
+      - Awards & Achievements/Academic Achievements (Sec).md
+      - Awards & Achievements/CCA Achievements (Sec).md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Overview.md
       - Distinctive Programmes/Bilingual and Bicultural Education 双语双文化教育.md
@@ -20,8 +24,4 @@ collections:
       - Talent Development Programmes/Humanities TDP.md
       - Talent Development Programmes/Maths TDP.md
       - Talent Development Programmes/Music Elective Programme.md
-      - Awards & Achievements/.keep
-      - Awards & Achievements/Overview.md
-      - Awards & Achievements/Academic Achievements (Sec).md
-      - Awards & Achievements/CCA Achievements (Sec).md
       - FAQs (Secondary Section).md
