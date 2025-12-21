@@ -439,27 +439,27 @@ and 8 Honourable Mention (Top 7)
 and 3 Honourable Mention (Top 7)
 <br>- 2017 Singapore Junior Biology Olympiad: 4 Gold, 7 Silver, 6 Bronze and
 1 Honourable Mention (Top 9)
-<br>- Singapore Junior Chemistry Olympiad 2019: 2 Bronze, 4 Merit
-<br>- Singapore Junior Chemistry Olympiad 2018: 1 Silver, 5 Bronze, 14 Merit
-<br>- Singapore Junior Chemistry Olympiad 2017: 2 Gold, 4 Silver, 6 Bronze
-and 19 Merit.
-<br>- Singapore Junior Chemistry Olympiad 2017: Our school is ranked 3rd overall
-in Singapore among all participating schools.
-<br>- Singapore Junior Biology Olympiad 2016: 1 Gold, 5 Silver, 4 Bronze
-<br>- Singapore Junior Chemistry Olympiad 2019: 2 Bronze, 4 Merit
-<br>- Singapore Junior Chemistry Olympiad 2018: 1 Silver, 5 Bronze, 14 Merit
-<br>- Singapore Junior Chemistry Olympiad 2017: 2 Gold, 4 Silver, 6 Bronze
-and 19 Merit. (Top 3)
-<br>- Singapore Junior Physics Olympiad 2020: 8 Bronze, 21 Honourable Mention
-<br>- Singapore Junior Physics Olympiad 2019: 5 Silver, 6 Bronze, 21 Honourable
+<br>- 2019 Singapore Junior Chemistry Olympiad: 2 Bronze, 4 Merit
+<br>- 2018 Singapore Junior Chemistry Olympiad: 1 Silver, 5 Bronze, 14 Merit
+<br>- 2017 Singapore Junior Chemistry Olympiad: 2 Gold, 4 Silver, 6 Bronze
+and 19 Merit
+<br>- 2017 Singapore Junior Chemistry Olympiad: Ranked 3rd overall among all
+participating schools
+<br>- 2016 Singapore Junior Biology Olympiad: 1 Gold, 5 Silver, 4 Bronze
+<br>- 2019 Singapore Junior Chemistry Olympiad: 2 Bronze, 4 Merit
+<br>- 2018 Singapore Junior Chemistry Olympiad: 1 Silver, 5 Bronze, 14 Merit
+<br>- 2017 Singapore Junior Chemistry Olympiad: 2 Gold, 4 Silver, 6 Bronze
+and 19 Merit (Top 3)
+<br>- 2020 Singapore Junior Physics Olympiad: 8 Bronze, 21 Honourable Mention
+<br>- 2019 Singapore Junior Physics Olympiad: 5 Silver, 6 Bronze, 21 Honourable
 Mention
-<br>- Singapore Junior Physics Olympiad 2018: 2 Silver, 4 Bronze, 10 Honourable
+<br>- 2018 Singapore Junior Physics Olympiad: 2 Silver, 4 Bronze, 10 Honourable
 Mention
-<br>- Singapore Junior Physics Olympiad 2017: 2 Silver, 7 Bronze, 16 Honourable
+<br>- 2017 Singapore Junior Physics Olympiad: 2 Silver, 7 Bronze, 16 Honourable
 Mention
-<br>- Young Defence Scientists Programme (YDSP) Scholarship: 3 Awardees (2019)
-<br>- Young Defence Scientists Programme (YDSP) Scholarship: 4 Awardees (2018)
-<br>- Young Defence Scientists Programme (YDSP) Scholarship: 6 Awardees (2017)</p>
+<br>- 2019 Young Defence Scientists Programme (YDSP) Scholarship: 3 Awardees
+<br>- 2018 Young Defence Scientists Programme (YDSP) Scholarship: 4 Awardees
+<br>- 2017 Young Defence Scientists Programme (YDSP) Scholarship: 6 Awardees</p>
 </td>
 </tr>
 </tbody>
