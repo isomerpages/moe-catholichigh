@@ -60,7 +60,7 @@ and 13th Best Speaker
 <br>- 2024 National Poetry Competition Top 10 Winner in both Junior and Super
 Junior Category
 <br>- 2024 MOE Creative ART Seminar: Selected Participants
-<br>- 2023 Queen’s Commonwealth Essay Competition: 3 Golds, 9 Silvers , 21
+<br>- 2023 Queen’s Commonwealth Essay Competition: 3 Golds, 9 Silvers, 21
 Bronzes
 <br>- 2023 Eunoia Debating Championship: 12th Best Speaker, 18th Best Speaker​
 <br>- 2023 Asian International Schools Debating Championship: Quarter finalist
@@ -161,30 +161,19 @@ Mention​
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2025 Asian Try Zero-G: "How uneven mass dispersion affects the rotation
-of a rigid structure, with 3 distinct axes of rotation"</p>
-<p>- 2023 Asian Try Zero-G: Proposed experiment (Zero-G Siphon) performed
-at the International Space Station (ISS) in Feb 2024</p>
-<p>- 2025 Singapore Junior Biology Olympiad: 4 Gold, 16 Silver, 7 Bronze,
-4 Honourable Mention​
-<br>- 2024 Singapore Junior Biology Olympiad: 8 Gold, 7 Silver, 16 Bronze,
-2 Honourable Mention​
-<br>- 2025 Singapore Junior Chemistry Olympiad: 4 Gold, 6 Silver, 9 Bronze
-(Band 3)</p>
-<p>- 2024 Singapore Junior Chemistry Olympiad: 2 Gold, 6 Silver, 1 Bronze,
-1 Merit (Band 2)
-<br>- 2025 Singapore Junior Physics Olympiad: 1 Gold, 12 Silver, 16 Bronze,
-13 Honourable Mention</p>
-<p>- 2024 Singapore Junior Physics Olympiad: 5 Silver, 16 Bronze, 9 Honourable
-Mention
-<br>- 2025 National STEM Championship: Champion</p>
-<p>- 2024 National STEM Challenge: Semi-Finalist
-<br>- 2024 International Biomedical Quiz: 2 Gold, 2 Silver, 1 Bronze, 4 Honourable
-Mention
-<br>- 2024 Rio Tinto Big Science Competition: 22 High Distinction, 28 Distinction,
-22 Credit
-<br>- 2025 National Air Race​: 2nd (Team Open Cat)​, Champion (Fighter Cat)</p>
-<p>- 2024 National Air Race​: 3rd (Team Open Cat)​, Champion (Fighter Cat)
+<p><strong>- 2025 Asian Try Zero-G: "How uneven mass dispersion affects the rotation of a rigid structure, with 3 distinct axes of rotation"</strong>
+</p>
+<p><strong>- 2023 Asian Try Zero-G: Proposed experiment (Zero-G Siphon) performed at the International Space Station (ISS) in Feb 2024</strong>
+</p>
+<p><strong>- 2025 Singapore Junior Biology Olympiad: 4 Gold, 16 Silver, 7 Bronze, 4 Honourable Mention​ <br>- 2024 Singapore Junior Biology Olympiad: 8 Gold, 7 Silver, 16 Bronze, 2 Honourable Mention​ <br>- 2025 Singapore Junior Chemistry Olympiad: 4 Gold, 6 Silver, 9 Bronze (Band 3)</strong>
+</p>
+<p><strong>- 2024 Singapore Junior Chemistry Olympiad: 2 Gold, 6 Silver, 1 Bronze, 1 Merit (Band 2) <br>- 2025 Singapore Junior Physics Olympiad: 1 Gold, 12 Silver, 16 Bronze, 13 Honourable Mention</strong>
+</p>
+<p><strong>- 2024 Singapore Junior Physics Olympiad: 5 Silver, 16 Bronze, 9 Honourable Mention <br>- 2025 National STEM Championship: Champion</strong>
+</p>
+<p><strong>- 2024 National STEM Challenge: Semi-Finalist <br>- 2024 International Biomedical Quiz: 2 Gold, 2 Silver, 1 Bronze, 4 Honourable Mention <br>- 2024 Rio Tinto Big Science Competition: 22 High Distinction, 28 Distinction, 22 Credit <br>- 2025 National Air Race​: 2nd (Team Open Cat)​, Champion (Fighter Cat)</strong>
+</p>
+<p><strong>- 2024 National Air Race​: 3rd (Team Open Cat)​, Champion (Fighter Cat) </strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -202,8 +191,8 @@ Mention
 </tr>
 </tbody>
 </table>
-<p><strong>Some of our students’ past academic achievements are:</strong>
-</p>
+<p></p>
+<p>Some of our students’ past academic achievements are:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
