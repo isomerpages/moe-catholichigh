@@ -334,34 +334,31 @@ in Junior Exhibition category; Commendation Award for Junior Research Paper
 </td>
 <td rowspan="1" colspan="1">
 <p>- 2022 Singapore Mathematics Project Festival: Foo Kean Pew Prize Memorial
-<br>- 2022 Singapore Mathematics Olympiad: Category 1 Schools Award - Silver,
-1 Gold, 13 Silver, 38 Bronze, 31 Honorable Mention
+<br>- 2022 Singapore Mathematics Olympiad: Silver Award for School Award Category
+1, 1 Gold, 13 Silver, 38 Bronze, 31 Honorable Mention
 <br>- 2022 ICAS (Math): 7 Top Prize Medallists, 20 High Distinctions
 <br>- 2021 ICAS Math (Senior): 4 Top Prize Medalists
-<br>- 2021 ICAS Math (Junior) (2021): 3 Top Prize Medalists
-<br>- International Mathematics Modeling Competition (Singapore) 2020: 4 Merits
-<br>- Singapore Mathematics Project Festival 2020: 8 Bronze, 9 Merits
-<br>- Singapore Mathematics Olympiad 2020: 1 Gold, 4 Silver, 12 Bronze, 7
+<br>- 2021 ICAS Math (Junior): 3 Top Prize Medalists
+<br>- 2020 International Mathematics Modeling Competition (Singapore): 4 Merit
+<br>- 2020 Singapore Mathematics Project Festival: 8 Bronze, 9 Merit
+<br>- 2020 Singapore Mathematics Olympiad: 1 Gold, 4 Silver, 12 Bronze, 7
 Honourable Mention
-<br>- Singapore Mathematical Olympiads Competition 2019: Silver Award for
-School Award Category 1; 1 Gold, 11 Silver, 26 Bronze, 19 Honorable Mention
-<br>- Singapore Mathematics Project Festival 2019: 2 Bronze, 2 Excellent Presentation
-<br>- Singapore Mathematics Society Essay Competition 2018: 1st and 3rd Prizes
-<br>- Singapore Mathematical Olympiad 2018 (Junior) : 7 Silvers, 14 Bronzes,
+<br>- 2019 Singapore Mathematical Olympiads Competition: Silver Award for
+School Award Category 1, 1 Gold, 11 Silver, 26 Bronze, 19 Honorable Mention
+<br>- 2019 Singapore Mathematics Project Festival: 2 Bronze, 2 Excellent Presentation
+<br>- 2018 Singapore Mathematics Society Essay Competition: 1st and 3rd Prizes
+<br>- 2018 Singapore Mathematical Olympiad (Junior): 7 Silvers, 14 Bronzes,
 15 Honorable Mentions
-<br>- Singapore Mathematical Olympiad 2018 (Senior) : 1 Silver, 10 Bronzes,
+<br>- 2018 Singapore Mathematical Olympiad (Senior): 1 Silver, 10 Bronzes,
 10 Honorable Mentions
-<br>- Singapore Mathematical Olympiad 2018 (Open) : 1 Honorable Mention
-<br>- Singapore Mathematical Olympiad 2018 (Category 1 Schools Award) : 1
-Silver
-<br>- Singapore Mathematics Project Festival 2018 : 1 team – Bronze, 1 team
-– Honorable Mention
-<br>- Singapore Mathematics Project Festival (2017) – Silver Medal
-<br>- Six students from our Mathematics Interest and Talent (MIT) development
-programme have achieved Silver Medal in Singapore Mathematics Project Festival
-(SMPF) SMPF 2017.
-<br>- Two teams from the I.O.N. CCA won both the 1st Runner-Up and 2nd Runner
-Up awards in the 2017 National Software Competition (NSC 2017)</p>
+<br>- 2018 Singapore Mathematical Olympiad (Open) : 1 Honorable Mention
+<br>- 2018 Singapore Mathematical Olympiad (Category 1 Schools Award): Silver
+<br>- 2018 Singapore Mathematics Project Festival: 1 team Bronze, 1 team Honorable
+Mention
+<br>- 2017 Singapore Mathematics Project Festival: Silver Medal
+<br>- 2017 Singapore Mathematics Project Festival (SMPF): 6 Silver
+<br>- 2017 National Software Competition (NSC): Team 1st Runner-Up and Team
+2nd Runner Up</p>
 </td>
 </tr>
 <tr>
@@ -377,7 +374,7 @@ Up awards in the 2017 National Software Competition (NSC 2017)</p>
 23 Honourable Mention
 <br>- 2023 Drone Odyssey Challenge: Champion
 <br>- 2022 Asian Try Zero-G: Only representation from Singapore whose proposed
-experiment (Double Pendulum in space) will be performed in the International
+experiment (Double Pendulum in space) was performed in the International
 Space Station (ISS)
 <br>- 2022 Singapore Junior Biology Olympiad: Runner-up (Overall) 4 Gold,
 15 Silver, 16 Bronze, 7 Honourable Mention
@@ -394,27 +391,26 @@ Mention
 <br>- 2022 National STEM Challenge: Quarter-Final
 <br>- 2022 Rio Tinto Big Science Competition: 44 High Distinction, 34 Distinction,
 35 Credit
-<br>- ASTAR Science Scholarship Award 2020: 3 awardees
-<br>- ASTAR Science Scholarship Award 2019: 2 awardees
-<br>- ASTAR Science Scholarship Award 2018: 2 awardees
-<br>- National Science Challenge: Team Semi-Final (2019)
-<br>- National Science Challenge: Runner-up (2018)
-<br>- National Science Challenge: Team Semi-Final (2017)
-<br>- CB Paul Science Quiz: 5 Gold, 5 Silver, 4 Bronze, 5 Honourable Mention
-(2019)
-<br>- CB Paul Science Quiz: 3 Gold, 3 Silver, 5 Bronze, 5 Honourable Mention
-(2018)
-<br>- CB Paul Science Quiz: 3 Gold, 4 Silver, 4 Bronze, 3 Honourable Mention
-(2017)
-<br>- ICAS Science Quiz: 26 High Distinctions, 71 Distinction, 102 Credit
-(2017)
+<br>- 2020 ASTAR Science Scholarship Award: 3 awardees
+<br>- 2019 ASTAR Science Scholarship Award: 2 awardees
+<br>- 2018 ASTAR Science Scholarship Award: 2 awardees
+<br>- 2019 National Science Challenge: Team Semi-Final
+<br>- 2018 National Science Challenge: Runner-up
+<br>- 2017 National Science Challenge: Team Semi-Final
+<br>- 2019 CB Paul Science Quiz: 5 Gold, 5 Silver, 4 Bronze, 5 Honourable
+Mention
+<br>- 2018 CB Paul Science Quiz: 3 Gold, 3 Silver, 5 Bronze, 5 Honourable
+Mention
+<br>- 2017 CB Paul Science Quiz: 3 Gold, 4 Silver, 4 Bronze, 3 Honourable
+Mention
+<br>- 2017 ICAS Science Quiz: 26 High Distinctions, 71 Distinction, 102 Credit
 <br>- NUS Chem Communication Challenge: Merit (2019), Top 4 (2017)
-<br>- Rio Tinto Big Science Competition: 49 High Distinction, 73 Distinction,
-123 Credit (2019)
-<br>- Rio Tinto Big Science Competition: 82 High Distinction, 106 Distinction,
-140 Credit (2018)
-<br>- Rio Tinto Big Science Competition: 77 High Distinction, 129 Distinction,
-141 Credit (2017)
+<br>- 2019 Rio Tinto Big Science Competition: 49 High Distinction, 73 Distinction,
+123 Credit
+<br>- 2018 Rio Tinto Big Science Competition: 82 High Distinction, 106 Distinction,
+140 Credit
+<br>- 2017 Rio Tinto Big Science Competition: 77 High Distinction, 129 Distinction,
+141 Credit
 <br>- International Biomedical Olympiad: 1 Gold, 2 Silver, 1 Bronze, 3 Merit,
 3 Honourable Mention (2020)
 <br>- International Biomedical Olympiad : 2 Gold, 2 Silver, 1 Bronze, 3 Merit,
