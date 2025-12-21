@@ -103,6 +103,11 @@ Bronzes
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/2024_CL_MT_Achievement.jpg">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Awards &amp; Achievements/MTL_2025_1.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -142,9 +147,7 @@ Mention​
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Mathematics_2024.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Mathematics_2024_2.jpg">
 </div>
