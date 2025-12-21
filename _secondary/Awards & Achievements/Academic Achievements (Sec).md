@@ -172,7 +172,9 @@ at the International Space Station (ISS) in Feb 2024</p>
 4 Honourable Mention​
 <br>- 2024 Singapore Junior Biology Olympiad: 8 Gold, 7 Silver, 16 Bronze,
 2 Honourable Mention​
-<br>- 2024 Singapore Junior Chemistry Olympiad: 2 Gold, 6 Silver, 1 Bronze,
+<br>- 2025 Singapore Junior Chemistry Olympiad: 4 Gold, 6 Silver, 9 Bronze
+(Band 3)</p>
+<p>- 2024 Singapore Junior Chemistry Olympiad: 2 Gold, 6 Silver, 1 Bronze,
 1 Merit (Band 2)
 <br>- 2024 Singapore Junior Physics Olympiad: [Individual] 5 Silver, 16 Bronze,
 9 Honourable Mention
