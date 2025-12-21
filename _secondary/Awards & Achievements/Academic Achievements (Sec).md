@@ -176,14 +176,17 @@ at the International Space Station (ISS) in Feb 2024</p>
 (Band 3)</p>
 <p>- 2024 Singapore Junior Chemistry Olympiad: 2 Gold, 6 Silver, 1 Bronze,
 1 Merit (Band 2)
-<br>- 2024 Singapore Junior Physics Olympiad: [Individual] 5 Silver, 16 Bronze,
-9 Honourable Mention
+<br>- 2025 Singapore Junior Physics Olympiad: 1 Gold, 12 Silver, 16 Bronze,
+13 Honourable Mention</p>
+<p>- 2024 Singapore Junior Physics Olympiad: 5 Silver, 16 Bronze, 9 Honourable
+Mention
 <br>- 2024 National STEM Challenge: Semi-Finalist
 <br>- 2024 International Biomedical Quiz: 2 Gold, 2 Silver, 1 Bronze, 4 Honourable
 Mention
-<br>-2024 Rio Tinto Big Science Competition: 22 High Distinction, 28 Distinction,
+<br>- 2024 Rio Tinto Big Science Competition: 22 High Distinction, 28 Distinction,
 22 Credit
-<br>- 2024 National Air Race​: Team Open Cat - 3rd​, Fighter Cat - Champion
+<br>- 2025 National Air Race​: 2nd (Team Open Cat)​, Champion (Fighter Cat)</p>
+<p>- 2024 National Air Race​: 3rd (Team Open Cat)​, Champion (Fighter Cat)
 <br>
 </p>
 <div class="isomer-image-wrapper">
