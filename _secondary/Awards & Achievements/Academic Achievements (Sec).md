@@ -212,14 +212,14 @@ Mention
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2022 Eunoia Debating Championship -Quarter finalist
-<br>- 2022 Asian International Schools Debating Championship- Quarter finalist
-<br>- 2022 SMU Novice Debating Championships- Semi finalist
-<br>- 2022 SJI Illuminate- Finalist
-<br>- 2022 Queen’s Commonwealth Essay Competition- 3 Golds, 6 Silvers , 8
-Bronzes- 2020 Queen’s Commonwealth Essay Competition: 8 Gold, 2 Bronze
+<p>- 2022 Eunoia Debating Championship: Quarter finalist
+<br>- 2022 Asian International Schools Debating Championship: Quarter finalist
+<br>- 2022 SMU Novice Debating Championships: Semi finalist
+<br>- 2022 SJI Illuminate: Finalist
+<br>- 2022 Queen’s Commonwealth Essay Competition: 3 Golds, 6 Silvers , 8
+Bronzes
 <br>- 2020 Queen’s Commonwealth Essay Competition: 8 Gold, 2 Bronze
-<br>- 2020 City Hall: If Walls Could Talk Instagram Poetry: Participation
+<br>- 2020 City Hall( If Walls Could Talk Instagram Poetry): Participation
 <br>- 2020 The Short Form Lucha Libre Art Writing Competition: Participation
 <br>- 2019 Queen’s Commonwealth Essay Competition: 1 Gold, 1 Silver, 2 Bronzes
 <br>- 2019 ICAS Writing: 4 Distinctions
