@@ -24,6 +24,8 @@ variant: markdown
 * **策略三：打造多元化的校内实践平台**
 * **策略四：拓展视野的校外体验**
 
+<img src="/images/Secondary/Dual%20Track%20Curriculum/Chinese_Department______2025_01.jpg" style="width:100%">
+
 ##### 塑造文化气息浓厚的大环境
 除了扎实的语文基础，我们深信打造一个充满浓郁文化气息的环境， 将能助我们公教莘莘学子成为热爱母族语言文化的彬彬君子。
 
