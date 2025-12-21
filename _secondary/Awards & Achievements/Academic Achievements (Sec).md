@@ -162,8 +162,8 @@ Mention​
 </td>
 <td rowspan="1" colspan="1">
 <p>- 2025 Asian Try Zero-G: "How uneven mass dispersion affects the rotation
-of a rigid structure, with 3 distinct axes of rotation"
-<br>- 2023 Asian Try Zero-G: Proposed experiment (Zero-G Siphon) performed
+of a rigid structure, with 3 distinct axes of rotation"</p>
+<p>- 2023 Asian Try Zero-G: Proposed experiment (Zero-G Siphon) performed
 at the International Space Station (ISS) in Feb 2024</p>
 <p>- 2025 Singapore Junior Biology Olympiad: 4 Gold, 16 Silver, 7 Bronze,
 4 Honourable Mention​
