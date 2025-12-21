@@ -10,11 +10,39 @@ Catholic High School started the Bicultural Studies Programme (Chinese), BSP(C) 
 
 This is a [four-year programme](https://www.moe.gov.sg/education-in-sg/our-programmes/bsp-sec). Students successfully admitted to BSP(C) will complete their Year 3 and Year 4 of BSP in Catholic High School and continue the programme at Eunoia Junior College. 
 
-#### 概述  
+#### Vision
+“Every CHS BSP student is a bicultural and bilingual leader with the perspectives, principles and passion to touch lives and transform futures.”
 
-公教中学于2016年开办双文化课程，遴选热衷于学习东西方文化的中三学生修读这个课程。
+#### Objectives
+The objectives of the BSP(C) are to:
+1. Nurture principled, bicultural and enterprising leaders who are able to engage with China and understand the West;
+2. Develop bilingual scholars who are passionate about analyzing and projecting the historical, cultural and contemporary developments of both the East and West; and
+3. Broaden our students’ horizon, and cultivate their global perspectives and world readiness as part of the global diaspora.
 
-双文化课程是为期四年的课程。修读双文化课程的学生将会在公教中学完成两年的双文化课程，并在诺雅初级学院完成第三至第四年的课程。
+#### Course Outline
+This programme aims to deepen students’ understanding of history, social evolution, economic developments and international relations of contemporary China with the rest of the world, particularly the West. Students will be exposed to historical analyses, experiential learning and other approaches that cultivate their interest and deepen their learning.
+
+Besides covering topics related to China, students will also learn more about their roots and roles as Southeast Asian Chinese and how the development of China will affect them.
+
+Students will have the opportunities to carry out research studies, attend various seminars and workshops organized by MOE and the school.
+
+#### Assessments
+Students in BSP(C) will be graded based on:
+* Research based presentation
+* Thesis writing in Year 4
+
+#### MOE BSP Scholarship
+Year 2 Students who have obtained exemplary results in both English Language and Higher Chinese Language will be recommended for this scholarship.
+
+The scholarship is tenable for 4 years, from Year 3 to Year 6, and scholars are to fulfil the following scholarship requirements:
+1. At Year 3 and 4: Offer Higher Chinese and Chinese Electives as required by the school (BSP)
+2. At Pre-University: Offer H2 China Studies (Chinese); and
+3. Participate in BSP(C) activities organised by the MOE and school.
+
+Please refer to the MOE website for more details about the scholarship. 
+
+
+xxx
 
 _(Below) One of our BSP scholars from class of 2016-2017, Ong Chong Yu, at the award ceremony for his Prime Minister’s Book Prize. Established in 1974, the Prime Minister’s Book Prize is a national award recognising outstanding students for bilingualism._
 
