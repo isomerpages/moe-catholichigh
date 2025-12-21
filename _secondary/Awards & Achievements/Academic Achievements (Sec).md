@@ -179,15 +179,14 @@ Mention
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Science_2023.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Science_2_2024.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Science_3_2024.jpg">
 </div>
-<p>
-<br>
-</p>
 </td>
 </tr>
 </tbody>
