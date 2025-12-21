@@ -55,19 +55,18 @@ excellence for themselves and the school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- 2024 Secondary Schools Debating Championship: Quarter-finalist, 3rd
-and 13th Best Speaker
+and 13th Best Speakers
 <br>- 2024 Mid-year Debate Invitationals: Gold
 <br>- 2024 National Poetry Competition: Top 10 Winner in both Junior and Super
 Junior Category
 <br>- 2024 MOE Creative ART Seminar: Selected Participants
-<br>- 2023 Queen’s Commonwealth Essay Competition: 3 Golds, 9 Silvers, 21
-Bronzes
-<br>- 2023 Eunoia Debating Championship: 12th Best Speaker, 18th Best Speaker​
+<br>- 2023 Queen’s Commonwealth Essay Competition: 3 Gold, 9 Silver, 21 Bronze
+<br>- 2023 Eunoia Debating Championship: 12th and 18th Best Speaker​s
 <br>- 2023 Asian International Schools Debating Championship: Quarter finalist
 <br>- 2023 Singapore Secondary Schools Debating Championship: Semi finalist,
-5th Best Speaker, 16th Best Speaker
+5th and 16th Best Speakers
 <br>- 2023 Mid-year Debate Invitationals: Semi-finalist, 1st, 2nd, 5th and
-6th Best Speaker
+6th Best Speakers
 <br>- 2023 Hwa Chong British Parliamentaries: Semi-finalist</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Hwa_Chong_British_Parliamentaries_2023_Semi_Finalist.jpg">
