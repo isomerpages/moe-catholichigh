@@ -135,9 +135,10 @@ Categories)
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- ?​
-<br>- ?​
-<br>- ?​<strong><br></strong>- ?​
+<p>- 2025 Singapore Mathematics Olympiad: Silver (Category 1 Schools Award),
+2 Gold, 11 Silver, 29 Bronze, 35 Honorable Mention
+<br>- 2025 Singapore Mathematics Project Festival: 1 Silver, 1 Bronze​
+<br>- 2025 International Mathematical Modelling Competition: Merit​
 <br>- 2024 Singapore Mathematics Olympiad: Silver (Category 1 Schools Award),
 2 Gold, 7 Silver, 17 Bronze, 35 Honorable Mention​
 <br>- 2024 Singapore Mathematics Project Festival: 1 Silver, 1 Bronze, 1 Honorable
