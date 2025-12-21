@@ -41,7 +41,10 @@ The scholarship is tenable for 4 years, from Year 3 to Year 6, and scholars are 
 
 Please refer to the [MOE website](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships/bicultural-studies-programme-scholarship) for more details about the scholarship. 
 
+#### 概述
+公教中学于2016年开办双文化课程，遴选热衷于学习东西方文化的中三学生修读这个课程。
 
+双文化课程[为期四年](https://www.moe.gov.sg/education-in-sg/our-programmes/bsp-sec)。双文化课程的学生将会在公教中学完成两年的课程，并在诺雅初级学院继续完成第三至第四年的课程
 xxx
 
 _(Below) One of our BSP scholars from class of 2016-2017, Ong Chong Yu, at the award ceremony for his Prime Minister’s Book Prize. Established in 1974, the Prime Minister’s Book Prize is a national award recognising outstanding students for bilingualism._
