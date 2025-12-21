@@ -60,7 +60,11 @@ Please refer to the [MOE website](https://www.moe.gov.sg/financial-matters/award
 除了和中国有关的课题，公教中学的双文化课程学生也将学习他们身为东南亚华人的历史根源和所扮演的角色，以及中国的发展对他们的影响。
 学生也将有机会进行研究、参加由教育部和学校主办的研讨会、工作坊和学习之旅。
 
-<img src="/images/bsp2.png" style="width:100%">
+![](/images/Secondary/Talent%20Development/bsp_01.png)
 
 *(Above) One of our BSP scholars from class of 2016-2017, Ong Chong Yu, at the award ceremony for his Prime Minister’s Book Prize. Established in 1974, the Prime Minister’s Book Prize is a national award recognising outstanding students for bilingualism.公教双文化课程2017年毕业生王崇宇荣获总理书籍奖。总理书籍奖设立于1974年，是国家级奖项，旨在表彰学生学习双语的卓越表现。*
 
+#### 评估
+评估方式包括：
+* 口头呈现
+* 论文写作
