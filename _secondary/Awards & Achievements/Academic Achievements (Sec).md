@@ -311,26 +311,21 @@ Representation
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2022 NUS Geography Challenge : 2 Gold &amp; 2 Silver
-<br>- 2022 24 students shortlisted for MOE Geography TDP
-<br>- 2022 MOE History Challenge: 2 students shortlisted for MOE History TDP
+<p>- 2022 NUS Geography Challenge: 2 Gold &amp; 2 Silver
+<br>- 2022 MOE Geography TDP: 24 students shortlisted
+<br>- 2022 MOE History Challenge: 2 students shortlisted
 <br>- 2022 Historical Scene Investigation Challenge: Bronze
 <br>- 2022 Student Archivist Project: Selected for Filming by NHB
-<br>- NUS Geography Challenge 2020: Finalists; Individual Results: 3 Gold,
+<br>- 2020 NUS Geography Challenge: Finalists; Individual Results: 3 Gold,
 1 Participation
-<br>- NUS Geography Challenge 2019 Results: Finalists; Individual Results:
-3 Gold Awards
-<br>- Historical Scene Investigation Challenge: Bronze
-<br>- Singapore History Day 2019: 1st in Senior Documentary category; 3rd
+<br>- 2019 NUS Geography Challenge: Finalists; Individual Results: 3 Gold
+<br>- 2019 Historical Scene Investigation Challenge: Bronze
+<br>- 2019 Singapore History Day: 1st in Senior Documentary category; 3rd
 in Junior Exhibition category; Commendation Award for Junior Research Paper
-<br>- 6 of our students from the 2019 cohort were awarded the MOE Humanities
-Scholarship
-<br>- 7 of our students from the 2018 cohort were awarded the MOE Humanities
-Scholarship
-<br>- 2 students were invited to take part in MOE History Talent Development
-Programme
-<br>- 3 students were invited to take part in MOE Geography Talent Development
-Programme</p>
+<br>- 2019 MOE Humanities Scholarship: 6 students awarded
+<br>- 2018 MOE Humanities Scholarship: 7 students awarded
+<br>- 2 students were invited to take part in MOE History TDP
+<br>- 3 students were invited to take part in MOE Geography TDP</p>
 </td>
 </tr>
 <tr>
@@ -338,13 +333,12 @@ Programme</p>
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2022 Singapore Mathematics Project Festival 2022: Foo Kean Pew Prize
-Memorial
-<br>- 2022 Singapore Mathematics Olympiad: Category 1 Schools Award-Silver,
-1 Gold, 13 silver, 38 Bronze, 31 Honorable Mention
+<p>- 2022 Singapore Mathematics Project Festival: Foo Kean Pew Prize Memorial
+<br>- 2022 Singapore Mathematics Olympiad: Category 1 Schools Award - Silver,
+1 Gold, 13 Silver, 38 Bronze, 31 Honorable Mention
 <br>- 2022 ICAS (Math): 7 Top Prize Medallists, 20 High Distinctions
-<br>- ICAS Math (Senior) (2021): 4 Top Prize Medalists
-<br>- ICAS Math (Junior) (2021): 3 Top Prize Medalists
+<br>- 2021 ICAS Math (Senior): 4 Top Prize Medalists
+<br>- 2021 ICAS Math (Junior) (2021): 3 Top Prize Medalists
 <br>- International Mathematics Modeling Competition (Singapore) 2020: 4 Merits
 <br>- Singapore Mathematics Project Festival 2020: 8 Bronze, 9 Merits
 <br>- Singapore Mathematics Olympiad 2020: 1 Gold, 4 Silver, 12 Bronze, 7
