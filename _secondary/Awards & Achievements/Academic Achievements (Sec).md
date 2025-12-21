@@ -161,15 +161,28 @@ Mention​
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>- 2025 Asian Try Zero-G: "How uneven mass dispersion affects the rotation of a rigid structure, with 3 distinct axes of rotation"</strong>
-</p>
-<p><strong>- 2023 Asian Try Zero-G: Proposed experiment (Zero-G Siphon) performed at the International Space Station (ISS) in Feb 2024</strong>
-</p>
-<p><strong>- 2025 Singapore Junior Biology Olympiad: 4 Gold, 16 Silver, 7 Bronze, 4 Honourable Mention​ <br>- 2024 Singapore Junior Biology Olympiad: 8 Gold, 7 Silver, 16 Bronze, 2 Honourable Mention​ <br>- 2025 Singapore Junior Chemistry Olympiad: 4 Gold, 6 Silver, 9 Bronze (Band 3)</strong>
-</p>
-<p><strong>- 2024 Singapore Junior Chemistry Olympiad: 2 Gold, 6 Silver, 1 Bronze, 1 Merit (Band 2) <br>- 2025 Singapore Junior Physics Olympiad: 1 Gold, 12 Silver, 16 Bronze, 13 Honourable Mention</strong>
-</p>
-<p><strong>- 2024 Singapore Junior Physics Olympiad: 5 Silver, 16 Bronze, 9 Honourable Mention <br>- 2025 National STEM Championship: Champion</strong>
+<p>- 2025 Asian Try Zero-G: "How uneven mass dispersion affects the rotation
+of a rigid structure, with 3 distinct axes of rotation"
+<br>- 2023 Asian Try Zero-G: Proposed experiment (Zero-G Siphon) performed
+at the International Space Station (ISS) in Feb 2024
+<br>- 2025 Singapore Junior Biology Olympiad: 4 Gold, 16 Silver, 7 Bronze,
+4 Honourable Mention​
+<br>- 2024 Singapore Junior Biology Olympiad: 8 Gold, 7 Silver, 16 Bronze,
+2 Honourable Mention
+<br>- 2025 Singapore Junior Chemistry Olympiad: 4 Gold, 6 Silver, 9 Bronze
+(Band 3)
+<br>- 2024 Singapore Junior Chemistry Olympiad: 2 Gold, 6 Silver, 1 Bronze,
+1 Merit (Band 2)
+<br>- 2025 Singapore Junior Physics Olympiad: 1 Gold, 12 Silver, 16 Bronze,
+13 Honourable Mention
+<br>- 2024 Singapore Junior Physics Olympiad: 5 Silver, 16 Bronze, 9 Honourable
+Mention
+<br>- ?
+<br>- ?
+<br>- ?
+<br>- ?</p>
+<p></p>
+<p><strong> <br>- 2025 National STEM Championship: Champion</strong>
 </p>
 <p><strong>- 2024 National STEM Challenge: Semi-Finalist <br>- 2024 International Biomedical Quiz: 2 Gold, 2 Silver, 1 Bronze, 4 Honourable Mention <br>- 2024 Rio Tinto Big Science Competition: 22 High Distinction, 28 Distinction, 22 Credit <br>- 2025 National Air Race​: 2nd (Team Open Cat)​, Champion (Fighter Cat)</strong>
 </p>
