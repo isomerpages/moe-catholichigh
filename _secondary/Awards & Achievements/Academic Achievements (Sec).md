@@ -241,14 +241,12 @@ Representation
 <br>- 2018 Raffles Debate Academy U-14 Debating Championship: Quarter-finalist
 <br>- 2018 Youth Debate Open: Representation
 <br>- 2018 Hwa Chong Invitationals: Representation
-<br>- 2017 Speak! Ventures Debate Championship – Grand Finals: 1st Runners-up
-<br>- Singapore Secondary Schools Debate Championships Div I: Quarter-finalist
-2017
-<br>- United World College U14s 2017- Participant
-<br>- Youth Debate Open 2017- Top speaker in the Secondary School Category
-(Joshua Low)
-<br>- Hwa Chong Invitationals 2017-Participant
-<br>- River Valley Under 16 (2017)- Participant</p>
+<br>- 2017 Speak! Ventures Debate Championship (Grand Finals): 1st Runners-up
+<br>- 2017 Singapore Secondary Schools Debate Championships Div I: Quarter-finalist
+<br>- 2017 United World College U14s: Participant
+<br>- 2017 Youth Debate Open: Top speaker (Secondary School Category)
+<br>- 2017 Hwa Chong Invitationals 2017: Participant
+<br>- 2017 River Valley Under 16: Participant</p>
 </td>
 </tr>
 <tr>
