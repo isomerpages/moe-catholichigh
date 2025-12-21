@@ -68,3 +68,16 @@ Please refer to the [MOE website](https://www.moe.gov.sg/financial-matters/award
 评估方式包括：
 * 口头呈现
 * 论文写作
+
+![](/images/Secondary/Talent%20Development/bsp_02.jpg)
+
+![](/images/Secondary/Talent%20Development/bsp_03.jpg)
+
+#### 双文化奖学金
+我们将推荐在英文和高级华文考获优异成绩的中二学生申请由教育部颁发的奖学金。
+所有奖学金得主都必须：
+1. 在中三和中四选修高级华文和学校规定的华文选修课。
+2. 在初级学院选修H2中国通识。
+3. 参加所有由教育部和学校主办的双文化课程的活动。
+
+[双文化奖学金网站](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships/bicultural-studies-programme-)
