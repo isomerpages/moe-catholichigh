@@ -45,4 +45,3 @@ Through these carefully designed curricula and programmes, we are dedicated to n
 ![](/images/Secondary/Distinctive%20Programmes/BBE_1.jpg)
 
 ![](/images/Secondary/Distinctive%20Programmes/BBE_2.jpg)
-
