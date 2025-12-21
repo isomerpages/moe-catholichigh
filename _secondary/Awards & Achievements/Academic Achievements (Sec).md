@@ -404,39 +404,40 @@ Mention
 <br>- 2017 CB Paul Science Quiz: 3 Gold, 4 Silver, 4 Bronze, 3 Honourable
 Mention
 <br>- 2017 ICAS Science Quiz: 26 High Distinctions, 71 Distinction, 102 Credit
-<br>- NUS Chem Communication Challenge: Merit (2019), Top 4 (2017)
+<br>- 2019 NUS Chem Communication Challenge: Merit
+<br>- 2017 NUS Chem Communication Challenge: Top 4
 <br>- 2019 Rio Tinto Big Science Competition: 49 High Distinction, 73 Distinction,
 123 Credit
 <br>- 2018 Rio Tinto Big Science Competition: 82 High Distinction, 106 Distinction,
 140 Credit
 <br>- 2017 Rio Tinto Big Science Competition: 77 High Distinction, 129 Distinction,
 141 Credit
-<br>- International Biomedical Olympiad: 1 Gold, 2 Silver, 1 Bronze, 3 Merit,
-3 Honourable Mention (2020)
-<br>- International Biomedical Olympiad : 2 Gold, 2 Silver, 1 Bronze, 3 Merit,
-3 Honourable Mention (2019)
-<br>- International Biomedical Olympiad : 1 Gold, 2 Silver, 1 Bronze, 3 Merit,
-1 Honourable Mention (2018)
-<br>- International Biomedical Olympiad : 1 Gold, 2 Silver, 1 Bronze, 3 Merit,
-2 Honourable Mention (2017)
-<br>- National Air Race 2019: Second Runner-Up (Team Open Category), Top 4
-(Top Gun Fighter Challenge)
-<br>- National Air Race 2018: Runner-Up (Team Open Category)
-<br>- Drone Odyssey Challenge 2019: Champion, Runner-up, Best In Knowledge
-<br>- Drone Odyssey Challenge 2018: Best In Knowledge
-<br>- Youth Science Conference 2019: 1 Silver, 1 Bronze
-<br>- Youth Science Conference 2018: 1 Bronze
-<br>- Youth Science Conference 2017: 1 Silver, 3 Bronzes
-<br>- Sembcorp Marine Green Wave 2019: Commendation
-<br>- Sembcorp Marine Green Wave 2018: Runner-up
-<br>- North Zone ELEMENTZ Science Conference 2019: 2 Gold, 2 Bronze
-<br>- North Zone ELEMENTZ Science Conference 2018: 1 Gold
-<br>- National Software Competition 2018: 2 Gold, 10 Silver, 3 Bronze
-<br>- Singapore Junior Biology Olympiad 2019: 1 Gold, 13 Silver, 14 Bronze
+<br>- 2020 International Biomedical Olympiad: 1 Gold, 2 Silver, 1 Bronze,
+3 Merit, 3 Honourable Mention
+<br>- 2019 International Biomedical Olympiad : 2 Gold, 2 Silver, 1 Bronze,
+3 Merit, 3 Honourable Mention
+<br>- 2018 International Biomedical Olympiad : 1 Gold, 2 Silver, 1 Bronze,
+3 Merit, 1 Honourable Mention
+<br>- 2017 International Biomedical Olympiad : 1 Gold, 2 Silver, 1 Bronze,
+3 Merit, 2 Honourable Mention
+<br>- 2019 National Air Race: 2nd Runner-Up (Team Open Category), Top 4 (Top
+Gun Fighter Challenge)
+<br>- 2018 National Air Race: Runner-Up (Team Open Category)
+<br>- 2019 Drone Odyssey Challenge: Champion, Runner-up, Best In Knowledge
+<br>- 2018 Drone Odyssey Challenge: Best In Knowledge
+<br>- 2019 Youth Science Conference: 1 Silver, 1 Bronze
+<br>- 2018 Youth Science Conference: 1 Bronze
+<br>- 2017 Youth Science Conference: 1 Silver, 3 Bronzes
+<br>- 2019 Sembcorp Marine Green Wave: Commendation
+<br>- 2019 Sembcorp Marine Green Wave: Runner-up
+<br>- 2019 North Zone ELEMENTZ Science Conference: 2 Gold, 2 Bronze
+<br>- 2018 North Zone ELEMENTZ Science Conference: 1 Gold
+<br>- 2018 National Software Competition: 2 Gold, 10 Silver, 3 Bronze
+<br>- 2019 Singapore Junior Biology Olympiad: 1 Gold, 13 Silver, 14 Bronze
 and 8 Honourable Mention (Top 7)
-<br>- Singapore Junior Biology Olympiad 2018: 2 Gold, 14 Silver, 11 Bronze
+<br>- 2018 Singapore Junior Biology Olympiad: 2 Gold, 14 Silver, 11 Bronze
 and 3 Honourable Mention (Top 7)
-<br>- Singapore Junior Biology Olympiad 2017: 4 Gold, 7 Silver, 6 Bronze and
+<br>- 2017 Singapore Junior Biology Olympiad: 4 Gold, 7 Silver, 6 Bronze and
 1 Honourable Mention (Top 9)
 <br>- Singapore Junior Chemistry Olympiad 2019: 2 Bronze, 4 Merit
 <br>- Singapore Junior Chemistry Olympiad 2018: 1 Silver, 5 Bronze, 14 Merit
