@@ -135,12 +135,15 @@ Categories)
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2024 Singapore Mathematics Olympiad: Category 1 Schools Award - Silver,
+<p>- ?​
+<br>- ?​
+<br>- ?​<strong><br></strong>- ?​
+<br>- 2024 Singapore Mathematics Olympiad: Silver (Category 1 Schools Award),
 2 Gold, 7 Silver, 17 Bronze, 35 Honorable Mention​
 <br>- 2024 Singapore Mathematics Project Festival: 1 Silver, 1 Bronze, 1 Honorable
 Mention​
 <br>- 2024 International Mathematical Modelling Competition: Merit​
-<br>- 2024 NIE Math Challenge: 71 High Distinctions​, 126 Distinctions
+<br>- 2024 NIE Math Challenge: 71 High Distinction​, 126 Distinction<strong> </strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
