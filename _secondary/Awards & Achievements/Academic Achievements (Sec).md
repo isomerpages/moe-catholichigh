@@ -349,8 +349,8 @@ in Junior Exhibition category; Commendation Award for Junior Research Paper
 <br>- 2020 Singapore Mathematics Project Festival: 8 Bronze, 9 Merit
 <br>- 2020 Singapore Mathematics Olympiad: 1 Gold, 4 Silver, 12 Bronze, 7
 Honourable Mention
-<br>- 2019 Singapore Mathematical Olympiads Competition: Silver Award for
-School Award Category 1, 1 Gold, 11 Silver, 26 Bronze, 19 Honorable Mention
+<br>- 2019 Singapore Mathematical Olympiads Competition: Silver (Category
+1 Schools Award), 1 Gold, 11 Silver, 26 Bronze, 19 Honorable Mention
 <br>- 2019 Singapore Mathematics Project Festival: 2 Bronze, 2 Excellent Presentation
 <br>- 2018 Singapore Mathematics Society Essay Competition: 1st and 3rd Prizes
 <br>- 2018 Singapore Mathematical Olympiad (Junior): 7 Silvers, 14 Bronzes,
@@ -358,7 +358,7 @@ School Award Category 1, 1 Gold, 11 Silver, 26 Bronze, 19 Honorable Mention
 <br>- 2018 Singapore Mathematical Olympiad (Senior): 1 Silver, 10 Bronzes,
 10 Honorable Mentions
 <br>- 2018 Singapore Mathematical Olympiad (Open) : 1 Honorable Mention
-<br>- 2018 Singapore Mathematical Olympiad (Category 1 Schools Award): Silver
+<br>- 2018 Singapore Mathematical Olympiad: Silver (Category 1 Schools Award)
 <br>- 2018 Singapore Mathematics Project Festival: 1 team Bronze, 1 team Honorable
 Mention
 <br>- 2017 Singapore Mathematics Project Festival: Silver Medal
