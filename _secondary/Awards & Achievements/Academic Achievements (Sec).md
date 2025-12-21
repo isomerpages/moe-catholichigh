@@ -340,8 +340,8 @@ in Junior Exhibition category; Commendation Award for Junior Research Paper
 </td>
 <td rowspan="1" colspan="1">
 <p>- 2022 Singapore Mathematics Project Festival: Foo Kean Pew Prize Memorial
-<br>- 2022 Singapore Mathematics Olympiad: Silver Award for School Award Category
-1, 1 Gold, 13 Silver, 38 Bronze, 31 Honorable Mention
+<br>- 2022 Singapore Mathematics Olympiad: Silver (Category 1 Schools Award),
+1 Gold, 13 Silver, 38 Bronze, 31 Honorable Mention
 <br>- 2022 ICAS (Math): 7 Top Prize Medallists, 20 High Distinctions
 <br>- 2021 ICAS Math (Senior): 4 Top Prize Medalists
 <br>- 2021 ICAS Math (Junior): 3 Top Prize Medalists
