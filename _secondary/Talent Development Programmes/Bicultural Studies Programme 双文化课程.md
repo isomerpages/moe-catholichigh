@@ -5,15 +5,10 @@ description: ""
 third_nav_title: Talent Development Programmes
 variant: markdown
 ---
-<img src="/images/bsp1.png" style="width:80%">
-
 #### Overview
-<style>
-p {text-align: justify;}
-</style>
-Catholic High School started the Bicultural Studies Programme (Chinese), BSP(C) in 2016. We offer this programme to Year 3 students who are passionate about learning from the cultures of the East and West. Year 1 and 2 students may prepare themselves for the BSP selection process (at end of Year 2), by applying for development programmes such as our Cultural Ambassador Programme (华青班).
+Catholic High School started the Bicultural Studies Programme (Chinese), BSP(C) in 2016. We offer this programme to Year 3 students who are passionate about learning from the cultures of the East and West. 
 
-This is a four-year programme. Students successfully admitted to BSP(C) will complete their Year 3 and Year 4 of BSP in Catholic High School and continue the programme at the Eunoia Junior College.
+This is a [four-year programme](https://www.moe.gov.sg/education-in-sg/our-programmes/bsp-sec). Students successfully admitted to BSP(C) will complete their Year 3 and Year 4 of BSP in Catholic High School and continue the programme at Eunoia Junior College. 
 
 #### 概述  
 
