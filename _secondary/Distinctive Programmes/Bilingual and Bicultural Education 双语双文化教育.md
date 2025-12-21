@@ -5,24 +5,22 @@ description: ""
 third_nav_title: Distinctive Programmes
 variant: markdown
 ---
-### Bilingual and Bicultural Education
+# Bilingual and Bicultural Education 双语双文化教育
 
-### 双语双文化教育
-<style>
-p {text-align: justify;}
-</style>
+### Our Philosophy 教育理念
+*“The way of the Catholic High School is a way made of two rails – Chinese and English, free from any entanglement, straight to its end. Happy are those who follow. They shall obtain the scope of a sound education”— Reverend Father Becheras*
 
-_Ever heard a 13-year-old give a political speech in the persona of one of the animals in Animal Farm? Imagine a 14-year-old&nbsp;reciting Shakespeare? What about a_&nbsp;15-year-old&nbsp;_crafting a school timetable of his dreams, and writing a oral_&nbsp;defence&nbsp;_of it? A_&nbsp;16-year-old&nbsp;_writing his own public policy paper? These are but a few of the many imaginative and challenging tasks we assign to our students._
+Inspired by the vision of Reverend Father Becheras, Catholic High School is committed to a distinctive bilingual and bicultural education. We believe that proficiency in both English and Chinese, coupled with a deep appreciation of Eastern and Western cultures, equips our students to thrive as globally-minded individuals and future leaders.
 
-*   With a strong focus on effective bilingualism, we have programmes and a curriculum that aim to instil a love for the English and Chinese languages.
-*   We want our students to communicate effectively in both languages, and to have the desire to continually improve their language ability even after graduating from CHS. They should also be cognizant of the modern usage of both languages in traditional and online media, and are critical readers.
-*   Hence, both our English and Chinese curriculum have additional components of Media Literacy, Public Speaking, Theatre Craft and Creative Writing.
-*   At the same time, we have opportunities for students to develop and demonstrate bilingual and bicultural competencies, for example, our Lit Night at CHS, the Singapore Seminar, 华青班、燎原报&nbsp;and overseas immersion trips to China and Western countries.
+### A Collaborative Approach
+The English and Chinese Language Departments work in close partnership to create a rich and immersive bilingual environment for our students.
+### Curriculum & Pedagogy
+We foster a love for literature through the Lower Secondary English Literature curriculum and the Appreciation of Chinese Culture (ACC), encouraging students to pursue their passion in English Literature or Chinese Literature at higher levels.
 
-![](/images/Secondary/BBE_1.jpg)
-<br>
-![](/images/Secondary/BBE_2.jpg)
+### Signature Programmes
+* Singapore Seminar: Students undertake interdisciplinary projects and present their findings in both English and Chinese, developing the ability to articulate complex ideas bilingually.
+* Bilingual Broadcasting Station: Students co-host bilingual podcasts or live broadcasts, honing their oracy and presentation skills in both languages.
+* Bilingual Morning Assemblies: Morning assemblies alternate between English and Chinese, normalizing the use of both languages in formal settings.
+* Annual Bilingual & Bicultural Festival: This annual event provides a platform for students to excel in translation and bilingual debates sharpening their critical thinking and cross-cultural communication skills.
 
-**你知不知道公教中学特有的双语双文化节 (Bilingual and Bicultural Festival)？**
-
-我们特别主办了公教中学特有的双语双文化节。这为期两周的活动包括特别为各年级主办的年级活动，如中一的弘孝会、中二的双文化竞、中三的文化讲座和中四的双语辩论；还包括广受同学们喜爱的文化竞赛活动。
+Through these carefully designed curricula and programmes, we are dedicated to nurturing Catholic High students to be proficient in both languages, deeply rooted in cultural heritage, and equipped with a global outlook.
