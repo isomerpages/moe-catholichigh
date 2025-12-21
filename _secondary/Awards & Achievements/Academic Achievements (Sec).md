@@ -105,7 +105,7 @@ Bronzes
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Secondary/Awards &amp; Achievements/MTL_2025_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Secondary/Awards &amp; Achievements/MTL_2025_1.jpg">
 </div>
 </td>
 </tr>
