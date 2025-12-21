@@ -161,8 +161,7 @@ Mention​
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2025 National STEM Championship: Champion
-<br>- 2025 Asian Try Zero-G: "How uneven mass dispersion affects the rotation
+<p>- 2025 Asian Try Zero-G: "How uneven mass dispersion affects the rotation
 of a rigid structure, with 3 distinct axes of rotation"
 <br>- 2023 Asian Try Zero-G: Proposed experiment (Zero-G Siphon) performed
 at the International Space Station (ISS) in Feb 2024</p>
@@ -178,7 +177,8 @@ at the International Space Station (ISS) in Feb 2024</p>
 13 Honourable Mention</p>
 <p>- 2024 Singapore Junior Physics Olympiad: 5 Silver, 16 Bronze, 9 Honourable
 Mention
-<br>- 2024 National STEM Challenge: Semi-Finalist
+<br>- 2025 National STEM Championship: Champion</p>
+<p>- 2024 National STEM Challenge: Semi-Finalist
 <br>- 2024 International Biomedical Quiz: 2 Gold, 2 Silver, 1 Bronze, 4 Honourable
 Mention
 <br>- 2024 Rio Tinto Big Science Competition: 22 High Distinction, 28 Distinction,
