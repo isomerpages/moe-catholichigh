@@ -55,7 +55,7 @@ links:
       - title: FAQs (Secondary Section)
         url: /secondary/faqs/
   - title: Contact Us
-    url: /contact-and-outreach/school-and-services/overview/
+    url: /contact-and-outreach/school-and-services
     sublinks:
       - title: School & Services
         url: /contact-and-outreach/contact-school-and-services
