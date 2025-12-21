@@ -224,25 +224,24 @@ Bronzes- 2020 Queen’s Commonwealth Essay Competition: 8 Gold, 2 Bronze
 <br>- 2019 Queen’s Commonwealth Essay Competition: 1 Gold, 1 Silver, 2 Bronzes
 <br>- 2019 ICAS Writing: 4 Distinctions
 <br>- 2019 ICAS English: 7 Distinctions
-<br>- Debate Association (Singapore) Debating Championship 2019: Quarterfinalist,
+<br>- 2019 Debate Association (Singapore) Debating Championship: Quarterfinalist,
 9th, 12th and 20th best speaker
 <br>- 2019 Singapore Secondary School Debating Championship: Quarterfinalist,
 4th, 19th best speaker
-<br>- United World College U14s 2019: Representation, 5th and 6th best speaker
-<br>- Raffles Debate Academy U-14 Debating Championship 2019: Quarter-finalists
-<br>- Lasallian Debate League 2019: Semi-finalists
-<br>- River Valley High School’s Under-16 Novice Debate Championships 2019:
+<br>- 2019 United World College U14s: Representation, 5th and 6th best speaker
+<br>- 2019 Raffles Debate Academy U-14 Debating Championship: Quarter-finalists
+<br>- 2019 Lasallian Debate League: Semi-finalists
+<br>- 2019 River Valley High School’s Under-16 Novice Debate Championships:
 Representation
 <br>- 2019 Orator’s Trophy: Participation
-<br>- Debate Association (Singapore) Debating Championships 2018: Representation,
-14th best speaker for Gold Division (Joshua Low)
+<br>- 2018 Debate Association (Singapore) Debating Championships: Representation,
+14th best speaker for Gold Division
 <br>- 2018 Singapore Secondary School Debating Championship: Runner-up
 <br>- 2018 United World College U14s: Runner-up
-<br>- Raffles Debate Academy U-14 Debating Championship 2018: Quarter-finalist
-<br>- Youth Debate Open 2018: Representation
-<br>- Hwa Chong Invitationals 2018: Representation
-<br>- Speak! Ventures Debate Championship – Grand Finals – 1st Runners-up
-2017
+<br>- 2018 Raffles Debate Academy U-14 Debating Championship: Quarter-finalist
+<br>- 2018 Youth Debate Open: Representation
+<br>- 2018 Hwa Chong Invitationals: Representation
+<br>- 2017 Speak! Ventures Debate Championship – Grand Finals: 1st Runners-up
 <br>- Singapore Secondary Schools Debate Championships Div I: Quarter-finalist
 2017
 <br>- United World College U14s 2017- Participant
