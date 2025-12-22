@@ -14,27 +14,27 @@ High School values of&nbsp;Love, Creativity, Constancy of Purpose and Continuous
 Improvement. Our students continue to excel and achieve high standards
 and outcomes in competitions and various platforms, leaving a legacy of
 excellence for themselves and the school.</p>
-<p>Some of our recent winners of MOE Special Awards and other scholarships:</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/about13.png">
-</div>
-<p><em>(Above: 2020 Lee Kuan Yew All-Round Excellence Awardee Damien Kang Jun Heng)</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/about14.png">
-</div>
-<p><em>(Above: 2019 Lee Kuan Yew All-Round Excellence Awardee Siauw Yu Chuan)</em>
-</p>
-<p></p>
+<p>Some of our recent academic achievements:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Secondary/Awards &amp; Achievements/2025_Science_National_STEM.jpg">
 </div>
 <p><em>(Above: 2025 National STEM Championship Champions - watch the finals <a href="https://www.mewatch.sg/watch/National-Stem-Championship-2025-E6-562696" rel="noopener nofollow" target="_blank">here</a>.)</em>
 </p>
 <div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/about13.png">
+</div>
+<p><em>(Above: 2020 Lee Kuan Yew All-Round Excellence awardee Damien Kang Jun Heng)</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:40%" height="auto" width="100%" src="/images/about14.png">
+</div>
+<p><em>(Above: 2019 Lee Kuan Yew All-Round Excellence awardee Siauw Yu Chuan)</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/about16.png">
 </div>
-<p><em>(Above: Ong Chong Yu, IP/2017, who is the 2018 Prime Minister’s Book Prize winner)</em>
+<p><em>(Above: 2018 Prime Minister’s Book Prize awardee Ong Chong Yu)</em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
