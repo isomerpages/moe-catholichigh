@@ -25,10 +25,11 @@ excellence for themselves and the school.</p>
 </div>
 <p><em>(Above: 2019 Lee Kuan Yew All-Round Excellence Awardee Siauw Yu Chuan)</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/about15.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Awards &amp; Achievements/2025_Science_National_STEM.jpg">
 </div>
-<p><em>(Above: 2018 Young Defence Scientist Programme (YDSP) Scholarship Awardees Tan Yi Xuan and Xavier Yeo Yi Hern, and</em>&nbsp;<em>YDSP Academic Awardees Chiang Kai Jing Colin Adam and -absent from photo- Loh Zheng Lucas)</em>
+<p><em>(Above: 2025 National STEM Championship Champions - watch the finals <a href="https://www.mewatch.sg/watch/National-Stem-Championship-2025-E6-562696" rel="noopener nofollow" target="_blank">here</a>.)</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/about16.png">
