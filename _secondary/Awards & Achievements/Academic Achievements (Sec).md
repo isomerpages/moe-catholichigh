@@ -171,37 +171,39 @@ Categories)​
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2025 Asian Try Zero-G: "How uneven mass dispersion affects the rotation
-of a rigid structure, with 3 distinct axes of rotation"
-<br>- 2025 National Air Race​: 2nd (Team Open Cat)​, Champion (Fighter Cat)
-<br>- 2025 National STEM Championship: Champion
-<br>- 2025 Singapore Junior Biology Olympiad: 4 Gold, 16 Silver, 7 Bronze,
-4 Honourable Mention​
-<br>- 2025 Singapore Junior Chemistry Olympiad: 4 Gold, 6 Silver, 9 Bronze
-(Band 3)
-<br>- 2025 Singapore Junior Physics Olympiad: 1 Gold, 12 Silver, 16 Bronze,
-13 Honourable Mention
-<br>- 2024 International Biomedical Quiz: 2 Gold, 2 Silver, 1 Bronze, 4 Honourable
-Mention
-<br>- 2024 National Air Race​: 3rd (Team Open Cat)​, Champion (Fighter Cat)
-<br>- 2024 National STEM Challenge: Semi-Finalist
-<br>- 2024 Rio Tinto Big Science Competition: 22 High Distinction, 28 Distinction,
-22 Credit
-<br>- 2024 Singapore Junior Biology Olympiad: 8 Gold, 7 Silver, 16 Bronze,
-2 Honourable Mention
-<br>- 2024 Singapore Junior Chemistry Olympiad: 2 Gold, 6 Silver, 1 Bronze,
-1 Merit (Band 2)
-<br>- 2024 Singapore Junior Physics Olympiad: 5 Silver, 16 Bronze, 9 Honourable
-Mention
-<br>- 2023 Asian Try Zero-G: Proposed experiment (Zero-G Siphon) performed
-at the International Space Station (ISS) in Feb 2024
-<br>- 2023 Drone Odyssey Challenge: Champion
-<br>- 2023 Singapore Junior Biology Olympiad: 8 Gold, 22 Silver, 10 Bronze,
-3 Honourable Mention
-<br>- 2023 Singapore Junior Chemistry Olympiad: 3 Gold, 1 Silver, 1 Bronze
-(Band 3)
-<br>- 2023 Singapore Junior Physics Olympiad: Individual: 8 Silver, 22 Bronze,
-23 Honourable Mention
+<p>- <strong>2025 Asian Try Zero-G: </strong>"How uneven mass dispersion affects
+the rotation of a rigid structure, with 3 distinct axes of rotation"
+<br>- <strong>2025 National Air Race​:</strong> 2nd (Team Open Cat)​, Champion
+(Fighter Cat)
+<br>- <strong>2025 National STEM Championship:</strong> Champion
+<br>- <strong>2025 Singapore Junior Biology Olympiad: </strong>4 Gold, 16 Silver,
+7 Bronze, 4 Honourable Mention​
+<br>- <strong>2025 Singapore Junior Chemistry Olympiad: </strong>4 Gold, 6
+Silver, 9 Bronze (Band 3)
+<br>- <strong>2025 Singapore Junior Physics Olympiad:</strong> 1 Gold, 12 Silver,
+16 Bronze, 13 Honourable Mention
+<br>- <strong>2024 International Biomedical Quiz:</strong> 2 Gold, 2 Silver,
+1 Bronze, 4 Honourable Mention
+<br>- <strong>2024 National Air Race​: </strong>3rd (Team Open Cat)​, Champion
+(Fighter Cat)
+<br>- <strong>2024 National STEM Challenge:</strong> Semi-Finalist
+<br>- <strong>2024 Rio Tinto Big Science Competition:</strong> 22 High Distinction,
+28 Distinction, 22 Credit
+<br>- <strong>2024 Singapore Junior Biology Olympiad:</strong> 8 Gold, 7 Silver,
+16 Bronze, 2 Honourable Mention
+<br>- <strong>2024 Singapore Junior Chemistry Olympiad:</strong> 2 Gold, 6 Silver,
+1 Bronze, 1 Merit (Band 2)
+<br>- <strong>2024 Singapore Junior Physics Olympiad:</strong> 5 Silver, 16
+Bronze, 9 Honourable Mention
+<br>- <strong>2023 Asian Try Zero-G: </strong>Proposed experiment (Zero-G Siphon)
+performed at the International Space Station (ISS) in Feb 2024
+<br>- <strong>2023 Drone Odyssey Challenge:</strong> Champion
+<br>- <strong>2023 Singapore Junior Biology Olympiad:</strong> 8 Gold, 22 Silver,
+10 Bronze, 3 Honourable Mention
+<br>- <strong>2023 Singapore Junior Chemistry Olympiad:</strong> 3 Gold, 1 Silver,
+1 Bronze (Band 3)
+<br>- <strong>2023 Singapore Junior Physics Olympiad: </strong>Individual:
+8 Silver, 22 Bronze, 23 Honourable Mention
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -240,19 +242,23 @@ at the International Space Station (ISS) in Feb 2024
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2022 Eunoia Debating Championship: Quarter finalist
-<br>- 2022 Asian International Schools Debating Championship: Quarter finalist
-<br>- 2022 SMU Novice Debating Championships: Semi finalist
-<br>- 2022 SJI Illuminate: Finalist
-<br>- 2022 Queen’s Commonwealth Essay Competition: 3 Golds, 6 Silvers, 8 Bronzes
-<br>- 2020 Queen’s Commonwealth Essay Competition: 8 Gold, 2 Bronze
-<br>- 2020 City Hall( If Walls Could Talk Instagram Poetry): Participation
-<br>- 2020 The Short Form Lucha Libre Art Writing Competition: Participation
-<br>- 2019 Queen’s Commonwealth Essay Competition: 1 Gold, 1 Silver, 2 Bronzes
-<br>- 2019 ICAS Writing: 4 Distinctions
-<br>- 2019 ICAS English: 7 Distinctions
-<br>- 2019 Debate Association (Singapore) Debating Championship: Quarterfinalist,
+<p>- <strong>2022 Asian International Schools Debating Championship:</strong> Quarter
+finalist
+<br>- <strong>2022 Eunoia Debating Championship:</strong> Quarter finalist
+<br>- <strong>2022 Queen’s Commonwealth Essay Competition:</strong> 3 Golds,
+6 Silvers, 8 Bronzes
+<br>- <strong>2022 SJI Illuminate:</strong> Finalist
+<br>- <strong>2022 SMU Novice Debating Championships: </strong>Semi finalist
+<br>- <strong>2020 City Hall (If Walls Could Talk Instagram Poetry):</strong> Participation
+<br>- <strong>2020 Queen’s Commonwealth Essay Competition:</strong> 8 Gold,
+2 Bronze
+<br>- <strong>2020 The Short Form Lucha Libre Art Writing Competition: </strong>Participation
+<br>- <strong>2019 Debate Association (Singapore) Debating Championship: </strong>Quarterfinalist,
 9th, 12th and 20th best speaker
+<br>- <strong>2019 ICAS English: </strong>7 Distinctions
+<br>- <strong>2019 ICAS Writing:</strong> 4 Distinctions
+<br>- <strong>2019 Queen’s Commonwealth Essay Competition:</strong> 1 Gold,
+1 Silver, 2 Bronzes
 <br>- 2019 Singapore Secondary School Debating Championship: Quarterfinalist,
 4th, 19th best speaker
 <br>- 2019 United World College U14s: Representation, 5th and 6th best speaker
