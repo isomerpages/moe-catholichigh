@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Distinctive Programmes
 variant: markdown
 ---
-### About Passion Pursuit
+#  Passion Pursuit
 <style>
 p {text-align: justify;}
 </style>
@@ -15,7 +15,7 @@ The&nbsp;**Passion Pursuit programme**&nbsp;in Catholic High School comprises an
 *   discover passions by undertaking new challenges; and
 *   develop new skills and acquire knowledge beyond the classroom
 
-#### Passion Pursuit (Elective)
+## Passion Pursuit (Elective)
 
  **Passion Pursuit (Elective)**&nbsp;makes up a unique part of our CHS curriculum. Designed to develop passion for learning, guided by our firm belief that joy of learning and personal choice are key to grooming our future leaders. The programmes are offered to all IP and SP students, providing varied and enjoyable learning experiences in sports and aesthetics not usually featured in school. Students will opt for their preferred activities such as Rock Wall Climbing defined under “Ruggedness Electives”, Imagination Express under “Creative Electives” and Drones under “Inventive Electives”. The main goal of the programme is to develop “Interesting Catholic High gentlemen” who explore a broad spectrum of interest areas, understand what passion really means and eventually actualise it as part of purposeful living.
 

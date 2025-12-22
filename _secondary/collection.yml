@@ -3,25 +3,25 @@ collections:
     output: true
     order:
       - Prospectus.md
-      - Distinctive Programmes/.keep
-      - Distinctive Programmes/Overview.md
-      - Distinctive Programmes/Bilingual and Bicultural Education.md
-      - Distinctive Programmes/SAP Flagship Programme 特选学校旗舰计划.md
-      - Distinctive Programmes/Space and Flight Science Programme.md
-      - Distinctive Programmes/Passion Pursuit (Elective) (SP & IP).md
-      - Distinctive Programmes/Passion Pursuit (Independent) (IP).md
-      - Distinctive Programmes/World Readiness Programme (IP).md
-      - Distinctive Programmes/Overseas Immersion & Cultural Experience.md
-      - Talent Development/.keep
-      - Talent Development/Overview.md
-      - Talent Development/Bicultural Studies Programme 双文化课程.md
-      - Talent Development/English Talent Development Programme.md
-      - Talent Development/CΩERGY Programme.md
-      - Talent Development/Humanities TDP.md
-      - Talent Development/Maths TDP.md
-      - Talent Development/Music Elective Programme.md
       - Awards & Achievements/.keep
       - Awards & Achievements/Overview.md
       - Awards & Achievements/Academic Achievements (Sec).md
       - Awards & Achievements/CCA Achievements (Sec).md
+      - Distinctive Programmes/.keep
+      - Distinctive Programmes/Overview.md
+      - Distinctive Programmes/Bilingual and Bicultural Education 双语双文化教育.md
+      - Distinctive Programmes/Overseas Immersion & Cultural Experience.md
+      - Distinctive Programmes/Passion Pursuit (Elective) (SP & IP).md
+      - Distinctive Programmes/Passion Pursuit (Independent) (IP).md
+      - Distinctive Programmes/SAP Flagship Programme 特选学校旗舰计划.md
+      - Distinctive Programmes/Space and Flight Science Programme.md
+      - Distinctive Programmes/World Readiness Programme (IP).md
+      - Talent Development Programmes/.keep
+      - Talent Development Programmes/Overview.md
+      - Talent Development Programmes/Bicultural Studies Programme 双文化课程.md
+      - Talent Development Programmes/CΩERGY Programme.md
+      - Talent Development Programmes/English TDP.md
+      - Talent Development Programmes/Humanities TDP.md
+      - Talent Development Programmes/Maths TDP.md
+      - Talent Development Programmes/Music Elective Programme.md
       - FAQs (Secondary Section).md

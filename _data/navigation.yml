@@ -18,10 +18,18 @@ links:
   - title: Our People
     url: "#"
     sublinks:
-      - title: Staff
+      - title: School Staff
         url: /staff/primary-section
-      - title: Our Partners
+      - title: School Management Committee
         url: /our-partners/smc/
+      - title: Catholic High Alumni (CHA)
+        url: https://cha.org.sg/
+      - title: Catholic Parents Community
+        url: https://docs.google.com/forms/d/1hNNZZL0DSz2lLWBlXAE468_Qz6w5PLnMCF7Zs6WMJdk/viewform?edit_requested=true
+      - title: Dads4Life FB
+        url: https://www.facebook.com/CHS.Dads4Life/
+      - title: Parent Support Group FB
+        url: https://www.facebook.com/psg.chs/
   - title: Primary
     url: "#"
     sublinks:
@@ -34,35 +42,27 @@ links:
     sublinks:
       - title: Prospectus
         url: /secondary/prospectus/
-      - title: Dual Track Curriculum
-        url: /dual-track-curriculum/overview/
-      - title: Distinctive Programmes
-        url: /secondary/distinctive-programmes/overview/
-      - title: Talent Development
-        url: /secondary/Talent-Development/overview
-      - title: Student Development
-        url: /student-development/pe-and-cca/overview/
       - title: Awards & Achievements
         url: /secondary/awards-and-achievements/overview/
+      - title: Distinctive Programmes
+        url: /secondary/distinctive-programmes/overview/
+      - title: Dual Track Curriculum
+        url: /dual-track-curriculum/overview/
+      - title: Student Development
+        url: /student-development/pe-and-cca/overview/
+      - title: Talent Development Programmes
+        url: /secondary/talent-development-programmes/overview/
       - title: FAQs (Secondary Section)
         url: /secondary/faqs/
   - title: Contact Us
-    url: /contact-and-outreach/contact-school-and-services/overview/
+    url: /contact-and-outreach/school-and-services/
     sublinks:
-      - title: Contact School & Services
-        url: /contact-and-outreach/contact-school-and-services/overview/
+      - title: School & Services
+        url: /contact-and-outreach/school-and-services/
       - title: Facebook
         url: https://www.facebook.com/chs.gongjiao
       - title: Instagram
         url: https://www.instagram.com/chs.gongjiao
-      - title: CH Alumni
-        url: https://cha.org.sg/
-      - title: Parent Support Group
-        url: https://www.facebook.com/psg.chs/
-      - title: Dads@CHS
-        url: https://www.facebook.com/CHS.Dads4Life/
-      - title: CHS Catholic Parents
-        url: https://docs.google.com/forms/d/1hNNZZL0DSz2lLWBlXAE468_Qz6w5PLnMCF7Zs6WMJdk/viewform?edit_requested=true
   - title: Quick Links
     url: /dual-track-curriculum/Integrated-Programme/about-eunoia-jc/
     sublinks:

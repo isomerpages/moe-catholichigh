@@ -2,5 +2,4 @@ collections:
   connect-with-us:
     output: true
     order:
-      - Contact School & Services/Overview.md
-      - Contact School & Services/.keep
+      - School & Services.md
