@@ -405,6 +405,7 @@ Runner-up
 <br>- 2020 ASTAR Science Scholarship Award: 3 awardees
 <br>- 2020 International Biomedical Olympiad: 1 Gold, 2 Silver, 1 Bronze,
 3 Merit, 3 Honourable Mention
+<br>- 2020 Singapore Junior Physics Olympiad: 8 Bronze, 21 Honourable Mention
 <br>
 <br>- 2019 ASTAR Science Scholarship Award: 2 awardees
 <br>- 2019 CB Paul Science Quiz: 5 Gold, 5 Silver, 4 Bronze, 5 Honourable
@@ -415,66 +416,58 @@ Mention
 <br>- 2019 National Air Race: 2nd Runner-Up (Team Open Category), Top 4 (Top
 Gun Fighter Challenge)
 <br>- 2019 National Science Challenge: Team Semi-Final
+<br>- 2019 North Zone ELEMENTZ Science Conference: 2 Gold, 2 Bronze
 <br>- 2019 NUS Chem Communication Challenge: Merit
-<br>- 2019 Rio Tinto Big Science Competition: 49 High Distinction, 73
+<br>- 2019 Rio Tinto Big Science Competition: 49 High Distinction, 73 Distinction,
+123 Credit
+<br>- 2019 Sembcorp Marine Green Wave: Runner-up &amp; Commendation
+<br>- 2019 Singapore Junior Biology Olympiad: 1 Gold, 13 Silver, 14 Bronze
+and 8 Honourable Mention (Top 7)
+<br>- 2019 Singapore Junior Chemistry Olympiad: 2 Bronze, 4 Merit
+<br>- 2019 Singapore Junior Physics Olympiad: 5 Silver, 6 Bronze, 21 Honourable
+Mention
+<br>- 2019 Young Defence Scientists Programme (YDSP) Scholarship: 3 Awardees
 <br>- 2019 Youth Science Conference: 1 Silver, 1 Bronze
 <br>
-<br>
 <br>- 2018 ASTAR Science Scholarship Award: 2 awardees
-<br>- 2018 Drone Odyssey Challenge: Best In Knowledge
 <br>- 2018 CB Paul Science Quiz: 3 Gold, 3 Silver, 5 Bronze, 5 Honourable
 Mention
+<br>- 2018 Drone Odyssey Challenge: Best In Knowledge
 <br>- 2018 International Biomedical Olympiad : 1 Gold, 2 Silver, 1 Bronze,
 3 Merit, 1 Honourable Mention
 <br>- 2018 National Air Race: Runner-Up (Team Open Category)
 <br>- 2018 National Science Challenge: Runner-up
+<br>- 2018 National Software Competition: 2 Gold, 10 Silver, 3 Bronze
+<br>- 2018 North Zone ELEMENTZ Science Conference: 1 Gold
 <br>- 2018 Rio Tinto Big Science Competition: 82 High Distinction, 106 Distinction,
 140 Credit
+<br>- 2018 Singapore Junior Biology Olympiad: 2 Gold, 14 Silver, 11 Bronze
+and 3 Honourable Mention (Top 7)
+<br>- 2018 Singapore Junior Chemistry Olympiad: 1 Silver, 5 Bronze, 14 Merit
+<br>- 2018 Singapore Junior Physics Olympiad: 2 Silver, 4 Bronze, 10 Honourable
+Mention
+<br>- 2018 Young Defence Scientists Programme (YDSP) Scholarship: 4 Awardees
 <br>- 2018 Youth Science Conference: 1 Bronze
 <br>
-<br>- 2017 National Science Challenge: Team Semi-Final
 <br>- 2017 CB Paul Science Quiz: 3 Gold, 4 Silver, 4 Bronze, 3 Honourable
 Mention
 <br>- 2017 ICAS Science Quiz: 26 High Distinctions, 71 Distinction, 102 Credit
-<br>- 2017 NUS Chem Communication Challenge: Top 4
-<br>Distinction, 123 Credit
-<br>- 2017 Rio Tinto Big Science Competition: 77 High Distinction, 129 Distinction,
-141 Credit
 <br>- 2017 International Biomedical Olympiad : 1 Gold, 2 Silver, 1 Bronze,
 3 Merit, 2 Honourable Mention
-<br>- 2017 Youth Science Conference: 1 Silver, 3 Bronzes
-<br>- 2019 Sembcorp Marine Green Wave: Commendation
-<br>- 2019 Sembcorp Marine Green Wave: Runner-up
-<br>- 2019 North Zone ELEMENTZ Science Conference: 2 Gold, 2 Bronze
-<br>- 2018 North Zone ELEMENTZ Science Conference: 1 Gold
-<br>- 2018 National Software Competition: 2 Gold, 10 Silver, 3 Bronze
-<br>- 2019 Singapore Junior Biology Olympiad: 1 Gold, 13 Silver, 14 Bronze
-and 8 Honourable Mention (Top 7)
-<br>- 2018 Singapore Junior Biology Olympiad: 2 Gold, 14 Silver, 11 Bronze
-and 3 Honourable Mention (Top 7)
+<br>- 2017 National Science Challenge: Team Semi-Final
+<br>- 2017 NUS Chem Communication Challenge: Top 4
+<br>- 2017 Rio Tinto Big Science Competition: 77 High Distinction, 129 Distinction,
+141 Credit
 <br>- 2017 Singapore Junior Biology Olympiad: 4 Gold, 7 Silver, 6 Bronze and
 1 Honourable Mention (Top 9)
-<br>- 2019 Singapore Junior Chemistry Olympiad: 2 Bronze, 4 Merit
-<br>- 2018 Singapore Junior Chemistry Olympiad: 1 Silver, 5 Bronze, 14 Merit
-<br>- 2017 Singapore Junior Chemistry Olympiad: 2 Gold, 4 Silver, 6 Bronze
-and 19 Merit
 <br>- 2017 Singapore Junior Chemistry Olympiad: Ranked 3rd overall among all
-participating schools
-<br>- 2016 Singapore Junior Biology Olympiad: 1 Gold, 5 Silver, 4 Bronze
-<br>- 2019 Singapore Junior Chemistry Olympiad: 2 Bronze, 4 Merit
-<br>- 2018 Singapore Junior Chemistry Olympiad: 1 Silver, 5 Bronze, 14 Merit
-<br>- 2017 Singapore Junior Chemistry Olympiad: 2 Gold, 4 Silver, 6 Bronze
-and 19 Merit (Top 3)
-<br>- 2020 Singapore Junior Physics Olympiad: 8 Bronze, 21 Honourable Mention
-<br>- 2019 Singapore Junior Physics Olympiad: 5 Silver, 6 Bronze, 21 Honourable
-Mention
-<br>- 2018 Singapore Junior Physics Olympiad: 2 Silver, 4 Bronze, 10 Honourable
-Mention
+participating schools, 2 Gold, 4 Silver, 6 Bronze and 19 Merit
 <br>- 2017 Singapore Junior Physics Olympiad: 2 Silver, 7 Bronze, 16 Honourable
 Mention
-<br>- 2019 Young Defence Scientists Programme (YDSP) Scholarship: 3 Awardees
-<br>- 2018 Young Defence Scientists Programme (YDSP) Scholarship: 4 Awardees
-<br>- 2017 Young Defence Scientists Programme (YDSP) Scholarship: 6 Awardees</p>
+<br>- 2017 Young Defence Scientists Programme (YDSP) Scholarship: 6 Awardees
+<br>- 2017 Youth Science Conference: 1 Silver, 3 Bronzes
+<br>
+<br>- 2016 Singapore Junior Biology Olympiad: 1 Gold, 5 Silver, 4 Bronze</p>
 </td>
 </tr>
 </tbody>
