@@ -211,7 +211,7 @@ Mention
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Departments</p>
+<p>Department</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Prior to 2023 (in reverse chronological order)</p>
