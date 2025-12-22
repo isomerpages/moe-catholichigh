@@ -118,17 +118,23 @@ finalist; 5th and 16th Best Speakers
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2024 NUS Geography Challenge: 1 Gold &amp; 1 Silver
-<br>- 2024 Historical Scene Investigation Challenge: 1 Silver
-<br>- 2024 NLB SURE Prove It!: 1 Silver &amp; 1 Bronze (Written &amp; Video
-Categories)
-<br>- 2024 Knowgets Makerspace Challenge - 5 Distinctions
-<br>- 2023 NUS Geography Challenge: 1 Gold &amp; 3 Silver​
-<br>- 2023 MOE Geography TDP: 4 students shortlisted​
-<br>- 2023 NLB SURE Prove It!: 2 Silvers (Written &amp; Video Categories)​
-<br>- 2023 Historical Scene Investigation Challenge: 1 Gold (Top 10)​
-<br>- 2023 NUS Race Against Time: 2nd Place​
-<br>- 2023 IMUNC: Outstanding Delegate Award​</p>
+<p>- <strong>2024 Knowgets Makerspace Challenge:</strong> 5 Distinctions
+<br>- <strong>2024 Historical Scene Investigation Challenge:</strong> 1 Silver
+<br>- <strong>2024 NLB SURE Prove It!: </strong>1 Silver &amp; 1 Bronze (Written
+&amp; Video Categories)
+<br>- <strong>2024 NUS Geography Challenge:</strong> 1 Gold &amp; 1 Silver
+<br>- <strong>2023 Historical Scene Investigation Challenge:</strong> 1 Gold
+(Top 10)​
+<br>- <strong>2023 International Model United Nations Conference:</strong> Outstanding
+Delegate Award​
+<br>- <strong>2023 MOE Geography TDP:</strong> 4 students shortlisted​
+<br>- <strong>2023 NLB SURE Prove It!: </strong>2 Silvers (Written &amp; Video
+Categories)​
+<br>- <strong>2023 NUS Geography Challenge:</strong> 1 Gold &amp; 3 Silver​
+<br>-<strong> 2023 NUS Race Against Time: </strong>2nd Place​
+<br>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Humanities_2023_2.jpg">
 </div>
