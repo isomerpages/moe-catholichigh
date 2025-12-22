@@ -226,8 +226,7 @@ Mention
 <br>- 2022 Asian International Schools Debating Championship: Quarter finalist
 <br>- 2022 SMU Novice Debating Championships: Semi finalist
 <br>- 2022 SJI Illuminate: Finalist
-<br>- 2022 Queen’s Commonwealth Essay Competition: 3 Golds, 6 Silvers , 8
-Bronzes
+<br>- 2022 Queen’s Commonwealth Essay Competition: 3 Golds, 6 Silvers, 8 Bronzes
 <br>- 2020 Queen’s Commonwealth Essay Competition: 8 Gold, 2 Bronze
 <br>- 2020 City Hall( If Walls Could Talk Instagram Poetry): Participation
 <br>- 2020 The Short Form Lucha Libre Art Writing Competition: Participation
