@@ -27,7 +27,7 @@ excellence for themselves and the school.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Awards &amp; Achievements/2025_Science_National_STEM.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Secondary/Awards &amp; Achievements/2025_Science_National_STEM.jpg">
 </div>
 <p><em>(Above: 2025 National STEM Championship Champions - watch the finals <a href="https://www.mewatch.sg/watch/National-Stem-Championship-2025-E6-562696" rel="noopener nofollow" target="_blank">here</a>.)</em>
 </p>
