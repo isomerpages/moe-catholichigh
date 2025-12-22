@@ -46,7 +46,7 @@ excellence for themselves and the school.</p>
 <p>Department</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>2023 - 2025 Achievements</p>
+<p>Achievements (Recent)</p>
 </th>
 </tr>
 <tr>
@@ -54,20 +54,25 @@ excellence for themselves and the school.</p>
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2024 Secondary Schools Debating Championship: Quarter-finalist; 3rd
-and 13th Best Speakers
-<br>- 2024 Mid-year Debate Invitationals: Gold
-<br>- 2024 National Poetry Competition: Top 10 Winner in both Junior and Super
-Junior Category
-<br>- 2024 MOE Creative ART Seminar: Selected Participants
-<br>- 2023 Queen’s Commonwealth Essay Competition: 3 Gold, 9 Silver, 21 Bronze
-<br>- 2023 Eunoia Debating Championship: 12th and 18th Best Speaker​s
-<br>- 2023 Asian International Schools Debating Championship: Quarter finalist
-<br>- 2023 Singapore Secondary Schools Debating Championship: Semi finalist;
-5th and 16th Best Speakers
-<br>- 2023 Mid-year Debate Invitationals: Semi-finalist; 1st, 2nd, 5th and
-6th Best Speakers
-<br>- 2023 Hwa Chong British Parliamentaries: Semi-finalist</p>
+<p>- <strong>2024 Mid-year Debate Invitationals:</strong> Gold
+<br>- <strong>2024 MOE Creative ART Seminar:</strong> Selected Participants
+<br>- <strong>2024 National Poetry Competition:</strong> Top 10 Winner in both
+Junior and Super Junior Categories
+<br>- <strong>2024 Secondary Schools Debating Championship: </strong>Quarter-finalist;
+3rd and 13th Best Speakers
+<br>- <strong>2023 Asian International Schools Debating Championship: </strong>Quarter
+finalist
+<br>- <strong>2023 Eunoia Debating Championship:</strong> 12th and 18th Best
+Speaker​s
+<br>- <strong>2023 Hwa Chong British Parliamentaries:</strong> Semi-finalist
+<br>- <strong>2023 Mid-year Debate Invitationals:</strong> Semi-finalist; 1st,
+2nd, 5th and 6th Best Speakers
+<br>- <strong>2023 Queen’s Commonwealth Essay Competition:</strong> 3 Gold,
+9 Silver, 21 Bronze
+<br>- <strong>2023 Singapore Secondary Schools Debating Championship: </strong>Semi
+finalist; 5th and 16th Best Speakers
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Hwa_Chong_British_Parliamentaries_2023_Semi_Finalist.jpg">
 </div>
@@ -78,24 +83,24 @@ Junior Category
 <p>Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2025 中学生中英口译邀请赛: 优秀奖
-<br>- 2025 第23届全国中学生华文创作比赛—新蕾爱拍客: IG人气奖
-<br>- 2025 第18届全国中学现场翻译比赛: 冠军
-<br>- 2025 华文大比拼: 优秀奖
-<br>- 2025 第21届特选中学幼苗计划: 幼苗奖
-<br>- 2025 第17届“汉语桥”世界中学生中文比赛: 第三名
-<br>- 2025 全国中小学书法比赛: 第三名
-<br>- 2025 第7届全国课文朗诵比赛:低年级个人/团体银奖、高年级个人/团体铜奖
-<br>- 2024 中学生中英口译邀请赛：季军、优秀奖
-<br>- 2024 第22届​全国中学生华文创作比赛—新蕾爱拍客：IG人气奖
-<br>- 2024 第38届全国中学相声表演赛：优胜奖
-<br>​- 2024 第17届 “汉语桥”世界中学生中文比赛 : 第二名
-<br>- 2024 第17届全国中学生翻译比赛: 个人优异奖​
-<br>- 2024 华文大比拼: 优秀奖
-<br>​- 2024 第17届联合杯写作大赛: 首奖、感动奖
-<br>- 2024 第20届幼苗计划: 幼苗奖​
-<br>- 2024 全国学生中英互译比赛: 冠军、优胜奖​
-<br>- 2024 狮城杯新加坡华语辩论比赛：初赛阶段最佳辩论手
+<p>- <strong>2025 中学生中英口译邀请赛:</strong> 优秀奖
+<br>- <strong>2025 第23届全国中学生华文创作比赛—新蕾爱拍客:</strong> IG人气奖
+<br>- <strong>2025 第18届全国中学现场翻译比赛:</strong> 冠军
+<br>- <strong>2025 华文大比拼:</strong> 优秀奖
+<br>- <strong>2025 第21届特选中学幼苗计划:</strong> 幼苗奖
+<br>- <strong>2025 第17届“汉语桥”世界中学生中文比赛:</strong> 第三名
+<br>- <strong>2025 全国中小学书法比赛:</strong> 第三名
+<br>- <strong>2025 第7届全国课文朗诵比赛:</strong> 低年级个人/团体银奖、高年级个人/团体铜奖
+<br>- <strong>2024 中学生中英口译邀请赛:</strong> 季军、优秀奖
+<br>- <strong>2024 第22届​全国中学生华文创作比赛—新蕾爱拍客:</strong> IG人气奖
+<br>- <strong>2024 第38届全国中学相声表演赛: </strong>优胜奖
+<br>​- <strong>2024 第17届 “汉语桥”世界中学生中文比赛:</strong> 第二名
+<br>- <strong>2024 第17届全国中学生翻译比赛:</strong> 个人优异奖​
+<br>- <strong>2024 华文大比拼:</strong> 优秀奖
+<br>​- <strong>2024 第17届联合杯写作大赛:</strong> 首奖、感动奖
+<br>- <strong>2024 第20届幼苗计划:</strong> 幼苗奖​
+<br>- <strong>2024 全国学生中英互译比赛:</strong> 冠军、优胜奖​
+<br>- <strong>2024 狮城杯新加坡华语辩论比赛:</strong> 初赛阶段最佳辩论手
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -170,7 +175,6 @@ of a rigid structure, with 3 distinct axes of rotation"
 (Band 3)
 <br>- 2025 Singapore Junior Physics Olympiad: 1 Gold, 12 Silver, 16 Bronze,
 13 Honourable Mention
-<br>
 <br>- 2024 International Biomedical Quiz: 2 Gold, 2 Silver, 1 Bronze, 4 Honourable
 Mention
 <br>- 2024 National Air Race​: 3rd (Team Open Cat)​, Champion (Fighter Cat)
@@ -183,7 +187,6 @@ Mention
 1 Merit (Band 2)
 <br>- 2024 Singapore Junior Physics Olympiad: 5 Silver, 16 Bronze, 9 Honourable
 Mention
-<br>
 <br>- 2023 Asian Try Zero-G: Proposed experiment (Zero-G Siphon) performed
 at the International Space Station (ISS) in Feb 2024
 <br>- 2023 Drone Odyssey Challenge: Champion
@@ -211,7 +214,7 @@ at the International Space Station (ISS) in Feb 2024
 </tbody>
 </table>
 <p></p>
-<p>Some of our students’ past academic achievements are:</p>
+<p>Below are our students’ past academic achievements in earlier years:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -223,7 +226,7 @@ at the International Space Station (ISS) in Feb 2024
 <p>Department</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Prior to 2023 (in reverse chronological order)</p>
+<p>Achievements</p>
 </th>
 </tr>
 <tr>
