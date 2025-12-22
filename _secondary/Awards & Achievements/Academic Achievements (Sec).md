@@ -162,28 +162,28 @@ Mention​
 <td rowspan="1" colspan="1">
 <p>- 2025 Asian Try Zero-G: "How uneven mass dispersion affects the rotation
 of a rigid structure, with 3 distinct axes of rotation"
-<br>- 2023 Asian Try Zero-G: Proposed experiment (Zero-G Siphon) performed
-at the International Space Station (ISS) in Feb 2024
 <br>- 2025 Singapore Junior Biology Olympiad: 4 Gold, 16 Silver, 7 Bronze,
 4 Honourable Mention​
-<br>- 2024 Singapore Junior Biology Olympiad: 8 Gold, 7 Silver, 16 Bronze,
-2 Honourable Mention
 <br>- 2025 Singapore Junior Chemistry Olympiad: 4 Gold, 6 Silver, 9 Bronze
 (Band 3)
-<br>- 2024 Singapore Junior Chemistry Olympiad: 2 Gold, 6 Silver, 1 Bronze,
-1 Merit (Band 2)
 <br>- 2025 Singapore Junior Physics Olympiad: 1 Gold, 12 Silver, 16 Bronze,
 13 Honourable Mention
+<br>- 2025 National STEM Championship: Champion
+<br>- 2025 National Air Race​: 2nd (Team Open Cat)​, Champion (Fighter Cat)
+<br>- 2024 Singapore Junior Biology Olympiad: 8 Gold, 7 Silver, 16 Bronze,
+2 Honourable Mention
+<br>- 2024 Singapore Junior Chemistry Olympiad: 2 Gold, 6 Silver, 1 Bronze,
+1 Merit (Band 2)
 <br>- 2024 Singapore Junior Physics Olympiad: 5 Silver, 16 Bronze, 9 Honourable
 Mention
-<br>- 2025 National STEM Championship: Champion
 <br>- 2024 National STEM Challenge: Semi-Finalist
 <br>- 2024 International Biomedical Quiz: 2 Gold, 2 Silver, 1 Bronze, 4 Honourable
 Mention
 <br>- 2024 Rio Tinto Big Science Competition: 22 High Distinction, 28 Distinction,
 22 Credit
-<br>- 2025 National Air Race​: 2nd (Team Open Cat)​, Champion (Fighter Cat)
 <br>- 2024 National Air Race​: 3rd (Team Open Cat)​, Champion (Fighter Cat)
+<br>- 2023 Asian Try Zero-G: Proposed experiment (Zero-G Siphon) performed
+at the International Space Station (ISS) in Feb 2024
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -374,67 +374,74 @@ Mention
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2023 Singapore Junior Biology Olympiad: 8 Gold, 22 Silver, 10 Bronze,
+<p>- 2023 Drone Odyssey Challenge: Champion
+<br>- 2023 Singapore Junior Biology Olympiad: 8 Gold, 22 Silver, 10 Bronze,
 3 Honourable Mention
 <br>- 2023 Singapore Junior Chemistry Olympiad: 3 Gold, 1 Silver, 1 Bronze
 (Band 3)
 <br>- 2023 Singapore Junior Physics Olympiad: Individual: 8 Silver, 22 Bronze,
 23 Honourable Mention
-<br>- 2023 Drone Odyssey Challenge: Champion
+<br>
 <br>- 2022 Asian Try Zero-G: Only representation from Singapore whose proposed
-experiment (Double Pendulum in space) was performed in the International
+experiment "Double Pendulum in space" was performed in the International
 Space Station (ISS)
-<br>- 2022 Singapore Junior Biology Olympiad: Runner-up (Overall) 4 Gold,
-15 Silver, 16 Bronze, 7 Honourable Mention
 <br>- 2022 Drone Odyssey Challenge: Champion
-<br>- 2022 National Air Race: Air Race (Team Open Cat): Champion, Individual:
-Runner-up
-<br>- 2022 Young Defence Scientist Programme (YDSP) Camp: Champion
 <br>- 2022 International Biomedical Quiz: 3 Gold, 1 Silver, 1 Bronze, 5 Honourable
 Mention
-<br>- 2022 Singapore Junior Chemistry Olympiad: 2 Gold, 1 Silver, 1 Merit
-<br>- 2022 Singapore Junior Physics Olympiad: Individual: 9 Silver, 15 Bronze,
-27 Honourable Mention, Team: 3 Silver, 3 Bronze, 3 Honourable Mention
 <br>- 2022 International CB Paul Science Quiz: 3 Bronze, 11 Merit
+<br>- 2022 National Air Race: Air Race (Team Open Cat): Champion, Individual:
+Runner-up
 <br>- 2022 National STEM Challenge: Quarter-Final
 <br>- 2022 Rio Tinto Big Science Competition: 44 High Distinction, 34 Distinction,
 35 Credit
+<br>- 2022 Singapore Junior Biology Olympiad: Runner-up (Overall) 4 Gold,
+15 Silver, 16 Bronze, 7 Honourable Mention
+<br>- 2022 Singapore Junior Chemistry Olympiad: 2 Gold, 1 Silver, 1 Merit
+<br>- 2022 Singapore Junior Physics Olympiad: Individual: 9 Silver, 15 Bronze,
+27 Honourable Mention, Team: 3 Silver, 3 Bronze, 3 Honourable Mention
+<br>- 2022 Young Defence Scientist Programme (YDSP) Camp: Champion
+<br>
+<br>
 <br>- 2020 ASTAR Science Scholarship Award: 3 awardees
+<br>- 2020 International Biomedical Olympiad: 1 Gold, 2 Silver, 1 Bronze,
+3 Merit, 3 Honourable Mention
+<br>
 <br>- 2019 ASTAR Science Scholarship Award: 2 awardees
-<br>- 2018 ASTAR Science Scholarship Award: 2 awardees
-<br>- 2019 National Science Challenge: Team Semi-Final
-<br>- 2018 National Science Challenge: Runner-up
-<br>- 2017 National Science Challenge: Team Semi-Final
 <br>- 2019 CB Paul Science Quiz: 5 Gold, 5 Silver, 4 Bronze, 5 Honourable
 Mention
+<br>- 2019 Drone Odyssey Challenge: Champion, Runner-up, Best In Knowledge
+<br>- 2019 International Biomedical Olympiad : 2 Gold, 2 Silver, 1 Bronze,
+3 Merit, 3 Honourable Mention
+<br>- 2019 National Air Race: 2nd Runner-Up (Team Open Category), Top 4 (Top
+Gun Fighter Challenge)
+<br>- 2019 National Science Challenge: Team Semi-Final
+<br>- 2019 NUS Chem Communication Challenge: Merit
+<br>- 2019 Rio Tinto Big Science Competition: 49 High Distinction, 73
+<br>- 2019 Youth Science Conference: 1 Silver, 1 Bronze
+<br>
+<br>
+<br>- 2018 ASTAR Science Scholarship Award: 2 awardees
+<br>- 2018 Drone Odyssey Challenge: Best In Knowledge
 <br>- 2018 CB Paul Science Quiz: 3 Gold, 3 Silver, 5 Bronze, 5 Honourable
 Mention
+<br>- 2018 International Biomedical Olympiad : 1 Gold, 2 Silver, 1 Bronze,
+3 Merit, 1 Honourable Mention
+<br>- 2018 National Air Race: Runner-Up (Team Open Category)
+<br>- 2018 National Science Challenge: Runner-up
+<br>- 2018 Rio Tinto Big Science Competition: 82 High Distinction, 106 Distinction,
+140 Credit
+<br>- 2018 Youth Science Conference: 1 Bronze
+<br>
+<br>- 2017 National Science Challenge: Team Semi-Final
 <br>- 2017 CB Paul Science Quiz: 3 Gold, 4 Silver, 4 Bronze, 3 Honourable
 Mention
 <br>- 2017 ICAS Science Quiz: 26 High Distinctions, 71 Distinction, 102 Credit
-<br>- 2019 NUS Chem Communication Challenge: Merit
 <br>- 2017 NUS Chem Communication Challenge: Top 4
-<br>- 2019 Rio Tinto Big Science Competition: 49 High Distinction, 73 Distinction,
-123 Credit
-<br>- 2018 Rio Tinto Big Science Competition: 82 High Distinction, 106 Distinction,
-140 Credit
+<br>Distinction, 123 Credit
 <br>- 2017 Rio Tinto Big Science Competition: 77 High Distinction, 129 Distinction,
 141 Credit
-<br>- 2020 International Biomedical Olympiad: 1 Gold, 2 Silver, 1 Bronze,
-3 Merit, 3 Honourable Mention
-<br>- 2019 International Biomedical Olympiad : 2 Gold, 2 Silver, 1 Bronze,
-3 Merit, 3 Honourable Mention
-<br>- 2018 International Biomedical Olympiad : 1 Gold, 2 Silver, 1 Bronze,
-3 Merit, 1 Honourable Mention
 <br>- 2017 International Biomedical Olympiad : 1 Gold, 2 Silver, 1 Bronze,
 3 Merit, 2 Honourable Mention
-<br>- 2019 National Air Race: 2nd Runner-Up (Team Open Category), Top 4 (Top
-Gun Fighter Challenge)
-<br>- 2018 National Air Race: Runner-Up (Team Open Category)
-<br>- 2019 Drone Odyssey Challenge: Champion, Runner-up, Best In Knowledge
-<br>- 2018 Drone Odyssey Challenge: Best In Knowledge
-<br>- 2019 Youth Science Conference: 1 Silver, 1 Bronze
-<br>- 2018 Youth Science Conference: 1 Bronze
 <br>- 2017 Youth Science Conference: 1 Silver, 3 Bronzes
 <br>- 2019 Sembcorp Marine Green Wave: Commendation
 <br>- 2019 Sembcorp Marine Green Wave: Runner-up
