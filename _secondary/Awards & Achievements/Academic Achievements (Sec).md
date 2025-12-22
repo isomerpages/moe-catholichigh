@@ -344,21 +344,24 @@ Category)</p>
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2022 NUS Geography Challenge: 2 Gold &amp; 2 Silver
-<br>- 2022 MOE Geography TDP: 24 students shortlisted
-<br>- 2022 MOE History Challenge: 2 students shortlisted
-<br>- 2022 Historical Scene Investigation Challenge: Bronze
-<br>- 2022 Student Archivist Project: Selected for Filming by NHB
-<br>- 2020 NUS Geography Challenge: Finalists; Individual Results: 3 Gold,
-1 Participation
-<br>- 2019 NUS Geography Challenge: Finalists; Individual Results: 3 Gold
-<br>- 2019 Historical Scene Investigation Challenge: Bronze
-<br>- 2019 Singapore History Day: 1st in Senior Documentary category; 3rd
-in Junior Exhibition category; Commendation Award for Junior Research Paper
-<br>- 2019 MOE Humanities Scholarship: 6 students awarded
-<br>- 2018 MOE Humanities Scholarship: 7 students awarded
-<br>- 2 students were invited to take part in MOE History TDP
-<br>- 3 students were invited to take part in MOE Geography TDP</p>
+<p>- <strong>2022 Historical Scene Investigation Challenge: </strong>Bronze
+<br>- <strong>2022 MOE Geography TDP:</strong> 24 students shortlisted
+<br>- <strong>2022 MOE History Challenge: </strong>2 students shortlisted
+<br>- <strong>2022 NUS Geography Challenge:</strong> 2 Gold &amp; 2 Silver
+<br>- <strong>2022 Student Archivist Project: </strong>Selected for Filming
+by NHB
+<br>- <strong>2020 NUS Geography Challenge: </strong>Finalists; Individual
+Results: 3 Gold, 1 Participation
+<br>- <strong>2019 Historical Scene Investigation Challenge: </strong>Bronze
+<br>- <strong>2019 MOE Humanities Scholarship: </strong>6 students awarded
+<br>- <strong>2019 NUS Geography Challenge:</strong> Finalists; Individual Results:
+3 Gold
+<br>- <strong>2019 Singapore History Day:</strong> 1st in Senior Documentary
+category; 3rd in Junior Exhibition category; Commendation Award for Junior
+Research Paper
+<br>- <strong>2018 MOE Geography TDP:</strong> 3 students shortlisted
+<br>- <strong>2018 MOE History TDP: </strong>2 students shortlisted
+<br>- <strong>2018 MOE Humanities Scholarship</strong>: 7 students awarded</p>
 </td>
 </tr>
 <tr>
