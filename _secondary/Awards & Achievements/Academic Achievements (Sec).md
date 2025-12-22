@@ -399,10 +399,10 @@ Mention
 1 team Honorable Mention
 <br>- <strong>2018 Singapore Mathematics Society Essay Competition:</strong> 1st
 and 3rd Prizes
-<br>- <strong>2017 Singapore Mathematics Project Festival (SMPF):</strong> 6
-Silver
 <br>- <strong>2017 National Software Competition (NSC):</strong> Team 1st and
-2nd Runners Up</p>
+2nd Runners Up
+<br>- <strong>2017 Singapore Mathematics Project Festival (SMPF):</strong> 6
+Silver</p>
 </td>
 </tr>
 <tr>
