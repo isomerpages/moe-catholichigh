@@ -156,8 +156,6 @@ Categories)​
 <br>- <strong>2024 Singapore Mathematics Project Festival:</strong> 1 Silver,
 1 Bronze, 1 Honorable Mention​
 <br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Mathematics_2024.jpg">
