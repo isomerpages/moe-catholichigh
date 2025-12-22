@@ -257,29 +257,31 @@ finalist
 9th, 12th and 20th best speaker
 <br>- <strong>2019 ICAS English: </strong>7 Distinctions
 <br>- <strong>2019 ICAS Writing:</strong> 4 Distinctions
+<br>- <strong>2019 Lasallian Debate League:</strong> Semi-finalists
+<br>- <strong>2019 Orator’s Trophy: </strong>Participation
 <br>- <strong>2019 Queen’s Commonwealth Essay Competition:</strong> 1 Gold,
 1 Silver, 2 Bronzes
-<br>- 2019 Singapore Secondary School Debating Championship: Quarterfinalist,
+<br>- <strong>2019 Raffles Debate Academy U-14 Debating Championship:</strong> Quarter-finalists
+<br>- <strong>2019 River Valley High School Under-16 Novice Debate Championships: </strong>Representation
+<br>- <strong>2019 Singapore Secondary School Debating Championship: </strong>Quarterfinalist,
 4th, 19th best speaker
-<br>- 2019 United World College U14s: Representation, 5th and 6th best speaker
-<br>- 2019 Raffles Debate Academy U-14 Debating Championship: Quarter-finalists
-<br>- 2019 Lasallian Debate League: Semi-finalists
-<br>- 2019 River Valley High School’s Under-16 Novice Debate Championships:
-Representation
-<br>- 2019 Orator’s Trophy: Participation
-<br>- 2018 Debate Association (Singapore) Debating Championships: Representation,
+<br>- <strong>2019 United World College U14s: </strong>Representation, 5th
+and 6th best speaker
+<br>- <strong>2018 Debate Association (Singapore) Debating Championships: </strong>Representation,
 14th best speaker for Gold Division
-<br>- 2018 Singapore Secondary School Debating Championship: Runner-up
-<br>- 2018 United World College U14s: Runner-up
-<br>- 2018 Raffles Debate Academy U-14 Debating Championship: Quarter-finalist
-<br>- 2018 Youth Debate Open: Representation
-<br>- 2018 Hwa Chong Invitationals: Representation
-<br>- 2017 Speak! Ventures Debate Championship (Grand Finals): 1st Runners-up
-<br>- 2017 Singapore Secondary Schools Debate Championships Div I: Quarter-finalist
-<br>- 2017 United World College U14s: Participant
-<br>- 2017 Youth Debate Open: Top speaker (Secondary School Category)
-<br>- 2017 Hwa Chong Invitationals 2017: Participant
-<br>- 2017 River Valley Under 16: Participant</p>
+<br>- <strong>2018 Hwa Chong Invitationals: </strong>Representation
+<br>- <strong>2018 Raffles Debate Academy U-14 Debating Championship:</strong> Quarter-finalist
+<br>- <strong>2018 Singapore Secondary School Debating Championship: </strong>Runner-up
+<br>- <strong>2018 United World College U14s:</strong> Runner-up
+<br>- <strong>2018 Youth Debate Open:</strong> Representation
+<br>- <strong>2017 Hwa Chong Invitationals 2017: </strong>Participation
+<br>- <strong>2017 River Valley Under 16: </strong>Participation
+<br>- <strong>2017 Singapore Secondary Schools Debate Championships Div I: </strong>Quarter-finalist
+<br>- <strong>2017 Speak! Ventures Debate Championship (Grand Finals):</strong> 1st
+Runners-up
+<br>- <strong>2017 United World College U14s: </strong>Participation
+<br>- <strong>2017 Youth Debate Open: </strong>Top speaker (Secondary School
+Category)</p>
 </td>
 </tr>
 <tr>
