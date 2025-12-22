@@ -72,7 +72,7 @@ links:
         url: https://go.gov.sg/chspasswordreset
       - title: MySkillsFuture Portal
         url: https://www.myskillsfuture.gov.sg/secondary
-      - title: Parents Gateway
+      - title: Parents Gateway (PG)
         url: https://pg.moe.edu.sg/
       - title: Student iCON
         url: https://workspace.google.com/dashboard
@@ -90,5 +90,5 @@ links:
         url: https://www.moe.gov.sg/financial-matters/fees
       - title: School Smart Card Replacement
         url: https://www.simplygo.com.sg/lost-concession-card-replacement/
-      - title: Waitlist (PRI)
+      - title: Waitlist (Primary)
         url: https://go.gov.sg/chsprimarywaitlist
