@@ -395,15 +395,14 @@ Mention
 Mention
 <br>- <strong>2018 Singapore Mathematical Olympiad (Senior):</strong> 1 Silver,
 10 Bronzes, 10 Honorable Mentions
-<br>
-<br>- 2018 Singapore Mathematics Project Festival: 1 team Bronze, 1 team Honorable
-Mention
+<br>- <strong>2018 Singapore Mathematics Project Festival:</strong> 1 team Bronze,
+1 team Honorable Mention
 <br>- <strong>2018 Singapore Mathematics Society Essay Competition:</strong> 1st
 and 3rd Prizes
-<br>- 2017 Singapore Mathematics Project Festival: Silver Medal
-<br>- 2017 Singapore Mathematics Project Festival (SMPF): 6 Silver
-<br>- 2017 National Software Competition (NSC): Team 1st Runner-Up and Team
-2nd Runner Up</p>
+<br>- <strong>2017 Singapore Mathematics Project Festival (SMPF):</strong> 6
+Silver
+<br>- <strong>2017 National Software Competition (NSC):</strong> Team 1st and
+2nd Runners Up</p>
 </td>
 </tr>
 <tr>
