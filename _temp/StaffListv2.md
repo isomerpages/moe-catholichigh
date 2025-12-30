@@ -1,7 +1,7 @@
 ---
 title: StaffListv2
 permalink: /stafflistv2/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3>Catholic High School(Primary)</h3>
@@ -138,16 +138,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Wang Dailin</strong>
-<br>LH (Math [Acting])</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wang_dailin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Miss Seah Hui Ling</strong>
 <br>ST (Math)</p>
 </td>
@@ -163,17 +153,6 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Heng Wen Chi</strong>
-</p>
-<p>HOD (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:heng_wen_chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -401,16 +380,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Yogeeindran Ramerchandra</strong>
-<br>HOD (Student Management)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yogeeindran_ramerchandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Lai Chee Keen</strong>
 <br>SH (Student Leadership)</p>
 </td>
@@ -426,16 +395,6 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Ng Hwee San Vanessa</strong>
-<br>Year Head (Lower Primary [Acting])</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hwee_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1933,6 +1892,26 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:woo_jak_may_carol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Marcus Teo Minghong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_minghong_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Lim Mi-Mei</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_mi-mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
