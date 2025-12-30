@@ -2,7 +2,7 @@
 title: Primary Section
 permalink: /staff/primary-section/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Catholic High School(Primary)</h3>
 <h3><strong>School Leaders</strong></h3>
@@ -147,7 +147,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Cheong Wai Fang</strong>
-<br>LH (Science [Acting])</p>
+<br>LH (Science [Internal Appt])</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_wai_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
@@ -269,7 +269,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Miss Tang Hui Jing</strong>
-<br>HOD (Aesthetics &amp; Communications [Acting])</p>
+<br>HOD (Aesthetics &amp; Communications [Internal Appt])</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tang_hui_jing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
@@ -297,7 +297,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Revinesh Kanaiah</strong>
-<br>SH (PE/CCA [Acting])</p>
+<br>SH (PE/CCA [Internal Appt])</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:revinesh_k_kanaiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
@@ -315,7 +315,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Chang Chiew Siew Linda</strong>
-<br>HOD (Knowledge &amp; Digital Edn [Acting])</p>
+<br>HOD (Knowledge &amp; Digital Edn [Internal Appt])</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chang_chiew_siew_linda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
@@ -391,7 +391,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lai Chee Keen</strong>
-<br>HOD (Student Management [Acting])</p>
+<br>HOD (Student Management [Internal Appt])</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lai_chee_keen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
@@ -409,7 +409,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chua Bingkun Nicholas</strong>
-<br>Year Head (Lower Primary [Acting])</p>
+<br>Year Head (Lower Primary [Internal Appt])</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_bingkun_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
@@ -419,7 +419,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Amanda Tan Sze Li </strong>
-<br>Asst Year Head (Lower Primary [Acting])</p>
+<br>Asst Year Head (Lower Primary [Internal Appt])</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:amanda_tan_sze_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
@@ -475,7 +475,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Lee Ying Xuan</strong>
-<br>Asst Year Head (Upper Primary [Acting])</p>
+<br>Asst Year Head (Upper Primary [Internal Appt])</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_ying_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
