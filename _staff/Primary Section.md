@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Shared Mailbox: </strong>chs_sch_leaders@moe.edu.sg<a href="mailto:heng_wen_chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><strong>Shared Mailbox: </strong>chs_sch_leaders@moe.edu.sg<a href="mailto:chs_sch_leaders@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1549,7 +1549,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Minghui</p>
+<p>Mdm Ng Minghui Esther</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_minghui_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
