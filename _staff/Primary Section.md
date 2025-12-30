@@ -1986,7 +1986,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>SEN</h4>
+<h4>Special Educational Needs</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
