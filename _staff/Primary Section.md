@@ -2,7 +2,7 @@
 title: Primary Section
 permalink: /staff/primary-section/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Catholic High School(Primary)</h3>
 <h3><strong>School Leaders</strong></h3>
@@ -100,7 +100,7 @@ variant: markdown
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Math</h4>
+<h4>Mathematics</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -194,7 +194,7 @@ variant: markdown
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>GEP</h4>
+<h4>Gifted Education Programme</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -232,7 +232,7 @@ variant: markdown
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>SAP</h4>
+<h4>Special Assistance Plan</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -344,7 +344,7 @@ variant: markdown
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>CCE</h4>
+<h4>Character and Citizenship Education</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -484,7 +484,7 @@ variant: markdown
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>SSD</h4>
+<h4>School Staff Developer</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -493,7 +493,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Miss Eng Li Li</strong>
-<br>SSD</p>
+<br>HOD (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:eng_li_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
