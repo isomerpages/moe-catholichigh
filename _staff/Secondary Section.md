@@ -8,7 +8,7 @@ variant: markdown
 
 |  	|  	|
 |---	|---	|
-| Mdm Teo Yvonne (Principal)<br> Mr Tay Yuan Zhuang (Vice-Principal)<br> Ms Debbie Wong Mei Ying (Vice-Principal)<br>Mr Fong Kok Wai (Vice-Principal/Administration) 	| chs_sch_leaders@schools.gov.sg 	|
+| Mdm Teo Yvonne (Principal)<br> Mr Tay Yuan Zhuang (Vice-Principal)<br> Ms Debbie Wong Mei Ying (Vice-Principal)<br>Mr Fong Kok Wai (Vice-Principal/Administration) 	| chs_sch_leaders@moe.edu.sg 	|
 
 #### Heads of Department (HOD)/Level Heads (LH)/Subject Heads (SH)/Lead Teachers (LT)/Senior Teachers (ST) 
 
