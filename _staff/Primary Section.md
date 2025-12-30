@@ -391,7 +391,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lai Chee Keen</strong>
-<br>HOD (Student Leadership [Acting])</p>
+<br>HOD (Student Management [Acting])</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lai_chee_keen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
