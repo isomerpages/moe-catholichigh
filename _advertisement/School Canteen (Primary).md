@@ -30,7 +30,7 @@ variant: tiptap
 <p>Malay Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Dec 2025</p>
+<p>30 JUN 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice/Noodle stalls are acceptable.</p>
@@ -41,7 +41,7 @@ variant: tiptap
 <p>Chinese Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Dec 2025</p>
+<p>30 JUN 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
