@@ -58,7 +58,7 @@ information on the scope of Sexuality Education in the school curriculum.</p>
 on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
-<p><strong><u>Sexuality Education Lessons: </u></strong>
+<p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes of our
 youth towards sexuality are increasingly shaped by their peers, exposure
