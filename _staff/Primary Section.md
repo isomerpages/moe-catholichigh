@@ -128,6 +128,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mdm Wang Dailin</strong>
+<br>LH (Math [Internal Appt])</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_dailin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Ms Seah Hui Ling</strong>
 <br>ST (Math)</p>
 </td>
@@ -661,7 +671,7 @@ variant: tiptap
 <p>Miss Sng Sim Neo Susan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:sng_sim_neo_susan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1089,7 +1099,7 @@ variant: tiptap
 <p>Mr Seow Yong Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:seow_yong_keong_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1247,7 +1257,7 @@ variant: tiptap
 <p>Mr Kyo Tan Shuean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:tan_shuean@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1290,7 +1300,7 @@ variant: tiptap
 <p>Mr Eugene Low Teow Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:low_teow_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1932,7 +1942,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:erlianda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1942,7 +1952,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:wong_hsien_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1952,7 +1962,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:nicolette_brigette_pereira_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1962,7 +1972,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:lim_yeng_chian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms V Sangari</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:viswanatham_sangari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
