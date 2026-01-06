@@ -2,5 +2,4 @@ collections:
   temp:
     output: true
     order:
-      - School Bus (Primary).md
       - School Canteen Advertisement (Secondary).md
