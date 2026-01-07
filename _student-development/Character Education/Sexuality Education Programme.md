@@ -75,7 +75,6 @@ responsibly. Given the pressures faced by the middle adolescent from within
 themselves and from peers, it is important to build a strong sense of self-worth,
 personal conviction and an understanding of the possible consequences of
 sexual behaviour.</p>
-<p></p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
 lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
@@ -113,7 +112,7 @@ as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
-are the key messages. ily values are the key messages.</p>
+are the key messages.</p>
 <p><strong>At Catholic High School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
@@ -152,8 +151,8 @@ and impact
 <br>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
 assertiveness, negotiation to say ‘no’ to peer pressure)
 <br>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
-way, including avenues for help-seeking.</p>
-<p>&nbsp;</p>
+way, including avenues for help-seeking.
+<br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6</p>
