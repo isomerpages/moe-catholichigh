@@ -82,19 +82,19 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_1h.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_2h.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_3h.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_4h.jpg">
 </div>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eTeens is a programme that was
