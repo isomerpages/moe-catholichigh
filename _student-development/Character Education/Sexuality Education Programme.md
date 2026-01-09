@@ -3,7 +3,7 @@ title: Sexuality Education Programme
 permalink: /student-development/character-education/sexuality-education-programme/
 description: ""
 third_nav_title: Character Education
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>MOE Sexuality Education in Schools</strong></h3>
 <p>&nbsp;</p>
@@ -80,21 +80,20 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="100%" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_1h.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_1v.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="100%" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_2h.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_2v.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="100%" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_3h.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_3v.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="100%" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_4h.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2026_Sexuality_Sec_4v.jpg">
 </div>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eTeens is a programme that was
