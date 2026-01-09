@@ -188,7 +188,7 @@ at the start of the year. &nbsp;</p>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year. &nbsp; at the start of the year.</p>
+at the start of the year. &nbsp;</p>
 </li>
 <li>
 <p>Parents can contact the school at 64582177 for discussion or to seek clarification
