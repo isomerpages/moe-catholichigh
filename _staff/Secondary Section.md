@@ -340,17 +340,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -414,7 +403,7 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Eugenia Lee Yeen Yoong (Mrs Eugenia Tan)</strong>
+<p><strong>Mrs Eugenia Tan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -526,7 +515,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_puey_leng@moe.edu.sg</p>
+<p><a href="mailto:koh_puey_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_puey_leng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
