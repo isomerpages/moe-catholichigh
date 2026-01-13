@@ -4,7 +4,7 @@ permalink: /staff/secondary-section/
 description: ""
 variant: tiptap
 ---
-<h4>Catholic High School (Secondary)</h4>
+<h3><strong>Catholic High School (Secondary)</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
