@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Heads of Department (HOD)/Level Heads (LH)/Subject Heads (SH)/Lead Teachers (LT)/Senior Teachers (ST)</strong></h4>
+<h4><strong>Heads of Department (HOD) / Level Heads (LH) / Subject Heads (SH) / Lead Teachers (LT) / Senior Teachers (ST)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
