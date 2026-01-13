@@ -844,7 +844,7 @@ variant: tiptap
 <p>3-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Adeline Eesvari D/O Ramakrishnan</strong>
+<p><strong>Miss Adeline Eesvari</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -909,7 +909,7 @@ variant: tiptap
 <p>3-10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nafizath Bharzana Begam D/O Noor Mohamed</strong>
+<p><strong>Ms Nafizath Bharzana Begam</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
