@@ -339,8 +339,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-1</strong>
-</p>
+<p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Chew Soak Cheng (Tan Soak Cheng)</p>
@@ -351,8 +350,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-2</strong>
-</p>
+<p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Esther Ding-Neo Geok Hoon</p>
@@ -363,8 +361,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-2</strong>
-</p>
+<p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Liu Xue</p>
@@ -375,8 +372,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-3</strong>
-</p>
+<p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Huang Huang</p>
@@ -387,8 +383,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-3</strong>
-</p>
+<p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Huaqiang Vinson</p>
@@ -399,8 +394,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-3</strong>
-</p>
+<p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Eugenia Lee Yeen Yoong (Mrs Eugenia Tan)</p>
@@ -411,8 +405,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-4</strong>
-</p>
+<p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Adrian Raphael William Chong</p>
@@ -423,8 +416,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-4</strong>
-</p>
+<p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Pan Jingyang</p>
@@ -435,8 +427,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-5</strong>
-</p>
+<p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Hsu Li-Wen</p>
@@ -447,8 +438,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-6</strong>
-</p>
+<p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tham Poh Cheong Pearl</p>
@@ -459,8 +449,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-6</strong>
-</p>
+<p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Shi Hui, Tess</p>
@@ -471,8 +460,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-7</strong>
-</p>
+<p>1-7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Poon Chew Wei (Leong Chew Wei)</p>
@@ -483,8 +471,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-8</strong>
-</p>
+<p>1-8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Wei Kiang (Ash)</p>
@@ -495,8 +482,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-8</strong>
-</p>
+<p>1-8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Suah Yee Leng</p>
@@ -507,8 +493,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1-9</strong>
-</p>
+<p>1-9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Koh Puey Leng</p>
@@ -529,8 +514,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-1</strong>
-</p>
+<p>2-1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Xie Xiaowen</p>
@@ -541,8 +525,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-2</strong>
-</p>
+<p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Paul Lai Chyi Shyan</p>
@@ -553,8 +536,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-2</strong>
-</p>
+<p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Seng Choon</p>
@@ -565,8 +547,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-3</strong>
-</p>
+<p>2-3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Fok Chee Wel (Ernest)</p>
@@ -577,8 +558,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-4</strong>
-</p>
+<p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Yee Wei</p>
@@ -589,8 +569,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-4</strong>
-</p>
+<p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss S Purnima Janani</p>
@@ -601,8 +580,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-5</strong>
-</p>
+<p>2-5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Lim Boon Chee</p>
@@ -613,8 +591,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-6</strong>
-</p>
+<p>2-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Althea Ong Min</p>
@@ -625,8 +602,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-6</strong>
-</p>
+<p>2-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dawn Lam</p>
@@ -637,8 +613,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-7</strong>
-</p>
+<p>2-7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nirmala D/O K. Balakrishnan</p>
@@ -649,8 +624,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-7</strong>
-</p>
+<p>2-7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Nian Kai</p>
@@ -661,8 +635,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-8</strong>
-</p>
+<p>2-8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Asmah Hanim Binte Mohamad</p>
@@ -673,8 +646,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-8</strong>
-</p>
+<p>2-8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Oh Weiqiang</p>
@@ -685,8 +657,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2-9</strong>
-</p>
+<p>2-9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Gek Lee Bernice</p>
@@ -707,8 +678,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-1</strong>
-</p>
+<p>3-1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Qi Zhaojing (Zhang Zhaojing)</p>
@@ -719,8 +689,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-1</strong>
-</p>
+<p>3-1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Mee Khoon</p>
@@ -731,8 +700,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-2</strong>
-</p>
+<p>3-2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Weiliang</p>
@@ -743,8 +711,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-3</strong>
-</p>
+<p>3-3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tay-Eng Siew Yin Marianne</p>
@@ -755,8 +722,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-3</strong>
-</p>
+<p>3-3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yao Zhiwei Adrian</p>
@@ -767,8 +733,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-4</strong>
-</p>
+<p>3-4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chua Lay Yen</p>
@@ -779,8 +744,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-5</strong>
-</p>
+<p>3-5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Low Hui Long</p>
@@ -791,8 +755,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-5</strong>
-</p>
+<p>3-5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tai Pei Shan (Wu Pei Shan)</p>
@@ -803,8 +766,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-6</strong>
-</p>
+<p>3-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Adeline Eesvari D/O Ramakrishnan</p>
@@ -815,8 +777,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-6</strong>
-</p>
+<p>3-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Zheng Ling, Zenia</p>
@@ -827,8 +788,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-7</strong>
-</p>
+<p>3-7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Chow Tong Paul</p>
@@ -839,8 +799,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-8</strong>
-</p>
+<p>3-8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan-Phay Mei Eng Anna</p>
@@ -851,8 +810,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-9</strong>
-</p>
+<p>3-9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Jing Yi, Serene</p>
@@ -863,8 +821,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-10</strong>
-</p>
+<p>3-10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nafizath Bharzana Begam D/O Noor Mohamed</p>
@@ -875,8 +832,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3-10</strong>
-</p>
+<p>3-10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Tnay Huifang Priscilla</p>
@@ -897,8 +853,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-1</strong>
-</p>
+<p>4-1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Hoi Yin Yasmine</p>
@@ -909,8 +864,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-1</strong>
-</p>
+<p>4-1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chui Yongtai Nick</p>
@@ -921,8 +875,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-2</strong>
-</p>
+<p>4-2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Bai Xiaofen Hannah</p>
@@ -933,8 +886,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-2</strong>
-</p>
+<p>4-2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cheng Jing</p>
@@ -945,8 +897,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-3</strong>
-</p>
+<p>4-3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Delia Goh Xin Yin</p>
@@ -957,8 +908,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-3</strong>
-</p>
+<p>4-3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yan Wei</p>
@@ -969,8 +919,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-4</strong>
-</p>
+<p>4-4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lim-Seah Swee Khim</p>
@@ -981,8 +930,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-4</strong>
-</p>
+<p>4-4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Lan Kailuo</p>
@@ -993,8 +941,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-5</strong>
-</p>
+<p>4-5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Zong Neng (Max)</p>
@@ -1005,8 +952,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-6</strong>
-</p>
+<p>4-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Syuhaida Binte Dol Mat</p>
@@ -1017,8 +963,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-6</strong>
-</p>
+<p>4-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Tan Yee Ying</p>
@@ -1029,8 +974,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-7</strong>
-</p>
+<p>4-7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Loon Kang Neng Kenneth</p>
@@ -1041,8 +985,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-8</strong>
-</p>
+<p>4-8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chua Wee Nee</p>
@@ -1053,8 +996,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-9</strong>
-</p>
+<p>4-9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Lee Lye Cheng Jasmine</p>
@@ -1065,8 +1007,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-9</strong>
-</p>
+<p>4-9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yong Wee Soon Edmund Gerard</p>
@@ -1077,8 +1018,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-10</strong>
-</p>
+<p>4-10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chng Xun Qi</p>
@@ -1089,8 +1029,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4-10</strong>
-</p>
+<p>4-10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Qian Ying</p>
