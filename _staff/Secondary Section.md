@@ -343,7 +343,8 @@ variant: tiptap
 <p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chew Soak Cheng (Tan Soak Cheng)</p>
+<p><strong>Mrs Chew Soak Cheng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_soak_cheng@moe.edu.sg</p>
@@ -354,7 +355,8 @@ variant: tiptap
 <p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Esther Ding-Neo Geok Hoon</p>
+<p><strong>Mrs Esther Ding-Neo Geok Hoon</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>neo_geok_hoon_esther@moe.edu.sg</p>
@@ -365,7 +367,8 @@ variant: tiptap
 <p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Liu Xue</p>
+<p><strong>Miss Liu Xue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>liu_xue@moe.edu.sg</p>
@@ -376,7 +379,8 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Huang Huang</p>
+<p><strong>Ms Huang Huang</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>huang_huang@moe.edu.sg</p>
@@ -387,7 +391,8 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Huaqiang Vinson</p>
+<p><strong>Mr Tan Huaqiang Vinson</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_huaqiang_vinson@moe.edu.sg</p>
@@ -398,7 +403,8 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eugenia Lee Yeen Yoong (Mrs Eugenia Tan)</p>
+<p><strong>Mdm Eugenia Lee Yeen Yoong (Mrs Eugenia Tan)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_yeen_yoong_eugenia_a@moe.edu.sg</p>
@@ -409,7 +415,8 @@ variant: tiptap
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Adrian Raphael William Chong</p>
+<p><strong>Mr Adrian Raphael William Chong</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>adrian_raphael_william_chong@moe.edu.sg</p>
@@ -420,7 +427,8 @@ variant: tiptap
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pan Jingyang</p>
+<p><strong>Mr Pan Jingyang</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>pan_jingyang@moe.edu.sg</p>
@@ -431,7 +439,8 @@ variant: tiptap
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Hsu Li-Wen</p>
+<p><strong>Miss Hsu Li-Wen</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hsu_li-wen@moe.edu.sg</p>
@@ -442,7 +451,8 @@ variant: tiptap
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tham Poh Cheong Pearl</p>
+<p><strong>Mrs Tham Poh Cheong Pearl</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tham_poh_cheong_pearl@moe.edu.sg</p>
@@ -453,7 +463,8 @@ variant: tiptap
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Shi Hui, Tess</p>
+<p><strong>Ms Tan Shi Hui, Tess</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_shi_hui@moe.edu.sg</p>
@@ -464,7 +475,8 @@ variant: tiptap
 <p>1-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Poon Chew Wei (Leong Chew Wei)</p>
+<p><strong>Mrs Poon Chew Wei</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>leong_chew_wei@moe.edu.sg</p>
@@ -475,7 +487,8 @@ variant: tiptap
 <p>1-8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Wei Kiang (Ash)</p>
+<p><strong>Mr Ng Wei Kiang Ash</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_wei_kiang@moe.edu.sg</p>
@@ -486,7 +499,8 @@ variant: tiptap
 <p>1-8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Suah Yee Leng</p>
+<p><strong>Mr Suah Yee Leng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>suah_yee_leng@moe.edu.sg</p>
@@ -497,7 +511,8 @@ variant: tiptap
 <p>1-9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Puey Leng</p>
+<p><strong>Mdm Koh Puey Leng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>koh_puey_leng@moe.edu.sg</p>
