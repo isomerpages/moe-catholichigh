@@ -347,7 +347,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_soak_cheng@moe.edu.sg</p>
+<p><a href="mailto:tan_soak_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_soak_cheng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -359,7 +360,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>neo_geok_hoon_esther@moe.edu.sg</p>
+<p><a href="mailto:neo_geok_hoon_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_geok_hoon_esther@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -371,7 +373,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liu_xue@moe.edu.sg</p>
+<p><a href="mailto:liu_xue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_xue@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -383,7 +386,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>huang_huang@moe.edu.sg</p>
+<p><a href="mailto:huang_huang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_huang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -395,7 +399,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_huaqiang_vinson@moe.edu.sg</p>
+<p><a href="mailto:tan_huaqiang_vinson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_huaqiang_vinson@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
