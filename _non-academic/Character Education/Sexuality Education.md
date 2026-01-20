@@ -44,7 +44,7 @@ ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer" target="_blank">here</a> for
 more information on MOE Sexuality Education.&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>Overview of Catholic High School (Primary)’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Catholic High School (Primary)’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum.&nbsp;The
@@ -54,8 +54,8 @@ and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe
 information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
 topics on sexuality include:</p>
-<p>(a) Science&nbsp;</p>
-<p>(b) Character and Citizenship Education (CCE)</p>
+<p>a. Science</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education (CCE)</p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:&nbsp;</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years
 mark the onset of puberty. With better nutrition and improved health care,
@@ -70,179 +70,90 @@ they can respond with discernment to the sexual messages in the media and
 other sources.&nbsp;</p>
 <p></p>
 <p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
-lessons are taught as part of CCE (FTGP) at Primary 5 and 6.&nbsp;Through
-these lessons, students will learn healthy ways to manage the physiological,
+lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these
+lessons, students will learn healthy ways to manage the physiological,
 social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<h4><strong>At Catholic High School (Primary), the following Sexuality Education lessons will be taught in 2025:&nbsp;</strong></h4>
+<h3><strong>At Catholic High School (Primary), the following Sexuality Education lessons will be taught in 2026:&nbsp;</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/MOE_logo.jpg">
 </div>
-<h4><strong>2025 Sexuality Education Lessons in CCE&nbsp;</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE&nbsp;</strong></h4>
 <h4><strong>Primary 5</strong></h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>CCE(FTGP) THEME</strong>
+<hr>
+<p><strong>Theme:</strong> Growing Years</p>
+<p><strong>Lesson:</strong> The Changes in Me (60 min)</p>
+<p><strong>Term:</strong> Term 3-4</p>
+<p><strong>Overview:</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>LESSON TITLE / DURATION</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Lesson OVERVIEW</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>TIME PERIOD&nbsp;</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Growing Years</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Changes in Me</p>
-<p>(60 min)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students identify the emotions and stress
 caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
-affected, even when one’s body is experiencing changes due to puberty.&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2-4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Did You Know?</p>
-<p>(60 min)</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+affected, even when one’s body is experiencing changes due to puberty.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+<hr>
+<p><strong>Theme:</strong> Growing Years</p>
+<p><strong>Lesson:</strong> Did You Know? (60 min)</p>
+<p><strong>Term:</strong> Term 3-4</p>
+<p><strong>Overview:</strong>
+</p>
 <p>This lesson focuses on helping students know what pornography is and how
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.&nbsp;</strong>
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2-4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Keeping Myself Safe</p>
-<p>(60 min)</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+<hr>
+<p><strong>Theme:</strong> Growing Years</p>
+<p><strong>Lesson:</strong> Keeping Myself Safe (60 min)</p>
+<p><strong>Term:</strong> Term 3-4</p>
+<p><strong>Overview:</strong>
+</p>
 <p>In this lesson, students will learn about sexual abuse, how it can happen
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2-4</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+<hr>
 <p></p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/MOE_logo.jpg">
 </div>
-<h4><strong>2025 Sexuality Education Lessons in CCE&nbsp;</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE&nbsp;</strong></h4>
 <h4><strong>Primary 6</strong></h4>
-<p></p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>CCE(FTGP) THEME</strong>
+<hr>
+<p><strong>Theme:</strong> Growing Years</p>
+<p><strong>Lesson:</strong> Are We More than Friends? [Lesson 1] (60 min)</p>
+<p><strong>Term:</strong> Term 3-4</p>
+<p><strong>Overview:</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>LESSON TITLE / DURATION</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Lesson Overview</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Growing Years</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Are We More than Friends?</p>
-<p>Lesson 1</p>
-<p>(60 min)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>In this lesson, students will learn to distinguish between the characteristics
 of love and infatuation, and identify the strong emotions that may arise
 from experiencing the feelings of infatuation. They will recognise that
-experiencing &nbsp;feelings of infatuation is part of growing up and becoming
+experiencing feelings of infatuation is part of growing up and becoming
 infatuated with someone does not mean that they should be involved in a
 romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2-4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Are We More than Friends?</p>
-<p>Lesson 2</p>
-<p>(60 min)</p>
-</td>
-<td rowspan="1" colspan="1">
+<hr>
+<p><strong>Theme:</strong> Growing Years</p>
+<p><strong>Lesson:</strong> Are We More than Friends? [Lesson 2] (60 min)</p>
+<p><strong>Term:</strong> Term 3-4</p>
+<p><strong>Overview:</strong>
+</p>
 <p>In this lesson, students will learn healthy ways to manage the emotions
 arising from infatuation and recognise the importance of respecting the
 boundaries of any relationship. They will also recognise the negative impact
 of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2-4</p>
-</td>
-</tr>
-</tbody>
-</table>
+<hr>
 <p>&nbsp;</p>
 <p><strong>Information for Parents</strong>
 </p>
@@ -251,8 +162,8 @@ children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.&nbsp;</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
-an opt-out form <a href="https://form.gov.sg/678f38e23e92a1d8e2e12e20" rel="noopener nofollow" target="_blank">here</a> .
-The completed opt-out form is to be submitted by 14/03/2025.</p>
+an opt-out form <a href="https://form.gov.sg/6968abe844712c4ae0cf656c" rel="noopener nofollow" target="_blank">here</a> .
+The completed opt-out form is to be submitted by 13/03/2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6458 9869 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
