@@ -159,7 +159,6 @@ boundaries of any relationship. They will also recognise the negative impact
 of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 <hr>
-<p>&nbsp;</p>
 <h4>Information for Parents</h4>
 <ol start="8">
 <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
