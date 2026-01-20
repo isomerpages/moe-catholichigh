@@ -80,7 +80,7 @@ lessons, students will learn healthy ways to manage the physiological,
 social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
-responsible decisions to keep themselves safe from sexuality-related risks.</li>
+responsible decisions to keep themselves safe from sexuality-related risks.</li></ol>
 
 <h3><strong>At Catholic High School (Primary), the following Sexuality Education lessons will be taught in 2026:&nbsp;</strong></h3>
 <div class="isomer-image-wrapper">
@@ -170,4 +170,4 @@ an opt-out form <a href="https://form.gov.sg/6968abe844712c4ae0cf656c" rel="noop
 The completed opt-out form is to be submitted by 13/03/2026.</li>
 <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6458 9869 for discussion or to seek clarification about the school’s
-Sexuality Education programme.</li></ol></ol>
+Sexuality Education programme.</li></ol>
