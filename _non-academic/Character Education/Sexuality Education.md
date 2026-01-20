@@ -23,17 +23,17 @@ and learning of SEd is based on respect for the values and beliefs of the
 
 <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
 Sexuality Education are:<p></p>
-<ol type="a"><li>(a) Support students in managing their physiological, social and emotional
+<ul><li>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</li>
 <li>(b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.</li>
 <li>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</li>
-</ol>
+</ul>
 </li></ol>
 <ol start="3"><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The&nbsp;<strong>Key Messages</strong> of Sexuality Education are:<p></p>
-<ol type="a">
+<ul>
 <li>(a) Love and respect yourself as you love and respect others;</li>
 <li>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);</li>
@@ -41,7 +41,7 @@ the foundation for strong families);</li>
 and</li>
 <li>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
-ones.</li></ol></li></ol>
+ones.</li></ul></li></ol>
 <p></p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer" target="_blank">here</a> for
 more information on MOE Sexuality Education.&nbsp;</p>
@@ -57,9 +57,9 @@ and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe
 information on the scope of Sexuality Education in the school curriculum.</li>
 <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
 topics on sexuality include:</li>
-	<ol type="a">
+	<ul>
 <li>a. Science</li>
-<li>b.&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education (CCE)</li></ol></ol>
+<li>b.&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education (CCE)</li></ul></ol>
 		
 <p></p><h4><u>Sexuality Education Lessons:</u></h4>&nbsp;<p></p>
 <ol start="6">
