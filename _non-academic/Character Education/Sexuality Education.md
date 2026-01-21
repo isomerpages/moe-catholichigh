@@ -140,8 +140,6 @@ caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
 affected, even when one’s body is experiencing changes due to puberty.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
 <hr>
 <p><strong>Theme:</strong> Growing Years</p>
 <p><strong>Lesson:</strong> Did You Know? (60 min)</p>
@@ -154,8 +152,6 @@ of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
 own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
 </p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
 <hr>
 <p><strong>Theme:</strong> Growing Years</p>
 <p><strong>Lesson:</strong> Keeping Myself Safe (60 min)</p>
@@ -166,8 +162,6 @@ own responses when they encounter pornography by applying the strategy <strong>�
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
