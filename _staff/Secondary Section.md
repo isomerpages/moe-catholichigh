@@ -6,6 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Catholic High School (Secondary)</strong></h3>
 <p>(Updated as of: 23 Jan 2026)</p>
+<h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
