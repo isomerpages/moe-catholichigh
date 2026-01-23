@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Catholic High School (Secondary)</strong></h3>
-<p>(Updated as of: 13 Jan 2026)</p>
+<p>(Updated as of: 23 Jan 2026)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -926,6 +926,32 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:phay_mei_eng_anna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phay_mei_eng_anna@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Daniel Lim Siang Long</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:daniel_lim_siang_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_lim_siang_long@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Barry</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_barry@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_barry@moe.edu.sg</a>
 </p>
 </td>
 </tr>
