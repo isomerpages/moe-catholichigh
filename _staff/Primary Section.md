@@ -4,7 +4,7 @@ permalink: /staff/primary-section/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Catholic High School(Primary)</strong></h3>
+<h3><strong>Catholic High School (Primary)</strong></h3>
 <h3><strong>School Leaders</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
