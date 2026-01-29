@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Catholic High School (Secondary)</strong></h3>
-<p>(Updated as of: 23 Jan 2026)</p>
+<p>(Updated as of: 28 Jan 2026)</p>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -691,11 +691,11 @@ Studies)</p>
 <p>2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Dawn Lam</strong>
+<p><strong>Mdm Sumithra D/O Narayanan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lam_huisi_dawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_huisi_dawn@moe.edu.sg</a>
+<p><a href="mailto:sumithra_narayanan_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sumithra_narayanan_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
