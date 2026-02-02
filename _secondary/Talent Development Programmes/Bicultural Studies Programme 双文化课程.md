@@ -80,4 +80,4 @@ Please refer to the [MOE website](https://www.moe.gov.sg/financial-matters/award
 2. 在初级学院选修H2中国通识。
 3. 参加所有由教育部和学校主办的双文化课程的活动。
 
-[双文化奖学金网站](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships/bicultural-studies-programme-)
+[双文化奖学金网站](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships/bicultural-studies-programme-scholarship)
