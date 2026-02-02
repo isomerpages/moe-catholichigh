@@ -63,7 +63,7 @@ Dec 2025, 11:59pm.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Assistance Scheme&nbsp;</u></a>
+<p><a href="https://www.moe.gov.sg/api/media/4bf1baf2-8b61-4def-8431-cc2c1a5bc582/MOE-FAS.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Assistance Scheme&nbsp;</u></a>
 <br><a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank"><u>FAS Application form</u></a>
 </p>
 </li>
