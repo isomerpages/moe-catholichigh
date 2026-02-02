@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Catholic High School (Secondary)</strong></h3>
-<p>(Updated as of: 28 Jan 2026)</p>
+<p>(Updated as of: 2 February 2026)</p>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1339,6 +1339,15 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nirmala_balakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nirmala_balakrishnan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tang Lin Yin Karen</strong> (Senior ECG Counsellor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tang_lin_yin_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_lin_yin_karen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
