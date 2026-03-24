@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Catholic High School (Secondary)</strong></h3>
-<p>(Updated as of: 2 February 2026)</p>
+<p>(Updated as of: 24 March 2026)</p>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -421,19 +421,6 @@ Studies)</p>
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Huang Huang</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:huang_huang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_huang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1-3</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Tan Huaqiang Vinson</strong>
 </p>
 </td>
@@ -452,6 +439,19 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yeen_yoong_eugenia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yeen_yoong_eugenia_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Shen Yuanan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shen_yuanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shen_yuanan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -691,11 +691,11 @@ Studies)</p>
 <p>2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Sumithra D/O Narayanan</strong>
+<p><strong>Miss Nur Nadiah Binte Hisham</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sumithra_narayanan_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sumithra_narayanan_b@moe.edu.sg</a>
+<p><a href="mailto:Nur_Nadiah_Hisham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Nadiah_Hisham@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -927,32 +927,6 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:phay_mei_eng_anna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phay_mei_eng_anna@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3-8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Daniel Lim Siang Long</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:daniel_lim_siang_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_lim_siang_long@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3-8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Lim Barry</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_barry@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_barry@moe.edu.sg</a>
 </p>
 </td>
 </tr>
