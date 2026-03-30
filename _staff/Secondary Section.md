@@ -1061,11 +1061,11 @@ Studies)</p>
 <p>4-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Lim-Seah Swee Khim</strong>
+<p><strong>Miss Lan Kailuo</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seah_swee_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_swee_khim@moe.edu.sg</a>
+<p><a href="mailto:lan_kailuo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lan_kailuo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1074,11 +1074,11 @@ Studies)</p>
 <p>4-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Lan Kailuo</strong>
+<p><strong>Dr Lakshmi Chokkalingam</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lan_kailuo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lan_kailuo@moe.edu.sg</a>
+<p><a href="mailto:lakshmi_chokkalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lakshmi_chokkalingam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
