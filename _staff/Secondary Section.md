@@ -988,7 +988,8 @@ Studies)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>T<a href="mailto:yasmine_chan_hoi_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yasmine_chan_hoi_yin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
