@@ -492,24 +492,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<th rowspan="1" colspan="1">
-<h4>School Staff Developer</h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Miss Eng Li Li</strong>
-<br>HOD (SSD)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:eng_li_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3><strong>Primary 1 Classes</strong></h3>
@@ -668,10 +650,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Sng Sim Neo Susan</p>
+<p>Ms Janelle Lau Jer Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sng_sim_neo_susan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:janelle_lau_jer_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1062,6 +1044,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms V Sangari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:viswanatham_sangari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>3 Patience</h4>
 </td>
 <td rowspan="1" colspan="1">
@@ -1176,10 +1167,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Eng Li Li</p>
+<p>Ms Cai Aiwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eng_li_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:cai_aiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1254,10 +1245,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kyo Tan Shuean</p>
+<p>Miss Mao Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shuean@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:mao_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
