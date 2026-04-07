@@ -14,9 +14,9 @@ sections:
           url: /prospective-students/Sec-Admission/direct-school-admission/
       title: Catholic High  School
   - infopic:
-      title: "CHS Website: QR code"
+      title: Website QR code
       id: infopic
-      description: Please scan the QR code to access this website directly
+      description: "Please scan the QR code to access this website directly:"
       image: /images/MainPage/https___for_edu_sg_catholic_high_school_website.jpg
       alt: Image alt text
   - infobar:
