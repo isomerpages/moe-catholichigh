@@ -13,6 +13,12 @@ sections:
           description: ""
           url: /prospective-students/Sec-Admission/direct-school-admission/
       title: Catholic High  School
+  - infopic:
+      title: Website QR Code
+      id: infopic
+      description: "Please scan the QR code to access this website directly:"
+      image: /images/MainPage/https___for_edu_sg_catholic_high_school_website.jpg
+      alt: Image alt text
   - infobar:
       title: 2026 Level 1 Registration
       subtitle: Lastest news
@@ -25,11 +31,4 @@ sections:
       description: Want to join CHS (Secondary) via DSA?
       button: Click Here to find out more!
       url: /prospective-students/Sec-Admission/direct-school-admission/
-  - infopic:
-      title: "Hope Hub: An Intelligent Bot to provide timely help!"
-      subtitle: LATEST NEWS
-      button: READ MORE HERE
-      url: https://www.channelnewsasia.com/brandstudio/imc-youthawards/catholichigh?cid=adv_fb_paid_20230109&fbclid=IwAR1IOCoLXxXngYvkKM4N9VIEUzXv48Y8Ayc46YyA162fwI83hz7ndRiU414&mibextid=Zxz2cZlnewsasia.com/brandstudio/imc-youthawards/catholichigh?cid=adv_fb_paid_20230109&fbclid=IwAR1IOCoLXxXngYvkKM4N9VIEUzXv48Y8Ayc46YyA162fwI83hz7ndRiU414&mibextid=Zxz2cZ
-      image: /images/CNA 2023.jpg
-      alt: Image alt text
 ---
