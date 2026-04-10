@@ -95,7 +95,7 @@ Education</p>
 </ul>
 <h4>Subject-Based Talent Development Programmes</h4>
 <p>CHS offers the following Subject-Based Talent Development Programmes:</p>
-<p>1. <strong><a href="/secondary/Talent-Development/cnergy-programme/" rel="noopener noreferrer nofollow" target="_blank">CΩERGY Programme</a></strong>&nbsp;(science
+<p>1. <strong><a href="https://www.catholichigh.moe.edu.sg/secondary/talent-development/cnergy-programme/" rel="noopener noreferrer nofollow" target="_blank">CΩERGY Programme</a></strong>&nbsp;(science
 talent development)&nbsp;provides opportunities for high-performing students
 to further engage their interest and deepen their knowledge of science,
 technology and engineering, beyond striving for academic excellence. Students
@@ -103,7 +103,7 @@ are trained for the Chemistry and Physics Olympiads, and they also participate
 in the Science Mentoring Programme (SMP) where they are mentored by researchers
 from A*STAR, NUS and NTU.</p>
 <p>
-<br>2. <strong><a href="/secondary/Talent-Development/english-talent-development-programme/" rel="noopener noreferrer nofollow" target="_blank">English Talent Development Programme</a></strong>&nbsp;provides
+<br>2. <strong><a href="https://www.catholichigh.moe.edu.sg/secondary/talent-development/english-tdp/" rel="noopener noreferrer nofollow" target="_blank">English Talent Development Programme</a></strong>&nbsp;provides
 opportunities for high-performing students to develop their ability in
 English Language and Literature. Students attend seminars, workshops and
 theatre productions to learn from professional writers and performers,
