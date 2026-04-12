@@ -1072,19 +1072,6 @@ Studies)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Dr Lakshmi Chokkalingam</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lakshmi_chokkalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lakshmi_chokkalingam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4-5</p>
 </td>
 <td rowspan="1" colspan="1">
