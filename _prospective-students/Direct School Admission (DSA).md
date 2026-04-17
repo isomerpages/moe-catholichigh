@@ -136,11 +136,11 @@ music study and/or composition and/or performance.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Audition (18 or 21 July) at MEP Studio 1 and 2</p>
+<p>Audition (20 or 21 July) at MEP Studio 1 and 2</p>
 </li>
 <li>
-<p>Group interview lasting approximately 30 minutes from 4:00 pm to 5:00
-pm (24 July)</p>
+<p>Group interview lasting approximately 30 minutes from 4:00 PM to 5:00
+PM (23 July)</p>
 </li>
 </ul>
 </td>
@@ -202,10 +202,10 @@ Arts</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Audition (21 July or 25 July – refer to table below)</p>
+<p>Audition (20 July or 24 July – refer to table below)</p>
 </li>
 <li>
-<p>Interview (4 Aug)</p>
+<p>Interview (3 August)</p>
 <ul>
 <li>
 <p>Chinese Orchestra</p>
