@@ -653,8 +653,8 @@ will be notified accordingly.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Tuesday, 22 July&nbsp;</p>
-<p>(4 pm to 6 pm)</p>
+<p>Tuesday, 21 July&nbsp;</p>
+<p>(4 PM to 6 PM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -692,8 +692,8 @@ will be notified accordingly.</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Thursday, 24 Jul&nbsp;</p>
-<p>(4 pm to 5 pm)</p>
+<p>Thursday, 23 Jul&nbsp;</p>
+<p>(4 PM to 5 PM)</p>
 <p>
 <br>
 </p>
@@ -724,7 +724,7 @@ will be notified accordingly.</p>
 <tr>
 <td rowspan="11" colspan="1">
 <p>Friday, 25 July&nbsp;</p>
-<p>(4 pm to 5 pm)</p>
+<p>(4 PM to 5 PM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -859,7 +859,7 @@ will be notified accordingly.</p>
 </tr>
 </tbody>
 </table>
-<p>*The dates and timings may be subjected to changes; shortlisted candidates
+<p>*The dates and timings may be subject to changes; shortlisted candidates
 will be notified accordingly.</p>
 <h2><strong><u>Important</u></strong></h2>
 <p>1.&nbsp; Meeting all the criteria does not guarantee the student will
@@ -871,10 +871,10 @@ develop the area of talent.</p>
 <p>3.&nbsp; Applicants who do not have prior experience may also apply. The
 school will assess applicants based on the selection criteria, which may
 include assessing the potential of the applicants.</p>
-<p>4. You will receive notification from the school by 5 July if your child
-has been shortlisted to undergo Direct School Admission (DSA) selection.
-All applicants will receive their application outcomes between 25 August
-and 4 September 2025.</p>
+<p>4. You will receive notification from the school by Friday 3 July 2026
+if your child has been shortlisted to undergo Direct School Admission (DSA)
+selection. All applicants will receive their application outcomes between
+17 August and 28 August 2026.</p>
 <p>5. Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and programme (4 years for the
 Singapore-Cambridge Secondary Education Certificate Programme or 6 years
