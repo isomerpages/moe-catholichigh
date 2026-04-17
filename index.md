@@ -20,15 +20,15 @@ sections:
       image: /images/MainPage/https___for_edu_sg_catholic_high_school_website.jpg
       alt: Image alt text
   - infobar:
-      title: 2026 Level 1 Registration
-      subtitle: Lastest news
-      id: infobar
-      url: /prospective-students/sec-admission/level-1-registration/
-      button: CLICK HERE TO FIND OUT MORE!
-  - infobar:
       title: 2026 Direct School Admission – Secondary (DSA-Sec) Exercise
       subtitle: Latest News
       description: Want to join CHS (Secondary) via DSA?
       button: Click Here to find out more!
       url: /prospective-students/Sec-Admission/direct-school-admission/
+  - infobar:
+      title: 2026 Level 1 Registration
+      subtitle: Lastest news
+      id: infobar
+      url: /prospective-students/sec-admission/level-1-registration/
+      button: CLICK HERE TO FIND OUT MORE!
 ---
