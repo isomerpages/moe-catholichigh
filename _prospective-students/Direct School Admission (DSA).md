@@ -487,7 +487,7 @@ PM (9 July)</p>
 </tr>
 </tbody>
 </table>
-<p>*The dates and timings may be subjected to changes, shortlisted candidates
+<p>*The dates and timings may be subject to changes, shortlisted candidates
 will be notified accordingly.</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -517,8 +517,8 @@ will be notified accordingly.</p>
 </tr>
 <tr>
 <td rowspan="12" colspan="1">
-<p>Monday, 21 July&nbsp;</p>
-<p>(4 pm to 6 pm)</p>
+<p>Monday, 20 July&nbsp;</p>
+<p>(4 PM to 6 PM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
