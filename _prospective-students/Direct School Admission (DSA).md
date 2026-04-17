@@ -219,7 +219,7 @@ Arts</p>
 </ul>
 </li>
 <li>
-<p>Interview (31 Jul)</p>
+<p>Interview (5 August)</p>
 <ul>
 <li>
 <p>Chinese Drama</p>
@@ -230,7 +230,7 @@ Arts</p>
 </ul>
 </li>
 <li>
-<p>Interview (7 Aug)</p>
+<p>Interview (6 August)</p>
 <ul>
 <li>
 <p>Modern Dance</p>
