@@ -13,8 +13,8 @@ variant: tiptap
 The application is free-of-charge and will be open from <strong>6 May 2026, 11:00 AM to 2 June 2026, 4:30 PM</strong>.
 For more details, please refer to MOE website: <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p></p>
-<h3><strong><u>Requirements of DSA-Sec Applicants</u></strong></h3>
-<h4><strong>Mother Tongue Language</strong></h4>
+<h2><strong><u>Requirements of DSA-Sec Applicants</u></strong></h2>
+<h3><strong>Mother Tongue Language</strong></h3>
 <p>Catholic High School is a Special Assistance Plan (SAP) school that is
 committed to nurturing bilingual and bicultural students who are immersed
 in the Chinese language and culture yet equipped with a global outlook.
@@ -26,22 +26,20 @@ SAP schools, including Catholic High. In addition:</p>
 Language in Years 1 and 2;</p>
 <p>* &nbsp; Singapore-Cambridge Secondary Education Certificate Examinations
 Programme (SP) students must offer at least Chinese Language.</p>
-<h4><strong>General Academic Criteria</strong></h4>
-<p><strong>IP Track</strong>
-</p>
+<h3><strong>General Academic Criteria</strong></h3>
+<h4><strong>IP Track</strong></h4>
 <p>Regardless of the talent area(s) an applicant applies for, he should have
 achieved <u>consistent and excellent results</u> for Primary 5 and Primary
 6 Examinations.</p>
-<p><strong>SP Track</strong>
-</p>
+<h4><strong>SP Track</strong></h4>
 <p>Regardless of the talent area(s) an applicant applies for, he should have
 achieved <u>consistent and very good results</u> for Primary 5 and Primary
 6 Examinations.</p>
-<h4><strong>Conduct</strong></h4>
+<h3><strong>Conduct</strong></h3>
 <p>Applicants must demonstrate decorum at all times, maintain a constructive
 mindset, and uphold the highest standards of integrity in their work and
 interactions with others.</p>
-<h3><strong><u>Talent-Specific Criteria for Selection of DSA-Sec Applicants and Key Dates for Auditions, Trials and Interviews</u></strong></h3>
+<h2><strong><u>Talent-Specific Criteria for Selection of DSA-Sec Applicants and Key Dates for Auditions, Trials and Interviews</u></strong></h2>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -875,7 +873,7 @@ will be notified accordingly.</p>
 </table>
 <p>*The dates and timings may be subjected to changes; shortlisted candidates
 will be notified accordingly.</p>
-<h3><strong><u>Important</u></strong></h3>
+<h2><strong><u>Important</u></strong></h2>
 <p>1.&nbsp; Meeting all the criteria does not guarantee the student will
 be shortlisted/ given an offer.</p>
 <p>2.&nbsp; Parents and students are encouraged to choose schools wisely
