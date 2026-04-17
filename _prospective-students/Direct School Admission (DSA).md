@@ -498,7 +498,7 @@ will be notified accordingly.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="15" colspan="1">
+<td rowspan="14" colspan="1">
 <p><strong>DSA Trial/ Audition 1</strong>
 </p>
 </td>
@@ -516,7 +516,7 @@ will be notified accordingly.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
+<td rowspan="11" colspan="1">
 <p>Monday, 20 July&nbsp;</p>
 <p>(4 PM to 6 PM)</p>
 </td>
@@ -644,18 +644,6 @@ will be notified accordingly.</p>
 <ul>
 <li>
 <p>Volleyball&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall Level 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Wushu&nbsp;</p>
 </li>
 </ul>
 </td>
