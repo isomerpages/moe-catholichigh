@@ -51,25 +51,31 @@ interactions with others.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Talent</p>
+<p><strong>Talent</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA</p>
+<p><strong>CCA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selection Criteria</p>
+<p><strong>Selection Criteria</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selection Process for shortlisted applicants</p>
+<p><strong>Selection Process for shortlisted applicants</strong>
+</p>
 <p>(<em>No preparation is necessary unless notified</em>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Audition/ Interview/ Trial dates</p>
+<p><strong>Audition/ Interview/ Trial dates</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Leadership (IP/SP)</p>
+<p><strong>Leadership (IP/SP)</strong>
+</p>
 <p>
 <br>
 </p>
@@ -106,7 +112,8 @@ PM (15 July and 17 July)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Music Elective Programme (IP/SP)</p>
+<p><strong>Music Elective Programme (IP/SP)</strong>
+</p>
 <p>
 <br>
 </p>
@@ -147,7 +154,8 @@ PM (23 July)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Performing Arts (IP/SP)</p>
+<p><strong>Performing Arts (IP/SP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -242,7 +250,8 @@ Arts</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sports (IP/SP)</p>
+<p><strong>Sports (IP/SP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -340,7 +349,8 @@ Cross-country, Throws and Jumps), <u>Volleyball</u> and <u>Wushu.</u>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Bilingualism (IP)</p>
+<p><strong>Bilingualism (IP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -381,7 +391,8 @@ PM (10 July).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Humanities (IP)</p>
+<p><strong>Humanities (IP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -420,7 +431,8 @@ PM (10 July).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mathematics (IP)</p>
+<p><strong>Mathematics (IP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -454,7 +466,8 @@ PM (13 July).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Science (IP)</p>
+<p><strong>Science (IP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -883,6 +896,6 @@ at Catholic High School and 2 years at Eunoia Junior College) and participate
 in the activities related to the talent they are selected for from year
 1-4.</p>
 <p>For inquiries regarding CHS DSA-Sec, please contact us at:</p>
-<p>1.&nbsp; Email Address:&nbsp; <a href="mailto:chs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chs@moe.edu.sg</a>
+<p>1.&nbsp; Email Address:&nbsp;<a href="mailto:chs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chs@moe.edu.sg</a>
 </p>
 <p>2.&nbsp; Telephone: 6458 2177</p>
