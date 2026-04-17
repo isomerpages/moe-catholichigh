@@ -297,7 +297,7 @@ Cross-country, Throws and Jumps), <u>Volleyball</u> and <u>Wushu.</u>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Trial (21 July/ 22 July or 24 July/ 25 July – refer to table below)</p>
+<p>Trial (20 July/ 21 July or 23 July/ 24 July – refer to table below)</p>
 </li>
 <li>
 <p>Interview (30 Jul)</p>
