@@ -14,7 +14,7 @@ The application is free-of-charge and will be open from <strong>6 May 2026, 11:0
 For more details, please refer to MOE website: <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p></p>
 <h3><strong>Requirements of DSA-Sec Applicants</strong></h3>
-<h3><strong><u>Mother Tongue Language</u></strong></h3>
+<h4><strong><u>Mother Tongue Language</u></strong></h4>
 <p>Catholic High School is a Special Assistance Plan (SAP) school that is
 committed to nurturing bilingual and bicultural students who are immersed
 in the Chinese language and culture yet equipped with a global outlook.
@@ -27,12 +27,12 @@ Language in Years 1 and 2;</p>
 <p>* &nbsp; Singapore-Cambridge Secondary Education Certificate Examinations
 Programme (SP) students must offer at least Chinese Language.</p>
 <h4><strong><u>General Academic Criteria</u></strong></h4>
-<p><em>IP Track</em>
+<p><strong>IP Track</strong>
 </p>
 <p>Regardless of the talent area(s) an applicant applies for, he should have
 achieved <u>consistent and excellent results</u> for Primary 5 and Primary
 6 Examinations.</p>
-<p><em>SP Track</em>
+<p><strong>SP Track</strong>
 </p>
 <p>Regardless of the talent area(s) an applicant applies for, he should have
 achieved <u>consistent and very good results</u> for Primary 5 and Primary
