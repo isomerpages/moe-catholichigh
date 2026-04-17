@@ -98,8 +98,8 @@ others.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Group interview lasting approximately 30 minutes from 2:30 pm to 5:30
-pm (15 July and 16 July)</p>
+<p>Group interview lasting approximately 30 minutes from 2:30 PM to 5:30
+PM (15 July and 17 July)</p>
 </li>
 </ul>
 </td>
