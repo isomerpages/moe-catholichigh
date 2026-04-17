@@ -300,7 +300,7 @@ Cross-country, Throws and Jumps), <u>Volleyball</u> and <u>Wushu.</u>
 <p>Trial (20 July/ 21 July or 23 July/ 24 July – refer to table below)</p>
 </li>
 <li>
-<p>Interview (30 Jul)</p>
+<p>Interview (29 July)</p>
 <ul>
 <li>
 <p>Table Tennis</p>
@@ -314,7 +314,7 @@ Cross-country, Throws and Jumps), <u>Volleyball</u> and <u>Wushu.</u>
 </ul>
 </li>
 <li>
-<p>Interview (6 Aug)</p>
+<p>Interview (5 August)</p>
 <ul>
 <li>
 <p>Basketball</p>
@@ -325,7 +325,7 @@ Cross-country, Throws and Jumps), <u>Volleyball</u> and <u>Wushu.</u>
 </ul>
 </li>
 <li>
-<p>Interview (7 Aug)</p>
+<p>Interview (6 August)</p>
 <ul>
 <li>
 <p>Floorball</p>
