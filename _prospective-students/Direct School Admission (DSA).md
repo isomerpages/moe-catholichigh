@@ -875,7 +875,7 @@ will be notified accordingly.</p>
 </table>
 <p>*The dates and timings may be subjected to changes; shortlisted candidates
 will be notified accordingly.</p>
-<h4><strong><u>Important</u></strong></h4>
+<h3><strong><u>Important</u></strong></h3>
 <p>1.&nbsp; Meeting all the criteria does not guarantee the student will
 be shortlisted/ given an offer.</p>
 <p>2.&nbsp; Parents and students are encouraged to choose schools wisely
