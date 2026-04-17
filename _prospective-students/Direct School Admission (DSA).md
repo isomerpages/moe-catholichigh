@@ -4,19 +4,16 @@ permalink: /prospective-students/Sec-Admission/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h1>2026 Direct School Admission – Secondary (DSA-Sec) Exercise</h1>
+<h1><strong>2026 Direct School Admission – Secondary (DSA-Sec) Exercise</strong></h1>
 <p>(This page can be accessed via <a href="" rel="noopener nofollow" target="_blank">for.edu.sg/chs-sec-dsa</a>)</p>
+<p><strong>Information updated 20 April 2026</strong>
+</p>
 <p></p>
 <p>Application for DSA-Sec can be submitted through the <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener nofollow" target="_blank">online DSA-Sec Portal</a>.
-The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 June 2025, 3pm. For more details, please refer to MOE website -
-<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
-<p>The application is free-of-charge and the period of application is as
-listed below</p>
+The application is free-of-charge and will be open from <strong>6 May 2026, 11 AM to 2 June 2025, 4:30 PM</strong>.
+For more details, please refer to MOE website: <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p></p>
-<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
-</p>
-<h3>Requirements of DSA-Sec Applicants</h3>
+<h3><strong>Requirements of DSA-Sec Applicants</strong></h3>
 <h3><strong><u>Mother Tongue Language</u></strong></h3>
 <p>Catholic High School is a Special Assistance Plan (SAP) school that is
 committed to nurturing bilingual and bicultural students who are immersed
@@ -903,4 +900,3 @@ in the activities related to the talent they are selected for from year
 <p>1.&nbsp; Email Address:&nbsp; <a href="mailto:chs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chs@moe.edu.sg</a>
 </p>
 <p>2.&nbsp; Telephone: 6458 2177</p>
-<p>Information updated 30 April 2025</p>
