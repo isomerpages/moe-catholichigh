@@ -373,8 +373,8 @@ and skills for service to others.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Group interview lasting approximately 30 minutes from 2:30 pm to 5:30
-pm (9 July).</p>
+<p>Group interview lasting approximately 30 minutes from 2:30 PM to 5:30
+PM (10 July).</p>
 </li>
 </ul>
 </td>
@@ -412,8 +412,8 @@ Social and Environmental Sciences.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Group interview lasting approximately 30 minutes from 2:30 pm to 5:30
-pm (14 Jul).</p>
+<p>Group interview lasting approximately 30 minutes from 2:30 PM to 5:30
+PM (10 July).</p>
 </li>
 </ul>
 </td>
@@ -446,8 +446,8 @@ passion and aptitude for Mathematics.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Group interview lasting approximately 30 minutes from 2:30 pm to 5:30
-pm (10 Jul).</p>
+<p>Group interview lasting approximately 30 minutes from 2:30 PM to 5:30
+PM (13 July).</p>
 </li>
 </ul>
 </td>
@@ -479,8 +479,8 @@ passion and aptitude for Science.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Group interview lasting approximately 30 minutes from 2:30 pm to 5:30
-pm (11 Jul)</p>
+<p>Group interview lasting approximately 30 minutes from 2:30 PM to 5:30
+PM (9 July)</p>
 </li>
 </ul>
 </td>
