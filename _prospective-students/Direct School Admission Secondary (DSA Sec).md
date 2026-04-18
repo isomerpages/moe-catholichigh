@@ -4,7 +4,7 @@ permalink: /prospective-students/sec-admission/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h1><strong>2026 Direct School Admission-Secondary (DSA-Sec) Exercise</strong></h1>
+<h1><strong>2026 Direct School Admission - Secondary (DSA-Sec) Exercise</strong></h1>
 <p>(This page can be accessed via <a href="" rel="noopener nofollow" target="_blank">for.edu.sg/chs-sec-dsa</a>)</p>
 <p><strong>Information updated 20 April 2026</strong>
 </p>
