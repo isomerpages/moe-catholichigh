@@ -13,18 +13,18 @@ sections:
           description: ""
           url: /prospective-students/Sec-Admission/direct-school-admission/
       title: Catholic High  School
-  - infopic:
-      title: Website QR Code
-      id: infopic
-      description: "Please scan the QR code to access this website directly:"
-      image: /images/MainPage/https___for_edu_sg_catholic_high_school_website.jpg
-      alt: Image alt text
   - infobar:
       title: 2026 Direct School Admission – Secondary (DSA-Sec) Exercise
       subtitle: Latest News
       description: Want to join CHS (Secondary) via DSA?
       button: Click Here to find out more!
       url: /prospective-students/Sec-Admission/direct-school-admission/
+  - infopic:
+      title: Website QR Code
+      id: infopic
+      description: "Please scan the QR code to access this website directly:"
+      image: /images/MainPage/https___for_edu_sg_catholic_high_school_website.jpg
+      alt: Image alt text
   - infobar:
       title: 2026 Level 1 Registration
       subtitle: Lastest news
