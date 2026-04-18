@@ -146,7 +146,7 @@ music study and/or composition and/or performance.</p>
 <p>Audition (20 or 21 July) at MEP Studio 1 and 2</p>
 </li>
 <li>
-<p>Group interview lasting approximately 30 minutes from 4:00 PM to 5:00
+<p>Group interview lasting approximately 30 minutes from 2:30 PM to 5:00
 PM (23 July)</p>
 </li>
 </ul>
