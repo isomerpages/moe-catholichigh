@@ -18,7 +18,7 @@ sections:
       subtitle: Latest News
       description: Want to join CHS (Secondary) via DSA-Sec?
       button: Click Here to find out more!
-      url: /prospective-students/Sec-Admission/direct-school-admission/
+      url: /prospective-students/sec-admission/direct-school-admission/
   - infopic:
       title: Website QR Code
       id: infopic
