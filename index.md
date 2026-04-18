@@ -14,7 +14,7 @@ sections:
           url: /prospective-students/Sec-Admission/direct-school-admission/
       title: Catholic High  School
   - infobar:
-      title: 2026 Direct School Admission – Secondary (DSA-Sec) Exercise
+      title: 2026 Direct School Admission - Secondary (DSA-Sec) Exercise
       subtitle: Latest News
       description: Want to join CHS (Secondary) via DSA?
       button: Click Here to find out more!
