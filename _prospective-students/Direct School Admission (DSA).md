@@ -736,7 +736,7 @@ will be notified accordingly.</p>
 </tr>
 <tr>
 <td rowspan="11" colspan="1">
-<p>Friday, 25 July&nbsp;</p>
+<p>Friday, 24 July&nbsp;</p>
 <p>(4 PM to 5 PM)</p>
 </td>
 <td rowspan="1" colspan="1">
