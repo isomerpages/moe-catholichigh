@@ -890,10 +890,10 @@ selection. All applicants will receive their application outcomes <strong>betwee
 <p>5. Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and programme (4 years for the
 Singapore-Cambridge Secondary Education Certificate Programme or 6 years
-for the Integrated Programme. The Integrated Programme comprises 4 years
-at Catholic High School and 2 years at Eunoia Junior College) and participate
+for the Integrated Programme; the Integrated Programme comprises 4 years
+at Catholic High School and 2 years at Eunoia Junior College), and participate
 in the activities related to the talent they are selected for from year
-1-4.</p>
+1 to year 4.</p>
 <p>For inquiries regarding CHS DSA-Sec, please contact us at:</p>
 <p>1.&nbsp; Email Address:&nbsp;<a href="mailto:chs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chs@moe.edu.sg</a>
 </p>
