@@ -424,7 +424,7 @@ Social and Environmental Sciences.</p>
 <ul>
 <li>
 <p>Group interview lasting approximately 30 minutes from 2:30 PM to 5:30
-PM (10 July).</p>
+PM (8 July).</p>
 </li>
 </ul>
 </td>
