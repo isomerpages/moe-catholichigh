@@ -24,7 +24,7 @@ sections:
       subtitle: Latest News
       id: infobar
       button: Click Here to find out more!
-      url: /prospective-students/prospective-students/openhouse/
+      url: /prospective-students/openhouse/
   - infopic:
       title: Website QR Code
       id: infopic
