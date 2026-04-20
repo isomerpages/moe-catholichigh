@@ -1,23 +1,20 @@
 ---
-title: Direct School Admission (DSA)
-permalink: /prospective-students/Sec-Admission/direct-school-admission/
+title: Direct School Admission Secondary (DSA Sec)
+permalink: /prospective-students/sec-admission/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h1>2025 Direct School Admission – Secondary (DSA-Sec) Exercise</h1>
+<h1><strong>2026 Direct School Admission - Secondary (DSA-Sec) Exercise</strong></h1>
 <p>(This page can be accessed via <a href="" rel="noopener nofollow" target="_blank">for.edu.sg/chs-sec-dsa</a>)</p>
+<p><strong>Information updated 20 April 2026</strong>
+</p>
 <p></p>
 <p>Application for DSA-Sec can be submitted through the <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener nofollow" target="_blank">online DSA-Sec Portal</a>.
-The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 June 2025, 3pm. For more details, please refer to MOE website -
-<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
-<p>The application is free-of-charge and the period of application is as
-listed below</p>
+The application is free-of-charge and will be open from <strong>6 May 2026, 11:00 AM to 2 June 2026, 4:30 PM</strong>.
+For more details, please refer to MOE website: <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p></p>
-<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
-</p>
-<h3>Requirements of DSA-Sec Applicants</h3>
-<h3><strong><u>Mother Tongue Language</u></strong></h3>
+<h2><strong><u>Requirements of DSA-Sec Applicants</u></strong></h2>
+<h3><strong>Mother Tongue Language</strong></h3>
 <p>Catholic High School is a Special Assistance Plan (SAP) school that is
 committed to nurturing bilingual and bicultural students who are immersed
 in the Chinese language and culture yet equipped with a global outlook.
@@ -29,22 +26,20 @@ SAP schools, including Catholic High. In addition:</p>
 Language in Years 1 and 2;</p>
 <p>* &nbsp; Singapore-Cambridge Secondary Education Certificate Examinations
 Programme (SP) students must offer at least Chinese Language.</p>
-<h4><strong><u>General Academic Criteria</u></strong></h4>
-<p><em>IP Track</em>
-</p>
+<h3><strong>General Academic Criteria</strong></h3>
+<h4><strong>IP Track</strong></h4>
 <p>Regardless of the talent area(s) an applicant applies for, he should have
 achieved <u>consistent and excellent results</u> for Primary 5 and Primary
 6 Examinations.</p>
-<p><em>SP Track</em>
-</p>
+<h4><strong>SP Track</strong></h4>
 <p>Regardless of the talent area(s) an applicant applies for, he should have
 achieved <u>consistent and very good results</u> for Primary 5 and Primary
 6 Examinations.</p>
-<h4><strong><u>Conduct</u></strong></h4>
+<h3><strong>Conduct</strong></h3>
 <p>Applicants must demonstrate decorum at all times, maintain a constructive
 mindset, and uphold the highest standards of integrity in their work and
 interactions with others.</p>
-<h4><u>Talent-specific Criteria for Selection of DSA-Sec Applicants and Key Dates for Auditions, Trials and Interviews</u></h4>
+<h2><strong><u>Talent-Specific Criteria for Selection of DSA-Sec Applicants and Key Dates for Auditions, Trials and Interviews</u></strong></h2>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -56,25 +51,31 @@ interactions with others.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Talent</p>
+<p><strong>Talent</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA</p>
+<p><strong>CCA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selection Criteria</p>
+<p><strong>Selection Criteria</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selection Process for shortlisted applicants</p>
+<p><strong>Selection Process for shortlisted applicants</strong>
+</p>
 <p>(<em>No preparation is necessary unless notified</em>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Audition/ Interview/ Trial dates</p>
+<p><strong>Audition/ Interview/ Trial dates</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Leadership (IP/SP)</p>
+<p><strong>Leadership (IP/SP)</strong>
+</p>
 <p>
 <br>
 </p>
@@ -103,15 +104,16 @@ others.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Group interview lasting approximately 30 minutes from 2:30 pm to 5:30
-pm (15 July and 16 July)</p>
+<p>Group interview lasting approximately 30 minutes from 2:30 PM to 5:30
+PM (15 July and 17 July)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Music Elective Programme (IP/SP)</p>
+<p><strong>Music Elective Programme (IP/SP)</strong>
+</p>
 <p>
 <br>
 </p>
@@ -141,18 +143,19 @@ music study and/or composition and/or performance.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Audition (18 or 21 July) at MEP Studio 1 and 2</p>
+<p>Audition (20 or 21 July) at MEP Studio 1 and 2</p>
 </li>
 <li>
-<p>Group interview lasting approximately 30 minutes from 4:00 pm to 5:00
-pm (24 July)</p>
+<p>Group interview lasting approximately 30 minutes from 2:30 PM to 5:00
+PM (23 July)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Performing Arts (IP/SP)</p>
+<p><strong>Performing Arts (IP/SP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -207,10 +210,10 @@ Arts</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Audition (21 July or 25 July – refer to table below)</p>
+<p>Audition (20 July or 24 July – refer to table below)</p>
 </li>
 <li>
-<p>Interview (4 Aug)</p>
+<p>Interview (3 August)</p>
 <ul>
 <li>
 <p>Chinese Orchestra</p>
@@ -224,7 +227,7 @@ Arts</p>
 </ul>
 </li>
 <li>
-<p>Interview (31 Jul)</p>
+<p>Interview (5 August)</p>
 <ul>
 <li>
 <p>Chinese Drama</p>
@@ -235,7 +238,7 @@ Arts</p>
 </ul>
 </li>
 <li>
-<p>Interview (7 Aug)</p>
+<p>Interview (6 August)</p>
 <ul>
 <li>
 <p>Modern Dance</p>
@@ -247,7 +250,8 @@ Arts</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sports (IP/SP)</p>
+<p><strong>Sports (IP/SP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -302,10 +306,10 @@ Cross-country, Throws and Jumps), <u>Volleyball</u> and <u>Wushu.</u>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Trial (21 July/ 22 July or 24 July/ 25 July – refer to table below)</p>
+<p>Trial (20 July/ 21 July or 23 July/ 24 July – refer to table below)</p>
 </li>
 <li>
-<p>Interview (30 Jul)</p>
+<p>Interview (29 July)</p>
 <ul>
 <li>
 <p>Table Tennis</p>
@@ -319,7 +323,7 @@ Cross-country, Throws and Jumps), <u>Volleyball</u> and <u>Wushu.</u>
 </ul>
 </li>
 <li>
-<p>Interview (6 Aug)</p>
+<p>Interview (5 August)</p>
 <ul>
 <li>
 <p>Basketball</p>
@@ -330,7 +334,7 @@ Cross-country, Throws and Jumps), <u>Volleyball</u> and <u>Wushu.</u>
 </ul>
 </li>
 <li>
-<p>Interview (7 Aug)</p>
+<p>Interview (6 August)</p>
 <ul>
 <li>
 <p>Floorball</p>
@@ -345,7 +349,8 @@ Cross-country, Throws and Jumps), <u>Volleyball</u> and <u>Wushu.</u>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Bilingualism (IP)</p>
+<p><strong>Bilingualism (IP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -378,15 +383,16 @@ and skills for service to others.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Group interview lasting approximately 30 minutes from 2:30 pm to 5:30
-pm (9 July).</p>
+<p>Group interview lasting approximately 30 minutes from 2:30 PM to 5:30
+PM (10 July).</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Humanities (IP)</p>
+<p><strong>Humanities (IP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -417,15 +423,16 @@ Social and Environmental Sciences.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Group interview lasting approximately 30 minutes from 2:30 pm to 5:30
-pm (14 Jul).</p>
+<p>Group interview lasting approximately 30 minutes from 2:30 PM to 5:30
+PM (8 July).</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mathematics (IP)</p>
+<p><strong>Mathematics (IP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -451,15 +458,16 @@ passion and aptitude for Mathematics.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Group interview lasting approximately 30 minutes from 2:30 pm to 5:30
-pm (10 Jul).</p>
+<p>Group interview lasting approximately 30 minutes from 2:30 PM to 5:30
+PM (13 July).</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Science (IP)</p>
+<p><strong>Science (IP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -484,15 +492,15 @@ passion and aptitude for Science.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Group interview lasting approximately 30 minutes from 2:30 pm to 5:30
-pm (11 Jul)</p>
+<p>Group interview lasting approximately 30 minutes from 2:30 PM to 5:30
+PM (9 July)</p>
 </li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>*The dates and timings may be subjected to changes, shortlisted candidates
+<p>*The dates and timings may be subject to changes, shortlisted candidates
 will be notified accordingly.</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -503,7 +511,7 @@ will be notified accordingly.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="15" colspan="1">
+<td rowspan="14" colspan="1">
 <p><strong>DSA Trial/ Audition 1</strong>
 </p>
 </td>
@@ -521,9 +529,9 @@ will be notified accordingly.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
-<p>Monday, 21 July&nbsp;</p>
-<p>(4 pm to 6 pm)</p>
+<td rowspan="11" colspan="1">
+<p>Monday, 20 July&nbsp;</p>
+<p>(4 PM to 6 PM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -657,21 +665,9 @@ will be notified accordingly.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Wushu&nbsp;</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall Level 1</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
-<p>Tuesday, 22 July&nbsp;</p>
-<p>(4 pm to 6 pm)</p>
+<p>Tuesday, 21 July&nbsp;</p>
+<p>(4 PM to 6 PM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -709,8 +705,8 @@ will be notified accordingly.</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Thursday, 24 Jul&nbsp;</p>
-<p>(4 pm to 5 pm)</p>
+<p>Thursday, 23 July&nbsp;</p>
+<p>(4 PM to 5 PM)</p>
 <p>
 <br>
 </p>
@@ -740,8 +736,8 @@ will be notified accordingly.</p>
 </tr>
 <tr>
 <td rowspan="11" colspan="1">
-<p>Friday, 25 July&nbsp;</p>
-<p>(4 pm to 5 pm)</p>
+<p>Friday, 24 July&nbsp;</p>
+<p>(4 PM to 5 PM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -876,9 +872,9 @@ will be notified accordingly.</p>
 </tr>
 </tbody>
 </table>
-<p>*The dates and timings may be subjected to changes; shortlisted candidates
+<p>*The dates and timings may be subject to changes; shortlisted candidates
 will be notified accordingly.</p>
-<h4><strong><u>Important</u></strong></h4>
+<h2><strong><u>Important</u></strong></h2>
 <p>1.&nbsp; Meeting all the criteria does not guarantee the student will
 be shortlisted/ given an offer.</p>
 <p>2.&nbsp; Parents and students are encouraged to choose schools wisely
@@ -888,19 +884,17 @@ develop the area of talent.</p>
 <p>3.&nbsp; Applicants who do not have prior experience may also apply. The
 school will assess applicants based on the selection criteria, which may
 include assessing the potential of the applicants.</p>
-<p>4. You will receive notification from the school by 5 July if your child
-has been shortlisted to undergo Direct School Admission (DSA) selection.
-All applicants will receive their application outcomes between 25 August
-and 4 September 2025.</p>
+<p>4. You will receive notification from the school by <strong>Friday, 3 July 2026</strong>,
+if your child has been shortlisted to undergo Direct School Admission (DSA)
+selection. All applicants will receive their application outcomes <strong>between 17 August and 28 August 2026</strong>.</p>
 <p>5. Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and programme (4 years for the
 Singapore-Cambridge Secondary Education Certificate Programme or 6 years
-for the Integrated Programme. The Integrated Programme comprises 4 years
-at Catholic High School and 2 years at Eunoia Junior College) and participate
+for the Integrated Programme; the Integrated Programme comprises 4 years
+at Catholic High School and 2 years at Eunoia Junior College), and participate
 in the activities related to the talent they are selected for from year
-1-4.</p>
+1 to year 4.</p>
 <p>For inquiries regarding CHS DSA-Sec, please contact us at:</p>
-<p>1.&nbsp; Email Address:&nbsp; <a href="mailto:chs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chs@moe.edu.sg</a>
+<p>1.&nbsp; Email Address:&nbsp;<a href="mailto:chs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chs@moe.edu.sg</a>
 </p>
 <p>2.&nbsp; Telephone: 6458 2177</p>
-<p>Information updated 30 April 2025</p>

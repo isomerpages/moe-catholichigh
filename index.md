@@ -13,6 +13,12 @@ sections:
           description: ""
           url: /prospective-students/Sec-Admission/direct-school-admission/
       title: Catholic High  School
+  - infobar:
+      title: 2026 Direct School Admission - Secondary (DSA-Sec) Exercise
+      subtitle: Latest News
+      description: Want to join CHS (Secondary) via DSA-Sec?
+      button: Click Here to find out more!
+      url: /prospective-students/sec-admission/direct-school-admission/
   - infopic:
       title: Website QR Code
       id: infopic
@@ -25,10 +31,4 @@ sections:
       id: infobar
       url: /prospective-students/sec-admission/level-1-registration/
       button: CLICK HERE TO FIND OUT MORE!
-  - infobar:
-      title: 2025 Direct School Admission – Secondary (DSA-Sec) Exercise
-      subtitle: Latest News
-      description: Want to join CHS (Secondary) via DSA?
-      button: Click Here to find out more!
-      url: /prospective-students/Sec-Admission/direct-school-admission/
 ---
