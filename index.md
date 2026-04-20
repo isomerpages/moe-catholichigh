@@ -25,7 +25,7 @@ sections:
       id: infobar
       description: Infobar description
       button: Click Here to find out more!
-      url: http://prospective-students/prospective-students/openhouse/
+      url: /prospective-students/prospective-students/openhouse/
   - infopic:
       title: Website QR Code
       id: infopic
