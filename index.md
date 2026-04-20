@@ -11,14 +11,19 @@ sections:
       key_highlights:
         - title: Prospective Students (iNCLUDING dsa)
           description: ""
-          url: /prospective-students/Sec-Admission/direct-school-admission/
-      title: Catholic High  School
+          url: /prospective-students/sec-admission/direct-school-admission/
+      title: Catholic High School
   - infobar:
       title: 2026 Direct School Admission - Secondary (DSA-Sec) Exercise
       subtitle: Latest News
-      description: Want to join CHS (Secondary) via DSA-Sec?
       button: Click Here to find out more!
       url: /prospective-students/sec-admission/direct-school-admission/
+  - infobar:
+      title: 2026 Open House (Sec)
+      subtitle: Latest News
+      id: infobar
+      button: Click Here to find out more!
+      url: /prospective-students/openhouse/
   - infopic:
       title: Website QR Code
       id: infopic
