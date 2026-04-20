@@ -30,10 +30,4 @@ sections:
       description: "Please scan the QR code to access this website directly:"
       image: /images/MainPage/https___for_edu_sg_catholic_high_school_website.jpg
       alt: Image alt text
-  - infobar:
-      title: 2026 Level 1 Registration
-      subtitle: Lastest news
-      id: infobar
-      url: /prospective-students/sec-admission/level-1-registration/
-      button: CLICK HERE TO FIND OUT MORE!
 ---
