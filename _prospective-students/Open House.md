@@ -4,7 +4,7 @@ permalink: /prospective-students/openhouse/
 description: ""
 variant: tiptap
 ---
-<h1>2025 Open House</h1>
+<h1><strong>2026 Open House</strong></h1>
 <p>(This page can be accessed via: <a href="" rel="noopener nofollow" target="_blank">for.edu.sg/chs-sec-openhouse</a>)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/OH_2025_P1.jpg">
