@@ -20,7 +20,7 @@ sections:
       button: Click Here to find out more!
       url: /prospective-students/sec-admission/direct-school-admission/
   - infobar:
-      title: 2026 CHS (Sec) Open House
+      title: 2026 Open House (Sec)
       subtitle: Latest News
       id: infobar
       description: Infobar description
