@@ -19,6 +19,13 @@ sections:
       description: Want to join CHS (Secondary) via DSA-Sec?
       button: Click Here to find out more!
       url: /prospective-students/sec-admission/direct-school-admission/
+  - infobar:
+      title: 2026 CHS (Sec) Open House
+      subtitle: Latest News
+      id: infobar
+      description: Infobar description
+      button: Click Here to find out more!
+      url: http://prospective-students/prospective-students/openhouse/
   - infopic:
       title: Website QR Code
       id: infopic
