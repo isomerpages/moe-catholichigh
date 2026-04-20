@@ -23,7 +23,6 @@ sections:
       title: 2026 Open House (Sec)
       subtitle: Latest News
       id: infobar
-      description: Infobar description
       button: Click Here to find out more!
       url: /prospective-students/prospective-students/openhouse/
   - infopic:
