@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Prospective Students (iNCLUDING dsa)
           description: ""
-          url: /prospective-students/Sec-Admission/direct-school-admission/
+          url: /prospective-students/sec-admission/direct-school-admission/
       title: Catholic High  School
   - infobar:
       title: 2026 Direct School Admission - Secondary (DSA-Sec) Exercise
