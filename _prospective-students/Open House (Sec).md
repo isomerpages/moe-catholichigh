@@ -6,15 +6,14 @@ variant: tiptap
 ---
 <h1><strong>2026 Open House (Sec)</strong></h1>
 <p>(This page can be accessed via: <a href="" rel="noopener nofollow" target="_blank">for.edu.sg/chs-sec-openhouse</a>)</p>
-<p><strong>Information updated 20 April 2026</strong>
+<p><strong>Information updated: 21 April 2026</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Prospective Students/2026OpenHouse1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Prospective Students/2026OpenHouse1a.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Prospective Students/2026OpenHouse2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Prospective Students/2026OpenHouse2a.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
