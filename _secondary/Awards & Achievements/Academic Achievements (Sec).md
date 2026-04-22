@@ -372,7 +372,15 @@ Research Paper
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- <strong>2022 ICAS (Math):</strong> 7 Top Prize Medallists, 20 High Distinctions
+<p>- <strong>2023 International Mathematical Modelling Competition:</strong>&nbsp;1
+Merit​
+<br>- <strong>2023 NIE Math Challenge:</strong>&nbsp;7 High Distinction​, 15
+Distinction
+<br>- <strong>2023 Singapore Mathematics Olympiad:</strong>&nbsp;Silver (Category
+1 Schools Award), 1 Gold, 8 Silver, 29 Bronze, 28 Honorable Mention​
+<br>- <strong>2023 Singapore Mathematics Project Festival:&nbsp;</strong>1
+Silver, 3 Bronze, 1 Honorable Mention​
+<br>- <strong>2022 ICAS (Math):</strong> 7 Top Prize Medallists, 20 High Distinction
 <br>- <strong>2022 Singapore Mathematics Olympiad: </strong>Silver (Category
 1 Schools Award), 1 Gold, 13 Silver, 38 Bronze, 31 Honorable Mention
 <br>- <strong>2022 Singapore Mathematics Project Festival:</strong> Foo Kean
@@ -392,12 +400,12 @@ Mention
 2 Excellent Presentation
 <br>- <strong>2018 Singapore Mathematical Olympiad: </strong>Silver (Category
 1 Schools Award)
-<br>- <strong>2018 Singapore Mathematical Olympiad (Junior):</strong> 7 Silvers,
-14 Bronzes, 15 Honorable Mentions
+<br>- <strong>2018 Singapore Mathematical Olympiad (Junior):</strong> 7 Silver,
+14 Bronze, 15 Honorable Mention
 <br>- <strong>2018 Singapore Mathematical Olympiad (Open):</strong> 1 Honorable
 Mention
 <br>- <strong>2018 Singapore Mathematical Olympiad (Senior):</strong> 1 Silver,
-10 Bronzes, 10 Honorable Mentions
+10 Bronze, 10 Honorable Mentions
 <br>- <strong>2018 Singapore Mathematics Project Festival:</strong> 1 team Bronze,
 1 team Honorable Mention
 <br>- <strong>2018 Singapore Mathematics Society Essay Competition:</strong> 1st
