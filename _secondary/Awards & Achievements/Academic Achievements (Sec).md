@@ -55,7 +55,12 @@ excellence for themselves and the school.</p>
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- <strong>2024 Mid-year Debate Invitationals:</strong> Gold
+<p>- <strong>2025 Queen’s Commonwealth Essay Competition:</strong> 4 Gold,
+7 Silver</p>
+<p>- <strong>2024-2025 MOE Creative Arts Seminar &amp; Mentorship Programme: </strong>4
+selected participants</p>
+<p>- <strong>2024 Mid-year Debate Invitationals:</strong> Gold; 2nd, 5th and
+6th Best Speakers
 <br>- <strong>2024 MOE Creative ART Seminar:</strong> Selected Participants
 <br>- <strong>2024 National Poetry Competition:</strong> Top 10 Winner in both
 Junior and Super Junior Categories
