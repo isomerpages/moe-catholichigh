@@ -47,7 +47,7 @@ excellence for themselves and the school.</p>
 <p>Department</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Achievements (Recent)</p>
+<p>Achievements (recent years)</p>
 </th>
 </tr>
 <tr>
