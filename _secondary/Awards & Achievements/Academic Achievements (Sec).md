@@ -61,7 +61,6 @@ excellence for themselves and the school.</p>
 selected participants</p>
 <p>- <strong>2024 Mid-year Debate Invitationals:</strong> Gold; 2nd, 5th and
 6th Best Speakers
-<br>- <strong>2024 MOE Creative ART Seminar:</strong> Selected Participants
 <br>- <strong>2024 National Poetry Competition:</strong> Top 10 Winner in both
 Junior and Super Junior Categories
 <br>- <strong>2024 Secondary Schools Debating Championship: </strong>Quarter-finalist;
