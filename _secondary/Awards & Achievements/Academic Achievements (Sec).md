@@ -47,7 +47,7 @@ excellence for themselves and the school.</p>
 <p>Department</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Achievements (Recent)</p>
+<p>Achievements (recent years)</p>
 </th>
 </tr>
 <tr>
@@ -65,17 +65,6 @@ selected participants
 Junior and Super Junior Categories
 <br>- <strong>2024 Secondary Schools Debating Championship: </strong>Quarter-finalist;
 3rd and 13th Best Speakers
-<br>- <strong>2023 Asian International Schools Debating Championship: </strong>Quarter
-finalist
-<br>- <strong>2023 Eunoia Debating Championship:</strong> 12th and 18th Best
-Speaker​s
-<br>- <strong>2023 Hwa Chong British Parliamentaries:</strong> Semi-finalist
-<br>- <strong>2023 Mid-year Debate Invitationals:</strong> Semi-finalist; 1st,
-2nd, 5th and 6th Best Speakers
-<br>- <strong>2023 Queen’s Commonwealth Essay Competition:</strong> 3 Gold,
-9 Silver, 21 Bronze
-<br>- <strong>2023 Singapore Secondary Schools Debating Championship: </strong>Semi
-finalist; 5th and 16th Best Speakers
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -136,18 +125,7 @@ Mention
 <br>- <strong>2024 Historical Scene Investigation Challenge:</strong> 1 Silver
 <br>- <strong>2024 NLB SURE Prove It!: </strong>1 Silver &amp; 1 Bronze (Written
 &amp; Video Categories)
-<br>- <strong>2024 NUS Geography Challenge:</strong> 1 Gold &amp; 1 Silver
-<br>- <strong>2023 Historical Scene Investigation Challenge:</strong> 1 Gold
-(Top 10)​
-<br>- <strong>2023 International Model United Nations Conference:</strong> Outstanding
-Delegate Award​
-<br>- <strong>2023 MOE Geography TDP:</strong> 4 students shortlisted​
-<br>- <strong>2023 NLB SURE Prove It!: </strong>2 Silvers (Written &amp; Video
-Categories)​
-<br>- <strong>2023 NUS Geography Challenge:</strong> 1 Gold &amp; 3 Silver​
-<br>-<strong> 2023 NUS Race Against Time: </strong>2nd Place​
-<br>
-</p>
+<br>- <strong>2024 NUS Geography Challenge:</strong> 1 Gold &amp; 1 Silver</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Humanities_2023_2.jpg">
 </div>
@@ -209,15 +187,6 @@ Silver, 9 Bronze (Band 3)
 1 Bronze, 1 Merit (Band 2)
 <br>- <strong>2024 Singapore Junior Physics Olympiad:</strong> 5 Silver, 16
 Bronze, 9 Honourable Mention
-<br>- <strong>2023 Asian Try Zero-G: </strong>Proposed experiment (Zero-G Siphon)
-performed at the International Space Station (ISS) in Feb 2024
-<br>- <strong>2023 Drone Odyssey Challenge:</strong> Champion
-<br>- <strong>2023 Singapore Junior Biology Olympiad:</strong> 8 Gold, 22 Silver,
-10 Bronze, 3 Honourable Mention
-<br>- <strong>2023 Singapore Junior Chemistry Olympiad:</strong> 3 Gold, 1 Silver,
-1 Bronze (Band 3)
-<br>- <strong>2023 Singapore Junior Physics Olympiad: </strong>Individual:
-8 Silver, 22 Bronze, 23 Honourable Mention
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -256,7 +225,18 @@ performed at the International Space Station (ISS) in Feb 2024
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- <strong>2022 Asian International Schools Debating Championship:</strong> Quarter
+<p>- <strong>2023 Asian International Schools Debating Championship: </strong>Quarter
+finalist
+<br>- <strong>2023 Eunoia Debating Championship:</strong> 12th and 18th Best
+Speaker​s
+<br>- <strong>2023 Hwa Chong British Parliamentaries:</strong> Semi-finalist
+<br>- <strong>2023 Mid-year Debate Invitationals:</strong> Semi-finalist; 1st,
+2nd, 5th and 6th Best Speakers
+<br>- <strong>2023 Queen’s Commonwealth Essay Competition:</strong> 3 Gold,
+9 Silver, 21 Bronze
+<br>- <strong>2023 Singapore Secondary Schools Debating Championship: </strong>Semi
+finalist; 5th and 16th Best Speakers
+<br>- <strong>?</strong>- <strong>2022 Asian International Schools Debating Championship:</strong> Quarter
 finalist
 <br>- <strong>2022 Eunoia Debating Championship:</strong> Quarter finalist
 <br>- <strong>2022 Queen’s Commonwealth Essay Competition:</strong> 3 Golds,
@@ -358,7 +338,16 @@ Category)</p>
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- <strong>2022 Historical Scene Investigation Challenge: </strong>Bronze
+<p>- <strong>2023 Historical Scene Investigation Challenge:</strong> 1 Gold
+(Top 10)​
+<br>- <strong>2023 International Model United Nations Conference:</strong> Outstanding
+Delegate Award​
+<br>- <strong>2023 MOE Geography TDP:</strong> 4 students shortlisted​
+<br>- <strong>2023 NLB SURE Prove It!: </strong>2 Silvers (Written &amp; Video
+Categories)​
+<br>- <strong>2023 NUS Geography Challenge:</strong> 1 Gold &amp; 3 Silver​
+<br>- <strong>2023 NUS Race Against Time: </strong>2nd Place​
+<br>- <strong>2022 Historical Scene Investigation Challenge: </strong>Bronze
 <br>- <strong>2022 MOE Geography TDP:</strong> 24 students shortlisted
 <br>- <strong>2022 MOE History Challenge: </strong>2 students shortlisted
 <br>- <strong>2022 NUS Geography Challenge:</strong> 2 Gold &amp; 2 Silver
@@ -424,7 +413,16 @@ Silver</p>
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- <strong>2022 Asian Try Zero-G: </strong>Only representation from Singapore
+<p>- <strong>2023 Asian Try Zero-G: </strong>Proposed experiment (Zero-G Siphon)
+performed at the International Space Station (ISS) in Feb 2024
+<br>- <strong>2023 Drone Odyssey Challenge:</strong> Champion
+<br>- <strong>2023 Singapore Junior Biology Olympiad:</strong> 8 Gold, 22 Silver,
+10 Bronze, 3 Honourable Mention
+<br>- <strong>2023 Singapore Junior Chemistry Olympiad:</strong> 3 Gold, 1 Silver,
+1 Bronze (Band 3)
+<br>- <strong>2023 Singapore Junior Physics Olympiad: </strong>Individual:
+8 Silver, 22 Bronze, 23 Honourable Mention
+<br>- <strong>2022 Asian Try Zero-G: </strong>Only representation from Singapore
 whose proposed experiment "Double Pendulum in space" was performed in the
 International Space Station (ISS)
 <br>- <strong>2022 Drone Odyssey Challenge:</strong> Champion
