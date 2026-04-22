@@ -187,15 +187,6 @@ Silver, 9 Bronze (Band 3)
 1 Bronze, 1 Merit (Band 2)
 <br>- <strong>2024 Singapore Junior Physics Olympiad:</strong> 5 Silver, 16
 Bronze, 9 Honourable Mention
-<br>- <strong>2023 Asian Try Zero-G: </strong>Proposed experiment (Zero-G Siphon)
-performed at the International Space Station (ISS) in Feb 2024
-<br>- <strong>2023 Drone Odyssey Challenge:</strong> Champion
-<br>- <strong>2023 Singapore Junior Biology Olympiad:</strong> 8 Gold, 22 Silver,
-10 Bronze, 3 Honourable Mention
-<br>- <strong>2023 Singapore Junior Chemistry Olympiad:</strong> 3 Gold, 1 Silver,
-1 Bronze (Band 3)
-<br>- <strong>2023 Singapore Junior Physics Olympiad: </strong>Individual:
-8 Silver, 22 Bronze, 23 Honourable Mention
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -422,7 +413,16 @@ Silver</p>
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- <strong>2022 Asian Try Zero-G: </strong>Only representation from Singapore
+<p>- <strong>2023 Asian Try Zero-G: </strong>Proposed experiment (Zero-G Siphon)
+performed at the International Space Station (ISS) in Feb 2024
+<br>- <strong>2023 Drone Odyssey Challenge:</strong> Champion
+<br>- <strong>2023 Singapore Junior Biology Olympiad:</strong> 8 Gold, 22 Silver,
+10 Bronze, 3 Honourable Mention
+<br>- <strong>2023 Singapore Junior Chemistry Olympiad:</strong> 3 Gold, 1 Silver,
+1 Bronze (Band 3)
+<br>- <strong>2023 Singapore Junior Physics Olympiad: </strong>Individual:
+8 Silver, 22 Bronze, 23 Honourable Mention
+<br>- <strong>2022 Asian Try Zero-G: </strong>Only representation from Singapore
 whose proposed experiment "Double Pendulum in space" was performed in the
 International Space Station (ISS)
 <br>- <strong>2022 Drone Odyssey Challenge:</strong> Champion
