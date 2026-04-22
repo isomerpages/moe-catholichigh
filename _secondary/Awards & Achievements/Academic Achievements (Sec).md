@@ -236,7 +236,7 @@ Speaker​s
 9 Silver, 21 Bronze
 <br>- <strong>2023 Singapore Secondary Schools Debating Championship: </strong>Semi
 finalist; 5th and 16th Best Speakers
-<br>- <strong>?</strong>- <strong>2022 Asian International Schools Debating Championship:</strong> Quarter
+<br>- <strong>2022 Asian International Schools Debating Championship:</strong> Quarter
 finalist
 <br>- <strong>2022 Eunoia Debating Championship:</strong> Quarter finalist
 <br>- <strong>2022 Queen’s Commonwealth Essay Competition:</strong> 3 Golds,
