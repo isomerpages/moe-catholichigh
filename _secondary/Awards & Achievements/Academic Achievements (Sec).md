@@ -55,8 +55,12 @@ excellence for themselves and the school.</p>
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- <strong>2024 Mid-year Debate Invitationals:</strong> Gold
-<br>- <strong>2024 MOE Creative ART Seminar:</strong> Selected Participants
+<p>- <strong>2025 Queen’s Commonwealth Essay Competition:</strong> 4 Gold,
+7 Silver
+<br>- <strong>2024-2025 MOE Creative Arts Seminar &amp; Mentorship Attachment: </strong>4
+selected participants
+<br>- <strong>2024 Mid-Year Debate Invitationals:</strong> Gold; 2nd, 5th and
+6th Best Speakers
 <br>- <strong>2024 National Poetry Competition:</strong> Top 10 Winner in both
 Junior and Super Junior Categories
 <br>- <strong>2024 Secondary Schools Debating Championship: </strong>Quarter-finalist;
@@ -119,7 +123,16 @@ finalist; 5th and 16th Best Speakers
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- <strong>2024 Knowgets Makerspace Challenge:</strong> 5 Distinctions
+<p>- <strong>2025 Historical Scene Investigation Challenge:</strong> 1 Gold,
+1 Silver
+<br>- <strong>2025 Humanities and Social Sciences Research Programme: </strong>2
+papers published and presented at annual HSSRP Symposium
+<br>- <strong>2025 NUS Geography Challenge:</strong> 1 Bronze
+<br>- <strong>2025 MOE History Challenge: </strong>3 selected for MOE History
+Talent Development Programme
+<br>- <strong>2025 Raffles Model United Nations Conference</strong>​: 1 Honourable
+Mention
+<br>- <strong>2024 Knowgets Makerspace Challenge:</strong> 5 Distinctions
 <br>- <strong>2024 Historical Scene Investigation Challenge:</strong> 1 Silver
 <br>- <strong>2024 NLB SURE Prove It!: </strong>1 Silver &amp; 1 Bronze (Written
 &amp; Video Categories)
