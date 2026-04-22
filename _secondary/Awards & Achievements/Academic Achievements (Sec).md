@@ -65,17 +65,6 @@ selected participants
 Junior and Super Junior Categories
 <br>- <strong>2024 Secondary Schools Debating Championship: </strong>Quarter-finalist;
 3rd and 13th Best Speakers
-<br>- <strong>2023 Asian International Schools Debating Championship: </strong>Quarter
-finalist
-<br>- <strong>2023 Eunoia Debating Championship:</strong> 12th and 18th Best
-Speaker​s
-<br>- <strong>2023 Hwa Chong British Parliamentaries:</strong> Semi-finalist
-<br>- <strong>2023 Mid-year Debate Invitationals:</strong> Semi-finalist; 1st,
-2nd, 5th and 6th Best Speakers
-<br>- <strong>2023 Queen’s Commonwealth Essay Competition:</strong> 3 Gold,
-9 Silver, 21 Bronze
-<br>- <strong>2023 Singapore Secondary Schools Debating Championship: </strong>Semi
-finalist; 5th and 16th Best Speakers
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -256,7 +245,18 @@ performed at the International Space Station (ISS) in Feb 2024
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- <strong>2022 Asian International Schools Debating Championship:</strong> Quarter
+<p>- <strong>2023 Asian International Schools Debating Championship: </strong>Quarter
+finalist
+<br>- <strong>2023 Eunoia Debating Championship:</strong> 12th and 18th Best
+Speaker​s
+<br>- <strong>2023 Hwa Chong British Parliamentaries:</strong> Semi-finalist
+<br>- <strong>2023 Mid-year Debate Invitationals:</strong> Semi-finalist; 1st,
+2nd, 5th and 6th Best Speakers
+<br>- <strong>2023 Queen’s Commonwealth Essay Competition:</strong> 3 Gold,
+9 Silver, 21 Bronze
+<br>- <strong>2023 Singapore Secondary Schools Debating Championship: </strong>Semi
+finalist; 5th and 16th Best Speakers
+<br>- <strong>?</strong>- <strong>2022 Asian International Schools Debating Championship:</strong> Quarter
 finalist
 <br>- <strong>2022 Eunoia Debating Championship:</strong> Quarter finalist
 <br>- <strong>2022 Queen’s Commonwealth Essay Competition:</strong> 3 Golds,
