@@ -125,18 +125,7 @@ Mention
 <br>- <strong>2024 Historical Scene Investigation Challenge:</strong> 1 Silver
 <br>- <strong>2024 NLB SURE Prove It!: </strong>1 Silver &amp; 1 Bronze (Written
 &amp; Video Categories)
-<br>- <strong>2024 NUS Geography Challenge:</strong> 1 Gold &amp; 1 Silver
-<br>- <strong>2023 Historical Scene Investigation Challenge:</strong> 1 Gold
-(Top 10)​
-<br>- <strong>2023 International Model United Nations Conference:</strong> Outstanding
-Delegate Award​
-<br>- <strong>2023 MOE Geography TDP:</strong> 4 students shortlisted​
-<br>- <strong>2023 NLB SURE Prove It!: </strong>2 Silvers (Written &amp; Video
-Categories)​
-<br>- <strong>2023 NUS Geography Challenge:</strong> 1 Gold &amp; 3 Silver​
-<br>-<strong> 2023 NUS Race Against Time: </strong>2nd Place​
-<br>
-</p>
+<br>- <strong>2024 NUS Geography Challenge:</strong> 1 Gold &amp; 1 Silver</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Humanities_2023_2.jpg">
 </div>
@@ -358,7 +347,16 @@ Category)</p>
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- <strong>2022 Historical Scene Investigation Challenge: </strong>Bronze
+<p>- <strong>2023 Historical Scene Investigation Challenge:</strong> 1 Gold
+(Top 10)​
+<br>- <strong>2023 International Model United Nations Conference:</strong> Outstanding
+Delegate Award​
+<br>- <strong>2023 MOE Geography TDP:</strong> 4 students shortlisted​
+<br>- <strong>2023 NLB SURE Prove It!: </strong>2 Silvers (Written &amp; Video
+Categories)​
+<br>- <strong>2023 NUS Geography Challenge:</strong> 1 Gold &amp; 3 Silver​
+<br>- <strong>2023 NUS Race Against Time: </strong>2nd Place​
+<br>- <strong>2022 Historical Scene Investigation Challenge: </strong>Bronze
 <br>- <strong>2022 MOE Geography TDP:</strong> 24 students shortlisted
 <br>- <strong>2022 MOE History Challenge: </strong>2 students shortlisted
 <br>- <strong>2022 NUS Geography Challenge:</strong> 2 Gold &amp; 2 Silver
