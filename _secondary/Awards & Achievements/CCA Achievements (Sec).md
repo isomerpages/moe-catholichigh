@@ -14,7 +14,9 @@ have maximised their potential and achieved much in all the areas of CCA.</p>
 <p><a href="/secondary/awards-and-achievements/academic-achievements/" rel="noopener noreferrer nofollow" target="_blank">Click here if you are looking for a list of our students’ more recent academic achievements</a>
 </p>
 <hr>
-<h4>2026 CCA Physical Sports Results</h4>
+<p><strong>(Updated as of 21 April 2026)</strong>
+</p>
+<h4>2026 CCA Physical Sports Achievements</h4>
 <p>Our sportsmen have done us proud with numerous ‘B’ and ‘C’ Division National
 School Games – National and Zone achievements, bettering their personal
 best, gaining top positions and most importantly, for many of them, prevailing
@@ -253,7 +255,7 @@ who exudes confidence on and off the stage!</p>
 </tr>
 </tbody>
 </table>
-<h4>2024 Uniformed Groups Achievements</h4>
+<h4>2025 Uniformed Groups Achievements</h4>
 <p>Catholic High’s Uniformed Groups belong to one of the greatest traditions
 of the school, with the focus on leadership development and robust characteristics.
 This year, we are very proud to celebrate, once again, the highest UG awards
@@ -266,9 +268,7 @@ competitions, first aid competitions as well as the National Patrol Camp
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/about19.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -285,7 +285,7 @@ competitions, first aid competitions as well as the National Patrol Camp
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NCC Air</p>
+<p>NCC (Air)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction (Unit Recognition Award)</p>
@@ -293,7 +293,7 @@ competitions, first aid competitions as well as the National Patrol Camp
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NCC Land</p>
+<p>NCC (Land)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction (Unit Recognition Award)</p>
