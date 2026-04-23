@@ -16,7 +16,7 @@ have maximised their potential and achieved much in all the areas of CCA.</p>
 <hr>
 <p><strong>(Updated as of 21 April 2026)</strong>
 </p>
-<h4>2026 CCA Physical Sports Achievements</h4>
+<h4>2025 CCA Physical Sports Achievements</h4>
 <p>Our sportsmen have done us proud with numerous ‘B’ and ‘C’ Division National
 School Games – National and Zone achievements, bettering their personal
 best, gaining top positions and most importantly, for many of them, prevailing
@@ -255,7 +255,7 @@ who exudes confidence on and off the stage!</p>
 </tr>
 </tbody>
 </table>
-<h4>2025 Uniformed Groups Achievements</h4>
+<h4>2024 Uniformed Groups Achievements</h4>
 <p>Catholic High’s Uniformed Groups belong to one of the greatest traditions
 of the school, with the focus on leadership development and robust characteristics.
 This year, we are very proud to celebrate, once again, the highest UG awards
