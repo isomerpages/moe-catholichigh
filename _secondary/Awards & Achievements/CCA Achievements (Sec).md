@@ -14,7 +14,9 @@ have maximised their potential and achieved much in all the areas of CCA.</p>
 <p><a href="/secondary/awards-and-achievements/academic-achievements/" rel="noopener noreferrer nofollow" target="_blank">Click here if you are looking for a list of our students’ more recent academic achievements</a>
 </p>
 <hr>
-<h4>2026 CCA Physical Sports Results</h4>
+<p><strong>(Updated as of 31 December 2025)</strong>
+</p>
+<h4>2025 CCA Physical Sports Achievements</h4>
 <p>Our sportsmen have done us proud with numerous ‘B’ and ‘C’ Division National
 School Games – National and Zone achievements, bettering their personal
 best, gaining top positions and most importantly, for many of them, prevailing
@@ -49,7 +51,7 @@ spirit of “Discipline, Character, Championship” in their sporting endeavours
 <p>Basketball ‘B’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zonal 2nd, National Top 16</p>
+<p>Zonal 1st, National 4th</p>
 </td>
 </tr>
 <tr>
@@ -266,9 +268,7 @@ competitions, first aid competitions as well as the National Patrol Camp
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/about19.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -285,7 +285,7 @@ competitions, first aid competitions as well as the National Patrol Camp
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NCC Air</p>
+<p>NCC (Air)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction (Unit Recognition Award)</p>
@@ -293,7 +293,7 @@ competitions, first aid competitions as well as the National Patrol Camp
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NCC Land</p>
+<p>NCC (Land)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction (Unit Recognition Award)</p>

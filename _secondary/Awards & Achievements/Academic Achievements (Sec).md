@@ -114,8 +114,9 @@ Junior and Super Junior Categories
 <td rowspan="1" colspan="1">
 <p>- <strong>2025 Historical Scene Investigation Challenge:</strong> 1 Gold,
 1 Silver
+<br>- <strong>2025 History Symposium: </strong>2 papers published and presented
 <br>- <strong>2025 Humanities and Social Sciences Research Programme: </strong>2
-papers published and presented at annual HSSRP Symposium
+papers published and presented at annual symposium
 <br>- <strong>2025 NUS Geography Challenge:</strong> 1 Bronze
 <br>- <strong>2025 MOE History Challenge: </strong>3 selected for MOE History
 Talent Development Programme
