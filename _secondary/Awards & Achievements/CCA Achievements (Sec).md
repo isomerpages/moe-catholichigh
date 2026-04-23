@@ -14,7 +14,7 @@ have maximised their potential and achieved much in all the areas of CCA.</p>
 <p><a href="/secondary/awards-and-achievements/academic-achievements/" rel="noopener noreferrer nofollow" target="_blank">Click here if you are looking for a list of our students’ more recent academic achievements</a>
 </p>
 <hr>
-<p><strong>(Updated as of 21 April 2026)</strong>
+<p><strong>(Updated as of 31 December 2025)</strong>
 </p>
 <h4>2025 CCA Physical Sports Achievements</h4>
 <p>Our sportsmen have done us proud with numerous ‘B’ and ‘C’ Division National
