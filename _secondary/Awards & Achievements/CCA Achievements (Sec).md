@@ -51,7 +51,7 @@ spirit of “Discipline, Character, Championship” in their sporting endeavours
 <p>Basketball ‘B’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zonal 2nd, National Top 16</p>
+<p>Zonal 1st, National 4th</p>
 </td>
 </tr>
 <tr>
