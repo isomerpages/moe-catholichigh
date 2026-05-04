@@ -1035,15 +1035,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Weisheng Marcus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_weisheng_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms V Sangari</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1167,10 +1158,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cai Aiwei</p>
+<p>Mr Cheh Yek Liang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cai_aiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:cheh_yek_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
