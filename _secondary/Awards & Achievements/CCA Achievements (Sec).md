@@ -95,18 +95,42 @@ spirit of “Discipline, Character, Championship” in their sporting endeavours
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Volleyball ‘B’ Division</p>
+<p>Cross-country <em>'</em>B<em>'</em> Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zonal 2nd</p>
+<p>National 4th</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Volleyball ‘C’ Division</p>
+<p>Cross-country ‘C’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 2 Top 8</p>
+<p>National 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball ‘B’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zonal 2nd, National 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu <em>'</em>B<em>'</em> Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu ‘C’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National 1st</p>
 </td>
 </tr>
 </tbody>
