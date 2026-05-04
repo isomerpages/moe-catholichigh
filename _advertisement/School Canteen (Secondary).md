@@ -67,7 +67,7 @@ the school term.</p>
 </table>
 <p>Please check <a href="https://schadmsvc.moe.gov.sg/schcanteenads/" rel="noopener noreferrer nofollow" target="_blank">MOE's "School Canteen Advertisements"</a> for
 any latest stall vacancies.</p>
-<h4><strong>Application Procedure</strong></h4>
+<h4><strong>Application Procedure:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the Application Form (click on the link below).
