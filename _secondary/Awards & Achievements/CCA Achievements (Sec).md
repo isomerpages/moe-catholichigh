@@ -95,7 +95,7 @@ spirit of “Discipline, Character, Championship” in their sporting endeavours
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cross-country <em>'</em>B<em>'</em> Division</p>
+<p>Cross-country ‘B’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National 4th</p>
@@ -119,7 +119,7 @@ spirit of “Discipline, Character, Championship” in their sporting endeavours
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wushu <em>'</em>B<em>'</em> Division</p>
+<p>Wushu ‘B’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National 2nd</p>
