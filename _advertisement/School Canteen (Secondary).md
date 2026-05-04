@@ -124,11 +124,11 @@ etc</p>
 </table>
 </li>
 </ol>
-<p>Submit the completed Application Form and documents via email OR to the
+<p>Submit the completed Application Form and documents via email, OR to the
 School’s General Office (by the closing date):</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: Catholic High School (Secondary) 9 Bishan Street 22 Singapore
+<p>Address: Catholic High School (Secondary), 9 Bishan Street 22 Singapore
 579767</p>
 </li>
 <li>
