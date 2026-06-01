@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Catholic High School (Secondary)</strong></h3>
-<p>(Updated as of: 4 May 2026)</p>
+<p>(Updated as of: 1 June 2026)</p>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -639,19 +639,6 @@ Studies)</p>
 <p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lee Yee Wei</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yee_wei_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yee_wei_c@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2-4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Miss S Purnima Janani</strong>
 </p>
 </td>
@@ -696,19 +683,6 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Nur_Nadiah_Hisham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Nadiah_Hisham@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Nirmala D/O K. Balakrishnan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nirmala_k_balakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nirmala_k_balakrishnan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1067,6 +1041,19 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lan_kailuo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lan_kailuo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs	Lim-Seah Swee Khim</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seah_swee_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_swee_khim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
