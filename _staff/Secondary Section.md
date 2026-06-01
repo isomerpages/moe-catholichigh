@@ -1049,7 +1049,7 @@ Studies)</p>
 <p>4-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs	Lim-Seah Swee Khim</strong>
+<p><strong>Mrs Lim-Seah Swee Khim</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
