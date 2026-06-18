@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Catholic High School (Secondary)</strong></h3>
-<p>(Updated as of: 1 June 2026)</p>
+<p>(Updated as of: 18 June 2026)</p>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -592,19 +592,6 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xie_xiaowen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xie_xiaowen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2-2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Paul Lai Chyi Shyan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:paul_lai_chyi_shyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">paul_lai_chyi_shyan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
