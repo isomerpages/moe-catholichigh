@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Catholic High School (Secondary)</strong></h3>
-<p>(Updated as of: 18 June 2026)</p>
+<p>(Updated as of: 26 June 2026)</p>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -75,15 +75,6 @@ Education (Covering))</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:daniel_lim_siang_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_lim_siang_long@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Steven Quay Kok Khiang</strong> (HOD/InfoComm Technology (Covering))</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:steven_quay_kok_khiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">steven_quay_kok_khiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -274,6 +265,15 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurul_amirah_ghazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_amirah_ghazali@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Steven Quay Kok Khiang</strong> (SH/InfoComm Technology (Covering))</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:steven_quay_kok_khiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">steven_quay_kok_khiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
