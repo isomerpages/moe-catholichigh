@@ -270,7 +270,7 @@ Studies)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Steven Quay Kok Khiang</strong> (SH/InfoComm Technology (Covering))</p>
+<p><strong>Mr Steven Quay Kok Khiang</strong> (SH/InfoComm Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:steven_quay_kok_khiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">steven_quay_kok_khiang@moe.edu.sg</a>
