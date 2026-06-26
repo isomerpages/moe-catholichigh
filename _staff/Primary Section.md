@@ -315,7 +315,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Chang Chiew Siew Linda</strong>
-<br>HOD (Knowledge &amp; Digital Edn )</p>
+<br>HOD (Knowledge &amp; Digital Edn)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chang_chiew_siew_linda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
@@ -335,7 +335,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Phua Loke Lin</strong>
-<br>SH (KM)</p>
+<br>SH (Knowledge Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:phua_loke_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
