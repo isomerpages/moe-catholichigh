@@ -553,10 +553,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Roziana Bte Abdullah</p>
+<p>Mr Wee Chuan Beng Peter</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:roziana_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:Wee_Chuan_Beng_Peter_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1102,10 +1102,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Lay San</p>
+<p>Mr Zahari Bin Mokhtar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_lay_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:Zahari_Mokhtar_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1156,10 +1156,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Cheh Yek Liang</p>
+<p>Miss Gwendolyn Yap Shi Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheh_yek_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:Gwendolyn_Yap_Shi_Li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1234,10 +1234,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Mao Hui</p>
+<p>Mr Cheh Yek Liang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mao_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:cheh_yek_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1277,10 +1277,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Eugene Low Teow Hong</p>
+<p>Mr Quenton Goh Yong Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_teow_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:quenton_goh_yong_keong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
@@ -1303,10 +1303,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Wen Fernn</p>
+<p>Miss Chia Hsu San Suzanne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_wen_fernn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+<p><a href="mailto:chia_hsu_san_suzanne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
