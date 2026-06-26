@@ -278,6 +278,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<h4>Knowledge &amp; Digital Edn</h4>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Chang Chiew Siew Linda</strong>
 <br>HOD (Knowledge &amp; Digital Edn [Internal Appt])</p>
