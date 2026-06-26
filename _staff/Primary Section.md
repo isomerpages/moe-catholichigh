@@ -129,7 +129,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Wang Dailin</strong>
-<br>LH (Math [Internal Appt])</p>
+<br>LH (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_dailin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
@@ -296,12 +296,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ng Kok Shern</strong>
-<br>HOD (PE &amp; CCA)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kok_shern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
