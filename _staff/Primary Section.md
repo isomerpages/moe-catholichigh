@@ -1480,15 +1480,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Li Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Li_Leng_C@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Lim Mi-Mei</p>
 </td>
 <td rowspan="1" colspan="1">
