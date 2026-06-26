@@ -157,7 +157,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Cheong Wai Fang</strong>
-<br>LH (Science [Internal Appt])</p>
+<br>LH (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_wai_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
@@ -323,7 +323,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Chang Chiew Siew Linda</strong>
-<br>HOD (Knowledge &amp; Digital Edn [Internal Appt])</p>
+<br>HOD (Knowledge &amp; Digital Edn )</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chang_chiew_siew_linda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
@@ -483,7 +483,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Lee Ying Xuan</strong>
-<br>Asst Year Head (Upper Primary [Internal Appt])</p>
+<br>Asst Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_ying_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
