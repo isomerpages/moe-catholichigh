@@ -1209,11 +1209,31 @@ Studies)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Grace See Ee-Ching</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:grace_see@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_see@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Ingmar Salim</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ingmar_salim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ingmar_salim_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dr Jiang Nan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jiang_nan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_nan_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1291,6 +1311,17 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nirmala_balakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nirmala_balakrishnan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chan Dec Wel</strong>
+</p>
+<p>(Special Needs Officer)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_dec_wel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_dec_wel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
