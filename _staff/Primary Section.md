@@ -165,11 +165,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4>Mother Tongue</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -190,6 +187,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_xue_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>✉︎</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>Gifted Education Programme</h4>
 </td>
 </tr>
 <tr>
@@ -279,13 +281,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Knowledge &amp; Digital Edn</h4>
+<h4>Knowledge &amp; Digital Education</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Chang Chiew Siew Linda</strong>
-<br>HOD (Knowledge &amp; Digital Edn [Internal Appt])</p>
+<br>HOD (KDE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chang_chiew_siew_linda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>✉︎</u></a>
