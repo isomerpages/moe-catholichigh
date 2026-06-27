@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Catholic High School (Secondary)</strong></h3>
-<p>(Updated as of: 26 June 2026)</p>
+<p>(Updated as of: 29 June 2026)</p>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -444,19 +444,6 @@ Studies)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Shen Yuan An</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shen_yuanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shen_yuanan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -535,6 +522,19 @@ Studies)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Shen Yuan An</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shen_yuanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shen_yuanan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1-8</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -605,6 +605,19 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_seng_choon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_seng_choon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lee Chun Hwa</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chun_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun_hwa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -888,6 +901,19 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:phay_mei_eng_anna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phay_mei_eng_anna@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Leong Si Min Celine</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:si_min_celine_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">si_min_celine_leong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
