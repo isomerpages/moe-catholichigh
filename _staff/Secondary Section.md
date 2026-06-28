@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Catholic High School (Secondary)</strong></h3>
-<p>(Updated as of: 26 June 2026)</p>
+<p>(Updated as of: 29 June 2026)</p>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -444,19 +444,6 @@ Studies)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Shen Yuan An</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shen_yuanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shen_yuanan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -535,6 +522,19 @@ Studies)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Shen Yuan An</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shen_yuanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shen_yuanan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1-8</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -605,6 +605,19 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_seng_choon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_seng_choon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lee Chun Hwa</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chun_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun_hwa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -888,6 +901,19 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:phay_mei_eng_anna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phay_mei_eng_anna@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Leong Si Min Celine</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:si_min_celine_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">si_min_celine_leong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1183,11 +1209,31 @@ Studies)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Grace See Ee-Ching</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:grace_see@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_see@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Ingmar Salim</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ingmar_salim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ingmar_salim_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dr Jiang Nan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jiang_nan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_nan_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1218,6 +1264,16 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:peeris_adrian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peeris_adrian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Sarkkunan SO Viswanathan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sarkkunan_so_viswanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarkkunan_so_viswanathan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1265,6 +1321,17 @@ Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nirmala_balakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nirmala_balakrishnan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chan Dec Wel</strong>
+</p>
+<p>(Special Needs Officer)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_dec_wel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_dec_wel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
