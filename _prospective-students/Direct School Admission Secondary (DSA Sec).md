@@ -884,7 +884,7 @@ develop the area of talent.</p>
 <p>3.&nbsp; Applicants who do not have prior experience may also apply. The
 school will assess applicants based on the selection criteria, which may
 include assessing the potential of the applicants.</p>
-<p>4. You will receive notification from the school by <strong>Friday, 3 July 2026</strong>,
+<p>4. You will receive notification from the school by <strong>Monday, 13 July 2026</strong>,
 if your child has been shortlisted to undergo Direct School Admission (DSA)
 selection. All applicants will receive their application outcomes <strong>between 17 August and 28 August 2026</strong>.</p>
 <p>5. Students who are successfully admitted to the school via DSA are expected
