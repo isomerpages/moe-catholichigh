@@ -754,6 +754,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Huang Yuewu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:huang_yuewu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>2 Patience</h4>
 </td>
 <td rowspan="1" colspan="1">
@@ -1066,6 +1075,24 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Wai Choong Andrew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_wai_choong_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chew Rui Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_rui_wen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -1340,6 +1367,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Tjut Roslinda D/O Said Arby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tjut_roslinda_said_arby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>5 Joy</h4>
 </td>
 <td rowspan="1" colspan="1">
@@ -1448,15 +1484,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mok_hsui_hsui_daphne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Loh Wai Choong Andrew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_wai_choong_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">✉︎</a>
 </p>
 </td>
 </tr>
