@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Catholic High School (Secondary)</strong></h3>
-<p>(Updated as of: 29 June 2026)</p>
+<p>(Updated as of: 14 August 2026)</p>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -473,11 +473,11 @@ Studies)</p>
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Hsu Li-Wen</strong>
+<p><strong>Ms Ong Peiqi Winifred</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hsu_li-wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_li-wen@moe.edu.sg</a>
+<p><a href="mailto:ong_peiqi_winifred@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_peiqi_winifred@moe.edu.sg</a>
 </p>
 </td>
 </tr>
