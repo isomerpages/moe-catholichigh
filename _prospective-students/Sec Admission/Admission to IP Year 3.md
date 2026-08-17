@@ -31,7 +31,7 @@ and collaborative learner, intellectual curiosity, creative problem solver).
 Demonstration of leadership qualities and competencies would be an advantage.
 <br>
 </p>
-<p>2. The successful applicant <strong>must</strong>
+<p>2. The successful applicant <strong>must</strong>:
 <br>a. <strong>not</strong> be a student who was previously admitted through
 DSA to the school that he is currently in;
 <br>b. be already offering CL or HCL in his current school;
