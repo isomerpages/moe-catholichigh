@@ -12,15 +12,16 @@ variant: tiptap
 <h2>Introduction</h2>
 <p>Catholic High School (CHS), together with CHIJ St. Nicholas Girls’ School
 (SNGS), Singapore Chinese Girls’ School (SCGS) and Eunoia Junior College
-(EJC), offers the 6-year Joint Integrated Programme. Admission to the CHS
-Integrated Programme (IP) Year 3 for 2027 is now open for application to
-boys in Secondary 2 in 2026. Successful students will spend two years in
-CHS and the final two years in EJC. Students admitted to the IP will bypass
-the Singapore-Cambridge Secondary Education Certificate (SEC) Examinations
-and proceed directly to EJC after the two years in CHS. Students currently
-studying in CHS will be notified via various internal platforms by the
-HOD/IP and Year Heads. The contents of this web page is not applicable
-to current Secondary 2 students of CHS.</p>
+(EJC), offers the 6-year Joint Integrated Programme.</p>
+<p>Admission to the CHS Integrated Programme (IP) Year 3 for 2027 is now
+open for application to boys in Secondary 2 in 2026.</p>
+<p>Successful students will spend two years in CHS and the final two years
+in EJC. Students admitted to the IP will bypass the Singapore-Cambridge
+Secondary Education Certificate (SEC) Examinations and proceed directly
+to EJC after the two years in CHS.</p>
+<p>Students currently studying in CHS will be notified via various internal
+platforms by the HOD/IP and Year Heads. The contents of this web page is
+not applicable to current Secondary 2 students of CHS.</p>
 <hr>
 <h2>Selection Criteria</h2>
 <p>1. A successful applicant would have:
