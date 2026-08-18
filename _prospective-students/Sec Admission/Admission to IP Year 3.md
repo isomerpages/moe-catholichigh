@@ -67,7 +67,7 @@ is as follows.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application opens.</p>
+<p>Application opens</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ is as follows.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application closes.</p>
+<p>Application closes</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ is as follows.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Shortlisted</strong> applicants attend an interview.</p>
+<p><strong>Shortlisted</strong> applicants attend an interview</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ is as follows.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Notification of outcome via email.</p>
+<p>Notification of outcome via email</p>
 </td>
 </tr>
 </tbody>
