@@ -85,7 +85,7 @@ is as follows.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Shortlisted</strong> applicants attend an interview</p>
+<p><strong>Shortlisted</strong> applicants to attend an interview</p>
 </td>
 </tr>
 <tr>
