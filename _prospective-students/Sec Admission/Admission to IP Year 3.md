@@ -21,7 +21,7 @@ Secondary Education Certificate (SEC) Examinations and proceed directly
 to EJC after the two years in CHS.</p>
 <p>Students currently studying in CHS will be notified via various internal
 platforms by the HOD/IP and Year Heads. The contents of this web page is
-not applicable to current Secondary 2 students of CHS.</p>
+not applicable to current Secondary 2 students of Catholic High School.</p>
 <hr>
 <h2>Selection Criteria</h2>
 <p>1. A successful applicant would have:
