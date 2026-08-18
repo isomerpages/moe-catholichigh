@@ -81,7 +81,7 @@ is as follows.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>From 16 October to 23 October 2026 (tentative dates)</strong>
+<p><strong>16 October to 23 October 2026 (tentative dates)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
