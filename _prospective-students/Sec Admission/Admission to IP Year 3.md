@@ -63,7 +63,8 @@ is as follows.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 September 2026 (Monday)</p>
+<p><strong>7 September 2026 (Monday)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application opens.</p>
@@ -71,7 +72,8 @@ is as follows.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 October 2026 (Friday), 4.00pm SGT</p>
+<p><strong>2 October 2026 (Friday), 4.00pm SGT</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application closes.</p>
@@ -79,7 +81,8 @@ is as follows.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>From 16 October to 23 October 2026 (tentative dates)</p>
+<p><strong>From 16 October to 23 October 2026 (tentative dates)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Shortlisted</strong> applicants attend an interview.</p>
@@ -87,7 +90,8 @@ is as follows.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>From 2 November 2026 (tentative date)</p>
+<p><strong>From 2 November 2026 (tentative date)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Notification of outcome via email.</p>
@@ -104,15 +108,15 @@ WA3) results;
 <br>c. true copies of certificates participation, achievement and/or leadership
 in CCA and VIA; and
 <br>d. certificates of achievements in academic or co-curricular areas.</p>
-<p>6. The deadline is 26 September 2025, 4.00pm. Late applications will not
-be accepted.</p>
+<p>6. The deadline is <strong>2 October 2026, 4.00pm</strong>. Late applications
+will not be accepted.</p>
 <hr>
 <h2>Important Information</h2>
 <p>7. An offer for admission to IP Year 3 exercise is conditional upon a
 commitment to a 4-year study in CHS (Year 3 and 4) and Eunoia Junior College
-(JC1 and JC2). Hence, students admitted to IP Year 3 starting in 2027 will
-not be eligible to participate in the annual Joint Admission Exercise (JAE)
-in 2029.</p>
+(JC1 and JC2).</p>
+<p>Hence, students admitted to IP Year 3 starting in 2027 will not be eligible
+to participate in the annual Joint Admission Exercise (JAE) in 2029.</p>
 <hr>
 <h2>Enquiries about IP Year 3</h2>
 <p>8. For further questions regarding CHS IP, please contact us at chs@moe.edu.sg
