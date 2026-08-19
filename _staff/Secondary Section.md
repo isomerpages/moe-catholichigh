@@ -1336,9 +1336,7 @@ Studies)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chan Dec Wel</strong>
-</p>
-<p>(Special Needs Officer)</p>
+<p><strong>Mr Chan Dec Wel </strong>(Special Needs Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_dec_wel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_dec_wel@moe.edu.sg</a>
